@@ -1,0 +1,11 @@
+{
+  "name": "hyperagentic-age",
+  "assetRoot": ".",
+  "spec": {
+    "framework": "agenticstory",
+    "version": "0.2",
+    "wiki": "https://agenticstory.wiki",
+    "conformsTo": "https://agenticstory.wiki/spec v0.2"
+  },
+  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.2). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki."
+}

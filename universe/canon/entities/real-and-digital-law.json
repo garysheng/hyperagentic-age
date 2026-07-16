@@ -1,0 +1,10 @@
+{
+  "id": "real-and-digital-law",
+  "kind": "doctrine",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "prose": {
+    "rule": "There is a hard, clear threshold between the REAL world and the DIGITAL world (the agentverse), and the two are never confusable. REAL = solid, warm gold-lit, casts a SHADOW (humans, desks, the physical room). DIGITAL = translucent holographic ANTHROPIC clay-coral orange (~#D97757), glowing, casts LIGHT not shadow (agents, the inside of the computer). A clear threshold line separates them in every frame that shows both.",
+    "source": "Locked with Gary 2026-07-16 while building the Chief of Agents.",
+    "appliesTo": "every frame depicting agents and/or the digital world"
+  }
+}

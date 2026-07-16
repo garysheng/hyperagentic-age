@@ -1,0 +1,10 @@
+{
+  "id": "warm-editorial-register",
+  "kind": "doctrine",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "prose": {
+    "rule": "The paint-language of this universe is WARM, mature, humanistic EDITORIAL ink-and-wash — the register of the 'get what you deserve' book, NOT the bold neo-comic action-zine of SuperSuit. It FORKS SuperSuit's CONCEPTS and visual METAPHORS (the Chief of Agents, the agentverse / digital world, sub-agents, the hyperagent lever) but re-renders them warmer and less comic-y. Rejected poles: neon, 3D / CGI / Pixar, glossy plastic, HUD / arc-reactor comic vocabulary.",
+    "source": "Locked with Gary 2026-07-16; the wiki property's render config lives in illustrations/SPEC.md.",
+    "forks": "SuperSuit concepts + metaphors; the 'get what you deserve' book's characters and paint register"
+  }
+}

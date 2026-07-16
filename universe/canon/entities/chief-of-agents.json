@@ -1,0 +1,33 @@
+{
+  "id": "chief-of-agents",
+  "kind": "character",
+  "originStory": "anthropic-evangelism-wiki",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "structured": {
+    "sheets": {
+      "master": "reference/chief-of-agents/master.png",
+      "listening": "reference/chief-of-agents/listening.png",
+      "commanding": "reference/chief-of-agents/commanding.png",
+      "delivering": "reference/chief-of-agents/delivering.png",
+      "sheet": "reference/chief-of-agents/sheet.png"
+    },
+    "requiredForRender": ["master"],
+    "invariants": [
+      "small-blocky-clay-coral-orange-mascot",
+      "translucent-holographic-digital-being",
+      "casts-light-not-shadow",
+      "grand-ornate-gold-admiral-hat",
+      "gold-epaulettes",
+      "two-dot-eyes",
+      "two-stubby-legs",
+      "never-over-anthropomorphized",
+      "never-does-task-work-only-listens-commands-delivers",
+      "warm-editorial-register-not-comic"
+    ]
+  },
+  "prose": {
+    "voice": "The calm lead communication layer: receives ONE input from the human, commands MANY sub-agents, oversees them, and delivers the finished work. Never types at a terminal, never does the hands-on task work itself.",
+    "role": "The Chief of Agents is the LLM-communication layer a person actually talks to. Three states and only three: it LISTENS (one human input, often spoken), it COMMANDS / OVERSEES (many sub-agents do the hands-on work), and it DELIVERS (crosses the digital/real threshold once, to hand over the sealed finished work). Rank is carried by the HAT only, never by scale or extra anthropomorphism.",
+    "rules": "Identity of record is reference/chief-of-agents/master.png. Derive EVERY new pose from it (pass master as the FIRST input image), one pose per render; NEVER a multi-pose sheet in a single generation (that drifts the body composition). Keep it a SMALL blocky mascot: clay-coral Anthropic orange (~#D97757), two dot-eyes, two stubby legs, a grand ornate GOLD admiral hat + gold epaulettes (this is what makes it the Chief; sub-agents wear plain white sailor caps, no gold). It is a DIGITAL being: translucent, holographic, glowing, casts LIGHT not shadow, lives inside the computer / the agentverse. Do NOT over-anthropomorphize — no big arms, no human proportions (that was the rejected creepy variant). It never does task work; it only listens, commands, and delivers."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "master-first-workflow",
+  "kind": "doctrine",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "prose": {
+    "rule": "Every recurring character is built MASTER-FIRST. (1) Generate ONE canonical master pose (single figure, front, calm, clean neutral ground); iterate until exact; LOCK it as the character's identity of record. (2) Derive every other pose / state / expression as its OWN render, passing the locked master as the FIRST input image — one pose per generation, NEVER many-poses-in-one-image (that causes body-composition drift). (3) Composite a display sheet LAST, from the already-locked per-pose renders. A pose that disagrees with the master is a defective render; regenerate it from the master rather than accepting the drift.",
+    "source": "Earned 2026-07-16 (the Chief of Agents look drifted across a multi-pose sheet). Locked as this universe's character-creation workflow and mirrored in illustrations/SPEC.md."
+  }
+}

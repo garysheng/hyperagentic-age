@@ -1,0 +1,9 @@
+{
+  "id": "rank-by-naval-hats",
+  "kind": "doctrine",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "prose": {
+    "rule": "Agent rank is carried by NAVAL HEADGEAR only, never by size or anthropomorphism. The Chief of Agents wears a grand, ornate GOLD admiral hat with gold epaulettes. Sub-agents wear plain white sailor caps, no gold. Every agent is otherwise the same small blocky clay-coral mascot; the hat is the only rank signal.",
+    "source": "Locked with Gary 2026-07-16."
+  }
+}

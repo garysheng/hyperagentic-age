@@ -1,0 +1,22 @@
+{
+  "id": "maya",
+  "kind": "character",
+  "originStory": "get-what-you-deserve-book",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "structured": {
+    "sheets": { "master": "reference/maya/master.png" },
+    "requiredForRender": ["master"],
+    "invariants": [
+      "half-black-half-white-founder",
+      "rust-blazer",
+      "lanyard",
+      "laptop-under-arm",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "The founder — earnest, capable, building something real (Grantwell, in the book).",
+    "lore": "The human end of the crossing: the founder who receives the Chief of Agents' delivered work.",
+    "rules": "Forked from the 'get what you deserve' book's Maya. Render in this universe's warm editorial register with her identity, wardrobe and signatures exact: rust blazer, lanyard, laptop under arm. Pass reference/maya/master.png as the identity anchor on every render. A fictional composite, NOT a real person (no realPerson dossier / approval gate)."
+  }
+}
