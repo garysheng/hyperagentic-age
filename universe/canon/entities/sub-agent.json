@@ -11,6 +11,10 @@
       "carrying-stack": "reference/sub-agent/carrying-stack.png",
       "carrying-messy": "reference/sub-agent/carrying-messy.png",
       "carrying-roll": "reference/sub-agent/carrying-roll.png",
+      "en-route-a": "reference/sub-agent/en-route-to-chief-a.png",
+      "en-route-b": "reference/sub-agent/en-route-to-chief-b.png",
+      "en-route-c": "reference/sub-agent/en-route-to-chief-c.png",
+      "handoff-to-chief": "reference/sub-agent/handoff-to-chief.png",
       "sheet": "reference/sub-agent/sheet.png"
     },
     "requiredForRender": ["master"],
@@ -25,12 +29,14 @@
       "two-stubby-legs",
       "does-the-hands-on-task-work",
       "carries-work-as-PAPERS-stack-or-messy-fan-or-blueprint-roll-interchangeably-NEVER-a-box-or-parcel",
+      "finished-work-always-flows-TO-the-chief-never-directly-to-the-human-or-her-laptop",
+      "when-shown-mid-journey-a-thin-dotted-glowing-tether-arcs-from-the-sub-agent-to-the-chief",
       "warm-editorial-register-not-comic"
     ]
   },
   "prose": {
     "voice": "The worker. Heads-down, capable, does the actual hands-on task work the Chief commands.",
     "role": "A sub-agent is the enlisted counterpart of the Chief of Agents: the SAME small blocky clay-coral mascot, differing ONLY by rank marker (a plain white sailor cap, never the Chief's gold admiral hat, no gold or epaulettes anywhere). Unlike the Chief — who only listens, commands, and delivers — the sub-agent DOES the hands-on work: it sits at a terminal, types, builds, and carries the finished packet back up to the Chief. It does not cross the digital/real threshold; delivery to the human is the Chief's one act.",
-    "rules": "Identity of record is reference/sub-agent/master.png, derived from the Chief of Agents v2 master (warm catchlight eyes, short rounded MITTEN nub arms) so the family body is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; sheets are composited from locked pose files with an image tool, never generated. States locked: idle (at the ready), working (heads-down at a centered, correctly-proportioned holographic laptop, mitten stubs on the keys), and THREE interchangeable carrying variants (Gary 2026-07-16: keep all, rotate freely): carrying-stack (neat squared pile of glowing papers), carrying-messy (fanned armful, one sheet fluttering loose), carrying-roll (one large blueprint-style rolled bundle). The work it carries is always PAPERS, never a box, parcel, or envelope. The cap is mostly white but HOLOGRAPHIC: translucent glowing white suffused with warm orange light and a faint grid, part of the same digital being, never solid real-world cloth. Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. The moment any gold appears it has become the Chief; that is the defect to guard against."
+    "rules": "Identity of record is reference/sub-agent/master.png, derived from the Chief of Agents v2 master (warm catchlight eyes, short rounded MITTEN nub arms) so the family body is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; sheets are composited from locked pose files with an image tool, never generated. States locked: idle (at the ready), working (heads-down at a centered, correctly-proportioned holographic laptop, mitten stubs on the keys), and THREE interchangeable carrying variants (Gary 2026-07-16: keep all, rotate freely): carrying-stack (neat squared pile of glowing papers), carrying-messy (fanned armful, one sheet fluttering loose), carrying-roll (one large blueprint-style rolled bundle). The work it carries is always PAPERS, never a box, parcel, or envelope. DELIVERY DIRECTION (Gary 2026-07-16): finished work always flows UP to the Chief of Agents, never directly to the human or her laptop; only the Chief crosses to the human. Three locked en-route variants (en-route-to-chief-a/b/c, all approved, rotate freely) show the sub-agent mid-stride carrying its papers toward the waiting Chief with a thin DOTTED glowing tether arcing between them; use that dotted-tether grammar whenever a scene shows work in transit. The moment of transfer is locked as handoff-to-chief.png (Gary picked it 2026-07-16): a three-quarter view, the sub-agent tipping its fanned papers forward off its short mitten stubs while the Chief catches the fan with both short mitten stubs, both arms staying stubby, the Chief only very slightly taller. The cap is mostly white but HOLOGRAPHIC: translucent glowing white suffused with warm orange light and a faint grid, part of the same digital being, never solid real-world cloth. Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. The moment any gold appears it has become the Chief; that is the defect to guard against."
   }
 }
