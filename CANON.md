@@ -21,10 +21,13 @@ agentverse, sub-agents, the hyperagent lever) and the *characters + paint regist
   admiral hat** and gold epaulettes. Three states, only three: **listens** (one human input),
   **commands / oversees** (many sub-agents do the hands-on work), **delivers** (crosses the threshold
   once). Never does the task-work itself. Identity of record: `reference/chief-of-agents/master.png`.
+- **Sub-agent** — the worker; the Chief's enlisted counterpart. The SAME mascot, differing only by
+  rank: a plain white sailor cap, no gold. Unlike the Chief, it **does the hands-on work** — sits at a
+  terminal, builds, and carries the finished packet back up to the Chief. States locked: idle /
+  working / carrying. Master derived from the Chief master so the body composition is identical.
 - **Maya** — the founder at the human end of the crossing (forked from the book's Maya: rust blazer,
   lanyard, laptop under arm). A fictional composite.
-- *(Forthcoming, not yet locked: the **sub-agent** — same mascot, plain white sailor cap, no gold;
-  Gary himself, likely as a `realPerson` character when added.)*
+- *(Forthcoming: Gary himself, likely as a `realPerson` character when added.)*
 
 ## Doctrines (the craft-canon / visual laws)
 

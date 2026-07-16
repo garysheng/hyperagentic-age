@@ -1,0 +1,32 @@
+{
+  "id": "sub-agent",
+  "kind": "character",
+  "originStory": "anthropic-evangelism-wiki",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "structured": {
+    "sheets": {
+      "master": "reference/sub-agent/master.png",
+      "idle": "reference/sub-agent/idle.png",
+      "working": "reference/sub-agent/working.png",
+      "carrying": "reference/sub-agent/carrying.png",
+      "sheet": "reference/sub-agent/sheet.png"
+    },
+    "requiredForRender": ["master"],
+    "invariants": [
+      "small-blocky-clay-coral-orange-mascot",
+      "translucent-holographic-digital-being",
+      "casts-light-not-shadow",
+      "plain-white-sailor-cap",
+      "no-gold-anywhere",
+      "two-dot-eyes",
+      "two-stubby-legs",
+      "does-the-hands-on-task-work",
+      "warm-editorial-register-not-comic"
+    ]
+  },
+  "prose": {
+    "voice": "The worker. Heads-down, capable, does the actual hands-on task work the Chief commands.",
+    "role": "A sub-agent is the enlisted counterpart of the Chief of Agents: the SAME small blocky clay-coral mascot, differing ONLY by rank marker (a plain white sailor cap, never the Chief's gold admiral hat, no gold or epaulettes anywhere). Unlike the Chief — who only listens, commands, and delivers — the sub-agent DOES the hands-on work: it sits at a terminal, types, builds, and carries the finished packet back up to the Chief. It does not cross the digital/real threshold; delivery to the human is the Chief's one act.",
+    "rules": "Identity of record is reference/sub-agent/master.png, itself derived from the Chief master so the body composition is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; never a multi-pose sheet in a single generation. States locked: idle (at the ready), working (at a glowing terminal, nub hands on the keys), carrying (holding a glowing sealed work-packet forward to hand off). Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. Plain white sailor cap only; the moment any gold appears it has become the Chief — that is the defect to guard against."
+  }
+}
