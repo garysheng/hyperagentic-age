@@ -8,7 +8,9 @@
       "master": "reference/sub-agent/master.png",
       "idle": "reference/sub-agent/idle.png",
       "working": "reference/sub-agent/working.png",
-      "carrying": "reference/sub-agent/carrying.png",
+      "carrying-stack": "reference/sub-agent/carrying-stack.png",
+      "carrying-messy": "reference/sub-agent/carrying-messy.png",
+      "carrying-roll": "reference/sub-agent/carrying-roll.png",
       "sheet": "reference/sub-agent/sheet.png"
     },
     "requiredForRender": ["master"],
@@ -16,17 +18,19 @@
       "small-blocky-clay-coral-orange-mascot",
       "translucent-holographic-digital-being",
       "casts-light-not-shadow",
-      "plain-white-sailor-cap",
+      "holographic-white-sailor-cap-white-suffused-with-orange-glow",
       "no-gold-anywhere",
-      "two-dot-eyes",
+      "warm-rounded-dot-eyes-with-tiny-catchlights",
+      "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
       "two-stubby-legs",
       "does-the-hands-on-task-work",
+      "carries-work-as-PAPERS-stack-or-messy-fan-or-blueprint-roll-interchangeably-NEVER-a-box-or-parcel",
       "warm-editorial-register-not-comic"
     ]
   },
   "prose": {
     "voice": "The worker. Heads-down, capable, does the actual hands-on task work the Chief commands.",
     "role": "A sub-agent is the enlisted counterpart of the Chief of Agents: the SAME small blocky clay-coral mascot, differing ONLY by rank marker (a plain white sailor cap, never the Chief's gold admiral hat, no gold or epaulettes anywhere). Unlike the Chief — who only listens, commands, and delivers — the sub-agent DOES the hands-on work: it sits at a terminal, types, builds, and carries the finished packet back up to the Chief. It does not cross the digital/real threshold; delivery to the human is the Chief's one act.",
-    "rules": "Identity of record is reference/sub-agent/master.png, itself derived from the Chief master so the body composition is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; never a multi-pose sheet in a single generation. States locked: idle (at the ready), working (at a glowing terminal, nub hands on the keys), carrying (holding a glowing sealed work-packet forward to hand off). Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. Plain white sailor cap only; the moment any gold appears it has become the Chief — that is the defect to guard against."
+    "rules": "Identity of record is reference/sub-agent/master.png, derived from the Chief of Agents v2 master (warm catchlight eyes, short rounded MITTEN nub arms) so the family body is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; sheets are composited from locked pose files with an image tool, never generated. States locked: idle (at the ready), working (heads-down at a centered, correctly-proportioned holographic laptop, mitten stubs on the keys), and THREE interchangeable carrying variants (Gary 2026-07-16: keep all, rotate freely): carrying-stack (neat squared pile of glowing papers), carrying-messy (fanned armful, one sheet fluttering loose), carrying-roll (one large blueprint-style rolled bundle). The work it carries is always PAPERS, never a box, parcel, or envelope. The cap is mostly white but HOLOGRAPHIC: translucent glowing white suffused with warm orange light and a faint grid, part of the same digital being, never solid real-world cloth. Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. The moment any gold appears it has become the Chief; that is the defect to guard against."
   }
 }
