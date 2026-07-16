@@ -9,6 +9,7 @@
       "listening": "reference/chief-of-agents/listening.png",
       "commanding": "reference/chief-of-agents/commanding.png",
       "delivering": "reference/chief-of-agents/delivering.png",
+      "emerging": "reference/chief-of-agents/emerging.png",
       "sheet": "reference/chief-of-agents/sheet.png"
     },
     "requiredForRender": ["master"],
@@ -18,8 +19,10 @@
       "casts-light-not-shadow",
       "grand-ornate-gold-admiral-hat",
       "gold-epaulettes",
-      "two-dot-eyes",
+      "warm-rounded-dot-eyes-with-tiny-catchlights",
       "two-stubby-legs",
+      "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+      "delivery-pose-offers-work-like-a-tray-near-edge-open-for-the-human",
       "never-over-anthropomorphized",
       "never-does-task-work-only-listens-commands-delivers",
       "warm-editorial-register-not-comic"

@@ -1,0 +1,14 @@
+{
+  "id": "delivered-report",
+  "kind": "prop",
+  "originStory": "anthropic-evangelism-wiki",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "structured": {
+    "sheets": { "master": "reference/delivered-report/master.png" },
+    "requiredForRender": ["master"]
+  },
+  "prose": {
+    "what": "The finished work the Chief of Agents delivers across the threshold: a premium professional BOUND BUSINESS REPORT. Modeled on a high-end report binder (reference: a dark green cloth/linen hardcover with a small rectangular title window on the front and a foil-stamped mark).",
+    "rules": "This is the canonical look of the delivered artifact. It is REAL (per delivery-is-the-one-crossing): solid, opaque, physical, casting a real shadow, NEVER holographic or glowing. Match the premium bound-report style of the reference: dark green (or comparably premium) cloth hardcover, a clean rectangular title window on the front, high-end and modern. Do NOT reproduce the reference's sample branding or text (no 'Aspen Accounting' logo, no 'Financial Statements' / 'JKL Industries' wording) — take the STYLE, not the labels; keep it a generic, unbranded professional report. Pass reference/delivered-report/master.png on any render where the Chief delivers the finished work."
+  }
+}
