@@ -1,0 +1,28 @@
+{
+  "id": "gary",
+  "kind": "character",
+  "originStory": "get-what-you-deserve-book",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "structured": {
+    "sheets": { "master": "reference/gary/master.png" },
+    "requiredForRender": ["master"],
+    "invariants": [
+      "east-asian-man",
+      "clean-shaven-no-mustache",
+      "double-eyelid-crease",
+      "black-hair",
+      "light-wash-denim-jacket",
+      "claude-mascot-patch-right-chest",
+      "yellow-smiley-patch-left-chest",
+      "white-crew-neck-tee",
+      "white-high-top-sneakers",
+      "no-necklace",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "The everyman-teacher and guide: warm, earnest, capable. The human who shows founders how to wield agents. He is the one helping Maya in the book.",
+    "lore": "Gary's avatar in this universe, forked from the 'get what you deserve' book's Jerry (the Gary-figure who helps Maya). The narrator-protagonist of the wiki's thesis: the person on the human side who teaches others to command the Chief of Agents.",
+    "rules": "Identity of record is reference/gary/master.png (the book's editorial-front likeness with the necklace removed per Gary, 2026-07-16). Pass it as the identity anchor on every render. Signatures: light-wash denim jacket; the orange Claude mascot patch on the RIGHT chest; the yellow smiley patch on the LEFT chest; plain white crew-neck tee; blue jeans; white high-top sneakers. Clean-shaven (NO mustache), clear inked double-eyelid crease at every scale, NO lenses. NO necklace or pendant (removed for this universe). The book's Nation-of-Fire religious signatures (North Star Cross pendant / upper-back cross) are NOT carried here; if a from-behind pose is ever needed, decide the back treatment fresh rather than importing the NoF cross. A real person, but rendered via his established illustrated avatar, not a photo stack; a photo-based realPerson dossier can be added later if photo-accurate renders are ever wanted."
+  }
+}

@@ -27,7 +27,10 @@ agentverse, sub-agents, the hyperagent lever) and the *characters + paint regist
   working / carrying. Master derived from the Chief master so the body composition is identical.
 - **Maya** — the founder at the human end of the crossing (forked from the book's Maya: rust blazer,
   lanyard, laptop under arm). A fictional composite.
-- *(Forthcoming: Gary himself, likely as a `realPerson` character when added.)*
+- **Gary** — the everyman-teacher and narrator-protagonist of the thesis; the human who shows founders
+  how to wield agents (the one helping Maya in the book). Forked from the book's Jerry likeness
+  (denim jacket, Claude mascot chest patch, smiley patch, white sneakers), necklace removed for this
+  universe. Rendered via his established illustrated avatar, not a photo stack.
 
 ## Doctrines (the craft-canon / visual laws)
 
