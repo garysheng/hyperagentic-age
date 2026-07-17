@@ -2,10 +2,17 @@
   "id": "gary",
   "kind": "character",
   "originStory": "get-what-you-deserve-book",
-  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-16"
+  },
   "structured": {
-    "sheets": { "master": "reference/gary/master.png" },
-    "requiredForRender": ["master"],
+    "sheets": {
+      "master": "reference/gary/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
     "invariants": [
       "east-asian-man",
       "clean-shaven-no-mustache",
@@ -17,12 +24,15 @@
       "white-crew-neck-tee",
       "white-high-top-sneakers",
       "no-necklace",
+      "jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text",
+      "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket",
+      "no-religious-iconography-anywhere-in-this-universe",
       "warm-editorial-register"
     ]
   },
   "prose": {
     "voice": "The everyman-teacher and guide: warm, earnest, capable. The human who shows founders how to wield agents. He is the one helping Maya in the book.",
     "lore": "Gary's avatar in this universe, forked from the 'get what you deserve' book's Jerry (the Gary-figure who helps Maya). The narrator-protagonist of the wiki's thesis: the person on the human side who teaches others to command the Chief of Agents.",
-    "rules": "Identity of record is reference/gary/master.png (the book's editorial-front likeness with the necklace removed per Gary, 2026-07-16). Pass it as the identity anchor on every render. Signatures: light-wash denim jacket; the orange Claude mascot patch on the RIGHT chest; the yellow smiley patch on the LEFT chest; plain white crew-neck tee; blue jeans; white high-top sneakers. Clean-shaven (NO mustache), clear inked double-eyelid crease at every scale, NO lenses. NO necklace or pendant (removed for this universe). The book's Nation-of-Fire religious signatures (North Star Cross pendant / upper-back cross) are NOT carried here; if a from-behind pose is ever needed, decide the back treatment fresh rather than importing the NoF cross. A real person, but rendered via his established illustrated avatar, not a photo stack; a photo-based realPerson dossier can be added later if photo-accurate renders are ever wanted."
+    "rules": "Identity of record is reference/gary/master.png (the book's editorial-front likeness with the necklace removed per Gary, 2026-07-16). Pass it as the identity anchor on every render. Signatures: light-wash denim jacket; the orange Claude mascot patch on the RIGHT chest; the yellow smiley patch on the LEFT chest; plain white crew-neck tee; blue jeans; white high-top sneakers. Clean-shaven (NO mustache), clear inked double-eyelid crease at every scale, NO lenses. NO necklace or pendant (removed for this universe). The book's Nation-of-Fire religious signatures (North Star Cross pendant / upper-back cross) are NOT carried here; more broadly, NO religious iconography appears on Gary anywhere in this universe (Gary 2026-07-16: this universe does not promote his faith). BACK TREATMENT, decided by Gary 2026-07-16: the back of the denim jacket is completely PLAIN light-wash denim with NOTHING on it, no patches, no artwork, no text; when a render puts his patches on the back to keep them visible, that is a defect to re-roll, and every from-behind scene prompt should say the back is plain. A real person, but rendered via his established illustrated avatar, not a photo stack; a photo-based realPerson dossier can be added later if photo-accurate renders are ever wanted. SINGLE-INSTANCE RULE (Gary 2026-07-16, from the on-ramps clone defect): Gary appears EXACTLY ONCE per scene. Because his master is passed as a reference, the model tends to bleed his likeness into bystanders; every crowd scene prompt must make the other people visibly distinct (different ethnicities, hair, clothing, explicitly no denim jacket) and a render with a second Gary-like figure is a defect to re-roll."
   }
 }
