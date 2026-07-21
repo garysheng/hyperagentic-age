@@ -4,7 +4,7 @@ Typed, git-versioned canon for the **hyperagentic-age** universe (agenticstory s
 The structured record is the source of truth; prose is a first-class field on it,
 never a separate document that can drift.
 
-**Conforms to:** [agenticstory spec](https://agenticstory.wiki/spec) v0.2 · canonical: [https://agenticstory.wiki](https://agenticstory.wiki)
+**Conforms to:** [agenticstory spec](https://agenticstory.wiki/spec) v0.5 · canonical: [https://agenticstory.wiki](https://agenticstory.wiki)
 (provenance also recorded in `../universe.json` `spec`).
 
 ## Layout

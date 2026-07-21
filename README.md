@@ -3,7 +3,7 @@
 The story universe behind Gary Sheng's Anthropic wikis, explainers, and decks — the shared
 canon (characters, metaphors, visual laws) that every one of those properties renders from.
 
-Built on the [Agentic Story](https://agenticstory.wiki) framework (spec v0.2): a typed,
+Built on the [Agentic Story](https://agenticstory.wiki) framework (spec v0.5): a typed,
 git-versioned canon with load-bearing references and quality wired as gates. This repo is the
 **canon**; the wiki / decks / explainers are **properties** (projections) over it.
 

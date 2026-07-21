@@ -3,9 +3,25 @@
   "assetRoot": ".",
   "spec": {
     "framework": "agenticstory",
-    "version": "0.2",
+    "version": "0.5",
     "wiki": "https://agenticstory.wiki",
-    "conformsTo": "https://agenticstory.wiki/spec v0.2"
+    "conformsTo": "https://agenticstory.wiki/spec v0.5"
   },
-  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.2). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki."
+  "identity": {
+    "mark": "A HYPERAGENTIC AGE story",
+    "platformUniverseId": "hyperagentic-age",
+    "theme": null,
+    "closingOrnament": null,
+    "voice": {
+      "capitalize": ["Chief of Agents", "Anthropic"],
+      "oneWord": ["agentverse", "hyperagent", "sub-agent"]
+    },
+    "subjectApproval": { "realLivingPerson": "requires-blessing" },
+    "register": {
+      "name": "warm editorial ink-and-wash",
+      "anchor": null,
+      "rejectedPoles": ["neon", "3D/CGI/Pixar", "glossy plastic", "HUD/arc-reactor comic vocabulary", "neo-comic"]
+    }
+  },
+  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC §3a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC §11/§12) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki."
 }

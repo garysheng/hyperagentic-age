@@ -3,7 +3,7 @@
 > Prose companion to the typed records in `universe/canon/`. The structured JSON is the
 > source of truth; this file is the human-readable tour. Where they disagree, the JSON wins.
 
-Spec: Agentic Story v0.2 (https://agenticstory.wiki). One repo per universe.
+Spec: Agentic Story v0.5 (https://agenticstory.wiki). One repo per universe.
 
 ---
 
