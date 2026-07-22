@@ -58,6 +58,22 @@ agentverse, sub-agents, the hyperagent lever) and the *characters + paint regist
    generated: models drop letters, raster type blurs, diagrams get edited more than drawn, and only
    vector follows the reader's theme. One structure per plate.
 
+## Registers (paint languages, one per property)
+
+A register is a paint language, and it belongs to a PROPERTY rather than to the universe.
+`identity.register` is the house default; any story may override it with its own `register`
+block and its own locked anchor.
+
+1. **storybook** *(house default)* — warm editorial ink-and-wash with the cast: the Chief, the
+   sub-agents, Maya, Gary. Anchor NOT YET LOCKED.
+2. **plate** — flat terracotta, wobbly single-weight black ink, loopy hands, cream fills,
+   deliberately characterless. Used by buildonanthropic.com and the campaign decks.
+   Anchor: `reference/register/plate-style-anchor.png`.
+
+The **explanatory diagrams are not a register.** Nothing generates them, so there is no anchor to
+lock and no drift to gate. They stay governed by the `explanatory-plate` doctrine and the wiki's
+`static/img/diagrams/_style.md`.
+
 ## Properties (stories over the canon)
 
 - **anthropic-evangelism-wiki** *(stub, spine = thesis)* — the illustrated visual layer for

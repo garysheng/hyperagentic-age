@@ -1,0 +1,17 @@
+{
+  "id": "plate-element-library",
+  "kind": "doctrine",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-22"
+  },
+  "structured": {
+    "supersededBy": "agenticstory skills: add-prop, add-motif, add-visual-metaphor, lock-references"
+  },
+  "prose": {
+    "rule": "SUPERSEDED BY THE FRAMEWORK. Element art is scaffolded with the agenticstory `add-prop` / `add-motif` / `add-visual-metaphor` skills and locked with `lock-references`, which already does isolated generation, read-back against declared invariants, and per-shot locking via `agenticstory lock-shot`. Do not hand-write element entities and do not hand-roll generation.",
+    "whatSurvives": "Only the vocabulary. Elements are named for what they MEAN, not what they depict: `startup-stack`, not `three blocks`. An element whose meaning cannot be stated in one sentence is not an element yet, it is a scene.",
+    "whyThisRecordExists": "Kept as a tombstone rather than deleted, because the mistake is worth remembering. Two lessons were paid for before the framework was consulted. First: generating a composite asks the model to re-decide everything already settled, so one note on one element cost a full re-roll of all four. Second: the register anchor was null the entire time, and `lock-references` would have refused to generate at all. The drift was not bad luck, it was an ungated pipeline.",
+    "source": "Gary, 2026-07-22: 'we should use the /agenticstory plugin skills ya?'"
+  }
+}
