@@ -1,0 +1,27 @@
+{
+  "id": "one-job-per-plate",
+  "kind": "doctrine",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-22"
+  },
+  "structured": {
+    "exemplars": {
+      "artful-plate": "reference/style/artful-plate-exemplar.webp",
+      "explanatory-plate": "reference/style/explanatory-plate-exemplar.svg"
+    },
+    "classes": [
+      "artful-plate",
+      "explanatory-plate"
+    ],
+    "sharedRegister": "warm-editorial-register"
+  },
+  "prose": {
+    "rule": "Every plate has exactly ONE job, and the job is decided BEFORE anything is drawn. (1) The ARTFUL PLATE evokes. It sets the emotional frame and hints at the subject, carries NO text ever, and holds one metaphor in at most four elements with generous negative space. Model-generated from locked references. (2) The EXPLANATORY PLATE explains. It CARRIES LABELS, states a split or a sequence or a stack exactly, and is judged on whether a reader gets the structure right rather than on whether it is beautiful. Hand-authored vector, never model-generated. Both are painted in the same warm-editorial-register: this is a split by JOB, not by paint language, and they must read as one family.",
+    "law": "Do not mix the jobs. An artful plate asked to explain becomes a cluttered diagram that is neither beautiful nor clear. An explanatory plate rendered artfully becomes decoration that fails at the one thing it existed to do. When an image is trying to do both, it is two images.",
+    "why": "The artful register was in practice long before it was written down, which meant every genuinely complex idea got a graphic that gestured at it rather than explained it, and the explaining fell entirely to prose. Naming the second register is what makes it legitimate to draw a labelled diagram without feeling off-brand.",
+    "lore": "In-universe, this is the difference between the plate that opens a chapter and the slide Gary puts up while he is teaching. The chapter plate makes you feel the stakes. The slide makes two hundred founders understand a structure at once. A story that shows Gary presenting shows explanatory plates on the screen behind him, because that is what an honest teacher would actually have projected.",
+    "source": "Locked with Gary 2026-07-22, after the /the-argument essay on buildonanthropic.com shipped with both registers on one page: an ink-line hero plus three labelled SVG diagrams.",
+    "naming": "'Register' means the paint language and nothing else (see warm-editorial-register). These two are plate CLASSES, distinguished by what the image is for. An explanatory plate is in the warm-editorial register; it is not a different register. Keeping those words apart is what stops the canon from contradicting itself."
+  }
+}

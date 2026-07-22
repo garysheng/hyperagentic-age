@@ -1,0 +1,40 @@
+{
+  "id": "explanatory-plate",
+  "kind": "doctrine",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-22"
+  },
+  "structured": {
+    "medium": "hand-authored SVG",
+    "neverGenerated": true,
+    "palette": {
+      "ink": "#1a1a17",
+      "clay": "#cc785c",
+      "clayLight": "#e08b6d",
+      "cream": "#f7f4ed",
+      "paper": "#ece7dc",
+      "line": "#e6dfd1",
+      "mute": "#6b6862",
+      "darkGround": "#141312",
+      "darkCard": "#1e1c1a",
+      "darkLine": "#2f2c28",
+      "darkInk": "#f0ede8"
+    },
+    "shapes": [
+      "two-column split",
+      "labelled sequence",
+      "layer stack with a shared base",
+      "before and after"
+    ],
+    "exemplar": "reference/style/explanatory-plate-exemplar.svg",
+    "register": "warm-editorial-register",
+    "class": "explanatory-plate"
+  },
+  "prose": {
+    "rule": "Explanatory plates are hand-authored SVG. Palette from the structured block and nothing else. Type is system sans, never a webfont, so the file renders standalone. Minimum 2px strokes with round linecaps, so it survives being scaled down. Theme-aware via a `prefers-color-scheme` block INSIDE the svg, because an `<img>` embed puts the page's CSS out of reach. `role=\"img\"` plus a `<title>` element, and the surrounding alt text still carries the full description in prose. No gradients, no shadows, no 3D, no isometric: flat fills and honest lines, matching the ink family it sits beside.",
+    "whyNotGenerated": "Four reasons, each of which has cost a real render. An image model silently drops and misspells letters, and a diagram whose whole value is that its labels are right cannot survive that. Raster type blurs on retina and in print. A diagram is edited far more often than it is drawn, and a generated one must be re-rolled rather than corrected. And only vector can follow the reader's light or dark theme.",
+    "restraint": "One structure per plate. If it needs a legend longer than two lines, it is two plates. The reader should get the shape in about three seconds and the detail on a second pass; a plate that requires study has failed at the only job it had.",
+    "source": "Written 2026-07-22 alongside one-job-per-plate, from the three diagrams built for the /the-argument essay: the rented-versus-yours split, the fifty-step trajectory with its silent failure marked, and the four altitudes over a shared Messages API base."
+  }
+}

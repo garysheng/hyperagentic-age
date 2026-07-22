@@ -1,0 +1,23 @@
+{
+  "id": "artful-plate",
+  "kind": "doctrine",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-22" },
+  "structured": {
+    "medium": "model-generated raster from locked references",
+    "carriesText": false,
+    "register": "warm-editorial-register",
+    "class": "artful-plate",
+    "grounds": ["terracotta", "warm grey-ivory"],
+    "fills": ["flat ivory-cream"],
+    "maxElements": 4,
+    "exemplar": "reference/style/artful-plate-exemplar.webp"
+  },
+  "prose": {
+    "rule": "One continuous, single-weight, wobbly black ink brush line, confident but imperfect, like a marker doodle that never lifts. Loopy long-fingered hands interacting with flat shapes. One-line abstract faces in profile, usually observing the work rather than doing it. Flat solid ground in terracotta or warm grey-ivory with subtle paper grain. Flat ivory-cream shapes as the only fills. Very few elements and generous negative space. No gradients, no shading, no painterly rendering, no realistic figures or furniture.",
+    "noText": "An artful plate carries NO text, ever: no letters, no numbers, no UI, no cursor arrows. Two reasons. Image models silently drop and misspell glyphs, so any baked-in word is a defect waiting to ship. And a wordless plate stays reusable across surfaces and languages, because the words live in the page around it.",
+    "subject": "Translate the idea into ONE metaphor with at most three moving parts: hands doing the core action on a flat cream object, a receding repetition of that object or a gap being filled, and the one-line face observing. If the metaphor needs a caption to land, it is the wrong metaphor, or the idea belongs on an explanatory-plate instead.",
+    "references": "The style IS the reference pack. Never generate without passing three or four locked references, chosen so at least one matches the subject's motif. The first attempt at this style failed by relying on prose alone and produced a painterly scene that read as generic AI illustration rather than as this universe.",
+    "qualityGate": "Read the output before shipping. Reject on any rendered shading or painterly texture, any readable glyph, more than about four elements, hands that look anatomical rather than loopy, or a ground colour outside the terracotta and ivory family. Regenerate rather than retouch; the style is cheap to re-roll.",
+    "source": "In practice since 2026-07-21 across the campaign decks and the buildonanthropic.com page heroes, written into canon 2026-07-22 when the second plate class made the distinction load-bearing."
+  }
+}

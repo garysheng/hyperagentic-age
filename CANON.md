@@ -43,10 +43,20 @@ agentverse, sub-agents, the hyperagent lever) and the *characters + paint regist
 3. **rank-by-naval-hats** — rank is carried by naval headgear only. Chief = grand gold admiral hat.
    Sub-agents = plain white sailor caps. The hat is the only rank signal, never size.
 4. **warm-editorial-register** — warm, mature, humanistic editorial ink-and-wash (the book's
-   register), forking SuperSuit's concepts. NOT neo-comic, neon, 3D, or glossy.
+   register), forking SuperSuit's concepts. NOT neo-comic, neon, 3D, or glossy. **"Register" means the
+   paint language and nothing else**; both plate classes below are painted in this one.
 5. **master-first-workflow** — build every character master-first: lock one canonical master pose,
    derive every other pose from it (one per render), composite the sheet last. A pose that disagrees
    with the master is a defective render.
+6. **one-job-per-plate** — every plate does exactly one job, decided before anything is drawn. An
+   **artful-plate** evokes; an **explanatory-plate** explains. Both are painted in the warm-editorial
+   register, so this is a split by JOB, not by paint language. A plate trying to do both is two plates.
+7. **artful-plate** — wobbly single-weight ink line, loopy hands, one-line observing face, flat cream
+   on terracotta, at most four elements, and NO text ever. Model-generated, always from locked
+   references. If the metaphor needs a caption, it is the wrong metaphor.
+8. **explanatory-plate** — carries labels and states a structure exactly. Hand-authored SVG, never
+   generated: models drop letters, raster type blurs, diagrams get edited more than drawn, and only
+   vector follows the reader's theme. One structure per plate.
 
 ## Properties (stories over the canon)
 
