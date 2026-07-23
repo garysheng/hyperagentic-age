@@ -22,6 +22,8 @@ isolation, and it is the expensive class.
 | [share-card](#share-card) | 2 | 1 | 1 | code output and model output in one artifact |
 | [flyer](#flyer) | 4 | 2 | 1 | one visual voice across several parts |
 | [storybook](#storybook) | 2+ | 3 | 1 | identity holding across every page |
+| [microbiography](#microbiography) | 2 | 2 | 0 | a text-dominant deliverable, no image at all |
+| [plate-book](#plate-book) | 1x N | 1 | **2** | a book with no cast, and a fork that INHERITS |
 
 A meme has zero cross-slot invariants. A picture book has the hardest one there is. That is the whole
 axis, and a team can read it off a contract before committing to build anything.
@@ -60,6 +62,32 @@ nothing else holds the style.
 
 Its gate is entirely **judged**: no text anywhere, hands loopy and non-anatomical, at most four
 elements, ground is one flat palette colour.
+
+---
+
+## plate-book
+
+A short explanatory book told entirely in wordless plates, one per idea, page text set beside them.
+
+It is a **fork of `artful-plate` via `extends`**, and unlike the other fork in this universe it
+overrides almost nothing: it inherits the register, the pinned provider, the quirk, and all five
+per-slot invariants, and adds only sequence. Fix the hand rule on the parent and both get it.
+
+That inheriting fork is what exposed two holes nothing else had:
+
+1. **The linter never merged `extends` before checking**, so a fork that inherits a generator
+   false-failed with `SLOT-NO-GENERATOR`. The field was absent from the file and present at run time.
+   The other fork overrode every field it used, which is why this survived until now.
+2. **The composer computed the contract's judged invariants and then discarded them**, reading its
+   checklist from a bound entity instead. A projection with no cast therefore had no checkable rules
+   at all. Every earlier characterless deliverable was a *single* plate, with nothing to judge across.
+
+**Its interesting property is an absence.** With no character bound it carries zero identity
+invariants, which makes it the cheapest book this universe can compose. Complexity is a property of
+the contract, and this contract says plainly that it is a simple one. Its two cross-slot rules are
+about the set rather than a subject: one visual voice across every plate, judged against the pack
+anchor and never plate-to-plate, and every plate reading as a distinct idea rather than a restatement
+of another.
 
 ---
 

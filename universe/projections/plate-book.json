@@ -1,0 +1,55 @@
+{
+  "id": "plate-book",
+  "version": "1.0.0",
+  "extends": "artful-plate@1.0.0",
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A short explanatory book told entirely in wordless ink-line plates, one per idea, with page text set beside them. A book with no cast: it inherits the plate register from artful-plate and adds sequence.",
+  "_why_a_fork": "artful-plate is ONE plate by contract, so its slot declares no repeat. A book of plates is a different kind of deliverable, not a bigger instance of the same one. Forking via extends rather than copying means the register, the pin, the quirk, and all five per-slot invariants stay owned by the parent: fix the hand rule once and both inherit it.",
+
+  "surface": {
+    "medium": "picture-book",
+    "geometry": { "plates": 4, "aspect": "1:1" }
+  },
+
+  "requires": [
+    { "kind": "style-pack", "min": 1 }
+  ],
+  "_why_no_character": "The absence is the design. A characterless book has ZERO identity invariants across its pages, which is what makes it the cheapest book this universe can compose. Complexity is a property of the contract, and this contract states plainly that it is a simple one.",
+
+  "slots": [
+    {
+      "id": "art",
+      "type": "generated",
+      "repeat": "$.surface.geometry.plates",
+      "schema": { "beat": "string", "pageText": "string" }
+    }
+  ],
+
+  "invariants": {
+    "perSlot": [
+      { "id": "no-text-in-art", "check": "judged" },
+      { "id": "flat: no perspective, shading, gradients, or coloured linework", "check": "judged" },
+      { "id": "hands-loopy-non-anatomical, four fingers plus a thumb", "check": "judged" },
+      { "id": "at most 4 elements, generous negative space", "check": "judged" },
+      { "id": "ground is one flat pack-palette colour", "check": "judged" }
+    ],
+    "crossSlot": [
+      {
+        "id": "one visual voice across every plate",
+        "check": "judged",
+        "scope": "all art slots in the book",
+        "against": "the style pack's anchor reference, never plate-to-plate",
+        "method": "judge each plate in fresh context against the pack anchor, item by item over the pack's gate list, never against the plan or against a sibling plate",
+        "note": "Against the anchor because plates drift TOGETHER, inheriting the same error from the same compiled prompt. Compared with each other they look perfectly consistent and are uniformly wrong. Consistency is not fidelity."
+      },
+      {
+        "id": "every plate reads as a distinct idea, none is a restatement of another",
+        "check": "judged",
+        "scope": "all art slots in the book",
+        "note": "The failure this catches is a book whose four plates are four drawings of the same thought. It is only checkable across the set, which is what makes it cross-slot."
+      }
+    ]
+  },
+
+  "emits": [ "book-manifest.json", "plates/*.webp" ]
+}
