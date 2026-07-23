@@ -41,5 +41,18 @@
       "note": "The house register, inherited by any property that does not declare its own. A property MAY override it: see stories/*.json register blocks."
     }
   },
-  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC \u00a73a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC \u00a711/\u00a712) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki."
+  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC \u00a73a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC \u00a711/\u00a712) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki.",
+  "projections": {
+    "dir": "projections",
+    "specVersion": "0.6",
+    "declared": [
+      "artful-plate",
+      "explanatory-plate",
+      "flyer",
+      "share-card",
+      "storybook",
+      "thank-you-card"
+    ],
+    "note": "Typed contracts per SPEC 4.8. requires names KINDS; a composition binds this universe's entity ids to them."
+  }
 }

@@ -1,0 +1,88 @@
+{
+  "id": "storybook",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "An illustrated, narrated picture book. The reference hard case: identity must hold across every spread.",
+  "surface": {
+    "medium": "picture-book",
+    "geometry": {
+      "spreads": 24,
+      "aspect": "2:3"
+    }
+  },
+  "requires": [
+    {
+      "kind": "character",
+      "min": 1
+    },
+    {
+      "kind": "setting",
+      "min": 1
+    },
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "cover",
+      "type": "generated"
+    },
+    {
+      "id": "spread",
+      "repeat": "$.surface.geometry.spreads",
+      "type": "generated",
+      "schema": {
+        "beat": "string",
+        "characters": "entity[]",
+        "location": "entity"
+      }
+    }
+  ],
+  "generators": [
+    {
+      "for": "spread",
+      "capability": "text"
+    },
+    {
+      "for": "spread",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": null,
+      "pinReason": "A locked character golden carries the identity, so any competent provider works."
+    },
+    {
+      "for": "spread",
+      "capability": "audio",
+      "optional": true
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "flat: no perspective, shading, gradients, or coloured linework",
+        "check": "judged"
+      },
+      {
+        "id": "the spread's beat text is legible and unmangled",
+        "check": "judged"
+      }
+    ],
+    "crossSlot": [
+      {
+        "id": "character identity holds across every spread",
+        "check": "judged",
+        "scope": "all slots binding the same character entity",
+        "method": "pass the locked master portrait AND its written locked description into every spread; judge in fresh context against the master, never against the plan"
+      }
+    ]
+  },
+  "emits": [
+    "book-manifest.json",
+    "spreads/*.webp",
+    "narration/*.mp3"
+  ],
+  "notes": "Runtime requirement: this is the projection whose run is long enough that nobody watches it. Park a defective spread, finish the rest, report."
+}

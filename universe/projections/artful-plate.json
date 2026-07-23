@@ -1,0 +1,62 @@
+{
+  "id": "artful-plate",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A wordless ink-line illustration that carries mood. Generated from a style pack, never carrying text.",
+  "surface": {
+    "medium": "raster",
+    "geometry": {
+      "aspect": "3:2 or 1:1"
+    }
+  },
+  "requires": [
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "art",
+      "type": "generated"
+    }
+  ],
+  "generators": [
+    {
+      "for": "art",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": "gpt-image-2",
+      "pinReason": "No locked golden carries this look. The model's own hand IS the register, so swapping the provider changes the brand."
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "no-text-in-art",
+        "check": "judged"
+      },
+      {
+        "id": "flat: no perspective, shading, gradients, or coloured linework",
+        "check": "judged"
+      },
+      {
+        "id": "hands-loopy-non-anatomical, four fingers plus a thumb",
+        "check": "judged"
+      },
+      {
+        "id": "at most 4 elements, generous negative space",
+        "check": "judged"
+      },
+      {
+        "id": "ground is one flat pack-palette colour",
+        "check": "judged"
+      }
+    ],
+    "crossSlot": []
+  },
+  "emits": [
+    "<name>.webp"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "share-card",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "An Open Graph card: a code-laid text panel beside a generated art panel. The projection that proves slots are heterogeneous.",
+  "surface": {
+    "medium": "raster",
+    "geometry": {
+      "w": 1200,
+      "h": 630
+    }
+  },
+  "requires": [
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "text-panel",
+      "type": "deterministic",
+      "schema": {
+        "eyebrow": "string",
+        "headline": "string",
+        "url": "string"
+      }
+    },
+    {
+      "id": "art-panel",
+      "type": "generated",
+      "geometry": {
+        "w": 410,
+        "h": 630
+      }
+    }
+  ],
+  "generators": [
+    {
+      "for": "art-panel",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": "gpt-image-2"
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "no-text-in-art",
+        "check": "judged"
+      },
+      {
+        "id": "exactly 1200x630",
+        "check": "computed"
+      },
+      {
+        "id": "under 1MB",
+        "check": "computed"
+      },
+      {
+        "id": "headline inside the crop-safe zone",
+        "check": "computed"
+      }
+    ],
+    "crossSlot": [
+      {
+        "id": "art-panel is generated AT the panel aspect, never cropped from a square",
+        "check": "computed",
+        "scope": "art-panel geometry vs its generator request"
+      }
+    ]
+  },
+  "emits": [
+    "share.png"
+  ],
+  "notes": "Generating the art at the panel's own ratio costs 2.4% crop against a 410x630 panel; force-cropping a square costs about 35% and clips exactly the edges the composition needed."
+}

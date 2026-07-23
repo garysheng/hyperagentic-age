@@ -1,0 +1,81 @@
+{
+  "id": "flyer",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A single-surface promotional sheet: headline, art, body, and a footer mark. First projection with a genuine cross-slot rule.",
+  "surface": {
+    "medium": "raster-or-pdf",
+    "geometry": {
+      "aspect": "A4 portrait"
+    }
+  },
+  "requires": [
+    {
+      "kind": "style-pack",
+      "min": 1
+    },
+    {
+      "kind": "motif",
+      "min": 0
+    }
+  ],
+  "slots": [
+    {
+      "id": "headline",
+      "type": "deterministic"
+    },
+    {
+      "id": "hero",
+      "type": "generated"
+    },
+    {
+      "id": "body",
+      "type": "deterministic"
+    },
+    {
+      "id": "mark",
+      "type": "deterministic"
+    }
+  ],
+  "generators": [
+    {
+      "for": "hero",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": "gpt-image-2"
+    },
+    {
+      "for": "body",
+      "capability": "text",
+      "optional": true
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "no-text-in-art",
+        "check": "judged"
+      },
+      {
+        "id": "flat: no perspective, shading, gradients, or coloured linework",
+        "check": "judged"
+      },
+      {
+        "id": "palette-only",
+        "check": "computed"
+      }
+    ],
+    "crossSlot": [
+      {
+        "id": "one visual voice across hero and mark: the same palette and line weight",
+        "check": "judged",
+        "scope": "hero + mark"
+      }
+    ]
+  },
+  "emits": [
+    "flyer-<name>.pdf",
+    "flyer-<name>.webp"
+  ]
+}

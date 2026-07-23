@@ -1,0 +1,63 @@
+{
+  "id": "thank-you-card",
+  "version": "1.0.0",
+  "extends": "share-card@1.0.0",
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A personal card. Forks share-card: same two-panel structure, different surface and a named recipient.",
+  "surface": {
+    "medium": "raster",
+    "geometry": {
+      "w": 1200,
+      "h": 1200
+    }
+  },
+  "requires": [
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "text-panel",
+      "type": "deterministic",
+      "schema": {
+        "recipient": "string",
+        "body": "string",
+        "signoff": "string"
+      }
+    },
+    {
+      "id": "art-panel",
+      "type": "generated"
+    }
+  ],
+  "generators": [
+    {
+      "for": "art-panel",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": "gpt-image-2"
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "no-text-in-art",
+        "check": "judged"
+      },
+      {
+        "id": "flat: no perspective, shading, gradients, or coloured linework",
+        "check": "judged"
+      },
+      {
+        "id": "recipient name spelled exactly as bound",
+        "check": "computed"
+      }
+    ],
+    "crossSlot": []
+  },
+  "emits": [
+    "thank-you-<recipient>.webp"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "explanatory-plate",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A labelled diagram that states a structure exactly. Emitted as SVG, never generated, because labels must be spelled right and only vector follows the reader's theme.",
+  "surface": {
+    "medium": "svg",
+    "geometry": {
+      "w": 900,
+      "h": "auto"
+    }
+  },
+  "requires": [
+    {
+      "kind": "doctrine",
+      "id_hint": "explanatory-plate",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "body",
+      "type": "deterministic",
+      "emitter": "agenticstory:explanatory-plate",
+      "primitives": [
+        "rows",
+        "dotgrid",
+        "split"
+      ]
+    }
+  ],
+  "generators": [],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "palette-only",
+        "check": "computed"
+      },
+      {
+        "id": "content fits the viewBox",
+        "check": "computed"
+      },
+      {
+        "id": "column headers fit their column",
+        "check": "computed"
+      },
+      {
+        "id": "has <title> and role=img",
+        "check": "computed"
+      },
+      {
+        "id": "no text baked into an image; SVG text only",
+        "check": "computed"
+      }
+    ],
+    "crossSlot": []
+  },
+  "emits": [
+    "<name>.svg (theme-aware, for the wiki)",
+    "<name>.svg (light-locked, for an always-cream surface)"
+  ],
+  "notes": "Dual emit is the point. Hand-stripping the dark @media block to make a deck copy is what once shipped a dark plate onto a cream slide."
+}
