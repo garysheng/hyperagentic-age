@@ -1,5 +1,11 @@
 # The Hyperagentic Age
 
+> **Third-party material.** The style pack in `universe/reference/style/anthropic-plate/refs/`
+> mirrors Anthropic's own published brand illustrations, used as style references so this
+> standard can be demonstrated against a real visual language. All rights remain Anthropic's;
+> this project is unaffiliated with them. See [NOTICE.md](./NOTICE.md).
+
+
 The story universe behind Gary Sheng's Anthropic wikis, explainers, and decks — the shared
 canon (characters, metaphors, visual laws) that every one of those properties renders from.
 
