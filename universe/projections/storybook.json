@@ -72,10 +72,13 @@
     ],
     "crossSlot": [
       {
-        "id": "character identity holds across every spread",
+        "id": "every declared invariant of each bound character holds in every slot",
         "check": "judged",
         "scope": "all slots binding the same character entity",
-        "method": "pass the locked master portrait AND its written locked description into every spread; judge in fresh context against the master, never against the plan"
+        "checklist": "$.entity.structured.invariants",
+        "against": "the entity's locked master golden, never slot-to-slot",
+        "method": "pass the locked master AND its written locked description into every slot; judge each slot in fresh context against the master, item by item over the entity's invariant list, never against the plan",
+        "note": "Itemized because a gestalt 'same character?' passes while a specific invariant fails. Against the golden because slots drift together and read as consistent."
       }
     ]
   },
