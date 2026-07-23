@@ -5,33 +5,59 @@
   "author": "agenticbranduniverse.com/registry",
   "description": "A short explanatory book told entirely in wordless ink-line plates, one per idea, with page text set beside them. A book with no cast: it inherits the plate register from artful-plate and adds sequence.",
   "_why_a_fork": "artful-plate is ONE plate by contract, so its slot declares no repeat. A book of plates is a different kind of deliverable, not a bigger instance of the same one. Forking via extends rather than copying means the register, the pin, the quirk, and all five per-slot invariants stay owned by the parent: fix the hand rule once and both inherit it.",
-
   "surface": {
     "medium": "picture-book",
-    "geometry": { "plates": 4, "aspect": "1:1" }
+    "geometry": {
+      "plates": 4,
+      "aspect": "1:1"
+    }
   },
-
   "requires": [
-    { "kind": "style-pack", "min": 1 }
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
   ],
   "_why_no_character": "The absence is the design. A characterless book has ZERO identity invariants across its pages, which is what makes it the cheapest book this universe can compose. Complexity is a property of the contract, and this contract states plainly that it is a simple one.",
-
   "slots": [
     {
       "id": "art",
       "type": "generated",
       "repeat": "$.surface.geometry.plates",
-      "schema": { "beat": "string", "pageText": "string" }
+      "schema": {
+        "beat": "string",
+        "pageText": "string"
+      }
     }
   ],
-
   "invariants": {
     "perSlot": [
-      { "id": "no-text-in-art", "check": "judged" },
-      { "id": "flat: no perspective, shading, gradients, or coloured linework", "check": "judged" },
-      { "id": "hands-loopy-non-anatomical, four fingers plus a thumb", "check": "judged" },
-      { "id": "at most 4 elements, generous negative space", "check": "judged" },
-      { "id": "ground is one flat pack-palette colour", "check": "judged" }
+      {
+        "id": "depicts-its-subject",
+        "check": "judged",
+        "method": "TWO-STAGE and BLIND on both sides. Stage 1: the judge sees the image and no intent, and reports in one sentence what it depicts. Stage 2: a comparer sees the intent and that sentence, and never the image, and answers MATCH or MISMATCH.",
+        "note": "The counterweight to a gate made entirely of negatives. Every other rule here forbids something, so repairing against them alone walks a slot toward the artifact that satisfies them most easily: the empty frame. Earned 2026-07-23, when a plate passed all eight invariants as a blank rectangle."
+      },
+      {
+        "id": "no-text-in-art",
+        "check": "judged"
+      },
+      {
+        "id": "flat: no perspective, shading, gradients, or coloured linework",
+        "check": "judged"
+      },
+      {
+        "id": "hands-loopy-non-anatomical, four fingers plus a thumb",
+        "check": "judged"
+      },
+      {
+        "id": "at most 4 elements, generous negative space",
+        "check": "judged"
+      },
+      {
+        "id": "ground is one flat pack-palette colour",
+        "check": "judged"
+      }
     ],
     "crossSlot": [
       {
@@ -50,6 +76,8 @@
       }
     ]
   },
-
-  "emits": [ "book-manifest.json", "plates/*.webp" ]
+  "emits": [
+    "book-manifest.json",
+    "plates/*.webp"
+  ]
 }
