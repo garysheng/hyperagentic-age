@@ -52,7 +52,18 @@
         0.667,
         1.5
       ],
-      "tolerance": 0.25
+      "tolerance": 0.25,
+      "quirks": [
+        {
+          "id": "artwork-within-artwork-renders-inverted",
+          "seen": "When a person is depicted drawing, holding, or displaying a picture, the depicted picture renders upside down relative to the viewer.",
+          "counter": "Any picture, page, book, drawing, or artwork shown INSIDE the scene must be RIGHT SIDE UP and correctly oriented to the viewer. Never inverted, never rotated, never upside down.",
+          "check": "judged",
+          "provider": "gpt-image-2",
+          "observedBy": "gary",
+          "observedOn": "2026-07-23"
+        }
+      ]
     },
     {
       "for": "body",

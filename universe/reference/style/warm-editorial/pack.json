@@ -1,0 +1,41 @@
+{
+  "id": "warm-editorial",
+  "name": "Warm editorial storybook",
+  "specVersion": "0.6",
+  "anchor": "refs/figure-anchor.png",
+  "refs": [
+    "refs/figure-anchor.png"
+  ],
+  "styleLine": "warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults, never comic-book, never cartoon-mascot, never flat vector",
+  "palette": {
+    "ground": [
+      "#EFE6D2",
+      "#F5F1E9"
+    ],
+    "fill": [
+      "#8FB0CE",
+      "#FFFFFF"
+    ],
+    "line": [
+      "#3B382F"
+    ]
+  },
+  "rejectedPoles": [
+    "comic-book",
+    "cartoon mascot",
+    "flat vector",
+    "neon",
+    "3D/CGI/Pixar",
+    "photoreal",
+    "religious iconography",
+    "text or lettering"
+  ],
+  "gate": [
+    "warm editorial illustration, not comic and not flat vector",
+    "muted natural palette on a warm ground",
+    "no text, letters, or numbers anywhere",
+    "no religious iconography"
+  ],
+  "maxElements": 6,
+  "note": "Created 2026-07-23 because the storybook register's anchor was null, which correctly blocks generation. FINDING: this anchor is a CHARACTER portrait, not a content-neutral swatch, so it leaks Gary into every render. Acceptable only because he is in every spread of this book. A proper pack needs a content-neutral style swatch."
+}

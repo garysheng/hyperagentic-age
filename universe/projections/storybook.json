@@ -39,9 +39,29 @@
         "characters": "entity[]",
         "location": "entity"
       }
+    },
+    {
+      "id": "plate",
+      "repeat": "$.plates",
+      "type": "generated",
+      "register": "plate",
+      "note": "An explanatory plate woven into the narrative. Characterless by contract."
     }
   ],
   "generators": [
+    {
+      "for": "cover",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": null,
+      "pinReason": "the locked character golden carries identity",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
+    },
     {
       "for": "spread",
       "capability": "text"
@@ -51,12 +71,41 @@
       "capability": "image",
       "accepts": "reference-images",
       "pin": null,
-      "pinReason": "A locked character golden carries the identity, so any competent provider works."
+      "pinReason": "A locked character golden carries the identity, so any competent provider works.",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
     },
     {
       "for": "spread",
       "capability": "audio",
       "optional": true
+    },
+    {
+      "for": "plate",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": "gpt-image-2",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25,
+      "quirks": [
+        {
+          "id": "artwork-within-artwork-renders-inverted",
+          "seen": "When a person is depicted drawing, holding, or displaying a picture, the depicted picture renders upside down relative to the viewer.",
+          "counter": "Any picture, page, book, drawing, or artwork shown INSIDE the scene must be RIGHT SIDE UP and correctly oriented to the viewer. Never inverted, never rotated, never upside down.",
+          "check": "judged",
+          "provider": "gpt-image-2",
+          "observedBy": "gary",
+          "observedOn": "2026-07-23"
+        }
+      ]
     }
   ],
   "invariants": {

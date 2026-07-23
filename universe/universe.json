@@ -28,7 +28,7 @@
     },
     "register": {
       "name": "warm editorial ink-and-wash",
-      "anchor": null,
+      "anchor": "reference/style/warm-editorial/refs/figure-anchor.png",
       "rejectedPoles": [
         "neon",
         "3D/CGI/Pixar",
@@ -38,7 +38,8 @@
       ],
       "id": "storybook",
       "anchoredToRealArt": null,
-      "note": "The house register, inherited by any property that does not declare its own. A property MAY override it: see stories/*.json register blocks."
+      "note": "The house register, inherited by any property that does not declare its own. A property MAY override it: see stories/*.json register blocks.",
+      "stylePack": "reference/style/warm-editorial"
     }
   },
   "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC \u00a73a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC \u00a711/\u00a712) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki.",
