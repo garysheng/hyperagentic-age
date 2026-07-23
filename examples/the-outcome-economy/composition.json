@@ -1,0 +1,33 @@
+{
+  "id": "the-outcome-economy",
+  "universe": ".",
+  "projection": "plate-book@1.0.0",
+  "work": "<your work dir>",
+  "maxRolls": 4,
+  "bind": {
+    "style-pack": "reference/style/anthropic-plate"
+  },
+  "goldens": {
+    "default": []
+  },
+  "repeat": {
+    "art": 4
+  },
+  "beats": [
+    "ONE single loopy long-fingered hand, open palm up, holding out one plain finished cream object, with a small closed cream toolbox sitting unopened beside it. Exactly one hand in the whole picture. That hand must show FIVE digits: four finger loops and one separate thumb. Drawn flat and straight on with no depth.",
+    "one loopy long-fingered hand with exactly four fingers and one thumb turning a crank on a flat cream machine, with exactly two identical plain cream objects standing beside it, four drawn objects in total, drawn flat and straight on",
+    "a large flat grid of many small cream squares filling the lower half of the frame, seen straight on with no depth, held from beneath by one large open loopy long-fingered hand with four fingers and a thumb",
+    "two loopy long-fingered hands, the left one holding a small cream key, the right one resting flat on a large plain cream slab, the key clearly belonging to the hand and not to the slab"
+  ],
+  "pageText": [
+    "Nobody wants the tool. They want the thing the tool makes.",
+    "So stop selling the tool. Sell the machine that makes the outcome, again and again.",
+    "The hard part was never making one. It was making the ten thousandth one just as good.",
+    "Rent the slab. Keep the key. The key is the only part anyone can copy you for."
+  ],
+  "slots": {
+    "art": {
+      "size": "1024x1024"
+    }
+  }
+}
