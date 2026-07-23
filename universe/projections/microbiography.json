@@ -1,0 +1,115 @@
+{
+  "id": "microbiography",
+  "version": "1.0.0",
+  "extends": null,
+  "author": "agenticbranduniverse.com/registry",
+  "description": "A short narrated life-or-work story in chapters. The first TEXT-DOMINANT projection: its primary output is prose written for the ear, with art and audio as secondary slots.",
+  "surface": {
+    "medium": "narrated-web",
+    "geometry": {
+      "chapters": 6
+    }
+  },
+  "requires": [
+    {
+      "kind": "character",
+      "min": 1
+    },
+    {
+      "kind": "style-pack",
+      "min": 1
+    }
+  ],
+  "slots": [
+    {
+      "id": "chapter",
+      "repeat": "$.surface.geometry.chapters",
+      "type": "generated",
+      "schema": {
+        "title": "string",
+        "prose": "string",
+        "quote": "string?"
+      },
+      "primary": true,
+      "note": "PRIMARY slot and it is prose, not an image. Every other projection in this universe has an image as its primary output."
+    },
+    {
+      "id": "chapter-art",
+      "repeat": "$.surface.geometry.chapters",
+      "type": "generated",
+      "optional": true
+    },
+    {
+      "id": "narration",
+      "repeat": "$.surface.geometry.chapters",
+      "type": "generated",
+      "optional": true
+    }
+  ],
+  "generators": [
+    {
+      "for": "chapter",
+      "capability": "text"
+    },
+    {
+      "for": "chapter-art",
+      "capability": "image",
+      "accepts": "reference-images",
+      "pin": null,
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
+    },
+    {
+      "for": "narration",
+      "capability": "audio",
+      "optional": true
+    }
+  ],
+  "invariants": {
+    "perSlot": [
+      {
+        "id": "written for the EAR: short sentences, no construction a mouth would refuse",
+        "check": "judged"
+      },
+      {
+        "id": "no invented biographical fact; every claim traces to supplied source material",
+        "check": "judged"
+      },
+      {
+        "id": "no em dashes",
+        "check": "computed"
+      }
+    ],
+    "crossSlot": [
+      {
+        "id": "one consistent narrative voice across every chapter",
+        "check": "judged",
+        "scope": "all chapter slots",
+        "against": "the first locked chapter as the voice of record"
+      },
+      {
+        "id": "the subject's likeness holds across every chapter-art slot",
+        "check": "judged",
+        "scope": "all chapter-art slots binding the same character",
+        "checklist": "$.entity.structured.invariants",
+        "against": "the entity's locked master"
+      },
+      {
+        "id": "chapters are chronologically coherent and do not contradict each other",
+        "check": "judged",
+        "scope": "all chapter slots"
+      }
+    ]
+  },
+  "emits": [
+    "chapters/*.md",
+    "chapters/*.webp",
+    "narration/*.mp3",
+    "manifest.json"
+  ],
+  "notes": "Subject-approval gated: a biography of a real person is not shippable on an agent's say-so."
+}

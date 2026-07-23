@@ -1,0 +1,50 @@
+{
+  "id": "gary-the-evangelist",
+  "projection": "microbiography@1.0.0",
+  "status": "DRAFT, subject approval required",
+  "_note": "A biography of a real person is not shippable on an agent's say-so. These chapters are drafted from what is verifiable in this repository and the session that produced it. Gary reviews and corrects before anything renders or narrates. Deliberately secular: this is the working life, not the whole life.",
+  "bind": {
+    "character": ["gary"],
+    "style-pack": "reference/style/warm-editorial"
+  },
+  "goldens": {
+    "default": ["universe/reference/gary/master.png"],
+    "chapter": []
+  },
+  "invariantsFile": "universe/canon/entities/gary.json",
+  "repeat": { "chapter": 6 },
+  "slots": {
+    "chapter": [
+      {
+        "title": "He reads the manual",
+        "prose": "Most people open a new tool and start clicking. Gary opens it and finds the edges. What can this actually do. What did the people who built it hope someone would try. Where does it break. He has done this his whole working life, with every tool worth the trouble, and it produces a specific kind of person: the one who knows the thing better than the people selling it.",
+        "quote": null
+      },
+      {
+        "title": "He cannot keep it to himself",
+        "prose": "The second thing that happens is less common. Having found the good thing, he cannot shut up about it. Not as a pitch. As a compulsion. He will write the guide, make the diagram, record the walkthrough, and send it to someone who did not ask, because the gap between what a tool can do and what people know it can do offends him. That instinct has a name in most companies. They call it evangelism, and they usually have to hire for it.",
+        "quote": null
+      },
+      {
+        "title": "He builds the thing that builds the thing",
+        "prose": "Along the way he stopped writing guides and started writing systems. Skills an agent loads. Standards a machine can check. Wikis that route a reader instead of impressing them. The pattern underneath is the same one from the manual: figure out the real shape of the work, then encode it so nobody has to rediscover it. He would rather ship the process than the artifact, because the process keeps producing after he stops paying attention.",
+        "quote": null
+      },
+      {
+        "title": "The books",
+        "prose": "The clearest example is the one that looks least like work. He makes illustrated children's picture books, over a hundred of them now, each one carrying a lesson worth a child's time. Every page used to be hand-made. It took weeks. He loved it and he could not scale it, and both of those things stayed true at the same time for a long while.",
+        "quote": null
+      },
+      {
+        "title": "The night it connected",
+        "prose": "Then he read about agents that run on someone else's machines, unattended, holding their own state. And the two halves of his working life met: the craft he refused to give up, and the plumbing he never wanted to own. He wrote down everything he knew about making a page that does not drift, handed that to an agent, and closed his laptop. The book got made anyway. That is the moment worth telling, because it is the moment the tool stopped being interesting and started being useful.",
+        "quote": null
+      },
+      {
+        "title": "Why this seat",
+        "prose": "So the job he wants is the one he has been doing unpaid for years, pointed at the thing he now believes is underrated. Founders are about to make an infrastructure decision most of them will make on instinct. He would like to be the person who shows them what the tool actually does, honestly, including where it is the wrong choice. He is not selling. He never has been. He just cannot find a good tool and stay quiet.",
+        "quote": null
+      }
+    ]
+  }
+}
