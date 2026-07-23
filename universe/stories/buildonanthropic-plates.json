@@ -5,7 +5,7 @@
   "title": "Build on Anthropic, the plates",
   "register": {
     "id": "plate",
-    "anchor": "reference/register/plate-style-anchor.png",
+    "anchor": "reference/style/anthropic-plate/refs/hands-blocks.png",
     "anchoredToRealArt": null,
     "rejectedPoles": [
       "neo-comic action-zine",
@@ -26,7 +26,8 @@
       "Maya",
       "Gary",
       "any storybook-register character"
-    ]
+    ],
+    "stylePack": "reference/style/anthropic-plate"
   },
   "note": "The illustrated layer for buildonanthropic.com and the campaign decks. Deliberately CHARACTERLESS: the storybook cast is a rejected pole here, because a plate is a diagrammatic gesture and not a scene from the story. Flat terracotta, wobbly single-weight black ink, loopy hands, cream fills, and never any text, because the words live in the page around the plate."
 }

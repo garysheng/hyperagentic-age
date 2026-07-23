@@ -1,0 +1,67 @@
+{
+  "id": "anthropic-plate",
+  "name": "Anthropic ink-line plate",
+  "specVersion": "0.4",
+  "note": "The Anthropic brand illustration look, as practiced on buildonanthropic.com and the campaign decks. Deliberately CHARACTERLESS: no storybook cast, because a plate is a diagrammatic gesture and not a scene from a story. Refs are the real published brand illustrations; the style IS the reference pack, so never generate from prose alone.",
+
+  "anchor": "refs/hands-blocks.png",
+  "refs": [
+    "refs/hands-blocks.png",
+    "refs/hand-city-blocks.png",
+    "refs/face-arcs-nodes.png",
+    "refs/hand-node-graph.png",
+    "refs/hand-writing-paper.png",
+    "refs/hands-globe.png",
+    "refs/hand-shapes-flow.png",
+    "refs/cursor-face-profile.png"
+  ],
+  "refMotifs": {
+    "refs/hands-blocks.png": "loopy hands arranging flat cream blocks",
+    "refs/hand-city-blocks.png": "a hand over a skyline of cream blocks",
+    "refs/face-arcs-nodes.png": "one-line profile face with radiating arcs and nodes",
+    "refs/hand-node-graph.png": "a hand and a connected node graph",
+    "refs/hand-writing-paper.png": "a hand working on a flat cream sheet",
+    "refs/hands-globe.png": "hands holding a line-drawn globe",
+    "refs/hand-shapes-flow.png": "a hand moving geometric shapes along arrows",
+    "refs/cursor-face-profile.png": "a cursor, a hand, and a one-line profile face"
+  },
+
+  "styleLine": "one continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; loopy long-fingered hands interacting with flat shapes; one-line abstract faces in profile, usually observing the work rather than doing it; flat solid ground with subtle paper grain; flat ivory-cream shapes as the only fills; generous negative space",
+
+  "palette": {
+    "ground": ["#CC785C", "#F5F1E9", "#B9C7BA", "#E8E4DC", "#C9C3DE"],
+    "fill": ["#F5F1E9"],
+    "line": ["#1A1A17"]
+  },
+
+  "rejectedPoles": [
+    "neo-comic action-zine",
+    "neon",
+    "3D/CGI/Pixar",
+    "glossy plastic",
+    "HUD or arc-reactor comic vocabulary",
+    "perspective",
+    "isometric",
+    "parallelograms",
+    "visible edge thickness or side faces",
+    "shading",
+    "gradients",
+    "painterly or realistic rendering",
+    "coloured linework",
+    "realistic anatomical hands",
+    "any text or lettering"
+  ],
+
+  "gate": [
+    "The linework is a single-weight wobbly BLACK ink line only; no coloured linework, no varying stroke weight.",
+    "Fills are flat ivory-cream only; no shading, no gradients, no painterly texture anywhere.",
+    "The ground is ONE flat colour from the pack palette, with at most a subtle paper grain.",
+    "Everything is face-on and flat: no perspective, no isometric, no parallelograms, no side faces or edge thickness.",
+    "At most 4 elements, with generous negative space; it does not read as a busy scene.",
+    "There is NO text, no letters, no numbers, and no UI chrome anywhere in the image.",
+    "Any hands are loopy and long-fingered and clearly non-anatomical; this look has no realistic finger-count to get wrong.",
+    "Any face is a single-line profile observing the work, never a rendered or detailed face."
+  ],
+
+  "maxElements": 4
+}
