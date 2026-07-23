@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 358" role="img" width="900" height="358">
+<title>Three ways to build on the Claude Developer Platform, ordered by how much you run yourself. On the Messages API you run the agent loop and the plumbing. On the Agent SDK, Anthropic runs the loop and you run the plumbing. On Managed Agents, Anthropic runs both. All three are Claude on the Messages API.</title>
+<style>
+  .bg{fill:#f7f4ed} .ink{fill:#1a1a17} .mute{fill:#6b6862} .clay{fill:#cc785c}
+  .row,.card{fill:#ece7dc;stroke:#e6dfd1;stroke-width:2}
+  .you{fill:#6b6862} .ant{fill:#cc785c} .markfill{fill:#f7f4ed}
+  .on{fill:#cc785c} .off{fill:none;stroke:#d9d2c4;stroke-width:2}
+  .rule{stroke:#e6dfd1;stroke-width:2;stroke-linecap:round}
+  .onclay{fill:#f7f4ed}
+  .chip{font:600 12.5px system-ui,-apple-system,sans-serif;letter-spacing:.06em;fill:#f7f4ed}
+  .h{font:600 11.5px system-ui,-apple-system,sans-serif;letter-spacing:.13em}
+  .n{font:600 15px system-ui,-apple-system,sans-serif} .s{font:12.5px system-ui,-apple-system,sans-serif} .t{font:15px system-ui,-apple-system,sans-serif}
+  .k{font:600 26px Georgia,serif} .b{font:600 13px system-ui,-apple-system,sans-serif;letter-spacing:.06em}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#141312} .ink{fill:#f0ede8} .mute{fill:#9a948c}
+    .row,.card{fill:#1e1c1a;stroke:#2f2c28}
+    .you{fill:#5d5a55} .ant,.on{fill:#e08a5f} .off{stroke:#2f2c28}
+    .rule{stroke:#2f2c28} .markfill,.chip,.onclay{fill:#141312}
+    .clay{fill:#e08a5f}
+  }
+</style>
+<rect class="bg" width="900" height="358" rx="10"/>
+<text class="h mute" x="34" y="32">REACH FOR</text>
+<text class="h mute" x="625.0" y="32" text-anchor="middle">WHO RUNS</text>
+<text class="h mute" x="625.0" y="48" text-anchor="middle">THE AGENT LOOP</text>
+<text class="h mute" x="797.0" y="32" text-anchor="middle">WHO RUNS</text>
+<text class="h mute" x="797.0" y="48" text-anchor="middle">THE PLUMBING</text>
+<rect class="row" x="28" y="80" width="844" height="56" rx="8"/>
+<text class="n ink" x="48" y="104">Messages API</text>
+<text class="s mute" x="48" y="123">you write the loop, and you run the sandbox, sessions, isolation, scale</text>
+<rect class="you" x="550" y="94.0" width="150" height="28" rx="6"/>
+<text class="chip" x="625.0" y="113.0" text-anchor="middle">YOU</text>
+<rect class="you" x="722" y="94.0" width="150" height="28" rx="6"/>
+<text class="chip" x="797.0" y="113.0" text-anchor="middle">YOU</text>
+<rect class="row" x="28" y="144" width="844" height="56" rx="8"/>
+<text class="n ink" x="48" y="168">Claude Agent SDK</text>
+<text class="s mute" x="48" y="187">the agent loop as a library, running on your own infrastructure</text>
+<rect class="ant" x="550" y="158.0" width="150" height="28" rx="6"/>
+<g class="markfill" transform="translate(615.52,165.50) scale(0.5417)"><path d="M9.49897 0L0 24H5.31125L7.25395 18.96H17.1914L19.1341 24H24.4454L14.9464 0H9.49897ZM8.97193 14.5029L12.2227 6.06857L15.4735 14.5029H8.97193Z"/><path d="M24.5475 0H19.3384L28.8374 24H34.0465L24.5475 0Z"/></g>
+<rect class="you" x="722" y="158.0" width="150" height="28" rx="6"/>
+<text class="chip" x="797.0" y="177.0" text-anchor="middle">YOU</text>
+<rect class="row" x="28" y="208" width="844" height="56" rx="8"/>
+<text class="n ink" x="48" y="232">Managed Agents</text>
+<text class="s mute" x="48" y="251">hosted sandbox, durable sessions, vaults, scheduling</text>
+<rect class="ant" x="550" y="222.0" width="150" height="28" rx="6"/>
+<g class="markfill" transform="translate(615.52,229.50) scale(0.5417)"><path d="M9.49897 0L0 24H5.31125L7.25395 18.96H17.1914L19.1341 24H24.4454L14.9464 0H9.49897ZM8.97193 14.5029L12.2227 6.06857L15.4735 14.5029H8.97193Z"/><path d="M24.5475 0H19.3384L28.8374 24H34.0465L24.5475 0Z"/></g>
+<rect class="ant" x="722" y="222.0" width="150" height="28" rx="6"/>
+<g class="markfill" transform="translate(787.52,229.50) scale(0.5417)"><path d="M9.49897 0L0 24H5.31125L7.25395 18.96H17.1914L19.1341 24H24.4454L14.9464 0H9.49897ZM8.97193 14.5029L12.2227 6.06857L15.4735 14.5029H8.97193Z"/><path d="M24.5475 0H19.3384L28.8374 24H34.0465L24.5475 0Z"/></g>
+<rect class="ant" x="28" y="278" width="844" height="32" rx="8"/>
+<text class="b onclay" x="450" y="299" text-anchor="middle">ALL THREE ARE CLAUDE, ON THE MESSAGES API</text>
+<text class="s mute" x="28" y="336">Altitudes, not tiers: pick per workload, not per company. Most jobs need one call and no agent at all.</text>
+</svg>
