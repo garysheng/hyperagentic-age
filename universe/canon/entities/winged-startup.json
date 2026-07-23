@@ -1,0 +1,30 @@
+{
+  "id": "winged-startup",
+  "kind": "motif",
+  "originStory": "buildonanthropic-plates",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-22"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/winged-startup/hero.png",
+      "detail": "reference/winged-startup/detail.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "The startup is a HAND-STACKED tower of two or three flat cream blocks, slightly imperfect and uneven, never a single block and never a neat machine-precise stack.",
+      "Cream wings are attached to the tower and the whole reads as LIFT: rising, climbing, or airborne, never sitting still on a surface.",
+      "Plate register only: flat solid terracotta ground, a single-weight wobbly confident black ink outline, flat ivory-cream fills as the only fills.",
+      "Absolutely no text, letters, numbers, UI, or cursor marks, ever.",
+      "Face-on and flat: no perspective, no isometric, no parallelograms, no side faces or edge thickness, no shading, no gradients, no coloured linework."
+    ]
+  },
+  "prose": {
+    "voice": "The campaign's central metaphor, its sign-off made visible: a startup that has been given wings. 'Fly with Claude.'",
+    "lore": "Recurs across the Build on Anthropic deck and campaign surfaces: the browser-tab favicon, the deck cover hero (a hand releasing it), and the closing 'help you fly' slide (it soaring free). Because it appears at 16px and at full-bleed, it must read as the same object every time.",
+    "rules": "Master-first: the hero is the canonical calm, centered, face-on winged block-tower on plain terracotta. Every other use (the tilted climbing favicon, the hand-released cover, the soaring close) is derived as its own render with the locked hero passed as the first input image, never re-invented from prose. A render whose block-tower or wings disagree with the hero is a defect: regenerate from the master."
+  }
+}
