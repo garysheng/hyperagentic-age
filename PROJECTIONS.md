@@ -136,6 +136,49 @@ book", and a standard that skips the middle of its own range has not been tested
 
 ---
 
+## Staged goldens: when a character CHANGES partway through
+
+The hardest cross-slot invariant is identity across every page. The subtlest is identity
+that is supposed to move.
+
+Maya wears a sage-olive blazer for the whole book and **gains** a rust scarf the moment
+she stops building her own machinery and gets onto Managed Agents. Rust is the platform's
+own clay, so the colour arrives exactly when she does, and a reader feels the turn a page
+before they read it.
+
+Two things make that safe rather than reckless:
+
+**Add, do not swap.** The first version of this idea changed her blazer from slate to
+rust at the turn. That moves her single most recognisable garment halfway through the
+book and weakens every identity check after it. Adding an item leaves the identity anchor
+completely untouched and lets the marker carry all of the meaning.
+
+**Bind the sheet per index, not per slot.** A composition names which locked sheet applies
+over which spreads:
+
+```jsonc
+"goldens": {
+  "spread": { "0-20":  ["reference/maya/master.png"],
+              "21-23": ["reference/maya/master-rust.png"] },
+  "cover":  ["reference/maya/master.png"]
+}
+```
+
+Ranges are inclusive, and an index covered by no range binds **nothing**, which fails
+loudly at the reference resolver rather than quietly rendering a character with no anchor.
+
+The same shape covers any staged state: an age, a season, an injury, a promotion. Before
+this existed every spread had to share one sheet, so a character who changed was simply
+unrepresentable.
+
+**Contextual is not the same as staged.** Maya's lanyard is *contextual*: she wears it at
+a conference, and that is a property of the scene, checked only when the scene puts her
+there. The scarf is *staged*: after the turn it holds in every scene, so it is a property
+of where you are in the story. Filing one as the other is how you get a judge that fails
+every office scene for a missing lanyard.
+
+---
+
 ## storybook
 
 The hard case, and the reason the rest of the standard looks the way it does.
