@@ -2,21 +2,31 @@
   "id": "maya",
   "kind": "character",
   "originStory": "get-what-you-deserve-book",
-  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-16" },
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-16"
+  },
   "structured": {
-    "sheets": { "master": "reference/maya/master.png" },
-    "requiredForRender": ["master"],
+    "sheets": {
+      "master": "reference/maya/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
     "invariants": [
       "half-black-half-white-founder",
       "rust-blazer",
-      "lanyard",
       "laptop-under-arm",
       "warm-editorial-register"
-    ]
+    ],
+    "contextual": {
+      "lanyard": "Worn at a CONFERENCE only. Not part of her identity of record."
+    }
   },
   "prose": {
-    "voice": "The founder — earnest, capable, building something real (Grantwell, in the book).",
+    "voice": "The founder \u2014 earnest, capable, building something real (Grantwell, in the book).",
     "lore": "The human end of the crossing: the founder who receives the Chief of Agents' delivered work.",
-    "rules": "Forked from the 'get what you deserve' book's Maya. Render in this universe's warm editorial register with her identity, wardrobe and signatures exact: rust blazer, lanyard, laptop under arm. Pass reference/maya/master.png as the identity anchor on every render. A fictional composite, NOT a real person (no realPerson dossier / approval gate)."
+    "rules": "Forked from the 'get what you deserve' book's Maya. Render in this universe's warm editorial register with her identity, wardrobe and signatures exact: rust blazer, laptop under arm. Pass reference/maya/master.png as the identity anchor on every render. A fictional composite, NOT a real person (no realPerson dossier / approval gate).",
+    "canonNote": "Lanyard demoted from invariant to CONTEXTUAL (Gary, 2026-07-23: 'the lanyard version of Maya is just when she's at a particular conference'). It was listed as an unconditional identity invariant, so every judge would have failed every office scene for a missing lanyard: 24 spreads of false defects and re-rolls against a rule that was never true. An invariant must hold in EVERY scene by definition; anything that depends on where she is belongs in `contextual` and is checked only when the scene puts her there."
   }
 }

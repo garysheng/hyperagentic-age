@@ -1,0 +1,25 @@
+{
+  "id": "grantwell-office",
+  "kind": "setting",
+  "originStory": "get-what-you-deserve-book",
+  "authority": { "lockedBy": "gary", "lockedOn": "2026-07-23" },
+  "structured": {
+    "sheets": {},
+    "requiredForRender": [],
+    "invariants": [
+      "small-startup-workspace-not-a-corporate-office",
+      "warm-cream-walls",
+      "one-large-window-with-daylight",
+      "wooden-desk-with-a-laptop",
+      "no-open-plan-sea-of-desks",
+      "no-text-on-signage-screens-or-paper",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "Quiet, lived-in, small. The room of someone who is actually building something rather than performing that they are.",
+    "lore": "Grantwell's workspace: the company Maya is building. One room, a desk, a window, and whatever she is working on that week. The scale is deliberate: this is a founder's room, not a headquarters, because the story is about a person deciding what to sell, not about a company that has already won.",
+    "rules": "Render in this universe's warm editorial register. NO text anywhere: no signage, no screen content, no labels on paper, because the pack rejects lettering outright and a workspace is where a model most wants to add it. Keep the element count low; the room should read in one glance. Where a scene needs to feel later or larger, change what is ON the desk rather than adding rooms or people.",
+    "canonNote": "Created 2026-07-23 because the storybook projection REQUIRES a setting by kind and this universe declared none, so every storybook composition was infeasible against its own contract. The gap was invisible until a composition actually asked for the narrative register: the plate projections require only a style pack, so nothing had ever exercised the setting requirement."
+  }
+}
