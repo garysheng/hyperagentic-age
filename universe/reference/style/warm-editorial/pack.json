@@ -33,9 +33,9 @@
   "gate": [
     "warm editorial illustration, not comic and not flat vector",
     "muted natural palette on a warm ground",
-    "no text, letters, or numbers anywhere",
-    "no religious iconography"
+    "no religious iconography",
+    "no text in INTERIOR art; the cover carries its title and byline"
   ],
   "maxElements": 6,
-  "note": "Created 2026-07-23 because the storybook register's anchor was null, which correctly blocks generation. FINDING: this anchor is a CHARACTER portrait, not a content-neutral swatch, so it leaks Gary into every render. Acceptable only because he is in every spread of this book. A proper pack needs a content-neutral style swatch."
+  "note": "Created 2026-07-23 because the storybook register's anchor was null, which correctly blocks generation. FINDING: this anchor is a CHARACTER portrait, not a content-neutral swatch, so it leaks Gary into every render. Acceptable only because he is in every spread of this book. A proper pack needs a content-neutral style swatch. TEXT RULE CORRECTED 2026-07-23: 'text or lettering' was copied into rejectedPoles from the wordless-plate register, where it is right, and is wrong here. Storybook covers carry type. The pole stays for interior slots and the cover permits it, rather than the rule being obeyed where it does not belong."
 }

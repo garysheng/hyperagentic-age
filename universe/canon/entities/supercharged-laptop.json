@@ -1,0 +1,33 @@
+{
+  "id": "supercharged-laptop",
+  "kind": "prop",
+  "originStory": "the-outcome-economy",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-23"
+  },
+  "structured": {
+    "sheets": {
+      "hero": null,
+      "detail": null,
+      "orange": "reference/supercharged-laptop/orange.png",
+      "green": "reference/supercharged-laptop/green.png"
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+      "the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+      "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+      "screen-FACE-is-visible-to-the-viewer",
+      "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+      "casts-light-not-shadow",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "A machine that is no longer just a machine. It reads at a glance as supercharged.",
+    "lore": "The visual shorthand for a computer that an agent is running on. An ordinary laptop is drawn as an ordinary object. The moment an agent is working through it, the WHOLE laptop becomes a translucent holographic object glowing in that agent's colour: ORANGE for Claude Code and the Chief of Agents, SAGE-GREEN for Grantwell. A reader can tell whose craft is running on a machine from across the room, without a label.",
+    "rules": "Colour is meaning: orange means Claude Code / the Chief of Agents is running on it; sage-green means Grantwell is. Never mix two agent colours on one machine. The ordinary, un-supercharged laptop stays a plain grey object; the glow is what marks the turn.",
+    "renderRules": "SUPERCHARGED-LAPTOP LAW: when an agent is working through a computer, the ENTIRE laptop is drawn as a translucent, luminous HOLOGRAPHIC object glowing in that agent's colour, not merely a glowing screen on a grey machine: the chassis, the lid, the keyboard and the screen all glow the same colour and are slightly see-through, and it CASTS LIGHT NOT SHADOW. Orange for Claude Code and the Chief of Agents; sage-green for Grantwell. GEOMETRY LAW: the laptop is an unmistakable clamshell with a hinged screen and a visible physical KEYBOARD, never a tablet or a flat slab, and the camera must be placed so the SCREEN FACE is visible. NEVER draw the sticker-covered BACK of the lid and the screen face in the same view; a lid has two sides and only one can face the viewer. DEFAULT FRAMING: the default camera is from BEHIND the character, OVER THE SHOULDER, so the viewer sees what the character sees. Never place the screen facing the viewer with the characters seated behind it; that would mean they are looking at the back of the lid."
+  }
+}

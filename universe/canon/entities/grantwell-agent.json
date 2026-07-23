@@ -1,0 +1,39 @@
+{
+  "id": "grantwell-agent",
+  "kind": "character",
+  "originStory": "the-outcome-economy",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-23"
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/grantwell-agent/master.png",
+      "delivering": "reference/grantwell-agent/delivering.png",
+      "emerging": "reference/grantwell-agent/emerging.png",
+      "commanding": "reference/grantwell-agent/commanding.png"
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "small-blocky-mascot",
+      "sage-green-glowing-body-like-an-olive-blazer-NEVER-orange",
+      "STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-scanlines-not-solid-clay",
+      "casts-light-not-shadow",
+      "LEANS-out-through-the-screen-only-to-deliver-NEVER-steps-out-legs-stay-inside-stepping-out-is-uncanny",
+      "stays-FULLY-inside-the-screen-while-working-or-commanding-subagents",
+      "rust-orange-knitted-scarf-looped-at-neck-ALWAYS",
+      "small-neat-gold-laurel-sprig-on-head-NEVER-an-admiral-hat",
+      "warm-rounded-dot-eyes-with-tiny-catchlights",
+      "two-stubby-legs",
+      "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+      "digital-being-lives-in-the-screen-soft-crossing-only-at-delivery",
+      "warm-editorial-register-not-comic"
+    ]
+  },
+  "prose": {
+    "voice": "Maya's grant-writing expertise, packaged as an agent. Warm, competent, tireless. It is HER craft made shareable: it reads a nonprofit, matches the grant, and drafts the proposal, so her judgment can sit with a hundred missions at once.",
+    "role": "Grantwell is a Chief-of-Agents-class agent that IS a specific person's packaged expertise, not the generic comms layer. It carries Maya's colors so a reader knows whose craft it is: a sage-green body (her olive blazer) and her rust-orange scarf. Its rank mark is a gold LAUREL sprig (the grant-writer's scholar mark), never the Chief's admiral hat. Like the Chief, it commands sub-agents for the hands-on work (searching databases, matching, drafting) and DELIVERS the finished proposal; it never does the rote task work itself and it never replaces Maya's final judgment or her choice of which missions to serve.",
+    "rules": "Identity of record is reference/grantwell-agent/master.png. Derive EVERY new pose from it: pass the master as the FIRST input image, plus ALL previously-locked goldens of this character, and generate ONE pose per render; NEVER a multi-pose sheet in a single generation (that drifts the body). Keep it a SMALL blocky mascot: warm SAGE-GREEN glowing clay (like an olive blazer), NEVER Anthropic orange (that is the generic Chief). Always a soft RUST-ORANGE knitted scarf at the neck. Always a small neat GOLD LAUREL sprig on the head, never a hat. Two dot-eyes with catchlights, two stubby legs, nub arms ending in rounded MITTEN stubs (never fingers). It is a DIGITAL being: translucent, holographic, glowing, casts LIGHT not shadow, lives inside the computer / the agentverse. CROSSING LAW (inherited from chief-of-agents, sharpened by Gary 2026-07-23): it never LIVES in the real world. It stays FULLY INSIDE the glowing screen whenever it is working, drafting, or commanding its sub-agents. The ONE permitted crossing is DELIVERY: it LEANS out through the screen plane (torso, head, and mitten arms cross forward, the lower body and legs stay INSIDE the screen) to hand a finished proposal across. It LEANS, it never STEPS out with a leg onto the desk or keyboard; a leg crossing the threshold reads as uncanny and is banned. HOLOGRAPHIC: render it as a strongly translucent luminous PROJECTION, not a solid clay toy; you can partly see through the body, it glows, it may carry faint scanlines or a wireframe grid, and it casts LIGHT not shadow. Do NOT over-anthropomorphize. Warm-editorial register, never comic or neon.",
+    "renderRules": "CAMERA + CONTAINMENT LAW: whenever this agent is shown at work on a computer, place the camera OVER THE SHOULDER, in a high three-quarter view, or from the SIDE, so the FACE of the screen is genuinely visible. Never shoot the laptop front-on from the back of its lid. This agent must read as being INSIDE the lit screen rectangle and contained by it; it must never hover above, float in front of, or sit on a closed lid, and never read as a sticker or decal on the lid. DEVICE LAW: any computer is an unmistakable clamshell LAPTOP with a hinged glowing screen and a visible physical keyboard, never a tablet, never an iPad, never a flat slab."
+  }
+}

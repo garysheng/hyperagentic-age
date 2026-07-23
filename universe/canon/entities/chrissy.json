@@ -1,0 +1,57 @@
+{
+  "id": "chrissy",
+  "kind": "character",
+  "originStory": "the-outcome-economy",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-23"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": "reference/chrissy/face-neutral.png",
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": "reference/chrissy/forward-fullbody.png",
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [
+      "forward-fullbody",
+      "face-neutral"
+    ],
+    "invariants": [
+      "white-woman",
+      "long-wavy-blonde-hair-worn-down-center-parted-past-the-shoulders",
+      "warm-wide-open-bright-smile",
+      "relaxed-cream-or-white-blazer-over-a-simple-top-default",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "Warm, quick, generous. An entrepreneur who optimizes her own life for the joy of it and cannot wait to show a friend what she found.",
+    "lore": "Maya's friend and the one who first shows her Claude Code. A relentless personal-automation tinkerer, a 'Claude Code maxer' who has taught her own laptop to do her repeated work. She is the on-ramp: she gets Maya up to speed on building a compounding local AI workspace, which doubles Maya's reach and sets up the deeper realization that personal speed alone is not enough. Modeled on a real person, Christine McDannell, included with her approval.",
+    "rules": "Render in the warm editorial register, built from her photo stack, never a painting-of-a-painting. Load-bearing identity: a white woman with long wavy BLONDE hair worn down, center-parted, falling past the shoulders, and a warm wide open smile. Default wardrobe: a relaxed cream or white blazer over a simple top. Signature prop: a sticker-covered laptop, the tinkerer's workshop. Keep her warm and energetic, never corporate. She is a REAL person included with approval; ship only the public friend-who-loves-automation persona, nothing private."
+  },
+  "realPerson": {
+    "photoStack": [
+      "reference/chrissy/photos/01.jpg",
+      "reference/chrissy/photos/02.jpg",
+      "reference/chrissy/photos/03.jpg",
+      "reference/chrissy/photos/04.jpg"
+    ],
+    "canonicalPhotos": {},
+    "approval": {
+      "state": "approved",
+      "by": "christine-mcdannell",
+      "on": "2026-07-23",
+      "note": "Gary relayed Christine's approval to be included in this book, 2026-07-23."
+    },
+    "sensitiveList": "RESEARCH.md#sensitive",
+    "wardrobeEras": {
+      "default": "A relaxed cream or white blazer over a simple top; long wavy blonde hair worn down."
+    },
+    "groupCount": null
+  }
+}

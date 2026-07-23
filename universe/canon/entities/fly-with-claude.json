@@ -1,0 +1,21 @@
+{
+  "id": "fly-with-claude",
+  "kind": "setting",
+  "originStory": "the-outcome-economy",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-23"
+  },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/fly-with-claude/establishing.png",
+    "emptyPlates": ["reference/fly-with-claude/establishing.png"],
+    "blueprint": "reference/fly-with-claude/blueprint.png",
+    "map": "A warm, human-scaled conference hall, not a cavernous arena. A low raised stage runs along one end carrying a large softly glowing screen and a small lectern. A central aisle splits two blocks of seating that face the stage. Side entrances sit in the long walls; potted trees soften the corners.",
+    "blocking": "The camera sits in the audience or the side aisle, looking toward the lit stage, so the reader is among the attendees rather than above them. Maya is one person in a full room; the stage and its glowing screen draw the eye and the light. Faces of other attendees are mostly seen from behind or in soft focus.",
+    "dressing": "A stage, a large glowing screen, a small lectern, rows of simple chairs, warm overhead stage lighting on a truss, soft hanging banners, potted trees in the corners, a scattering of attendees. The stage backdrop carries a gentle abstract WINGED and open-sky motif suggesting flight and hope. No readable text or lettering anywhere; the wing carries the meaning instead of a wordmark."
+  },
+  "prose": {
+    "rules": "Render in this universe's warm editorial register. The room's job is HOPE and possibility: warm light, an open sky and wing on the stage screen, a full but calm audience. NO readable text or lettering anywhere, including on the stage screen or banners; the winged / open-sky motif carries the 'Fly with Claude' meaning instead of a wordmark, which also keeps the pack's no-lettering rule intact. Keep it human-scaled and warm, never a corporate keynote megachurch. Maya is an attendee among many here, never on the stage."
+  }
+}

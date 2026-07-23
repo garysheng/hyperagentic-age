@@ -1,0 +1,37 @@
+{
+  "id": "engineer",
+  "kind": "character",
+  "originStory": "the-outcome-economy",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-23"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": "reference/engineer/face-neutral.png",
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": "reference/engineer/forward-fullbody.png",
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [
+      "forward-fullbody",
+      "face-neutral"
+    ],
+    "invariants": [
+      "black-man",
+      "short-cropped-hair-and-a-neat-short-beard",
+      "rounded-dark-glasses",
+      "charcoal-grey-zip-hoodie-over-a-plain-tee-default",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "Calm, plain-spoken, kind. Explains the machine in a sentence a non-technical founder can hold. Speaks both languages, hers and the machine's.",
+    "lore": "A generic, unnamed AI engineer Maya meets at the Fly with Claude conference. He is the collaborator who helps her package her grant-writing craft into the Grantwell agent on rented managed infrastructure. He never overshadows Maya; his role is to translate her judgment into something that scales, not to author it. Deliberately not a real person and not Gary.",
+    "rules": "Render in the warm editorial register. Load-bearing identity: a Black man with short cropped hair and a neat short beard, wearing rounded dark glasses and a charcoal-grey zip hoodie over a plain tee, distinct from the other cast (Maya's sage blazer, Gary's denim jacket, Chrissy's cream blazer). Warm, approachable, a laptop often nearby. A supporting character; keep him secondary to Maya in every frame he shares with her."
+  }
+}

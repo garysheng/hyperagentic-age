@@ -8,8 +8,9 @@
     "medium": "picture-book",
     "geometry": {
       "spreads": 24,
-      "aspect": "2:3"
-    }
+      "aspect": "3:2"
+    },
+    "note": "A picture-book SPREAD is landscape (3:2). On the full-spread reader one landscape illustration spans both pages, so a portrait spread gets cropped into a landscape frame and loses the tops of heads. The COVER and the closing PLATE are single portrait pages (2:3); their per-slot geometry overrides this. A book delivered art-and-text (portrait art beside text) overrides the spread geometry per composition. Earned 2026-07-23: The Outcome Economy shipped with every spread sized portrait against a full-spread manifest."
   },
   "requires": [
     {
@@ -28,24 +29,35 @@
   "slots": [
     {
       "id": "cover",
-      "type": "generated"
+      "type": "generated",
+      "geometry": { "w": 2, "h": 3 },
+      "permits": [
+        "text"
+      ],
+      "note": "The cover is a single PORTRAIT page (2:3) and carries the title, the author, and any series line. Every book cover ever printed does. A blanket no-text rule turns the ONE slot that must have type into a defect."
     },
     {
       "id": "spread",
       "repeat": "$.surface.geometry.spreads",
       "type": "generated",
+      "geometry": { "w": 3, "h": 2 },
+      "permits": [
+        "text"
+      ],
       "schema": {
         "beat": "string",
         "characters": "entity[]",
         "location": "entity"
-      }
+      },
+      "note": "A spread is LANDSCAPE (3:2). On the full-spread reader it spans both pages. Portrait art here is cropped and loses heads. Text is PERMITTED: the reader overlays the beat caption itself, but a blanket 'no text, no letters, no numbers' rule distorts the scene (blank laptop screens, textless signs, wordless book pages) and is worse than the incidental text it prevents. Earned 2026-07-23. The judged invariant 'the spread's beat text is legible and unmangled' remains the backstop against garbled type."
     },
     {
       "id": "plate",
       "repeat": "$.plates",
       "type": "generated",
       "register": "plate",
-      "note": "An explanatory plate woven into the narrative. Characterless by contract."
+      "geometry": { "w": 2, "h": 3 },
+      "note": "The closing plate is a single PORTRAIT page (2:3), like the cover. An explanatory plate woven into the narrative. Characterless by contract."
     }
   ],
   "generators": [
@@ -116,7 +128,11 @@
       },
       {
         "id": "the spread's beat text is legible and unmangled",
-        "check": "judged"
+        "check": "judged",
+        "slots": [
+          "spread",
+          "plate"
+        ]
       }
     ],
     "crossSlot": [

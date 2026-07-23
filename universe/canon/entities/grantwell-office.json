@@ -3,6 +3,15 @@
   "kind": "setting",
   "originStory": "get-what-you-deserve-book",
   "authority": { "lockedBy": "gary", "lockedOn": "2026-07-23" },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/grantwell-office/establishing.png",
+    "emptyPlates": ["reference/grantwell-office/establishing.png"],
+    "blueprint": "reference/grantwell-office/blueprint.png",
+    "map": "One small room. A wooden desk sits beneath a single large window on one wall and holds a laptop. Warm cream walls. No other rooms, no open-plan floor, no corporate lobby.",
+    "blocking": "The camera looks across or slightly down at the desk. Maya works at it with the window beside or behind her throwing warm daylight into the room. Keep the frame close to the desk so the room reads in one glance; to feel later or larger, change what is ON the desk rather than adding rooms or people.",
+    "dressing": "A wooden desk, a laptop, a chair, one large window with warm daylight, cream walls, and whatever Maya is working on that week: a notebook, a cream folder, a mug, a small plant. Low element count. No signage, no labels, no text on any surface or screen."
+  },
   "structured": {
     "sheets": {},
     "requiredForRender": [],
