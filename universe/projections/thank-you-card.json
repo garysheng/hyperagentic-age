@@ -7,8 +7,9 @@
   "surface": {
     "medium": "raster",
     "geometry": {
-      "w": 1200,
-      "h": 1200
+      "w": 1500,
+      "h": 900,
+      "split": 900
     }
   },
   "requires": [
@@ -25,11 +26,16 @@
         "recipient": "string",
         "body": "string",
         "signoff": "string"
-      }
+      },
+      "emitter": "agenticstory:brand-card"
     },
     {
       "id": "art-panel",
-      "type": "generated"
+      "type": "generated",
+      "geometry": {
+        "w": 600,
+        "h": 900
+      }
     }
   ],
   "generators": [
@@ -37,7 +43,13 @@
       "for": "art-panel",
       "capability": "image",
       "accepts": "reference-images",
-      "pin": "gpt-image-2"
+      "pin": "gpt-image-2",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
     }
   ],
   "invariants": {
@@ -59,5 +71,6 @@
   },
   "emits": [
     "thank-you-<recipient>.webp"
-  ]
+  ],
+  "notes": "Surface is 5:3 rather than square because the art panel must land on a producible aspect. A 1200x1200 card with a two-thirds split needs 0.333, which no generator emits."
 }

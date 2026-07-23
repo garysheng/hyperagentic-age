@@ -25,7 +25,8 @@
         "eyebrow": "string",
         "headline": "string",
         "url": "string"
-      }
+      },
+      "emitter": "agenticstory:brand-card"
     },
     {
       "id": "art-panel",
@@ -41,7 +42,13 @@
       "for": "art-panel",
       "capability": "image",
       "accepts": "reference-images",
-      "pin": "gpt-image-2"
+      "pin": "gpt-image-2",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
     }
   ],
   "invariants": {

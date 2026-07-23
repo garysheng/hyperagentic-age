@@ -23,7 +23,8 @@
   "slots": [
     {
       "id": "headline",
-      "type": "deterministic"
+      "type": "deterministic",
+      "emitter": "agenticstory:brand-card"
     },
     {
       "id": "hero",
@@ -31,11 +32,13 @@
     },
     {
       "id": "body",
-      "type": "deterministic"
+      "type": "deterministic",
+      "emitter": "agenticstory:brand-card"
     },
     {
       "id": "mark",
-      "type": "deterministic"
+      "type": "deterministic",
+      "emitter": "agenticstory:brand-card"
     }
   ],
   "generators": [
@@ -43,7 +46,13 @@
       "for": "hero",
       "capability": "image",
       "accepts": "reference-images",
-      "pin": "gpt-image-2"
+      "pin": "gpt-image-2",
+      "producibleAspects": [
+        1.0,
+        0.667,
+        1.5
+      ],
+      "tolerance": 0.25
     },
     {
       "for": "body",
