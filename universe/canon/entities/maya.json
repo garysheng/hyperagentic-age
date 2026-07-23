@@ -8,25 +8,30 @@
   },
   "structured": {
     "sheets": {
-      "master": "reference/maya/master.png"
+      "master": "reference/maya/master.png",
+      "rust": "reference/maya/master-rust.png",
+      "conference": "reference/maya/master-conference.png"
     },
     "requiredForRender": [
       "master"
     ],
     "invariants": [
       "half-black-half-white-founder",
-      "rust-blazer",
+      "sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+      "white-crew-neck-tee",
+      "stone-khaki-chinos-never-blue-jeans",
       "laptop-under-arm",
       "warm-editorial-register"
     ],
     "contextual": {
-      "lanyard": "Worn at a CONFERENCE only. Not part of her identity of record."
+      "lanyard": "A CONFERENCE only. Not part of her identity of record. Sheet: conference.",
+      "rust-scarf": "Gained at the moment she stops building her own machinery and gets onto Managed Agents, and worn for every scene after. Sheet: rust."
     }
   },
   "prose": {
     "voice": "The founder \u2014 earnest, capable, building something real (Grantwell, in the book).",
     "lore": "The human end of the crossing: the founder who receives the Chief of Agents' delivered work.",
-    "rules": "Forked from the 'get what you deserve' book's Maya. Render in this universe's warm editorial register with her identity, wardrobe and signatures exact: rust blazer, laptop under arm. Pass reference/maya/master.png as the identity anchor on every render. A fictional composite, NOT a real person (no realPerson dossier / approval gate).",
-    "canonNote": "Lanyard demoted from invariant to CONTEXTUAL (Gary, 2026-07-23: 'the lanyard version of Maya is just when she's at a particular conference'). It was listed as an unconditional identity invariant, so every judge would have failed every office scene for a missing lanyard: 24 spreads of false defects and re-rolls against a rule that was never true. An invariant must hold in EVERY scene by definition; anything that depends on where she is belongs in `contextual` and is checked only when the scene puts her there."
+    "rules": "Render in this universe's warm editorial register with her identity exact: sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim), white sneakers, closed silver laptop under her left arm. Pass the correct sheet as the identity anchor on every render. A fictional composite, NOT a real person (no realPerson dossier / approval gate).",
+    "canonNote": "WARDROBE IS STAGED (Gary, 2026-07-23). The jacket is IDENTITY and never changes; the rust is STATE and is ADDED. She wears the sage-olive blazer throughout, and gains a rust scarf over it once she is on Managed Agents. Rust is the platform's own clay, so the colour arrives exactly when she does, and a reader feels the turn a page before reading it.\n\nAdding rather than swapping is the load-bearing choice: a colour swap would have moved her single most recognisable garment halfway through the book and weakened every identity check after it. Adding an item leaves the identity anchor untouched and lets the marker carry all the meaning.\n\nLanyard was demoted from invariant to contextual the same day: as an unconditional rule it would have failed every office scene across 24 spreads, and a false-firing check costs the real ones their authority."
   }
 }
