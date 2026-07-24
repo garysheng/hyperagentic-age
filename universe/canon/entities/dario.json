@@ -3,11 +3,12 @@
   "kind": "character",
   "originStory": "ai-safety-primer",
   "authority": {
-    "lockedBy": "TODO-you",
-    "lockedOn": null
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-24"
   },
   "structured": {
     "sheets": {
+      "master": "reference/dario/master.png",
       "face-neutral": null,
       "face-3q": null,
       "expressions": null,
@@ -17,7 +18,7 @@
       "back": null,
       "signature-pose": null
     },
-    "requiredForRender": [],
+    "requiredForRender": ["master"],
     "invariants": [
       "middle-aged-man",
       "curly-dark-brown-hair-medium-length",
