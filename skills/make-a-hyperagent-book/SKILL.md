@@ -77,6 +77,8 @@ person, pass the photo stack and re-add the valid `realPerson` block now. Set th
 - **Composition rules for full-spread:** the caption is a semi-opaque cream card on the bottom of the RIGHT half of the spread, so keep the bottom-right region calm (no key face/action there) and set `pos` per spread (`bottom` default; `top` when the bottom is busy; `bottom-left`/`bottom-right` corner cards are narrower). Avoid placing the single most important element dead-center, because the book's gutter splits the image at the middle.
 - Reserve portrait `art-and-text` for genuinely intimate, single-character primers (e.g. a quiet teaching book), and only by explicit choice.
 
+**Motif note (Gary, 2026-07-24): do NOT reach for the winged-startup block-stack ("startup stack flying") as the hopeful-rising motif.** It renders as awkward flying block-towers. Prefer a motif NATIVE to the story: for a lantern/fire book, rising **sky-lanterns** (the carefully-carried fire lifting into the dawn) are far stronger and cohere with the book's own imagery. Pick the rising/hope motif from what the story is already made of, not a reused universe prop.
+
 ### 4. Validate + render  ->  `agenticstory:render-book`
 ```bash
 PYTHONPATH=$ENG python3 -m agenticstory.cli validate <universe>            # must be OK
