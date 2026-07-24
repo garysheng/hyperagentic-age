@@ -1,0 +1,38 @@
+{
+  "id": "dario",
+  "kind": "character",
+  "originStory": "ai-safety-primer",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": null,
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": null,
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "middle-aged-man",
+      "curly-dark-brown-hair-medium-length",
+      "close-trimmed-dark-beard-and-mustache",
+      "warm-earnest-slightly-worried-expression",
+      "simple-dark-casual-shirt-no-suit-no-tie",
+      "no-glasses",
+      "stylized-editorial-illustration-never-photoreal",
+      "warm-editorial-register",
+      "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-or-hair"
+    ]
+  },
+  "prose": {
+    "voice": "Earnest and measured, more worried than triumphant. The careful builder who focuses on the risks precisely because they are the only thing standing between us and a good future.",
+    "lore": "In this universe Dario is the through-line of the AI-safety primer: the founder who started a lab because he was not sure powerful AI would go well, and decided to spend his life making sure it does. Drawn warm and human, never heroic or glossy.",
+    "rules": "Stylized editorial likeness of Dario Amodei, recognizable but never photoreal. Subject-approval stands in via the author. Depict only the public professional persona."
+  }
+}
