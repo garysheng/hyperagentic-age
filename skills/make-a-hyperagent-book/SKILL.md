@@ -68,6 +68,15 @@ FIRST, rejected poles as negatives, the shot's angle + the entity's invariants, 
 person, pass the photo stack and re-add the valid `realPerson` block now. Set the entity's
 `requiredForRender` to the shots you locked. Idempotent.
 
+### Format: DEFAULT to landscape full-spread (Gary, strong preference 2026-07-24)
+
+**Render interior spreads as landscape `1536x1024`, and set the manifest `layout: "full-spread"`.** This is the platform's grain (122 of 124 books) and the right register for narrative and epic books. Do NOT default to portrait `art-and-text` just because the style anchor is a portrait figure; that path-dependence is the exact mistake that shipped The Narrow Path portrait the first time.
+
+- **Why 1536x1024 is exact:** the reader shows one landscape image across two 3:4 pages (`2 x 3:4 = 3:2`), so a 3:2 image maps perfectly, no padding and no crop. (Portrait books pad to `1152x1536`; full-spread interiors need NO padding.)
+- **The cover stays portrait 3:4** (`1152x1536`, padded) and so does the **closing plate** — only the interior spreads are landscape.
+- **Composition rules for full-spread:** the caption is a semi-opaque cream card on the bottom of the RIGHT half of the spread, so keep the bottom-right region calm (no key face/action there) and set `pos` per spread (`bottom` default; `top` when the bottom is busy; `bottom-left`/`bottom-right` corner cards are narrower). Avoid placing the single most important element dead-center, because the book's gutter splits the image at the middle.
+- Reserve portrait `art-and-text` for genuinely intimate, single-character primers (e.g. a quiet teaching book), and only by explicit choice.
+
 ### 4. Validate + render  ->  `agenticstory:render-book`
 ```bash
 PYTHONPATH=$ENG python3 -m agenticstory.cli validate <universe>            # must be OK
