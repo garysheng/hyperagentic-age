@@ -5,45 +5,70 @@
   "spine": "primer",
   "refrain": "The risks are the only thing standing between us and a fundamentally positive future.",
   "status": "full",
-  "register": { "id": null, "anchor": null, "anchoredToRealArt": null, "rejectedPoles": [] },
-  "features": ["dario", "chief-of-agents", "gary", "winged-startup"],
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "dario",
+    "chief-of-agents",
+    "gary",
+    "winged-startup"
+  ],
   "beats": [
     {
       "n": 1,
       "text": "Powerful artificial intelligence is coming, and it might change the world as much as electricity once did. A careful builder named Dario helped start a lab for one honest reason: he was not sure it would go well, so he decided to spend his life making sure it does.",
       "location": null,
-      "characters": ["dario"],
+      "characters": [
+        "dario"
+      ],
       "provenance": "sources/core-views-on-ai-safety.md ('we aren't confident it will go well'); sources/machines-of-loving-grace.md"
     },
     {
       "n": 2,
       "text": "The rule the lab lives by is simple to say and hard to keep. As an AI grows more capable, its safety must grow first. Before each new level of power, the builders promise: we will not release what we cannot yet make safe.",
       "location": null,
-      "characters": ["dario"],
+      "characters": [
+        "dario"
+      ],
       "provenance": "sources/responsible-scaling-policy.md (ASL levels, if-then commitments)"
     },
     {
       "n": 3,
       "text": "Most people are surprised to learn that even the builders cannot fully see inside the minds they make. So they carry a lantern in. They map the thoughts of the machine, feature by feature, because it is not acceptable to hand the world something this powerful and understand it this little.",
       "location": null,
-      "characters": ["dario", "chief-of-agents"],
+      "characters": [
+        "dario",
+        "chief-of-agents"
+      ],
       "provenance": "sources/mechanistic-interpretability.md (Mapping the Mind, Golden Gate Claude); sources/the-urgency-of-interpretability.md ('basically unacceptable for humanity to be totally ignorant of how they work')"
     },
     {
       "n": 4,
       "text": "The lab does not want to win alone. It tries to be the good example the whole field feels it must follow, turning the race to be first into a race to be safe. Doing the right thing out loud, so the others have to keep up.",
       "location": null,
-      "characters": ["dario"],
+      "characters": [
+        "dario"
+      ],
       "provenance": "sources/race-to-the-top.md; sources/lex-dario.md"
     },
     {
       "n": 5,
       "text": "And this is the part people miss. The caution is not the opposite of the hope. The risks are the only thing standing between us and a fundamentally positive future, so the careful ones are the true optimists, quietly clearing the road to a world worth flying into.",
       "location": null,
-      "characters": ["gary", "winged-startup"],
+      "characters": [
+        "gary",
+        "winged-startup"
+      ],
       "provenance": "sources/machines-of-loving-grace.md ('one of my main reasons for focusing on risks is that they're the only thing standing between us and ... a fundamentally positive future')"
     }
   ],
   "writesBack": [],
-  "gates": { "wordsBlessed": null, "subjectApproval": null }
+  "gates": {
+    "wordsBlessed": true,
+    "subjectApproval": true
+  }
 }
