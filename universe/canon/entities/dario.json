@@ -21,15 +21,34 @@
     "requiredForRender": ["master"],
     "invariants": [
       "middle-aged-man",
-      "curly-dark-brown-hair-medium-length",
-      "close-trimmed-dark-beard-and-mustache",
-      "warm-earnest-slightly-worried-expression",
-      "simple-dark-casual-shirt-no-suit-no-tie",
-      "no-glasses",
-      "stylized-editorial-illustration-never-photoreal",
+      "tousled-curly-dark-brown-hair-medium-length",
+      "signature-round-thin-rimmed-glasses",
+      "clean-shaven-no-beard",
+      "warm-earnest-thoughtful-expression",
+      "simple-dark-casual-sweater",
+      "recognizable-illustrated-likeness-of-the-real-subject-never-photoreal",
       "warm-editorial-register",
       "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-or-hair"
     ]
+  },
+  "realPerson": {
+    "subject": "Dario Amodei",
+    "approval": {
+      "state": "approved",
+      "by": "gary",
+      "note": "Author (Gary) approves the recognizable illustrated likeness as proxy for the public subject. Stylized warm-editorial, never photoreal. Keep private; do not publish a real-person-likeness book to a public platform without revisiting."
+    },
+    "photoStack": [
+      "reference/dario/photos/01-glasses-blazer.jpg",
+      "reference/dario/photos/02-speaking-glasses.jpg",
+      "reference/dario/photos/03-bw-glasses.jpg",
+      "reference/dario/photos/04-blue-glasses-cbs.jpg",
+      "reference/dario/photos/05-younger-no-glasses.jpg"
+    ],
+    "wardrobeEras": {
+      "default": "simple dark casual sweater for the book; real-world default is a blazer over an open-collar shirt"
+    },
+    "sensitiveList": "depict only the public professional persona; nothing private"
   },
   "prose": {
     "voice": "Earnest and measured, more worried than triumphant. The careful builder who focuses on the risks precisely because they are the only thing standing between us and a good future.",
