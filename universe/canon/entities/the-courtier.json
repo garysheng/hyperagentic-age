@@ -1,0 +1,41 @@
+{
+  "id": "the-courtier",
+  "kind": "character",
+  "originStory": "the-narrow-path",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-24"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": null,
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": null,
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null,
+      "master": "reference/the-courtier/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "sleek-smiling-figure",
+      "fine-silk-court-robes",
+      "ingratiating-oily-smile",
+      "leaning-in-to-whisper-posture",
+      "soft-manicured-hands",
+      "a-subtle-hidden-serpent-motif",
+      "warm-editorial-register",
+      "archetype-composite-NEVER-a-real-identifiable-person",
+      "appears-EXACTLY-ONCE-per-scene"
+    ]
+  },
+  "prose": {
+    "voice": "Soft and insinuating, always at your ear. Just this one corner. Loosen just this one rule. No one will ever see.",
+    "lore": "A composite archetype of corner-cutting and regulatory-capture pressure. NOT a depiction of any real individual.",
+    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, smiling and serpentine, never photoreal."
+  }
+}

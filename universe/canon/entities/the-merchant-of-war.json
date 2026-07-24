@@ -1,0 +1,40 @@
+{
+  "id": "the-merchant-of-war",
+  "kind": "character",
+  "originStory": "the-narrow-path",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-24"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": null,
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": null,
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null,
+      "master": "reference/the-merchant-of-war/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "heavy-cold-middle-aged-man",
+      "dark-expensive-fur-collared-coat",
+      "gold-rings-and-heavy-chains",
+      "calculating-hard-eyes-no-warmth",
+      "iron-weapons-or-ledgers-nearby",
+      "warm-editorial-register",
+      "archetype-composite-NEVER-a-real-identifiable-person",
+      "appears-EXACTLY-ONCE-per-scene"
+    ]
+  },
+  "prose": {
+    "voice": "Cold and transactional. The fire is a weapon to be bought and aimed wherever the money points.",
+    "lore": "A composite archetype of the pull to militarize AI for profit. NOT a depiction of any real individual.",
+    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, cold and heavy, never photoreal."
+  }
+}

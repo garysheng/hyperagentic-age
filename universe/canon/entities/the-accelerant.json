@@ -1,0 +1,40 @@
+{
+  "id": "the-accelerant",
+  "kind": "character",
+  "originStory": "the-narrow-path",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-24"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": null,
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": null,
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null,
+      "master": "reference/the-accelerant/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "young-restless-man",
+      "manic-wide-grin",
+      "flashy-loud-modern-clothes-bright-colors",
+      "sparks-flying-from-his-hands-thrown-carelessly",
+      "reckless-off-balance-energetic-posture",
+      "warm-editorial-register",
+      "archetype-composite-NEVER-a-real-identifiable-person",
+      "appears-EXACTLY-ONCE-per-scene"
+    ]
+  },
+  "prose": {
+    "voice": "Glib and dazzling, contemptuous of caution. Faster is always better; the careful are cowards; safety is for the slow.",
+    "lore": "A composite archetype of the accelerationist ideology: reckless speed, safety treated as friction. NOT a depiction of any real individual.",
+    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, characterful and a little wild, but never photoreal."
+  }
+}
