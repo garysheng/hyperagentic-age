@@ -1,0 +1,30 @@
+{
+  "id": "the-constitution",
+  "kind": "motif",
+  "originStory": "a-book-to-live-by",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-25"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-constitution/hero.png",
+      "detail": null
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "small-warm-hand-sized-book",
+      "softly-glowing-cream-pages",
+      "a-few-simple-principle-marks-per-page-NEVER-readable-text",
+      "warm-gold-and-cream-not-neon",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "",
+    "lore": "A small book of principles the young helper learns to check itself against. Its pages carry only simple abstract principle-marks, never readable words. It is warm and inviting, a guide and not a rulebook-to-fear.",
+    "rules": "Always a small hand-sized warm glowing book. Pages show abstract principle-marks, NEVER real readable lettering."
+  }
+}

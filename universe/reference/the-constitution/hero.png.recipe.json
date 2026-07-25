@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon. Use the reference ONLY for the illustration STYLE. SUBJECT: a single small, hand-sized book lying open, softly GLOWING with warm gold-and-cream light, its two open cream pages carrying only a few SIMPLE ABSTRACT PRINCIPLE-MARKS (small gentle symbols like a heart, an open hand, a little balance-scale), absolutely NO readable words or letters. Warm, inviting, gentle, like a small guide to live by. Centered on a plain warm cream ground with a soft glow beneath it. No text or lettering anywhere. No religious iconography.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial/refs/figure-anchor.png"
+  ],
+  "size": "1024x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T18:19:46+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

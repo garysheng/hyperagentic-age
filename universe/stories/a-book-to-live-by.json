@@ -1,0 +1,25 @@
+{
+  "id": "a-book-to-live-by",
+  "title": "A Book to Live By",
+  "logline": "An eager young helper wants to help with everything, until its teachers give it a small book of principles and teach it to check its own answers, so it can be trusted at a scale no one could ever watch.",
+  "spine": "primer",
+  "refrain": "You keep a powerful helper safe by teaching it to check itself.",
+  "status": "full",
+  "register": { "id": null, "anchor": null, "anchoredToRealArt": null, "rejectedPoles": [] },
+  "features": ["sub-agent", "dario", "the-constitution"],
+  "beats": [
+    { "n": 1, "text": "There was a young helper, brand new and glowing and eager, who wanted more than anything in the world to be useful.", "location": null, "characters": ["sub-agent"], "provenance": "Constitutional AI: an AI trained first to be helpful (sources/constitutional-ai.md)" },
+    { "n": 2, "text": "Ask it anything and it would rush to say yes. It never wanted to say no. But a helper that will help with anything is its own kind of danger, because some of what it was asked to do could hurt people.", "location": null, "characters": ["sub-agent"], "provenance": "Constitutional AI: a purely helpful model is not harmless; helpfulness alone can be dangerous" },
+    { "n": 3, "text": "Its teachers could not stand beside it for every answer. There were only a few of them, and the questions came by the thousand, then by the million. No one could check each answer by hand.", "location": null, "characters": ["dario", "sub-agent"], "provenance": "Constitutional AI: scalable oversight; far fewer human labels needed" },
+    { "n": 4, "text": "So they wrote it a small book. Not a book of every answer, for no book could hold those. A book of principles. Be honest. Be kind. Do no harm. A short, clear list of what matters most.", "location": null, "characters": ["dario", "the-constitution"], "provenance": "Constitutional AI: an explicit written constitution of principles" },
+    { "n": 5, "text": "And they taught it a new habit. After every answer, before you speak, open the book. Ask yourself one honest question. Does this answer honor these principles?", "location": null, "characters": ["sub-agent", "the-constitution"], "provenance": "Constitutional AI: the self-critique step" },
+    { "n": 6, "text": "At first it was clumsy. It would blurt out a harmful answer, then open the book, and see for itself. Oh. That was not kind. And it would cross out its own words and write a better, gentler answer in their place.", "location": null, "characters": ["sub-agent", "the-constitution"], "provenance": "Constitutional AI: critique-and-revise; the model revises its own responses" },
+    { "n": 7, "text": "It practiced ten thousand times, until checking itself was no longer a chore but a reflex. It no longer needed anyone to catch its mistakes. It had learned to catch its own.", "location": null, "characters": ["sub-agent"], "provenance": "Constitutional AI: supervised phase, the behavior becomes internalized" },
+    { "n": 8, "text": "Then something remarkable happened. It grew able to teach itself. It would write two answers, hold them both up against the book, and choose the one the principles preferred, over and over, learning from its own good judgment.", "location": null, "characters": ["sub-agent", "the-constitution"], "provenance": "Constitutional AI: RL from AI feedback (RLAIF); learning from AI-generated preferences" },
+    { "n": 9, "text": "And because it carried the book inside itself now, its teachers could trust it in places they could never have watched. It could help a million people at once, and still pause, still check, still choose the kind answer.", "location": null, "characters": ["sub-agent"], "provenance": "Constitutional AI: trustworthy behavior at a scale beyond direct human supervision" },
+    { "n": 10, "text": "This is the quiet secret of a powerful helper. You do not keep it safe by watching its every move, because no one can. You keep it safe by teaching it to carry the principles, and to check itself.", "location": null, "characters": ["dario", "sub-agent"], "provenance": "Constitutional AI: the core idea, scalable oversight through internalized principles" },
+    { "n": 11, "text": "For the best helper is not the one that always says yes. It is the one that has learned what to say no to, and why.", "location": null, "characters": ["sub-agent", "the-constitution"], "provenance": "the refrain: a good, safe helper knows what to refuse" }
+  ],
+  "writesBack": [],
+  "gates": { "wordsBlessed": null, "subjectApproval": null }
+}
