@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/a-book-to-live-by/cover-art.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook COVER illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon. FIRST reference is STYLE only. SECOND reference is THE HELPER: a small endearing blocky TRANSLUCENT GLOWING clay-coral-ORANGE mascot creature with a soft white-and-orange-glow sailor cap, two round glowing dark eyes, stubby arms; a holographic light-being that casts warm light not shadow. THIRD reference is THE BOOK: a small hand-sized open book softly glowing gold-and-cream with a few simple abstract principle-marks (heart, open hand, scale), never readable words. SCENE: the little glowing helper stands in the LOWER-CENTER of the frame, holding the small glowing book of principles gently in both stubby hands and looking down into it with a calm, tender, thoughtful expression. Soft warm golden light radiates from the book. The UPPER HALF of the image is open warm sky or soft glowing space, calm and mostly empty, generous room for a title. Warm, gentle, hopeful. NO text or lettering anywhere. No religious iconography.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial/refs/figure-anchor.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T18:46:39+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}
