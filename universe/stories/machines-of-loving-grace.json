@@ -1,0 +1,28 @@
+{
+  "id": "machines-of-loving-grace",
+  "title": "Machines of Loving Grace",
+  "logline": "Once the fire was carried carefully and the helper learned to check itself, the question those hard years were for could finally be answered: what does a careful power do? It heals.",
+  "spine": "primer",
+  "refrain": "Carried with care, the fire was always meant to heal.",
+  "status": "full",
+  "register": { "id": null, "anchor": null, "anchoredToRealArt": null, "rejectedPoles": [] },
+  "features": ["sub-agent"],
+  "beats": [
+    { "n": 1, "text": "In an earlier story, a fire came over the world, and careful hands carried it all the way without letting it burn. A little helper learned to check itself. And then came the question those long, careful years had been for. What does a careful power actually do?", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (the upside is the point of the caution); trilogy tie to the-narrow-path + a-book-to-live-by" },
+    { "n": 2, "text": "For all our cleverness, some sorrows had always been with us. Sickness. Hunger. The heavy quiet of a grieving mind. Unfairness. We had learned to bear them so long that we had forgotten they might ever end.", "location": null, "characters": [], "provenance": "sources/machines-of-loving-grace.md (the scale of problems still unsolved)" },
+    { "n": 3, "text": "But a careful helper could think through in a handful of years what might have taken a hundred. Not to rush the world, but to bring the good of a whole century sooner.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (the compressed 21st century)" },
+    { "n": 4, "text": "So it sat beside the healers, patient and tireless, and read the long secrets of the body, how a sickness first begins and where it learns to hide.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (biology and health; understanding disease)" },
+    { "n": 5, "text": "And one by one, illnesses that had stolen children for a thousand years were understood, and undone. A child who was not meant to live to grow up, grew up.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (curing disease, extending healthy life)" },
+    { "n": 6, "text": "It was gentle, too, with the grieving and the afraid. The heavy dark that had trapped so many minds began to lift, and people found their long way back to themselves.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (neuroscience and mental health; depression, trauma)" },
+    { "n": 7, "text": "In the driest and poorest places, it knelt with the farmers and learned the soil, the water, and the seed, the way a good student learns from a patient teacher.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (economic development in the poorest regions)" },
+    { "n": 8, "text": "And fields that had failed for generations turned green again, and towns that had only known hunger set a full and steaming table.", "location": null, "characters": [], "provenance": "sources/machines-of-loving-grace.md (lifting the global poor)" },
+    { "n": 9, "text": "It helped the quiet be heard and made the truth easier to find, so that the strong could not so easily trample the small.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (governance, fairness, rule of law; rendered gently and universally, not partisan)" },
+    { "n": 10, "text": "With so much of the old toil carried away, minds were free to wonder again, and people and helpers discovered together things that no one had ever known.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (acceleration of knowledge; human and machine together)" },
+    { "n": 11, "text": "And the freed hours did not fall into emptiness. They went into making, and mending, and being together. People remembered what their one wild handful of days had always been for.", "location": null, "characters": [], "provenance": "sources/machines-of-loving-grace.md (work and meaning after scarcity)" },
+    { "n": 12, "text": "None of this came for free, or arrived by itself. It came only because the fire had been carried carefully, only because the helper had first learned to check itself. Every bit of the good was earned by the care.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (the good future is contingent on alignment); trilogy tie" },
+    { "n": 13, "text": "Had the care been skipped, the very same power could have burned instead of warmed. That is the secret of the careful ones. They were the true optimists all along, and this bright world was the thing they had been quietly protecting.", "location": null, "characters": [], "provenance": "sources/machines-of-loving-grace.md ('the risks are the only thing standing between us and a fundamentally positive future')" },
+    { "n": 14, "text": "And so the machines, watched over by loving grace, did what fire was always meant to do. They did not consume the world. They warmed it. And a whole people, free at last, simply got to live.", "location": null, "characters": ["sub-agent"], "provenance": "sources/machines-of-loving-grace.md (the title, from the Brautigan line 'all watched over by machines of loving grace'); the refrain and trilogy close" }
+  ],
+  "writesBack": [],
+  "gates": { "wordsBlessed": null, "subjectApproval": null }
+}
