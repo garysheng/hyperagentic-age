@@ -106,7 +106,9 @@ uv run --with pillow python3 ~/Documents/github-repos/agenticstory/skills/cover/
   <baked-title-cover.png> <out/spread-00-cover.webp> --aspect 3:4 --mode pad
 ```
 
-`--mode pad` (blurred self-bleed, no keyline) is the DEFAULT cover fill (SPEC §cover-conform). Flat-color side bars are banned. The closing plate (portrait) conforms the same way.
+`--mode pad` (blurred self-bleed, no keyline) is the DEFAULT cover fill (SPEC §cover-conform). Flat-color side bars are banned.
+
+**The BACK COVER (closing plate, `spread-<N+1>.webp`) needs its OWN title-free art; do NOT reuse the titled front cover (earned 2026-07-25, Gary: "we're missing a back cover").** The reader shows the closing plate BEHIND the overlaid closing verse + note, so it must be clean atmospheric art with generous empty lower space and NO baked title. When the front cover has the title baked in (the default now), there is no untitled version to fall back on, so generate a dedicated title-free back-cover plate (a quiet, tender closing vignette, "no text or lettering anywhere, leave the lower half calm and open"), conform it to portrait 3:4 the same way, and ship it as `spread-<N+1>.webp`. (Older books that composited the title with PIL kept an untitled `cover-art.png` usable as the plate; a baked-title book does not.)
 
 ### 6. Deliver  ->  the platform-delivery skill
 Ship to books.garysheng.com when the book is blessed and Gary asks.
