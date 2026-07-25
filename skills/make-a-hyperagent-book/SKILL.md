@@ -73,7 +73,7 @@ person, pass the photo stack and re-add the valid `realPerson` block now. Set th
 **Render interior spreads as landscape `1536x1024`, and set the manifest `layout: "full-spread"`.** This is the platform's grain (122 of 124 books) and the right register for narrative and epic books. Do NOT default to portrait `art-and-text` just because the style anchor is a portrait figure; that path-dependence is the exact mistake that shipped The Narrow Path portrait the first time.
 
 - **Why 1536x1024 is exact:** the reader shows one landscape image across two 3:4 pages (`2 x 3:4 = 3:2`), so a 3:2 image maps perfectly, no padding and no crop. (Portrait books pad to `1152x1536`; full-spread interiors need NO padding.)
-- **The cover stays portrait 3:4** (`1152x1536`, padded) and so does the **closing plate** — only the interior spreads are landscape.
+- **The cover stays portrait 3:4** (`1152x1536`) and so does the **closing plate** — only the interior spreads are landscape. Conform the cover from its producible 2:3 render with `conform_cover.py --mode pad` (blurred self-bleed, never flat bars — see step 5).
 - **Composition rules for full-spread:** the caption is a semi-opaque cream card on the bottom of the RIGHT half of the spread, so keep the bottom-right region calm (no key face/action there) and set `pos` per spread (`bottom` default; `top` when the bottom is busy; `bottom-left`/`bottom-right` corner cards are narrower). Avoid placing the single most important element dead-center, because the book's gutter splits the image at the middle.
 - Reserve portrait `art-and-text` for genuinely intimate, single-character primers (e.g. a quiet teaching book), and only by explicit choice.
 
@@ -93,7 +93,16 @@ once each featured new entity has a locked master in `requiredForRender`. Then
 Words-before-art holds: run `voice-gate` on the manuscript first.
 
 ### 5. Cover  ->  `agenticstory:cover`
-Portrait, diegetic title, the `A HYPERAGENTIC AGE story` mark, register anchor first, readback.
+Portrait, the `A HYPERAGENTIC AGE story` mark, register anchor first, readback. The title + mark may be composited as clean type with PIL (avoids the model misspelling the title) instead of baked into the render.
+
+**Cover aspect: NEVER hand-roll the pad. Use the framework tool (earned 2026-07-25, Gary: "very not a fan of the white left-right padding").** Image models emit the cover at a producible tall aspect (2:3, `1024x1536`); the reader wants 3:4 (`1152x1536`). Do NOT pad the width with a flat color: flat bars seam visibly against the art's textured/vignetted background. Run the framework's conform tool, which fills the side panels with a blurred self-bleed (a soft continuation of the art's own colors, so the padding vanishes):
+
+```bash
+uv run --with pillow python3 ~/Documents/github-repos/agenticstory/skills/cover/scripts/conform_cover.py \
+  <titled-cover.png> <out/spread-00-cover.webp> --aspect 3:4 --mode pad
+```
+
+`--mode pad` (blurred self-bleed, no keyline) is the DEFAULT cover fill (SPEC §cover-conform). Flat-color side bars are banned. The closing plate (portrait) conforms the same way.
 
 ### 6. Deliver  ->  the platform-delivery skill
 Ship to books.garysheng.com when the book is blessed and Gary asks.
