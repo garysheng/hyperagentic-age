@@ -1,0 +1,42 @@
+{
+  "id": "warm-editorial-neutral",
+  "name": "Warm Editorial (content-neutral)",
+  "anchor": "refs/warm-editorial-swatch.png",
+  "refs": [
+    "refs/warm-editorial-swatch.png",
+    "refs/ref-land.png",
+    "refs/ref-feast.png",
+    "refs/ref-make.png",
+    "refs/ref-object.png"
+  ],
+  "palette": {
+    "ground": [
+      "#EFE6D2",
+      "#F5F1E9"
+    ],
+    "fill": [
+      "#8FB0CE"
+    ],
+    "line": [
+      "#3B382F"
+    ]
+  },
+  "styleLine": "warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults",
+  "rejectedPoles": [
+    "comic-book",
+    "cartoon mascot",
+    "flat vector",
+    "neon",
+    "3D/CGI/Pixar",
+    "photoreal",
+    "anime",
+    "any identifiable recurring individual's face or signature clothing"
+  ],
+  "gate": [
+    "warm editorial painterly illustration, soft brushwork; NOT comic, NOT flat vector, NOT photoreal, NOT 3D",
+    "muted natural palette on a warm cream ground",
+    "no identifiable recurring person's face or signature clothing is baked into the style; humans (if any) are ordinary and varied",
+    "no text or lettering"
+  ],
+  "maxElements": 6
+}
