@@ -93,13 +93,13 @@ once each featured new entity has a locked master in `requiredForRender`. Then
 Words-before-art holds: run `voice-gate` on the manuscript first.
 
 ### 5. Cover  ->  `agenticstory:cover`
-Portrait, the `A HYPERAGENTIC AGE story` mark, register anchor first, readback. The title + mark may be composited as clean type with PIL (avoids the model misspelling the title) instead of baked into the render.
+Portrait, register anchor first. **BAKE the title, subtitle, and the `A HYPERAGENTIC AGE story` mark INTO the render as integrated hand-painted storybook lettering, not a flat PIL overlay (Gary, 2026-07-25: "make sure the covers are generated so the text isn't just overlaid").** A generated, painted title reads as a real book cover; a font composited on top reads as a slide. Quote the EXACT strings in the prompt ("render the title AS PART OF THE ART, hand-painted integrated lettering... spell every word exactly"). Then READ THE COVER BACK and check the spelling of every line letter by letter; on any misspelling, regenerate FROM SCRATCH (this is the render-readback discipline, and it is what makes baked text safe). PIL-composited type is only a FALLBACK if the model cannot hold the spelling after ~3 tries.
 
 **Cover aspect: NEVER hand-roll the pad. Use the framework tool (earned 2026-07-25, Gary: "very not a fan of the white left-right padding").** Image models emit the cover at a producible tall aspect (2:3, `1024x1536`); the reader wants 3:4 (`1152x1536`). Do NOT pad the width with a flat color: flat bars seam visibly against the art's textured/vignetted background. Run the framework's conform tool, which fills the side panels with a blurred self-bleed (a soft continuation of the art's own colors, so the padding vanishes):
 
 ```bash
 uv run --with pillow python3 ~/Documents/github-repos/agenticstory/skills/cover/scripts/conform_cover.py \
-  <titled-cover.png> <out/spread-00-cover.webp> --aspect 3:4 --mode pad
+  <baked-title-cover.png> <out/spread-00-cover.webp> --aspect 3:4 --mode pad
 ```
 
 `--mode pad` (blurred self-bleed, no keyline) is the DEFAULT cover fill (SPEC §cover-conform). Flat-color side bars are banned. The closing plate (portrait) conforms the same way.
