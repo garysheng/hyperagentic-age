@@ -1,6 +1,6 @@
 {
-  "id": "warm-editorial-neutral",
-  "name": "Warm Editorial (content-neutral)",
+  "id": "warm-editorial-titled",
+  "name": "Warm editorial, titled (wiki hero strips)",
   "anchor": "refs/warm-editorial-swatch.png",
   "refs": [
     "refs/warm-editorial-swatch.png",
@@ -36,8 +36,10 @@
     "warm editorial painterly illustration, soft brushwork; NOT comic, NOT flat vector, NOT photoreal, NOT 3D",
     "muted natural palette on a warm cream ground",
     "no identifiable recurring person's face or signature clothing is baked into the style; humans (if any) are ordinary and varied",
-    "no caption or title chrome layered over the art; any text that exists in the depicted world is spelled correctly"
+    "every declared string is present and spelled character-exact; a near-miss is a DEFECT",
+    "no text beyond the declared strings; invented lettering is a DEFECT",
+    "title bar and footer bar sit in the cream margin, never over the artwork"
   ],
   "maxElements": 6,
-  "textPolicy": "diegetic"
+  "textPolicy": "furniture"
 }
