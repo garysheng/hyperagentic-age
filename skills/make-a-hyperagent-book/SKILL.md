@@ -128,3 +128,26 @@ run (lock dario -> render 5 spreads -> cover) is the remaining step this skill d
 ## Skill improvement
 If the engine's schema or CLI changes (a new required field, a renamed command, a new
 `add-*` skill), fix this SKILL.md in the same session per the AGENTS.md skill-improvement rule.
+
+## Land the work -> `agenticstory:land-work` (ALWAYS, never "parked")
+
+**The run is not over until every branch it opened is merged or queued.** Never end
+a report with "the branch is committed but parked, main is checked out elsewhere".
+Gary has no opinion about merging and never will; that sentence costs a round trip
+whose answer is always "use your judgment". Parking is an unfinished job and it
+compounds into a pile of stale worktrees.
+
+```bash
+ENG=~/Documents/github-repos/agenticstory/engine
+# FIRST thing in a run: finish what a previous run could not.
+(cd "$ENG" && python3 -m agenticstory.cli land ~/Documents/github-repos/hyperagentic-age --drain-only)
+# LAST thing, once per repo the run touched:
+(cd "$ENG" && python3 -m agenticstory.cli land ~/Documents/github-repos/hyperagentic-age --branch <work-branch>)
+# Housekeeping when worktrees pile up:
+(cd "$ENG" && python3 -m agenticstory.cli land ~/Documents/github-repos/hyperagentic-age --prune-stale)
+```
+
+Safe by construction: merges only when the target is checked out nowhere or held by
+a CLEAN worktree, QUEUES when a live session holds it dirty (the next run drains
+it), and never uses `git update-ref` or `git branch -f`. A queued merge is a
+SUCCESS worth one line. **Surface only a genuine merge CONFLICT.**
