@@ -1,41 +1,69 @@
 {
-  "id": "the-courtier",
-  "kind": "character",
-  "originStory": "the-narrow-path",
-  "authority": {
-    "lockedBy": "gary",
-    "lockedOn": "2026-07-24"
+ "id": "the-courtier",
+ "kind": "character",
+ "originStory": "the-narrow-path",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-24",
+  "note": "RENDER BLOCK REPAIRED 2026-07-28: the entity was locked with art and invariants but had NO structured.render, so the compiler could not cast it at all. Restated its existing invariants and prose as always + poses, additive only, no new design invented. Both poses bind to `master`, the only sheet on disk."
+ },
+ "structured": {
+  "sheets": {
+   "face-neutral": null,
+   "face-3q": null,
+   "expressions": null,
+   "forward-fullbody": null,
+   "profile-left": null,
+   "profile-right": null,
+   "back": null,
+   "signature-pose": null,
+   "master": "reference/the-courtier/master.png"
   },
-  "structured": {
-    "sheets": {
-      "face-neutral": null,
-      "face-3q": null,
-      "expressions": null,
-      "forward-fullbody": null,
-      "profile-left": null,
-      "profile-right": null,
-      "back": null,
-      "signature-pose": null,
-      "master": "reference/the-courtier/master.png"
-    },
-    "requiredForRender": [
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "sleek-smiling-figure",
+   "fine-silk-court-robes",
+   "ingratiating-oily-smile",
+   "leaning-in-to-whisper-posture",
+   "soft-manicured-hands",
+   "a-subtle-hidden-serpent-motif",
+   "warm-editorial-register",
+   "archetype-composite-NEVER-a-real-identifiable-person",
+   "appears-EXACTLY-ONCE-per-scene"
+  ],
+  "render": {
+   "always": "THE COURTIER (canon id the-courtier), the archetype of corner-cutting and regulatory-capture pressure. A SLEEK, SMILING FIGURE in FINE SILK COURT ROBES, with an INGRATIATING OILY SMILE, SOFT MANICURED HANDS, and a habitual LEANING-IN-TO-WHISPER posture. A SUBTLE HIDDEN SERPENT MOTIF is worked somewhere into the robes or the setting, never obvious and never a literal snake in the open. He is a COMPOSITE ARCHETYPE and is NEVER a caricature of any real, identifiable person or institution. Warm-editorial ink-and-wash, smiling and serpentine, never photoreal. He APPEARS EXACTLY ONCE in any scene. He is the most dangerous of the three because he is the most agreeable: nothing he says sounds unreasonable.",
+   "poses": {
+    "front": {
+     "bake": "Seen from the front or three-quarter, smiling, hands soft and folded. Immaculate. Pleasant in a way that does not quite reach the eyes.",
+     "sheets": [
       "master"
-    ],
-    "invariants": [
-      "sleek-smiling-figure",
-      "fine-silk-court-robes",
-      "ingratiating-oily-smile",
-      "leaning-in-to-whisper-posture",
-      "soft-manicured-hands",
-      "a-subtle-hidden-serpent-motif",
-      "warm-editorial-register",
-      "archetype-composite-NEVER-a-real-identifiable-person",
-      "appears-EXACTLY-ONCE-per-scene"
-    ]
-  },
-  "prose": {
-    "voice": "Soft and insinuating, always at your ear. Just this one corner. Loosen just this one rule. No one will ever see.",
-    "lore": "A composite archetype of corner-cutting and regulatory-capture pressure. NOT a depiction of any real individual.",
-    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, smiling and serpentine, never photoreal."
+     ]
+    },
+    "whispering": {
+     "bake": "LEANING IN CLOSE to the ear of the person he is influencing, one soft hand raised near his mouth, smiling. Intimate and confiding. The other person is not recoiling; that is the point. He is NOT grotesque and NOT obviously villainous.",
+     "sheets": [
+      "master"
+     ]
+    }
+   },
+   "qa": [
+    "sleek smiling figure in fine silk court robes",
+    "ingratiating oily smile",
+    "soft manicured hands",
+    "leaning-in-to-whisper posture",
+    "a subtle hidden serpent motif, never a literal open snake",
+    "archetype only: never a caricature of a real identifiable person or institution",
+    "appears exactly once in the scene",
+    "warm-editorial, never photoreal"
+   ]
   }
+ },
+ "prose": {
+  "voice": "Soft and insinuating, always at your ear. Just this one corner. Loosen just this one rule. No one will ever see.",
+  "lore": "A composite archetype of corner-cutting and regulatory-capture pressure. NOT a depiction of any real individual.",
+  "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, smiling and serpentine, never photoreal."
+ }
 }

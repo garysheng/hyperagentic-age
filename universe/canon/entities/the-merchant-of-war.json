@@ -1,40 +1,68 @@
 {
-  "id": "the-merchant-of-war",
-  "kind": "character",
-  "originStory": "the-narrow-path",
-  "authority": {
-    "lockedBy": "gary",
-    "lockedOn": "2026-07-24"
+ "id": "the-merchant-of-war",
+ "kind": "character",
+ "originStory": "the-narrow-path",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-24",
+  "note": "RENDER BLOCK REPAIRED 2026-07-28: the entity was locked with art and invariants but had NO structured.render, so the compiler could not cast it at all. Restated its existing invariants and prose as always + poses, additive only, no new design invented. Both poses bind to `master`, the only sheet on disk."
+ },
+ "structured": {
+  "sheets": {
+   "face-neutral": null,
+   "face-3q": null,
+   "expressions": null,
+   "forward-fullbody": null,
+   "profile-left": null,
+   "profile-right": null,
+   "back": null,
+   "signature-pose": null,
+   "master": "reference/the-merchant-of-war/master.png"
   },
-  "structured": {
-    "sheets": {
-      "face-neutral": null,
-      "face-3q": null,
-      "expressions": null,
-      "forward-fullbody": null,
-      "profile-left": null,
-      "profile-right": null,
-      "back": null,
-      "signature-pose": null,
-      "master": "reference/the-merchant-of-war/master.png"
-    },
-    "requiredForRender": [
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "heavy-cold-middle-aged-man",
+   "dark-expensive-fur-collared-coat",
+   "gold-rings-and-heavy-chains",
+   "calculating-hard-eyes-no-warmth",
+   "iron-weapons-or-ledgers-nearby",
+   "warm-editorial-register",
+   "archetype-composite-NEVER-a-real-identifiable-person",
+   "appears-EXACTLY-ONCE-per-scene"
+  ],
+  "render": {
+   "always": "THE MERCHANT OF WAR (canon id the-merchant-of-war), the archetype of the pull to militarize a technology for profit. A HEAVY, COLD, MIDDLE-AGED MAN in a DARK EXPENSIVE FUR-COLLARED COAT, wearing GOLD RINGS and HEAVY CHAINS. His eyes are CALCULATING and HARD, with NO WARMTH in them. IRON WEAPONS OR LEDGERS are nearby in the scene. He is a COMPOSITE ARCHETYPE and is NEVER a caricature of any real, identifiable person, company or nation. Warm-editorial ink-and-wash, cold and heavy, never photoreal. He APPEARS EXACTLY ONCE in any scene. He is not loud: his menace is patience and money, never shouting.",
+   "poses": {
+    "front": {
+     "bake": "Seen from the front or three-quarter, still and heavy, hands folded or resting on something he owns. Weapons or ledgers visible nearby. Utterly composed.",
+     "sheets": [
       "master"
-    ],
-    "invariants": [
-      "heavy-cold-middle-aged-man",
-      "dark-expensive-fur-collared-coat",
-      "gold-rings-and-heavy-chains",
-      "calculating-hard-eyes-no-warmth",
-      "iron-weapons-or-ledgers-nearby",
-      "warm-editorial-register",
-      "archetype-composite-NEVER-a-real-identifiable-person",
-      "appears-EXACTLY-ONCE-per-scene"
-    ]
-  },
-  "prose": {
-    "voice": "Cold and transactional. The fire is a weapon to be bought and aimed wherever the money points.",
-    "lore": "A composite archetype of the pull to militarize AI for profit. NOT a depiction of any real individual.",
-    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, cold and heavy, never photoreal."
+     ]
+    },
+    "making-the-offer": {
+     "bake": "SEATED OR STANDING ACROSS FROM the person he is bargaining with, one hand extended flat over a table in the gesture of an offer, the other resting on a ledger or a piece of iron. Patient and unhurried. He is NOT shouting and NOT threatening; the pressure is entirely in his stillness.",
+     "sheets": [
+      "master"
+     ]
+    }
+   },
+   "qa": [
+    "heavy cold middle-aged man",
+    "dark expensive fur-collared coat",
+    "gold rings and heavy chains",
+    "calculating hard eyes with no warmth",
+    "iron weapons or ledgers nearby",
+    "archetype only: never a caricature of a real identifiable person, company or nation",
+    "appears exactly once in the scene",
+    "warm-editorial, never photoreal"
+   ]
   }
+ },
+ "prose": {
+  "voice": "Cold and transactional. The fire is a weapon to be bought and aimed wherever the money points.",
+  "lore": "A composite archetype of the pull to militarize AI for profit. NOT a depiction of any real individual.",
+  "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, cold and heavy, never photoreal."
+ }
 }

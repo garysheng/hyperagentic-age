@@ -1,40 +1,67 @@
 {
-  "id": "the-accelerant",
-  "kind": "character",
-  "originStory": "the-narrow-path",
-  "authority": {
-    "lockedBy": "gary",
-    "lockedOn": "2026-07-24"
+ "id": "the-accelerant",
+ "kind": "character",
+ "originStory": "the-narrow-path",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-24",
+  "note": "RENDER BLOCK REPAIRED 2026-07-28: the entity was locked with art and invariants but had NO structured.render, so the compiler could not cast it at all. Restated its existing invariants and prose as always + poses, additive only, no new design invented. Both poses bind to `master`, the only sheet on disk."
+ },
+ "structured": {
+  "sheets": {
+   "face-neutral": null,
+   "face-3q": null,
+   "expressions": null,
+   "forward-fullbody": null,
+   "profile-left": null,
+   "profile-right": null,
+   "back": null,
+   "signature-pose": null,
+   "master": "reference/the-accelerant/master.png"
   },
-  "structured": {
-    "sheets": {
-      "face-neutral": null,
-      "face-3q": null,
-      "expressions": null,
-      "forward-fullbody": null,
-      "profile-left": null,
-      "profile-right": null,
-      "back": null,
-      "signature-pose": null,
-      "master": "reference/the-accelerant/master.png"
-    },
-    "requiredForRender": [
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "young-restless-man",
+   "manic-wide-grin",
+   "flashy-loud-modern-clothes-bright-colors",
+   "sparks-flying-from-his-hands-thrown-carelessly",
+   "reckless-off-balance-energetic-posture",
+   "warm-editorial-register",
+   "archetype-composite-NEVER-a-real-identifiable-person",
+   "appears-EXACTLY-ONCE-per-scene"
+  ],
+  "render": {
+   "always": "THE ACCELERANT (canon id the-accelerant), the archetype of reckless speed. A YOUNG, RESTLESS MAN with a MANIC WIDE GRIN, in FLASHY LOUD MODERN CLOTHES in bright colours. SPARKS FLY FROM HIS HANDS and he throws them CARELESSLY, scattering them without looking where they land. His posture is RECKLESS, OFF-BALANCE and ENERGETIC, always mid-motion, never settled. He is a COMPOSITE ARCHETYPE of the accelerationist ideology, treating safety as friction, and is NEVER a caricature of any real, identifiable person or company. Warm-editorial ink-and-wash, characterful and a little wild, never photoreal. He APPEARS EXACTLY ONCE in any scene. He is charismatic rather than evil: people follow him because he is fun, which is the whole danger.",
+   "poses": {
+    "front": {
+     "bake": "Seen from the front or three-quarter, mid-motion and off-balance, grinning wide, sparks scattering from one or both hands. Never still, never posed formally.",
+     "sheets": [
       "master"
-    ],
-    "invariants": [
-      "young-restless-man",
-      "manic-wide-grin",
-      "flashy-loud-modern-clothes-bright-colors",
-      "sparks-flying-from-his-hands-thrown-carelessly",
-      "reckless-off-balance-energetic-posture",
-      "warm-editorial-register",
-      "archetype-composite-NEVER-a-real-identifiable-person",
-      "appears-EXACTLY-ONCE-per-scene"
-    ]
-  },
-  "prose": {
-    "voice": "Glib and dazzling, contemptuous of caution. Faster is always better; the careful are cowards; safety is for the slow.",
-    "lore": "A composite archetype of the accelerationist ideology: reckless speed, safety treated as friction. NOT a depiction of any real individual.",
-    "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, characterful and a little wild, but never photoreal."
+     ]
+    },
+    "tempting": {
+     "bake": "LEANING IN toward the person he is talking to, one arm flung wide as if showing them something enormous and wonderful just over there. Persuasive and infectious rather than sinister. Sparks fly from the flung hand and nobody is watching where they fall.",
+     "sheets": [
+      "master"
+     ]
+    }
+   },
+   "qa": [
+    "young restless man, manic wide grin",
+    "flashy loud modern clothes in bright colours",
+    "sparks flying from his hands, thrown carelessly",
+    "reckless off-balance energetic posture, mid-motion",
+    "archetype only: never a caricature of a real identifiable person or company",
+    "appears exactly once in the scene",
+    "warm-editorial, never photoreal"
+   ]
   }
+ },
+ "prose": {
+  "voice": "Glib and dazzling, contemptuous of caution. Faster is always better; the careful are cowards; safety is for the slow.",
+  "lore": "A composite archetype of the accelerationist ideology: reckless speed, safety treated as friction. NOT a depiction of any real individual.",
+  "rules": "Archetype only, never a caricature of a real, identifiable person. Warm-editorial register, characterful and a little wild, but never photoreal."
+ }
 }
