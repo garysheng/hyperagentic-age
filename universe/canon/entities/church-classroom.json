@@ -1,0 +1,25 @@
+{
+  "id": "church-classroom",
+  "kind": "setting",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null
+  },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/church-classroom/establishing.png",
+    "emptyPlates": [
+      "reference/church-classroom/establishing.png"
+    ],
+    "blueprint": "reference/church-classroom/blueprint.png",
+    "scalePlate": null,
+    "map": "One small room in a modest church, used for reading to children. A worn rug covers the middle of the floor. Low wooden chairs stand in a loose half-circle facing one slightly larger reading chair. A low shelf of picture books runs along one wall. One tall window on the opposite wall throws warm daylight across the rug. Cream walls. No sanctuary, no pews, no altar, no stage, no other rooms.",
+    "blocking": "The camera sits low, near a child's eye height, looking across the rug toward the reading chair with the window light coming from the side. Keep the frame close to the half-circle so the room reads in one glance. To feel later or fuller, change what is ON the rug and the shelf rather than adding rooms or furniture.",
+    "dressing": "A worn rug, low wooden chairs, one reading chair, a low shelf of picture books, a tall window with warm daylight, a few floor cushions. Low element count. No signage, no posters, no banners, no labels, no lettering on any book spine or wall.",
+    "scale": "Small. A child standing on the rug reaches roughly the height of the window sill, and the reading chair is adult-sized among child-sized ones."
+  },
+  "prose": {
+    "rules": "Warm and modest and clearly loved, never grand and never institutional. It is a room where somebody reads to children, so the sanctuary vocabulary is wrong: no pews, no altar, no stage, no stained glass, no cross on the wall. Keep it denominationally silent. And no lettering anywhere, including book spines, which is the failure a room full of books invites."
+  }
+}

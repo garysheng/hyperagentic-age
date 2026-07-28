@@ -1,0 +1,16 @@
+{
+  "asset": "reference/church-classroom/blueprint.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is THE SAME ROOM seen from inside: keep its exact furniture, proportions and layout.\n\nA simple hand-drawn OVERHEAD FLOOR PLAN of that same small room, looking straight down, drawn as a warm painterly diagram on plain cream rather than a technical blueprint.\n\nThe room is a plain rectangle. Along the left wall, the long low bookshelf drawn as a simple bar. Centred in the room, the round worn rug. On the rug, six small squares in a loose half-circle for the child chairs, and one slightly larger square for the reading chair at the open end of the half-circle. On the right wall, a wide gap for the tall window. Two small rounded shapes beside the rug for the floor cushions. A single door opening on the lower wall.\n\nSoft warm lines, gentle wash fills, slightly wobbly and hand-made rather than mechanical. Simple and readable at a glance.\n\nNo people, no figures. No dimension lines, no arrows, no grid, no scale bar, no compass rose, no callouts. No text, no letters, no numbers, no labels, no words, no writing anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/church-classroom/establishing.png"
+  ],
+  "size": "1024x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T18:19:42+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

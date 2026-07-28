@@ -1,0 +1,38 @@
+{
+  "id": "ruth",
+  "kind": "character",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-28"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": "reference/ruth/face-neutral.png",
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": "reference/ruth/forward-fullbody.png",
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [
+      "forward-fullbody",
+      "face-neutral"
+    ],
+    "invariants": [
+      "older-latina-woman-sixties",
+      "dark-hair-heavily-streaked-with-silver-in-a-short-practical-cut",
+      "reading-glasses-on-a-small-beaded-cord-around-her-neck",
+      "soft-rust-cardigan-over-a-simple-cream-blouse-default",
+      "warm-unhurried-expression-never-stern-never-saccharine",
+      "warm-editorial-register"
+    ]
+  },
+  "prose": {
+    "voice": "She runs the children's reading at a small church. She has taught the same lessons for twenty years and knows exactly what makes one land, which is the knowledge nobody has ever asked her to write down.",
+    "lore": "The customer in chapter 5. She orders a picture book made from her church's own lesson, and she is the reason the book layer matters: what she means by a good book for these children is specific, real, and entirely in her head. Renders with her belong in `church-classroom`.",
+    "rules": "Warm and practical, never a caricature: no habit, no cross worn as a prop, nothing denominational, and never saccharine. Her authority is competence rather than office. She is usually holding something ordinary she is about to read from."
+  }
+}

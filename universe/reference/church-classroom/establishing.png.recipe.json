@@ -1,0 +1,15 @@
+{
+  "asset": "reference/church-classroom/establishing.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the reference ONLY for the illustration STYLE.\n\nAn EMPTY ESTABLISHING PLATE of one small room. No people at all: the room is unoccupied and waiting.\n\nA modest little room in a small church, used for reading to children. A worn soft rug covers the middle of the wooden floor. Six low child-sized wooden chairs stand in a loose half-circle on the rug, facing one slightly larger plain reading chair. Along the left wall runs a low open shelf holding picture books stood upright, their spines completely blank and unmarked. One tall window on the right wall lets warm afternoon daylight fall in a soft slant across the rug. Cream painted walls, a little scuffed near the floor. Two floor cushions lie beside the rug.\n\nLow camera, near a small child's eye height, looking across the rug toward the reading chair, the window light coming from the right.\n\nWarm, modest, quiet, clearly loved and a little worn. Ordinary and domestic.\n\nThis is NOT a sanctuary: no pews, no altar, no pulpit, no stage, no stained glass, no cross, no religious statues or imagery of any kind, nothing denominational. No other rooms, no doorways to elsewhere, no corridor.\n\nNo people, no children, no adults, no figures, no hands. No signage, no posters, no banners, no charts, no labels. No text, no letters, no numbers, no words, no writing anywhere, including on every single book spine.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T18:18:45+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

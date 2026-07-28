@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "d850ed45e143499d",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the reference ONLY for the illustration STYLE.\n\nA CHARACTER REFERENCE SHEET: one single full-length standing figure, facing the viewer straight on, feet visible, arms relaxed at her sides, neutral easy posture. Isolated on a plain flat warm cream field, empty edge to edge, with a soft shadow beneath her feet.\n\nSUBJECT: a Latina woman in her sixties. Dark hair heavily streaked with silver, worn in a short practical cut. Small reading glasses hang on a fine beaded cord around her neck, resting on her chest, not on her face. She wears a soft rust-coloured cardigan over a simple cream blouse, plain dark trousers, flat comfortable shoes. Her expression is warm and unhurried, gently attentive, neither stern nor sugary.\n\nShe looks like a capable, practical woman who has taught children for a long time and is comfortable in a room.\n\nNothing denominational and nothing costume-like: no habit, no veil, no clerical collar, no cross or religious jewellery, no robe. No props in her hands. No background, no furniture, no room. No other people. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

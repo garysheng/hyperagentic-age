@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "21cdfd493b54c640",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "d850ed45e143499d",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/ruth/forward-fullbody.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is THE SAME WOMAN: reproduce her face, hair, colouring and features exactly.\n\nA CHARACTER FACE REFERENCE: a head-and-shoulders portrait of that same woman, facing the viewer straight on, level with the camera, neutral relaxed expression with the faintest warmth at the mouth. Isolated on a plain flat warm cream field, empty edge to edge.\n\nThe same Latina woman in her sixties. Dark hair heavily streaked with silver in a short practical cut. Small reading glasses on a fine beaded cord around her neck, resting on her chest and NOT on her face. The collar of a cream blouse and the shoulders of a soft rust cardigan are visible at the bottom of the frame. Small simple earrings.\n\nEven soft light, no drama, no strong shadow. Calm and clear, the way a reference sheet should be.\n\nNothing denominational: no veil, no clerical collar, no cross or religious jewellery. No hands, no props. No background, no room, no furniture. No other people. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}
