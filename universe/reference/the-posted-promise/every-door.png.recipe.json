@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-posted-promise/every-door.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed image: never a grid, never split panels, never a contact sheet.\n\nThe OTHER reference image shows this exact street already painted. Keep the SAME street, the SAME door design, the SAME camera position and the SAME light. Change ONE thing only.\n\nNOW EVERY DOOR IN VIEW CARRIES THE IDENTICAL PROMISE, hand-painted directly onto the wood in the same plain hand, the same plain capitals. The nearest door's lettering is fully legible and must read EXACTLY, spelled correctly and completely:\n'NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE'\n\nDoors further down the street carry the same painted words, growing smaller and less legible with distance in the natural way.\n\nThis is ORDINARY now, not a celebration. NO banners, NO bunting, NO crowd, NO ceremony, NO glow and NO halo. It is simply how doors are painted on this street.\n\nNo people anywhere in this image. Warm, plain daylight.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-posted-promise/one-door.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T15:58:19+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

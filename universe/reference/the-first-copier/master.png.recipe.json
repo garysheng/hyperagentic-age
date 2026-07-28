@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-first-copier/master.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed image: never a grid, never split panels, never a contact sheet.\n\nA FULL-LENGTH STANDING CHARACTER REFERENCE of one man, seen from the front, head to feet, against a plain warm neutral background with no room and no scenery.\n\nTHE MAN: a BRISK, CAPABLE WORKSHOP OWNER in middle age. Practical, well-kept working clothes: a work coat or a sturdy apron over ordinary clothes. Short practical hair. He wears NO round thin-rimmed glasses.\n\nHis expression is level, businesslike and a little impatient, the face of a competent man who is thinking about cost. He is NOT a villain: no sneer, no shadowed eyes, no scheming look. He is equally NOT humbled, NOT admiring, NOT repentant.\n\nHe is an ARCHETYPE and must NOT resemble any real, identifiable company, lab or public person.\n\nONE single figure, one single image.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T15:57:12+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

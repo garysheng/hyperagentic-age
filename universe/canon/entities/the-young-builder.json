@@ -1,0 +1,55 @@
+{
+ "id": "the-young-builder",
+ "kind": "character",
+ "originStory": "the-best-news-ever",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "The closing payoff. She carries the ending, and the ending is that she does NOT know. Any render where she looks reverent or grateful breaks the book. FIRST ROLL 2026-07-28. Absorbed in a clipboard, matter-of-fact, not reverent. Her obliviousness is the ending."
+ },
+ "structured": {
+  "sheets": {
+   "master": "reference/the-young-builder/master.png"
+  },
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "a-young-woman-at-the-very-start-of-her-working-life",
+   "practical-new-work-clothes-clean-and-unworn-in",
+   "absorbed-and-matter-of-fact-never-reverent-never-grateful",
+   "she-never-looks-at-the-promise-on-the-door",
+   "warm-editorial-register-never-photoreal"
+  ],
+  "render": {
+   "always": "THE YOUNG BUILDER, first morning on the job, the last person in the book. A YOUNG WOMAN at the very start of her working life, in practical NEW work clothes that are clean and not yet worn in. Absorbed, capable and entirely MATTER-OF-FACT. THE ENTIRE POINT OF HER IS THAT SHE DOES NOT KNOW: she is NEVER reverent, NEVER grateful, NEVER moved, and she NEVER looks at or notices the promise painted on the door behind her. She is getting on with her work. Warm-editorial, never photoreal.",
+   "poses": {
+    "first-morning": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "BEING TOLD SOMETHING ORDINARY on her first morning and nodding. The posture of a person receiving a practical instruction they will simply follow, the way you are told which side of the road to drive on. Attentive and unremarkable. She is NOT wide-eyed, NOT awed, NOT inspired."
+    },
+    "at-work": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "TURNED AWAY AND ALREADY WORKING, with the promise-painted door behind her and OUT OF HER ATTENTION. She does not glance at it. Her back or three-quarter-back is to the door and her focus is entirely on the task in her hands. The composition lets the viewer read the door that she has stopped noticing."
+    }
+   },
+   "qa": [
+    "young woman at the start of her working life, new clean work clothes",
+    "matter-of-fact and absorbed; never reverent, grateful or awed",
+    "she does NOT look at the promise on the door",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "voice": "",
+  "lore": "The last person in the book and the proof of it. She learns the safe way on her first morning, is told it once like a law of physics, and never thinks about it again. She could not tell you who wrote it first.",
+  "rules": "HER OBLIVIOUSNESS IS THE ENDING. He did not want a monument, he wanted a floor, and a floor is a thing nobody thanks you for. If she is drawn admiring the door, or moved, or grateful, the book becomes a story about a great man and the whole argument inverts. She must never look at it."
+ },
+ "fictional": true,
+ "status": "locked"
+}

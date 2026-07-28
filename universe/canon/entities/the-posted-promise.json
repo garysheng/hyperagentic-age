@@ -1,0 +1,61 @@
+{
+ "id": "the-posted-promise",
+ "kind": "motif",
+ "originStory": "the-best-news-ever",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "THE SPINE OBJECT of The Best News Ever. Its two states are the book's whole argument, so they must be ONE street and ONE door design with only the number of promise-bearing doors changing. Chain `every-door` off `one-door`; generated in parallel they come back as two different streets and the rhyme dies. ALL PLATES FIRST ROLL 2026-07-28. The chain held exactly: same street, same door design, same barrels and leaning boards, same camera, with only the number of promise-bearing doors changing. Spelling exact on every legible door in both states."
+ },
+ "structured": {
+  "sheets": {
+   "one-door": "reference/the-posted-promise/one-door.png",
+   "every-door": "reference/the-posted-promise/every-door.png"
+  },
+  "requiredForRender": [
+   "one-door"
+  ],
+  "invariants": [
+   "a-plain-wooden-workshop-door-in-an-ordinary-working-street",
+   "the-promise-is-PAINTED-DIRECTLY-on-the-door-never-a-hung-sign-or-plaque",
+   "lettering-is-hand-painted-plain-and-legible-never-ornate-never-a-logo",
+   "the-exact-string-and-nothing-else-no-extra-words-no-signature-no-date",
+   "identical-street-and-identical-door-design-in-both-states",
+   "only-the-NUMBER-of-promise-bearing-doors-changes-between-states",
+   "warm-editorial-register-never-photoreal",
+   "no-glow-no-halo-no-radiance-it-is-paint-on-wood"
+  ],
+  "render": {
+   "always": "THE POSTED PROMISE: a plain wooden workshop door on an ordinary working street, with a promise HAND-PAINTED DIRECTLY ONTO THE WOOD in plain, legible, unornamented capital letters. The exact wording, which must be spelled correctly and completely and with NO other words added, is: \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". It is paint on wood and nothing more: never a hung sign, never a brass plaque, never a banner, never a logo or mark of any kind, and it NEVER glows or carries a halo. Warm-editorial ink-and-wash, never photoreal.",
+   "poses": {
+    "one-door": {
+     "sheets": [
+      "one-door"
+     ],
+     "bake": "ONE door on the street carries the promise. Every other door in view is BLANK. The painted door is the only one, and it should read as slightly odd, a single eccentric choice on an ordinary street rather than a monument. The lettering is fully legible: \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\"."
+    },
+    "every-door": {
+     "sheets": [
+      "every-door",
+      "one-door"
+     ],
+     "bake": "THE SAME STREET, the SAME door design, years later, and now EVERY door in view carries the identical promise, painted in the same plain hand. The nearest door's lettering is fully legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\"; doors further down the street carry the same painted words falling off naturally with distance. Nothing else about the street has changed. This is ordinary now, not a celebration: no banners, no crowd, no ceremony."
+    }
+   },
+   "qa": [
+    "the lettering reads EXACTLY \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\", spelled correctly, with no extra words",
+    "painted directly on wood, not a hung sign or plaque",
+    "plain legible hand-painted capitals, never ornate, never a logo",
+    "same street and same door design across both states",
+    "no glow, no halo, no radiance",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "voice": "",
+  "lore": "The promise Dario paints on his own door, and the object the whole book argues through. Its power is that it is LEGIBLE and COPYABLE: a rule kept privately is a handicap, and a rule posted in public where a competitor can read it and take it is how a standard is born. The two states are the thesis. One door is an eccentric who tied a weight to himself. Every door is a floor.",
+  "rules": "The exact string is \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\", reused verbatim from The Narrow Path where Dario first makes this promise, so the two books share one sentence. NEVER paraphrase it, NEVER shorten it, and spell-check it at crop-zoom on every read-back, regenerating from scratch on any error. It is never rendered as sacred: no glow, no gold leaf, no halo. It is a working man's paint on a working door, and that ordinariness is the point."
+ },
+ "status": "locked"
+}

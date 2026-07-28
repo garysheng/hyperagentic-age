@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-posted-promise/one-door.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed image: never a grid, never split panels, never a contact sheet.\n\nAn ordinary working street of small workshops, seen straight on in daylight. Plain wooden doors along it.\n\nONE door, near the centre and closest to the viewer, has a promise HAND-PAINTED DIRECTLY ONTO THE WOOD in plain, legible, unornamented capital letters. Paint on wood, nothing more: it is NOT a hung sign, NOT a brass plaque, NOT a banner, and it carries NO logo, mark, signature or date.\n\nTHE LETTERING MUST READ EXACTLY, spelled correctly and completely, with no other words added:\n'NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE'\n\nEVERY OTHER DOOR IN VIEW IS COMPLETELY BLANK. The painted door should read as a single eccentric choice on an ordinary street, mildly odd, not a monument. NO glow, NO halo, NO radiance of any kind: it is a working man's paint on a working door.\n\nNo people anywhere in this image. Warm, plain daylight.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T15:57:10+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

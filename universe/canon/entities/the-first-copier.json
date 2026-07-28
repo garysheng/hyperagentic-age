@@ -1,0 +1,58 @@
+{
+ "id": "the-first-copier",
+ "kind": "character",
+ "originStory": "the-best-news-ever",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "ARCHETYPE ONLY. Never a caricature of a real, identifiable company, lab or person. This is the book's most delicate character: the ending fails if he is a villain who repents OR a friend who agrees. FIRST ROLL 2026-07-28. Reads as a competent businessman, not a villain and not a convert, which is the note this character had to hit."
+ },
+ "structured": {
+  "sheets": {
+   "master": "reference/the-first-copier/master.png"
+  },
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "a-brisk-capable-workshop-owner-in-middle-age",
+   "practical-well-kept-working-clothes-an-apron-or-a-work-coat",
+   "clearly-NOT-dario-different-face-different-hair-no-round-glasses",
+   "never-a-villain-never-sneering-never-shadowed",
+   "never-a-caricature-of-any-real-identifiable-company-or-person",
+   "warm-editorial-register-never-photoreal"
+  ],
+  "render": {
+   "always": "THE FIRST COPIER, the rival workshop owner who paints the promise on his own door before he believes in it. A BRISK, CAPABLE WORKSHOP OWNER in middle age, in practical well-kept working clothes, an apron or a work coat. He must read as CLEARLY A DIFFERENT MAN from Dario: a different face, different hair, and NO round thin-rimmed glasses. He is an ARCHETYPE and never a caricature of any real, identifiable company, lab or person. CRITICAL REGISTER: he is NOT a villain and NOT a convert. He is a competent businessman making a competitive decision. Never sneering, never shadowed, never scheming, and equally never humbled, never gazing admiringly at anyone, never repentant. Warm-editorial, never photoreal.",
+   "poses": {
+    "at-his-blank-door": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "STANDING AT HIS OWN BLANK WORKSHOP DOOR, being asked a question he does not have a good answer to. One hand still on the door or at his side, weight shifted, mouth closed. He is mildly caught out and thinking about cost, NOT ashamed and NOT having a revelation."
+    },
+    "painting-it": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "PAINTING THE PROMISE onto his own door, brush in hand, partway through the lettering. He is doing it briskly and a little grudgingly, the way you do a thing the market has decided for you. He is NOT moved, NOT smiling, NOT looking heavenward. It is a job."
+    }
+   },
+   "qa": [
+    "brisk capable workshop owner in middle age, practical working clothes",
+    "clearly NOT Dario: different face, different hair, no round glasses",
+    "not a villain: no sneer, no shadow, no scheming",
+    "not a convert: not humbled, not admiring, not repentant",
+    "never a caricature of a real identifiable company or person",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "voice": "practical, unsentimental, says the cost part out loud",
+  "lore": "The rival who copies the promise first, and not because he admires anybody. A customer asked why his door was blank, and he could not afford the answer. He paints it grudgingly, half for show, and it holds him anyway.",
+  "rules": "HE IS THE BOOK'S HARDEST NOTE AND ITS MOST IMPORTANT ONE. The thesis is that the floor rises whether or not hearts change, so he must NOT be redeemed and must NOT be condemned. A villain who repents makes this a fairy tale; a friend who agrees makes it a sermon. He is a competent competitor responding to an incentive, drawn with full dignity, and the book is glad about him without pretending he was moved."
+ },
+ "fictional": true,
+ "status": "locked"
+}

@@ -1,0 +1,264 @@
+{
+ "book": "the-best-news-ever",
+ "provider": "gpt-image-2",
+ "size": "1536x1024",
+ "style": "WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet. This book is about a builder who ties a weight to himself in public and then gives away the design, and each spread is set wherever its own scene description says.",
+ "negatives": "NO STRAY OR INVENTED text anywhere: no captions, no watermarks, no invented signage, no logos, no marks, no signatures, no dates. THE ONE EXCEPTION is text a scene specifies as an exact quoted string, which is a designed element and must be rendered and spelled exactly. NO caricature of any real, identifiable company, laboratory, product or public person; the rivals are archetypes. NO glow, NO halo, NO aura, NO radiance around any person or any door. NO saviour framing: nobody is lit from below, nobody is gazed up at by a crowd. NO celebration imagery: no confetti, no banners, no bunting, no raised arms, no trophies.",
+ "spreads": [
+  {
+   "id": "spread-01",
+   "cast": [],
+   "scene": "A wide landscape of open country at the moment a new fire arrives in the world. Warm light spilling across distant workshops and fields, beautiful and not yet frightening. NO people in frame, or only tiny distant figures too small to read. This is the world before anyone has decided anything."
+  },
+  {
+   "id": "spread-02",
+   "cast": [],
+   "scene": "MANY RUNNERS converging at speed from every direction toward a single point, seen wide and from slightly above so the pattern reads as a collision rather than a race with a finish line. They are ordinary working people, archetypes only, and NOT caricatures of any real company or person. Dust, motion, nobody looking sideways. Urgent, not evil."
+  },
+  {
+   "id": "spread-03",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "holding-steady"
+    }
+   ],
+   "scene": "The same rush of runners streaming past, and ONE MAN standing still among them, seen at mid-distance. His stillness reads against their motion. He is not blocking anyone and not making a speech. NO spotlight, no darkness around him, no crowd noticing him."
+  },
+  {
+   "id": "spread-04",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "at-the-door"
+    },
+    {
+     "id": "the-posted-promise",
+     "pose": "one-door"
+    }
+   ],
+   "scene": "He paints the promise onto his own workshop door in plain capitals, brush in hand, seen from a three-quarter angle so both his face and the door face are visible. The lettering is fully legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Every other door on the street is blank. An ordinary working morning; nobody is watching him."
+  },
+  {
+   "id": "spread-05",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "front"
+    }
+   ],
+   "scene": "Interior of a plain workshop at a table, close, writing in a bound ledger by daylight. He is setting down the exact conditions of the promise. The page carries only abstract handwriting-like line work with NO readable letters. Careful and unhurried. He is alone."
+  },
+  {
+   "id": "spread-06",
+   "cast": [
+    {
+     "id": "the-posted-promise",
+     "pose": "one-door"
+    }
+   ],
+   "scene": "TWO OR THREE RIVAL WORKSHOP OWNERS pausing in the street to read the painted door, seen from behind and to the side so the door and its legible lettering face the viewer. They are amused and unimpressed, exchanging a look. Ordinary competent people, archetypes only, NOT sneering villains and NOT caricatures of any real company."
+  },
+  {
+   "id": "spread-07",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "holding-steady"
+    }
+   ],
+   "scene": "The rush of runners going past again, faster and further ahead now, with the still man smaller in the frame and further back than before. The gap is the subject. He is not distressed; he is simply behind. Warm, plain daylight."
+  },
+  {
+   "id": "spread-08",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "front"
+    }
+   ],
+   "scene": "A quiet close moment of the man alone in his workshop doorway, having decided something. Seen at mid-distance, hand resting on the doorframe, looking out at the street. Anticipatory rather than dramatic. NO glow, no halo, no shaft of light."
+  },
+  {
+   "id": "spread-09",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "giving-it-away"
+    }
+   ],
+   "scene": "He hands out THICK BUNDLES OF PLANS, arms extended, the papers leaving his hands toward other people at the edges of the frame. Sheets of diagrams and measurements, abstract line work with NO readable text. The gesture is open and unguarded. He is looking at the people receiving them, not at the papers."
+  },
+  {
+   "id": "spread-10",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "front"
+    }
+   ],
+   "scene": "Inside the workshop, his own people gathered close around him, surprised and objecting, one of them holding a copy of the plans. He is answering them plainly, one hand open. He is calm and certain, NOT defensive, NOT triumphant. Ordinary lamp-lit interior."
+  },
+  {
+   "id": "spread-11",
+   "cast": [
+    {
+     "id": "the-posted-promise",
+     "pose": "one-door"
+    }
+   ],
+   "scene": "A close study of the single painted door on the otherwise blank street, lettering fully legible and reading exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". NO people in frame at all. The composition should make the door look solitary and slightly absurd, one marked door in a row of unmarked ones."
+  },
+  {
+   "id": "spread-12",
+   "cast": [
+    {
+     "id": "the-posted-promise",
+     "pose": "one-door"
+    }
+   ],
+   "scene": "The same street some time later, seen from further back, weathered and a little dustier. STILL only the one painted door; every other door remains blank. Long light, end of a season. NO people in frame. The point is that nothing has happened."
+  },
+  {
+   "id": "spread-13",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "holding-steady"
+    }
+   ],
+   "scene": "Outside his workshop, a few figures walking away from him down the street carrying their tools and bundles, seen from behind. He watches them go from his doorway, hands at his sides. Loss, plainly rendered, with no self-pity and no accusation."
+  },
+  {
+   "id": "spread-14",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "holding-steady"
+    }
+   ],
+   "scene": "Interior, winter light. Finished work sits covered and waiting on the workbench beside him, and he is standing still with his hands off it. He has stopped. The stillness is deliberate and it is costing him. NO drama, no clenched fists, no theatrics."
+  },
+  {
+   "id": "spread-15",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "holding-steady"
+    }
+   ],
+   "scene": "Exterior, wide, the coldest day of the book. His workshop door is shut with the promise legible on it, and beyond it down the street other workshops are visibly busy and lit and working. He stands outside his own closed door in the cold. The contrast is the whole image. He is NOT martyred and NOT posed nobly."
+  },
+  {
+   "id": "spread-16",
+   "cast": [
+    {
+     "id": "the-first-copier",
+     "pose": "at-his-blank-door"
+    }
+   ],
+   "scene": "A rival workshop owner stands at his OWN BLANK DOOR while a well-dressed customer, seen from behind, gestures at the bare wood with a question. The rival is mildly caught out, thinking about cost. He is NOT ashamed and NOT having a revelation. The blank door is prominent."
+  },
+  {
+   "id": "spread-17",
+   "cast": [],
+   "scene": "A tight, quiet study of one BLANK workshop door with nothing painted on it, and a customer's hand raised toward it mid-question at the edge of the frame. NO faces in view. The emptiness of the wood is the subject of the picture.",
+   "negatives": "NO STRAY OR INVENTED text anywhere: no captions, no watermarks, no invented signage, no logos, no marks, no signatures, no dates. THE ONE EXCEPTION is text a scene specifies as an exact quoted string, which is a designed element and must be rendered and spelled exactly. NO caricature of any real, identifiable company, laboratory, product or public person; the rivals are archetypes. NO glow, NO halo, NO aura, NO radiance around any person or any door. NO saviour framing: nobody is lit from below, nobody is gazed up at by a crowd. NO celebration imagery: no confetti, no banners, no bunting, no raised arms, no trophies. THIS DOOR IS COMPLETELY BLANK: there is NO painted text on it, NO lettering of any kind, NO words, NO sign and NO plaque. Bare unmarked wood is the entire subject of this picture."
+  },
+  {
+   "id": "spread-18",
+   "cast": [
+    {
+     "id": "the-first-copier",
+     "pose": "painting-it"
+    }
+   ],
+   "scene": "The rival painting the promise onto his own door, brush in hand, partway through the lettering so the painted portion is legible and correct as far as it goes, reading the beginning of \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". He is brisk and slightly grudging, doing a job the market decided for him. He is NOT moved and NOT smiling."
+  },
+  {
+   "id": "spread-19",
+   "cast": [
+    {
+     "id": "the-posted-promise",
+     "pose": "every-door"
+    }
+   ],
+   "scene": "A wide view of a busy street where SEVERAL doors now carry the painted promise and a few are still blank, with people going about ordinary business. The nearest painted door's lettering is legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Nobody is celebrating; it is simply becoming normal."
+  },
+  {
+   "id": "spread-20",
+   "cast": [],
+   "scene": "A wide landscape of MANY RUNNERS again, as in the opening, but now every one of them is visibly carrying a similar weight or pack, and they are running evenly together rather than colliding. The race looks like a race. Warm, open, level light."
+  },
+  {
+   "id": "spread-21",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "front"
+    }
+   ],
+   "scene": "The man alone in his workshop, seen at mid-distance among ordinary tools, no longer distinguished from anyone else on the street. Plain and unremarkable. Some quiet cost in the face, and no bitterness. The composition should deliberately refuse to make him special."
+  },
+  {
+   "id": "spread-22",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "front"
+    }
+   ],
+   "scene": "Two people talking in the workshop doorway, one of them asking him a direct question, seen from the side. He is listening, hand resting on the frame. An ordinary conversation at the end of a working day."
+  },
+  {
+   "id": "spread-23",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "glad"
+    }
+   ],
+   "scene": "A close portrait of the man having just answered, quietly glad. Brow smooth, eyes creased, a small real closed-lip smile. This is relief, NOT triumph: he is NOT laughing, NOT celebrating, NOT raising his arms, and NOBODY is congratulating him. Warm late light."
+  },
+  {
+   "id": "spread-24",
+   "cast": [
+    {
+     "id": "the-young-builder",
+     "pose": "at-work"
+    },
+    {
+     "id": "the-posted-promise",
+     "pose": "every-door"
+    }
+   ],
+   "scene": "Years later. A YOUNG WOMAN on her first morning works at a bench in the foreground, turned away and absorbed in the task in her hands. She does NOT look at the door. Behind her the workshop door carries the painted promise, legible, reading exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\", and beyond it every door visible down the street carries the identical words. Ordinary bright morning. NO ceremony, no crowd, nobody looking at the lettering."
+  },
+  {
+   "id": "cover-0",
+   "cast": [
+    {
+     "id": "dario",
+     "pose": "at-the-door"
+    },
+    {
+     "id": "the-posted-promise",
+     "pose": "one-door"
+    }
+   ],
+   "scene": "A PORTRAIT BOOK COVER, vertical. The man stands at his workshop door having just painted the promise on it, seen three-quarter so his face and the door both read. The lettering on the door is fully legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Every other door on the street behind him is blank. TITLE TEXT, baked into the upper area of the image as integrated hand-painted lettering well clear of his face and of the door lettering, in warm off-white capitals, spelled EXACTLY: 'THE BEST NEWS EVER'. Below it in much smaller capitals, spelled EXACTLY: 'A HYPERAGENTIC AGE story'. No other text anywhere in the image.",
+   "size": "1024x1536"
+  },
+  {
+   "id": "plate-closing",
+   "cast": [
+    {
+     "id": "the-posted-promise",
+     "pose": "every-door"
+    }
+   ],
+   "scene": "A QUIET PORTRAIT CLOSING PLATE, vertical, with NO PEOPLE IN IT AT ALL. The street at rest in warm late light, every door along it carrying the identical painted promise, the nearest one fully legible and reading exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Still and ordinary and a little beautiful. Leave the LOWER HALF calm and open. NO title and NO other text of any kind anywhere in this image.",
+   "size": "1024x1536"
+  }
+ ]
+}
