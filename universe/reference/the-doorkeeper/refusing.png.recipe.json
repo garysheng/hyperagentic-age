@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "81812a502bfe180b",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "7bd1f4349400d12f",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-doorkeeper/master.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is THE SAME CHARACTER: reproduce its exact body, proportions, colours, joints, dot eyes and the book it carries, faithfully.\n\nA scene on a plain flat warm cream field, empty edge to edge, with a soft shadow beneath.\n\nThat same small waist-height cream robot doorkeeper stands on the LEFT, seen three-quarters on. The glowing open book is tucked against its body in its LEFT hand, still held where it can see it, and it has just glanced up from the page.\n\nIts RIGHT arm is extended toward the right of the frame with the hand raised, palm open and flat and facing outward: a calm, unhurried STOP gesture. The arm is relaxed, not rigid. The gesture is polite, almost gentle.\n\nFloating in the air just beyond that open palm, and clearly halted by it, is a single sheet of completely BLANK smooth cream paper, tilted slightly, hanging still. There is a small visible GAP between the palm and the sheet: the robot is NOT touching it. The sheet is pristine, whole, uncreased, perfectly clean and unmarked on both sides, with no lines and no writing.\n\nCalm, warm, unhurried, slightly endearing. Nothing damaged, nothing torn, nothing falling.\n\nAbsolutely nothing suggesting a nightclub or officialdom: no uniform, no jacket, no badge, no cap, no hat, no rope, no velvet, no stanchion, no clipboard, no door, no wall, no queue. No weapons. No anger, no sternness, no frowning. No people, no other hands. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

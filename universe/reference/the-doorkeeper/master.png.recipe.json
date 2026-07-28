@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "7bd1f4349400d12f",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "b5b4177522ffbde4",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. Use the second reference for the small glowing book it holds, which must read as that same object.\n\nA character study on a plain flat warm cream field, empty edge to edge, with a soft shadow beneath.\n\nSUBJECT: a SMALL, friendly, waist-height robot doorkeeper standing calmly, seen three-quarters on. It is unmistakably a machine and never a person: a simple rounded cream body like a little ceramic vessel, short simple arms, a smooth domed head with only two calm dark dot eyes and no other facial features, no mouth, no nose. Soft warm cream and pale wood tones, gently worn, hand-made looking rather than manufactured.\n\nIn its two hands it holds an open book with softly glowing warm cream pages, held up in front of itself at reading height, and it is clearly READING FROM IT, head tilted slightly down toward the pages. Each visible page carries two or three tiny abstract symbols only: a small heart, a small open hand, a small balance-scale.\n\nIt is warm, patient, and slightly endearing. Small and unimposing.\n\nAbsolutely nothing suggesting a nightclub or a queue or officialdom: no uniform, no jacket, no badge, no cap, no hat, no rope, no velvet, no stanchion, no clipboard, no door, no wall. No weapons of any kind. No people, no hands other than its own. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

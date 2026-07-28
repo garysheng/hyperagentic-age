@@ -1,0 +1,32 @@
+{
+  "id": "the-doorkeeper",
+  "kind": "character",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-28"
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/the-doorkeeper/master.png",
+      "refusing": "reference/the-doorkeeper/refusing.png",
+      "passing": "reference/the-doorkeeper/passing.png"
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "A SMALL warm cream robot, unmistakably a machine and never a person: simple rounded body, no face beyond two calm dot eyes, waist-height at most",
+      "It holds the small glowing principle-book and visibly READS FROM IT while deciding, so it is checking the work against a written standard rather than judging anyone",
+      "Its refusal is ONE raised open palm, calm and unhurried. Never a fist, never crossed arms, never its body used as a barrier",
+      "It never touches the work. The hand stops short, and the work stays whole, uncreased, and paused in the air",
+      "Nothing that says PERMISSION: no uniform, no badge, no cap, no rope, no velvet, no clipboard list, no club door, no queue",
+      "It is warm and slightly friendly, never menacing, never armed, never large. It protects the work rather than punishing anyone",
+      "Warm editorial register: cream ground, soft painterly line, muted natural palette",
+      "Absolutely no text, letters, numbers, or readable marks, including on the book pages and on the work"
+    ]
+  },
+  "prose": {
+    "voice": "Chapter 7 made into someone you can watch. It stands where finished work leaves, reads the standard, and puts a hand up when the work does not meet it. It has no opinion about you.",
+    "lore": "Composes with `the-constitution`, which is the book it reads from: the standard it enforces is written down, and it is not the doorkeeper's own. That is the whole difference between this and a bouncer. A bouncer checks who you are; the doorkeeper checks what the work is, against a book anyone can read. It will stop the person who wrote the book, and does.",
+    "rules": "Always small, always calm, always reading. Its power is that it cannot be argued with, not that it is imposing, so it must never look strong. If a render makes it large, uniformed, or stern, the motif has become about permission and the chapter's claim is lost. Show it letting work THROUGH at least as often as stopping it: a gate that only ever refuses is a wall."
+  }
+}
