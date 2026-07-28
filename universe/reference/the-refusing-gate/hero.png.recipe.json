@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "676e32072d1cb9fc",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "b5b4177522ffbde4",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE, not for its scenery. Use the second reference for the small glowing principle-book, which must read as that same object.\n\nAn ISOLATED OBJECT STUDY. The entire frame is one plain flat warm cream field, empty and uniform edge to edge, holding only the object below and a soft shadow beneath it.\n\nTHE OBJECT, seen straight from the side: a slender pale cream horizontal BAR spanning the frame left to right, resting closed and level like a turnpike arm lowered into place. Its left end is carried by a short upright cream post with a round pivot disc. Set into that pivot, forming the hinge itself, is a small open book with softly glowing warm cream pages, carved continuous with the post so book, pivot, post and bar are ONE object. Each page carries two or three tiny abstract symbols only: a small heart, a small open hand, a small balance-scale.\n\nTHE CRUCIAL PART: a single sheet of completely BLANK smooth cream paper has slid down from the upper right and been CAUGHT by the bar. The sheet is TILTED at a clear diagonal, leaning, and its lower edge is PRESSED DIRECTLY AGAINST the top edge of the bar, physically touching and resting on it, halted by it, unable to continue past. The bar visibly bears the sheet's weight. The two are in contact. The sheet is pristine, whole, uncreased, perfectly clean, unmarked on both sides, with no lines and no writing of any kind.\n\nQuiet, warm, calm, gentle. Nothing damaged. No padlock, no chain, no keyhole, no fence, no wall, no red. No people, no hands, no figures. No landscape, no horizon, no hills, no trees, no sky, no path. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

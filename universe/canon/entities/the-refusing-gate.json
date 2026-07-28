@@ -1,0 +1,32 @@
+{
+  "id": "the-refusing-gate",
+  "kind": "motif",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-28"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-refusing-gate/hero.png",
+      "detail": "reference/the-refusing-gate/detail.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "A warm cream ARM or BAR swung across the path of a moving thing, at rest in the closed position, never a door and never a wall",
+      "The thing it stops is CAUGHT MID-MOTION and intact: paused, never damaged, never broken, never falling",
+      "The bar is joined to a small warm principle-book at its pivot, so the standard is visibly what holds the bar shut",
+      "No padlock, no chain, no keyhole, no barrier, no red. Refusal here means the work did not meet the standard, never that someone lacks permission",
+      "The way past is visibly OPEN behind the bar, so the gate reads as a decision point and not a dead end",
+      "Warm editorial register: cream ground, single-weight wobbly amber ink outline, flat fills only",
+      "Absolutely no text, letters, numbers, or readable marks"
+    ]
+  },
+  "prose": {
+    "voice": "The moment a standard stops something. Chapter 7's whole claim made visible: a gate is a definition of good made enforceable, so the bar and the book are one object.",
+    "lore": "Composes with `the-constitution`, which is the standard at rest. Where the constitution is the small warm book of principles a helper checks itself against, the refusing gate is that same book doing its job: the bar it holds shut. Render them together whenever the scene is about the standard ACTING rather than the standard existing.",
+    "rules": "Always closed and always calm. The stopped thing is intact and paused, because this gate protects work rather than punishing it. Never a padlock: a padlock says you lack permission, and this says the work did not meet the standard. The path beyond stays visibly open, because a gate that only ever refuses is a wall."
+  }
+}
