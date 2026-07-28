@@ -1,0 +1,20 @@
+{
+  "goldenDigest": "0ed7e111f91af1ad",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "7bd1f4349400d12f",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-doorkeeper/master.png"
+    },
+    {
+      "digest": "81812a502bfe180b",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-doorkeeper/refusing.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is THE SAME CHARACTER: reproduce its exact body, proportions, colours, wooden ball joints, domed head and two dot eyes faithfully. The third reference is the same character in a stopping pose: keep the identical body, change only the arm and the mood.\n\nA scene on a plain flat warm cream field, empty edge to edge, with a soft shadow beneath.\n\nThat same small waist-height cream robot doorkeeper stands on the LEFT, seen three-quarters on, still holding the glowing open book against its body in its left hand.\n\nIts RIGHT arm is now LOWERED and swept gently OPEN toward the right, palm turned upward and outward in a welcoming after-you gesture, the way someone waves a guest through. Nothing is blocked. Its head is lifted, looking after the sheet rather than down at the page.\n\nSailing past it, already well beyond the robot and moving away toward the right edge of the frame, is a single sheet of completely BLANK smooth cream paper, tilted as if gliding freely, unobstructed and clear. There is a wide open space between the robot and the sheet. The sheet is pristine, whole, uncreased, perfectly clean and unmarked on both sides, with no lines and no writing.\n\nWarm, easy, quietly pleased. Nothing raised, nothing blocking, nothing stopped.\n\nAbsolutely nothing suggesting a nightclub or officialdom: no uniform, no jacket, no badge, no cap, no hat, no rope, no velvet, no stanchion, no clipboard, no door, no wall, no queue. No weapons. No people, no other hands. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}
