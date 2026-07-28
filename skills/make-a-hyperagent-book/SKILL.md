@@ -46,14 +46,37 @@ would be true in another universe, promote it to the base skill instead.
 ## 4. Universe law
 
 **Real people are stylized editorial likeness, never photoreal.** The subject-approval gate stands
-in via the author. Keep such books PRIVATE; do not ship a recognizable real-person likeness to a
-public platform without revisiting it.
+in via the author.
+
+**Public figures ARE publishable. Do NOT hold a book for being about one.** An older form of this
+rule said "keep such books private, do not ship a real-person likeness without revisiting it."
+That clause invited a revisit, Gary revisited it on 2026-07-25, and it is SUPERSEDED: Nation of
+Fire CANON rule 4 governs (public figures depictable by name and likeness, no gate), and The
+Narrow Path has shipped publicly with a named, depicted Dario since. The likeness approval itself
+is unchanged, and the standing rule stays: **stylized, never photoreal, public professional
+persona only, nothing private.** Check the entity's own `realPerson.approval.note` before
+inventing a hold.
 
 **A `realPerson` block needs a `photoStack` that is a NON-EMPTY LIST** of on-disk paths under the
 asset root, and an `approval.state` of `gated` or `approved`. A string photoStack gets iterated
 character by character and produces dozens of bogus validation errors. Do not add the block until
 the photo stack exists; until then keep the likeness intent in `prose.rules` plus a
 `stylized-never-photoreal` invariant.
+
+## 4b. In-art text is welcome (Gary, 2026-07-28: "you can put text in the images")
+
+There is no universe-wide no-text law and there should not be one. Baked, readable lettering is a
+first-class design element here: a promise on a door, a posted notice, a plaque, a sign.
+
+- **Quote the exact string in the prompt, then spell-check it at crop-zoom on read-back and
+  regenerate from scratch on any error.** Short strings spell reliably; long ones garble.
+- **`the-constitution` is the exception and keeps its rule:** its pages carry abstract
+  principle-marks, NEVER readable text. That distinction is meaningful rather than annoying. The
+  internal principles stay unreadable; the thing a lab PUBLISHES is legible on purpose, because
+  legibility is what makes it copyable.
+- **A repeated exact string across two spreads is how you SHOW a standard spreading.** One door
+  carrying the promise, then every door carrying the same words, is an argument no caption can
+  make. Both spreads must bake the identical string, and both get spell-checked.
 
 ## 5. Entity calibrations
 

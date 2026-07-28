@@ -31,7 +31,42 @@
    "recognizable-illustrated-likeness-of-the-real-subject-never-photoreal",
    "warm-editorial-register",
    "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-or-hair"
-  ]
+  ],
+  "render": {
+   "always": "DARIO (canon id dario), the careful builder. A MIDDLE-AGED MAN with TOUSLED CURLY DARK-BROWN HAIR of medium length, SIGNATURE ROUND THIN-RIMMED GLASSES, and a CLEAN-SHAVEN face with no beard and no moustache. His expression is WARM, EARNEST and THOUGHTFUL. He wears a SIMPLE DARK CASUAL SWEATER. He is a RECOGNIZABLE ILLUSTRATED LIKENESS of a real public figure, rendered in the warm-editorial ink-and-wash register, and NEVER photoreal, never a photograph, never glossy or 3D. Depict only the public professional persona. DRAW HIM WARM AND HUMAN, NEVER HEROIC: he is more worried than triumphant, measured rather than commanding, and he is never posed as a saviour, never lit from below, never given a glow, an aura or a crowd looking up at him. HE APPEARS EXACTLY ONCE IN ANY SCENE, and NO OTHER FIGURE in the image shares his face, his hair or his glasses.",
+   "poses": {
+    "front": {
+     "sheets": ["master"],
+     "bake": "Seen from the front or three-quarter, standing or seated at ease, the whole figure or from the waist up. Calm and attentive. Hands relaxed or loosely clasped."
+    },
+    "at-the-door": {
+     "sheets": ["master"],
+     "bake": "AT THE DOOR OF HIS WORKSHOP, writing or painting the promise onto the wood, or standing back from it having just finished. Seen from the side or three-quarter so both his face and the door face are visible. He is unhurried and deliberate, doing an ordinary careful job rather than making a proclamation. He is NOT addressing anybody and there is NO crowd watching him."
+    },
+    "holding-steady": {
+     "sheets": ["master"],
+     "bake": "STANDING STILL while others move fast around or past him. Feet planted, weight even, shoulders down, hands at his sides or holding one object. His face is set but NOT defiant and NOT martyred: he is bearing a cost he chose, not enduring an injustice. Do NOT render him gloriously alone in a spotlight; the stillness reads against the motion around him, not against darkness."
+    },
+    "giving-it-away": {
+     "sheets": ["master"],
+     "bake": "HANDING OVER or POSTING the plans, arms extended outward, the papers leaving his hands toward someone or somewhere else. The gesture is OPEN and unguarded, the opposite of clutching. He is looking at the person or place receiving them rather than at the papers. He is NOT reluctant and NOT performing generosity."
+    },
+    "glad": {
+     "sheets": ["master"],
+     "bake": "QUIETLY GLAD. Brow smooth and unfurrowed, eyes creased at the corners, a small real closed-lip smile. This is relief and satisfaction, NOT triumph: he is NOT laughing, NOT celebrating, NOT raising his arms, NOT being congratulated. The gladness is private and a little tired, the look of a man whose long plan finally worked."
+    }
+   },
+   "qa": [
+    "middle-aged man, tousled curly dark-brown hair of medium length",
+    "signature round thin-rimmed glasses present",
+    "clean-shaven: no beard, no moustache, no stubble",
+    "warm, earnest, thoughtful expression; never triumphant or heroic",
+    "simple dark casual sweater",
+    "recognizable illustrated likeness, warm-editorial ink-and-wash, NEVER photoreal or glossy",
+    "appears EXACTLY ONCE in the scene; no other figure shares his face, hair or glasses",
+    "no glow, no aura, no upward-gazing crowd, no saviour framing"
+   ]
+  }
  },
  "realPerson": {
   "subject": "Dario Amodei",
