@@ -10,7 +10,7 @@ REQUIRED before any render: `hero`. Shoot it first, then chain `detail` off it s
 
 Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon. Use the style reference ONLY for the illustration STYLE.
 
-SUBJECT: a slender warm cream BAR swung fully across a path, resting closed and still. At the bar's pivot, joined to it and clearly part of the same object, sits a small hand-sized book with softly glowing cream pages carrying a few simple abstract principle-marks. The book is what holds the bar shut.
+SUBJECT: a slender warm cream BAR swung fully across a path, resting closed and still. The book lies open with its spine horizontal, and that SPINE IS THE AXLE: it passes through the top of the post and continues rightward, becoming the bar itself. Spine and bar are one unbroken horizontal shaft. The open pages fan upward and outward from the shaft where it leaves the post. There is no separate pivot disc and no hinge hardware, because the book is the pivot.
 
 Just in front of the closed bar, a single sheet of finished work hangs CAUGHT MID-AIR, paused and completely intact: not torn, not crumpled, not falling. It simply stopped.
 
@@ -21,7 +21,7 @@ Calm and unthreatening throughout. No padlock, no chain, no keyhole, no wall, no
 Invariants the read-back must check:
 1. A bar swung across a path, closed and at rest. Not a door, not a wall.
 2. The stopped sheet is intact and mid-motion, never damaged and never falling.
-3. The principle-book is joined at the pivot and visibly holds the bar shut.
+3. The book SPINE is the axle, continuous with the bar as one shaft. No separate disc.
 4. No padlock, chain, keyhole, barrier, or red anywhere.
 5. The path beyond the bar is visibly open.
 6. Warm editorial register: cream ground, soft amber painterly line, flat muted fills.
@@ -29,7 +29,7 @@ Invariants the read-back must check:
 
 ## detail  -> reference/the-refusing-gate/detail.png
 
-The load-bearing feature is THE JOINT: the place where the principle-book meets the bar. If that drifts, the motif becomes a generic barrier and the claim that the standard IS the gate is lost.
+The load-bearing feature is THE JOINT: the spine of the book continuing outward as the bar. If that drifts into a book mounted beside or on top of a separate disc, the motif becomes a generic barrier and the claim that the standard IS the gate is lost.
 
 Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon. Use the style reference ONLY for the illustration STYLE.
 
@@ -38,7 +38,7 @@ SUBJECT: a tight close-up crop on the pivot joint of a cream gate-bar. A small h
 Warm, quiet, and precise. No padlock, no hinge hardware, no bolts, no visible mechanism, no red. No text, letters, numbers, or readable marks anywhere.
 
 Invariants the read-back must check:
-1. The book is set INTO the pivot, spine continuous with the bar, one object.
+1. The spine runs unbroken into the bar. One shaft, no disc, no hardware.
 2. Page marks are abstract only, never readable.
 3. No padlock, bolts, visible mechanism, or red.
 4. Warm editorial register.

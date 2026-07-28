@@ -1,12 +1,12 @@
 {
-  "goldenDigest": "bb7335e06ae0cebd",
+  "goldenDigest": "da6b528a8d64a61b",
   "inputs": [
     {
       "digest": "988cef324da88dc6",
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
     },
     {
-      "digest": "676e32072d1cb9fc",
+      "digest": "877b43c611b20a58",
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-refusing-gate/hero.png"
     },
     {
@@ -14,7 +14,7 @@
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
     }
   ],
-  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is the SAME OBJECT this is a close-up of: reproduce its exact design, proportions, colours and page symbols faithfully. The third reference is the principle-book's canonical look.\n\nA TIGHT CLOSE-UP CROP on the left end of that same object, filling the frame: the round pivot disc where the bar meets its post. The plain flat warm cream field fills everything behind it, empty edge to edge.\n\nShow clearly that the small open book with softly glowing warm cream pages is set INTO the pivot disc itself, its spine continuous with the disc, so the book, the disc, the post and the beginning of the bar are unmistakably ONE carved object rather than parts placed together. The bar runs out of frame to the right, level and closed. Each visible page carries two or three tiny abstract symbols only: a small heart, a small open hand, a small balance-scale.\n\nWarm, quiet, precise, gentle. No padlock, no bolts, no screws, no hinges, no gears, no visible mechanism, no chain, no keyhole, no red. No people, no hands, no figures. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is the SAME OBJECT this is a close-up of: reproduce its exact design, proportions, colours and page symbols faithfully. The third reference is the book's canonical look.\n\nA TIGHT CLOSE-UP CROP filling the frame, on the left portion of that same object. The whole background is one plain flat warm cream field, empty edge to edge.\n\nShow the place where the open book meets the long horizontal shaft. The book's SPINE lies along the shaft and IS the shaft: one continuous unbroken cream piece flowing left to right through the frame and out both edges, with the book's covers and pages fanning UPWARD from it like a butterfly opening along a hinge. Spine and shaft are the same object, the same material, with no break, no seam, no collar, no ring, no circle, no wheel, no bracket, no bolt, no screw, no gear between them. The pages glow softly warm and carry two or three tiny abstract symbols only: a small heart, a small open hand, a small balance-scale.\n\nWarm, quiet, precise, gentle. No padlock, no chain, no keyhole, no red. No people, no hands, no figures. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
   "provider": "gpt-image-2",
   "specVersion": null
 }
