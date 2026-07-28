@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "ff2cf2299e57210f",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "0e5941da9b115ff0",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-steps/hero.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the first reference ONLY for the illustration STYLE. The second reference is the SAME OBJECT this is a close-up of: reproduce its exact stone, colour, worn edges and proportions faithfully.\n\nA TIGHT CLOSE-UP CROP filling the frame, on the single place where the flight changes: the edge where a finished step meets the one still forming above it.\n\nThe lower step is solid warm cream stone, substantial and real, its top edge rounded and gently worn smooth from long use, its texture visible. Directly above and behind it the next step begins, and it is noticeably lighter, its edges softer and less certain, its stone thinner and more translucent, as though still setting. The contrast between the two is the subject.\n\nBehind and around them, one plain flat warm cream field, empty.\n\nNothing broken, cracked, chipped, crumbling or ruined. The lighter step is FORMING, coming into being, not decaying.\n\nCalm, warm, patient. No people, no figures, no hands, no objects resting on them, no flag, no summit. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

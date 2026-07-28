@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "0e5941da9b115ff0",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    }
+  ],
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon, NEVER 3D or CGI or Pixar, NEVER glossy plastic. Use the reference ONLY for the illustration STYLE.\n\nAn ISOLATED OBJECT STUDY on a plain flat warm cream field, empty edge to edge, with soft shadows beneath.\n\nSUBJECT: a short flight of FOUR rising steps climbing from the lower left toward the upper right, seen from the side. The flight is cut off by the top edge of the frame and clearly continues beyond it.\n\nThe lowest two steps are solid, substantial, warm cream stone, gently worn and rounded at their edges from long use. Resting on each of those two finished steps is one small settled object: a neat little folded cloth on the first, a small closed pot on the second. They sit there comfortably, as if they belong.\n\nThe third step is present but lighter, its edges softer and less certain, as though it is still setting. The fourth is barely a suggestion, a pale outline dissolving upward into warm light before it reaches the frame edge.\n\nNothing is broken, cracked, chipped, ruined, or missing. The upper steps are forming, not decaying.\n\nCalm, warm, patient, quietly hopeful. No people, no figures, no hands, no ladder, no flag, no banner, no summit, no mountain top, no doorway at the top, no prize. No landscape, no horizon, no sky. No text, no letters, no numbers, no words anywhere.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

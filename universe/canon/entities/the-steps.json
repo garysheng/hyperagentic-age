@@ -1,0 +1,32 @@
+{
+  "id": "the-steps",
+  "kind": "motif",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-28"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-steps/hero.png",
+      "detail": "reference/the-steps/detail.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "FOUR rising steps, seen from the side, and the flight continues up beyond the top edge of the frame. It never shows a summit, a top step, or an arrival",
+      "The two lowest steps are solid, warm and visibly WORN from use. Each higher step is fainter and less formed than the one below it, the topmost barely a suggestion",
+      "The finished steps CARRY something: small settled objects resting on them, so a completed step is visibly worth standing on by itself",
+      "Nothing is broken, cracked, or missing. The faint upper steps are BECOMING, never ruined",
+      "No figure climbing, no ladder, no flag, no summit marker, no prize, no goal at the top. The direction is the point and the destination is not shown",
+      "Warm editorial register: cream ground, soft painterly line, muted natural palette",
+      "Absolutely no text, letters, numbers, or readable marks"
+    ]
+  },
+  "prose": {
+    "voice": "Progressive drivability made into a picture. You climb from the bottom, each step you finish carries weight on its own, and the flight goes further than you will.",
+    "lore": "The book's four levels read bottom to top: a workflow streamlined, a workflow automated, a function that can be driven, a business that can be driven. Its argument is against its own top: a north star is a bad plan, so this motif must never show an arrival.",
+    "rules": "Solid and worn at the bottom, dissolving into light at the top, and always cut off by the frame. If a render gives it a summit, a flag, or a figure standing triumphantly at the top, the motif has become a goal-ladder and it now argues the opposite of the chapter. The objects resting on the finished steps are load-bearing: without them the image says unfinished, and the claim is that each finished step already pays."
+  }
+}
