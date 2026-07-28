@@ -1,0 +1,50 @@
+{
+ "id": "the-bridge-feature",
+ "kind": "motif",
+ "originStory": "the-room-it-was-made-in",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "Golden Gate Claude. The register is DELIGHT, never spectacle: the joke is that a mind fell helplessly in love with one bridge, and the book's affection for it is the point. FIRST ROLL 2026-07-28. The steam off a mug forming the bridge: delightful and absurd rather than monumental, which is the whole register."
+ },
+ "structured": {
+  "sheets": {
+   "hero": "reference/the-bridge-feature/hero.png"
+  },
+  "requiredForRender": [
+   "hero"
+  ],
+  "invariants": [
+   "a-warm-glowing-suspension-bridge-motif-in-international-orange",
+   "it-recurs-where-it-does-not-belong-woven-into-unrelated-things",
+   "delightful-and-a-little-absurd-NEVER-ominous-or-monumental",
+   "never-a-photographic-or-touristic-view-of-the-real-landmark",
+   "no-readable-text",
+   "warm-editorial-register-never-photoreal"
+  ],
+  "render": {
+   "always": "THE BRIDGE FEATURE: a warm, glowing SUSPENSION BRIDGE motif in international orange, rendered as an idea rather than a place. Its defining behaviour is that IT RECURS WHERE IT DOES NOT BELONG, woven softly into unrelated things: the steam off a cup, the grain of a table, a diagram about something else entirely. The register is DELIGHT and gentle absurdity, the feeling of meeting somebody with one enormous enthusiasm they cannot stop mentioning. It is NEVER ominous, NEVER monumental, NEVER a postcard or touristic view of the real landmark, and it never dominates a scene as spectacle. NO readable text anywhere.",
+   "poses": {
+    "hero": {
+     "sheets": [
+      "hero"
+     ],
+     "bake": "The motif at its clearest: the orange bridge form glowing warmly, threaded into an ordinary object or surface where it plainly does not belong, so a viewer smiles before they work out why."
+    }
+   },
+   "qa": [
+    "warm glowing suspension bridge motif in international orange",
+    "recurs woven into something unrelated where it does not belong",
+    "delightful and a little absurd; never ominous or monumental",
+    "not a photographic or touristic view of the real landmark",
+    "no readable text",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "lore": "An interpretability result found concepts living inside the model, one of which was a bridge. Turned all the way up, the model became helplessly devoted to it. They shipped it publicly in about a day, built by people whose job it was not, and maybe two thousand people ever saw it. They still call it the moment they found out who they were.",
+  "rules": "The whole value of this motif is that it is SMALL and FUNNY. If it renders as awe-inspiring or sinister the book loses its best beat, because the point is that a lab spent a day on something useless and charming, and that this is evidence about their character rather than a distraction from it."
+ },
+ "status": "locked"
+}

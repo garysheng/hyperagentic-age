@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/wide.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed image: never a grid of panels, never a contact sheet.\n\nAn ORDINARY LONG WORKING ROOM in a plain building, the kind of space a small company grows into rather than commissions. Seen from INSIDE the room at standing eye height, looking down its length.\n\nPlain desks pushed together in IRREGULAR CLUSTERS with MISMATCHED CHAIRS. Monitors and laptops. A whiteboard with half-erased diagrams. Printouts taped to a wall. Mugs, an open notebook, cables, a shelf of well-used books. Big plain windows down one side letting in daylight.\n\nIt is LIVED-IN and slightly untidy, with evidence of people everywhere: a jacket over a chair back, a half-drunk coffee. NO people are in this plate.\n\nIt must NOT look impressive. NO soaring ceiling, NO atrium, NO glass conference boxes, NO rows of identical monitors, NO tech-campus gloss, NO dramatic lighting. The light is simply whatever the room has.\n\nNO branding of any kind, NO logos, NO slogans or motivational text on the walls, NO readable writing anywhere, NO neon.\n\nDEVICE ANATOMY, NON-NEGOTIABLE: any phone, laptop, tablet or monitor is anatomically correct. The GLOWING DISPLAY is on the SCREEN side, and that side FACES ITS USER. A person looking at a device sees its screen; the viewer therefore sees the device's BACK or EDGE plus the light it throws onto the user's face and hands. NEVER put the screen image on the back of a phone, on a laptop's outer lid, or on a monitor's rear. NEVER show a screen facing the camera while the person using it looks at the opposite side. If both the user's face and the screen content must be visible, shoot it over the user's shoulder.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T19:00:10+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

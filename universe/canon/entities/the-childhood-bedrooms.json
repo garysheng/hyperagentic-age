@@ -1,0 +1,52 @@
+{
+ "id": "the-childhood-bedrooms",
+ "kind": "motif",
+ "originStory": "the-room-it-was-made-in",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "The emotional center of the December beats. Sourced: over the holidays the team trained the model from their childhood bedrooms, so every video tile showed somebody's old room. FIRST ROLL 2026-07-28. Sixteen tiles, every one a different childhood bedroom, warm and tired and unheroic."
+ },
+ "structured": {
+  "sheets": {
+   "grid": "reference/the-childhood-bedrooms/grid.png"
+  },
+  "requiredForRender": [
+   "grid"
+  ],
+  "invariants": [
+   "a-grid-of-video-call-tiles-on-one-screen",
+   "EVERY-tile-shows-a-DIFFERENT-childhood-bedroom-behind-the-person",
+   "teenage-relics-visible-posters-trophies-old-shelves-narrow-beds",
+   "faces-are-small-and-tired-and-ordinary-never-heroic",
+   "warm-lamplit-domestic-not-corporate-video-conferencing",
+   "no-readable-text-on-any-screen-or-poster",
+   "warm-editorial-register-never-photoreal"
+  ],
+  "render": {
+   "always": "THE CHILDHOOD BEDROOMS: a single screen filled with a GRID OF VIDEO-CALL TILES, and behind every single face is a DIFFERENT CHILDHOOD BEDROOM. Teenage relics are visible and specific: a band poster nobody took down, a shelf of old paperbacks, a sports trophy, a narrow bed, patterned wallpaper a grown adult would not choose. The faces are SMALL, TIRED and ORDINARY, mid-work, never heroic and never posed. The light is warm, lamplit and domestic, the opposite of corporate video conferencing. NO readable text anywhere: no names under tiles, no writing on posters, no interface labels.",
+   "poses": {
+    "grid": {
+     "sheets": [
+      "grid"
+     ],
+     "bake": "The full grid seen straight on, filling most of the frame, so the accumulation of different old rooms is the subject."
+    }
+   },
+   "qa": [
+    "a grid of video-call tiles on one screen",
+    "EVERY tile shows a different childhood bedroom",
+    "teenage relics visible: posters, trophies, old shelves",
+    "faces small, tired, ordinary; never heroic",
+    "warm lamplit domestic light, not corporate",
+    "no readable text anywhere",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "lore": "December, everyone home for the holidays, training the model the company's survival depended on from the rooms they grew up in. The trust built there is the thing that lasted; the people who ran that December still run the hardest work.",
+  "rules": "NEVER render this as a triumphant montage or a hero shot. It is late, everyone is tired, and the rooms are slightly embarrassing. The tenderness comes from the gap between the enormity of what they were doing and the ordinariness of where they were sitting."
+ },
+ "status": "locked"
+}

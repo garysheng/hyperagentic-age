@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-bridge-feature/hero.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed image: never a grid of panels, never a contact sheet.\n\nA close, warm study of an ORDINARY DESK SURFACE with a plain mug of tea on it, steam rising.\n\nAND THE STEAM IS A BRIDGE. The rising steam forms, softly and unmistakably, the towers and sweeping cables of a SUSPENSION BRIDGE, glowing gently in INTERNATIONAL ORANGE. It is woven into the steam where it plainly does not belong.\n\nThe register is DELIGHT and gentle absurdity: the feeling of meeting somebody with one enormous enthusiasm they cannot stop mentioning. A viewer should smile before they work out why.\n\nIt is NOT ominous, NOT monumental, NOT a postcard or touristic view of a real landmark, and it does NOT dominate the frame as spectacle. It is a small warm joke living inside an ordinary object.\n\nNO people in frame. NO branding of any kind, NO logos, NO slogans or motivational text on the walls, NO readable writing anywhere, NO neon.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T19:00:10+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

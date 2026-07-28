@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/night.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Match the FIRST reference image for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it. The medium is WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed image: never a grid of panels, never a contact sheet.\n\nThe OTHER reference image shows this exact room in daylight. Keep the SAME room: the same desk clusters in the same places, the same whiteboard, the same windows, the same shelf, the same camera position down the length of the room. Change ONLY the light and the time.\n\nNOW IT IS NIGHT. Most overhead lights are off. Two or three pools of DESK LAMP light. The screens are the brightest things in the room. The windows are dark and reflect the room back into itself.\n\nStill lived-in and untidy. NO people are in this plate. Still NOT dramatic: this is an ordinary room late, not a cinematic set.\n\nNO branding of any kind, NO logos, NO slogans or motivational text on the walls, NO readable writing anywhere, NO neon.\n\nDEVICE ANATOMY, NON-NEGOTIABLE: any phone, laptop, tablet or monitor is anatomically correct. The GLOWING DISPLAY is on the SCREEN side, and that side FACES ITS USER. A person looking at a device sees its screen; the viewer therefore sees the device's BACK or EDGE plus the light it throws onto the user's face and hands. NEVER put the screen image on the back of a phone, on a laptop's outer lid, or on a monitor's rear. NEVER show a screen facing the camera while the person using it looks at the opposite side. If both the user's face and the screen content must be visible, shoot it over the user's shoulder.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-28T19:01:15+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

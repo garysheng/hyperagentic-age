@@ -1,0 +1,316 @@
+{
+ "book": "the-room-it-was-made-in",
+ "provider": "gpt-image-2",
+ "size": "1536x1024",
+ "style": "WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed scene per image: never a grid of panels, never a contact sheet. This book argues that a made thing comes out like the room it was made in, so the room must always look ORDINARY and lived-in rather than impressive, and each spread is set wherever its own scene description says.",
+ "negatives": "NO logos, NO company marks, NO branding of any kind, NO slogans or motivational statements on the walls, NO invented signage. Ordinary working text is welcome and expected: handwriting in notebooks, diagrams and notes on the whiteboard, printouts, text on screens. NO single figure centred, elevated, spotlit or framed as a leader; the makers are always a group. NO caricature of any identifiable real person or company. NO soaring ceilings, atriums, glass conference boxes, rows of identical monitors or tech-campus gloss. NO dramatic or theatrical lighting; the light is whatever the room actually has. NO celebration imagery: no confetti, no applause, no raised arms.",
+ "spreads": [
+  {
+   "id": "spread-01",
+   "cast": [],
+   "scene": "A wide, quiet establishing view of an ordinary building at dusk from across the street, warm light in a row of upper windows. Nothing grand and nothing branded. It could be any workplace. NO people in frame, NO signage of any kind."
+  },
+  {
+   "id": "spread-02",
+   "cast": [],
+   "scene": "A close, plain study of a bare interior wall with nothing on it at all: no poster, no sign, no framed statement, no lettering. Just wall, and a little daylight falling across it. The emptiness is the subject."
+  },
+  {
+   "id": "spread-03",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "The room itself, wide and empty of people, in daylight. Every trace of the people who work here is visible: a jacket over a chair back, an open notebook, a half-drunk mug, the whiteboard with half-erased diagrams. The room is the subject and it is entirely ordinary."
+  },
+  {
+   "id": "spread-04",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "A closer study of one corner of the same room: the taped-up printouts curling at the edges, mismatched chairs pushed at angles, a shelf of well-used books. Detail and wear, not design. NO people in frame."
+  },
+  {
+   "id": "spread-05",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "Looking down the length of the same room from the doorway, as though the reader has just stepped inside. Daylight. Empty of people. An invitation to look rather than a statement."
+  },
+  {
+   "id": "spread-06",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "The room with only a handful of people in it, working in loose clusters, plenty of empty desks around them. It reads as a small group in a space they have not grown into yet. Nobody is centred or leading."
+  },
+  {
+   "id": "spread-07",
+   "cast": [],
+   "scene": "Exterior, winter, night. An ordinary suburban street of houses with warm lit windows, snow or bare trees. Quiet and domestic and far from any workplace. NO people in frame."
+  },
+  {
+   "id": "spread-08",
+   "cast": [
+    {
+     "id": "the-childhood-bedrooms",
+     "pose": "grid"
+    }
+   ],
+   "scene": "The grid of video-call tiles filling the frame, every tile a different childhood bedroom behind a different tired ordinary face, warm and lamplit. This is the image the whole December sequence rests on."
+  },
+  {
+   "id": "spread-09",
+   "cast": [
+    {
+     "id": "the-childhood-bedrooms",
+     "pose": "grid"
+    }
+   ],
+   "scene": "A closer view of just four or five of those tiles, so the individual old rooms read clearly: a band poster, a shelf of childhood models, a narrow bed. The faces are absorbed and tired. Still no readable text anywhere."
+  },
+  {
+   "id": "spread-10",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "Back in the room, daylight, the same people now working together easily and close, heads bent over one screen. The ease between them is the subject. Nobody is centred, nobody is leading."
+  },
+  {
+   "id": "spread-11",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "Two of the makers at a whiteboard covered in abstract diagrams, mid-discussion, one holding a marker. The diagrams are abstract line work with NO readable text. Ordinary working curiosity."
+  },
+  {
+   "id": "spread-12",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "night"
+    },
+    {
+     "id": "the-makers",
+     "pose": "late"
+    }
+   ],
+   "scene": "The room at night, a few desk lamps on. Two makers close to one screen showing an abstract visualization of soft glowing regions, like a map of something's insides. Absorbed and quiet. The visualization carries NO readable text."
+  },
+  {
+   "id": "spread-13",
+   "cast": [
+    {
+     "id": "the-bridge-feature",
+     "pose": "hero"
+    }
+   ],
+   "scene": "A close study of the bridge motif at its clearest: the warm orange suspension-bridge form glowing in the steam rising off an ordinary mug on a desk. Delightful and absurd. NO people in frame."
+  },
+  {
+   "id": "spread-14",
+   "cast": [
+    {
+     "id": "the-bridge-feature",
+     "pose": "hero"
+    }
+   ],
+   "scene": "The same warm orange bridge form appearing where it does not belong, three or four times over in one ordinary scene: woven into the grain of a wooden desk, in the curl of steam, in the pattern of a knitted sleeve. Gentle comic accumulation, like someone who cannot stop mentioning one thing. NO people's faces in frame."
+  },
+  {
+   "id": "spread-15",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "night"
+    },
+    {
+     "id": "the-makers",
+     "pose": "late"
+    }
+   ],
+   "scene": "The room at night, more people than you would expect for the hour, working happily on something. Jackets still on chair backs, someone leaning over someone else's shoulder. The mood is voluntary and a bit giddy, NOT a crunch or a crisis."
+  },
+  {
+   "id": "spread-16",
+   "cast": [],
+   "scene": "A very small, quiet image: one ordinary person alone at a kitchen table at home, laughing at a laptop screen, the warm orange bridge glow faintly lighting their face. One person, delighted, in the middle of an ordinary evening."
+  },
+  {
+   "id": "spread-17",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "delighted"
+    }
+   ],
+   "scene": "The makers clustered around a single screen in daylight, laughing at what is on it. Genuine unguarded delight, slightly silly. They are NOT applauding, NOT celebrating a launch, NOT posed. They are enjoying a thing they made that does not matter."
+  },
+  {
+   "id": "spread-18",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "A plain study of one ordinary desk in the room, mid-morning daylight, with nobody sitting at it yet. An empty chair is pulled out on the CAMERA SIDE of the desk, a jacket over its back.\n\nMONITOR ORIENTATION, and this must be right: the monitor sits on the far side of the desk and its SCREEN FACES THE EMPTY CHAIR, and therefore faces the camera. We see the FRONT of the screen, not its back panel and not its stand from behind. The KEYBOARD lies between the chair and the monitor, on the near side of the screen, exactly where the seated person's hands would fall. Do NOT rotate the workstation away from the chair.\n\nOn the desk: an open notebook with ordinary handwriting in it, a mug, a few loose printed pages. Pinned pages on the wall behind. Unremarkable and a little dull on purpose, the visual turn from delight to routine."
+  },
+  {
+   "id": "spread-19",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "One maker alone at a desk, seen over the shoulder, reading a long column of conversation transcripts on a screen, one hand on a notebook where they are marking patterns. Patient and unglamorous. The screen text is abstract line work with NO readable words."
+  },
+  {
+   "id": "spread-20",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "The same maker, closer, still reading, chin on hand, halfway down a page. This is the least dramatic image in the book and it is meant to be. Steady, ordinary care."
+  },
+  {
+   "id": "spread-21",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "Two makers in conversation with a third person who is new, seated informally, one of them listening closely with real attention. It reads as a conversation rather than an interview: no desk between them, no clipboard, nobody assessing."
+  },
+  {
+   "id": "spread-22",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "A quiet study of the room's window wall with daylight coming through and a lamp lit at a desk beside it, so warm light and cool light share the same frame in equal measure. NO people in frame. The image is about holding two things at once."
+  },
+  {
+   "id": "spread-23",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "The same room in a single view that carries both a bright sunlit stretch of floor and a deep shadowed corner, neither one dominating and neither one resolving. Empty of people, calm, balanced. This is the visual statement of the book's value line."
+  },
+  {
+   "id": "spread-24",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "A wide view of the room fully at work, all the clusters occupied, ordinary and busy and warm. The accumulation of everything the book has shown, in one frame. Nobody centred, nobody leading."
+  },
+  {
+   "id": "spread-25",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    }
+   ],
+   "scene": "The bare wall from the second spread again, still empty, still with no sign or lettering on it, but now with the busy room visible around and past it. The wall stayed blank and the room filled up."
+  },
+  {
+   "id": "spread-26",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "night"
+    }
+   ],
+   "scene": "The room at night, empty of people, desk lamps still on, screens glowing softly. And in the light of one screen, faint and warm, the small orange bridge form appears in the steam of a mug someone left behind. The room's character has ended up inside the thing it made. Quiet, tender, no people."
+  },
+  {
+   "id": "cover-0",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "wide"
+    },
+    {
+     "id": "the-makers",
+     "pose": "at-work"
+    }
+   ],
+   "scene": "A PORTRAIT BOOK COVER, vertical. Looking into the ordinary working room in warm daylight, the makers at work in loose clusters, nobody centred or leading. Lived-in and unremarkable and warm. Compose the people and desks in the LOWER TWO THIRDS and leave the UPPER THIRD relatively calm and uncluttered, because the title goes there.\n\nBAKED TITLE LETTERING, hand-painted directly into the artwork in the upper third, in large warm off-white capitals, well clear of every face. It must read EXACTLY, spelled correctly and completely:\nTHE ROOM IT WAS MADE IN\n\nDirectly beneath it, in much smaller capitals of the same hand, spelled EXACTLY:\nA HYPERAGENTIC AGE story\n\nThose two lines are the ONLY text anywhere in the image.",
+   "size": "1024x1536",
+   "negatives": "NO logos, NO company marks, NO branding, NO slogans on walls, NO invented signage, NO readable words on any screen, whiteboard, notebook or page in the scene. THE TWO TITLE STRINGS BELOW ARE REQUIRED DESIGNED ELEMENTS AND MUST BE RENDERED, prominently and spelled exactly. They are the only text permitted in this image. NO single figure centred, elevated or spotlit as a leader. NO caricature of any identifiable real person or company. NO soaring ceilings, atriums or glass boxes. NO dramatic lighting."
+  },
+  {
+   "id": "plate-closing",
+   "cast": [
+    {
+     "id": "the-room",
+     "plate": "night"
+    }
+   ],
+   "scene": "A QUIET PORTRAIT CLOSING PLATE, vertical, with NO PEOPLE IN IT AT ALL. The room at night, empty, two desk lamps on, one screen still glowing, a mug left on a desk. Still and warm and ordinary. Leave the LOWER HALF calm and open. NO title and NO text of any kind anywhere.",
+   "size": "1024x1536"
+  }
+ ]
+}

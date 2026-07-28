@@ -1,0 +1,66 @@
+{
+ "id": "the-makers",
+ "kind": "character",
+ "originStory": "the-room-it-was-made-in",
+ "authority": {
+  "lockedBy": "gary",
+  "lockedOn": "2026-07-28",
+  "note": "An ENSEMBLE, deliberately not one protagonist. The book's thesis is about a room rather than a founder, so no single maker may become the hero of a spread. Archetypes only; never caricatures of identifiable real employees. FIRST ROLL 2026-07-28. Five people, genuinely mixed, nobody centred or elevated as leader. The ensemble rule held."
+ },
+ "structured": {
+  "sheets": {
+   "master": "reference/the-makers/master.png"
+  },
+  "requiredForRender": [
+   "master"
+  ],
+  "invariants": [
+   "an-ENSEMBLE-of-four-to-six-ordinary-people-never-one-protagonist",
+   "visibly-mixed-in-age-gender-and-ethnicity",
+   "ordinary-comfortable-work-clothes-no-suits-no-branded-merch",
+   "absorbed-in-work-rather-than-posing-or-presenting",
+   "no-single-figure-centered-lit-or-elevated-above-the-others",
+   "archetypes-never-caricatures-of-identifiable-real-employees",
+   "warm-editorial-register-never-photoreal"
+  ],
+  "render": {
+   "always": "THE MAKERS: an ENSEMBLE of four to six ordinary people who build things together, visibly mixed in age, gender and ethnicity, in ordinary comfortable work clothes with NO suits and NO branded merchandise. They are ABSORBED IN WORK rather than posing or presenting. CRITICAL COMPOSITION LAW: NO SINGLE FIGURE is centred, lit, elevated or framed as the leader; the group reads as a group, and if one person is speaking the others are loose around them rather than arranged in an audience. They are archetypes and NEVER caricatures of identifiable real employees. Warm-editorial ink-and-wash, never photoreal.",
+   "poses": {
+    "at-work": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "Working in loose clusters, some at screens, one at a whiteboard, two talking over a printout. Ordinary concentration. Nobody is looking at the camera."
+    },
+    "late": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "The same people late at night, tired and still going, in pools of lamplight. Jackets on chair backs, one person stretching. Companionable rather than heroic; this is a long night, not a last stand."
+    },
+    "delighted": {
+     "sheets": [
+      "master"
+     ],
+     "bake": "Clustered around one screen, laughing at something on it. Genuine, unguarded, slightly silly delight. NOT applauding, NOT celebrating a launch, NOT posed. They are enjoying a thing they made that does not matter."
+    }
+   },
+   "qa": [
+    "an ensemble of four to six people; never one protagonist",
+    "visibly mixed in age, gender and ethnicity",
+    "ordinary work clothes, no suits, no branded merch",
+    "absorbed in work rather than posing",
+    "NO single figure centred, lit or elevated as leader",
+    "archetypes, never caricatures of identifiable real employees",
+    "warm-editorial, never photoreal"
+   ]
+  }
+ },
+ "prose": {
+  "voice": "",
+  "lore": "The people in the room. The book deliberately never names them, because its argument is that the character came from the room rather than from any one person in it.",
+  "rules": "THE ENSEMBLE RULE IS THE THESIS. A culture book that resolves into one great man has argued the opposite of what it says. If a spread starts to make one maker the hero, re-block it."
+ },
+ "fictional": true,
+ "status": "locked"
+}
