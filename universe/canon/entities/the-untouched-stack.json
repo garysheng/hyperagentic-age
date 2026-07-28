@@ -1,0 +1,33 @@
+{
+  "id": "the-untouched-stack",
+  "kind": "motif",
+  "originStory": "the-tastefully-automated-business",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-28"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-untouched-stack/hero.png",
+      "detail": null
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "It must be unmistakably a stack of PAGES: individual sheet edges legible all the way up, with the slight unevenness real paper has. A smooth column reads as wood or stone and the metaphor dies. And the work is visibly GOOD: crisp, square, finished, never scruffy or junk",
+      "The TOP is visible and BARE. The stack is tall, but it terminates, and nothing rests on it and nothing continues from it. Running it out of frame hides that it stops, which is the whole point",
+      "NOTHING HAS BEEN TAKEN FROM IT. The stack is perfectly aligned with no sheet pulled out, no gap, no leaning, no disturbance of any kind",
+      "Nothing is built from it and nothing rests on it. It supports no structure and leads nowhere",
+      "Soft settled dust at its base and along its top edges, so that time has visibly passed with nothing removed",
+      "No person, no mess, no despair, no chaos, no toppling. It is calm and immaculate, which is what makes it sad",
+      "Warm editorial register: cream ground, soft painterly line, muted natural palette",
+      "Absolutely no text, letters, numbers, or readable marks on any sheet"
+    ]
+  },
+  "prose": {
+    "voice": "Chapter 1's ceiling, made visible. Everything here is real work, finished well, and none of it was ever needed by anything.",
+    "lore": "The counterpart to the-steps. Same instinct to rise, opposite outcome: the steps carry things and lead somewhere, the stack carries nothing and leads nowhere. Render them near each other whenever the argument is about output versus progress.",
+    "rules": "It must never look like slop. The whole point is that the work is good, so a render that makes it messy, torn, or obviously worthless argues that the reader simply needs better output, which is the misdiagnosis the chapter exists to correct. Immaculate and untouched is the register. The dust does the work. Two failures to watch, both found on the first roll: a column too smooth to read as paper, and dust so subtle it registers as shadow. The dust is not atmosphere, it is the evidence that time passed and nobody took any."
+  }
+}
