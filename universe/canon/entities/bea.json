@@ -1,0 +1,63 @@
+{
+  "id": "bea",
+  "kind": "character",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "The heart of the book and its worked example. Bea is the customer whose request is 'wrong' by every rule of good plane design and who gets it anyway. She must read as the YOUNGEST child in the book by a clear margin, because the whole argument is that the machine takes a five-year-old's taste as seriously as an engineer's spec. She is never embarrassed about what she likes. Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/bea/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "about-five-years-old-clearly-the-youngest-child-in-the-book",
+      "fair-hair-in-two-short-high-bunches-tied-with-red-yarn",
+      "a-plum-purple-knitted-cardigan-over-a-white-tee-shirt",
+      "green-rubber-wellington-boots-worn-in-all-weather",
+      "round-cheeked-and-entirely-unembarrassed-about-what-she-likes",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "BEA, a small girl of about FIVE, clearly the YOUNGEST child in the book and noticeably shorter than everyone else, reaching only to Mira's waist. FAIR HAIR in TWO SHORT HIGH BUNCHES tied with RED YARN. A PLUM-PURPLE KNITTED CARDIGAN over a white tee shirt. GREEN RUBBER WELLINGTON BOOTS, worn whatever the weather. Round-cheeked, solemn more often than giggly, and entirely unembarrassed about what she likes. She is NOT cutesy, NOT coy, and NEVER performing for the viewer. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "asking": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING AND ASKING FOR SOMETHING SPECIFIC, both hands out shaping the thing she wants in the air, chin up, looking at the older child she is talking to. Certain and matter-of-fact. She is NOT pleading and NOT shy."
+        },
+        "holding-hers": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "HOLDING HER OWN FINISHED PLANE IN BOTH HANDS at chest height, looking down at it. Quietly, completely satisfied. She is NOT jumping, NOT squealing, NOT holding it aloft."
+        },
+        "watching": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "HEAD TIPPED BACK, watching something fly away over her. Absorbed. Mouth slightly open, eyes following it."
+        }
+      },
+      "qa": [
+        "a small girl of about five, clearly the youngest and shortest child",
+        "fair hair in two short high bunches tied with red yarn",
+        "plum-purple cardigan over a white tee, green wellington boots",
+        "solemn and unembarrassed; never cutesy or performing",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "She wanted a fat, stubby nose because she likes fat, stubby things. Nobody could make that fly until Pip did.",
+    "rules": "HER TASTE IS NEVER THE JOKE. The book fails if Bea's fat blunt plane reads as a little kid's mistake that got indulged. It is a genuine preference that the old way could not serve and the new way can. Draw her request as a request, never as a misunderstanding."
+  },
+  "fictional": true,
+  "status": "locked"
+}

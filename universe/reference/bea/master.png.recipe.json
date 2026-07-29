@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "82524b71e114d01a",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    }
+  ],
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good picture book. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal. Character reference: BEA, a small girl of about FIVE, clearly a very young child, short and round-cheeked. FAIR HAIR in TWO SHORT HIGH BUNCHES tied with RED YARN. A PLUM-PURPLE KNITTED CARDIGAN over a white tee shirt. GREEN RUBBER WELLINGTON BOOTS. She is solemn rather than giggly, calm and self-possessed, entirely unembarrassed. She is NOT cutesy, NOT coy, NOT performing for the camera, NOT grinning. Full body, head to feet, front three-quarter view, relaxed neutral pose, arms loose at sides, plain empty cream background, no scenery, no props. Render ONE single image only: NOT a contact sheet, NOT a grid, NOT a turnaround strip. No panel borders, no captions, no labels, no text.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

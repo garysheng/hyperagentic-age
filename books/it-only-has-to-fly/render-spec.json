@@ -2,43 +2,54 @@
   "book": "it-only-has-to-fly",
   "provider": "gpt-image-2",
   "size": "1536x1024",
-  "style": "WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a children's picture book about building a little factory in a garden shed that will make any paper plane at all, so long as it flies. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there.",
+  "style": "WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a children's picture book about a small paper-plane shop on an ordinary street, where each customer asks for the plane they actually want and somebody works out how to make that particular plane fly. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there.",
   "negatives": [
     "NO STRAY OR INVENTED TEXT anywhere: no captions, no labels, no signage, no watermarks, no logos, no signatures, no dates, no readable handwriting and no readable print. THE ONE EXCEPTION is text a scene specifies as an exact quoted string.",
-    "NO ADULTS anywhere in this book: no parents, no teacher, no crowd. Only the two children and the helper.",
-    "NO GLOWING TECHNOLOGY: no screens, no displays, no dials with readouts, no holograms, no blue light, no cables, no motors, no chrome, no sleek modern product design. Every machine is hand-made from scrap wood, tin, wire and spring steel.",
-    "NO PLANE MAY BE A COPY OF ANOTHER: wherever more than one paper plane appears in a frame, every one of them must be a VISIBLY DIFFERENT FOLD. A tidy squadron of matching darts is a failure of the whole book.",
-    "NO character may be lit from below, haloed, or gazed up at.",
-    "PIP IS NEVER LARGER THAN KNEE-HIGH to Mira and never dominates a frame."
+    "NO ADULTS anywhere in this book: no parents, no teacher, no shopkeeper. Every person in it is a child.",
+    "NO PRODUCTION LINE, NO ROW OF MACHINES, NO STATIONS, NO CONVEYOR and NO ASSEMBLY BENCH anywhere in this book. The shed holds a workbench with paper and tools on it, and at most ONE small hand-made launcher. A row of machines is a failure of the whole book.",
+    "NO GLOWING TECHNOLOGY: no screens, no displays, no dials with readouts, no holograms, no blue light, no cables, no motors, no chrome, no sleek modern product design. Everything is wood, tin, paper, wire and spring steel.",
+    "NO PLANE MAY BE A COPY OF ANOTHER: wherever more than one paper plane appears, every one must be a VISIBLY DIFFERENT FOLD. A tidy squadron of matching darts is a failure of the whole book.",
+    "PIP IS NEVER LARGER THAN KNEE-HIGH to Mira and never dominates a frame.",
+    "PIP IS NEVER SURROUNDED BY A HOARD, PILE, HEAP OR ARCHIVE OF OLD PAPER PLANES.",
+    "NO character may be lit from below, haloed, or gazed up at."
   ],
   "spreads": [
     {
       "id": "spread-01",
       "cast": [
         {
-          "id": "mira",
-          "pose": "throwing"
+          "id": "mira"
+        },
+        {
+          "id": "mira-brother"
         }
       ],
       "setting": "the-plane-shed",
       "plate": "yard",
-      "scene": "Late afternoon in the long mown back garden. Mira stands on the low concrete step outside the shed door at the LEFT of frame, side-on, her arm still fully extended forward a moment after release. ONE paper plane, a plain slim cream one, is ALREADY AWAY and well out over the grass, flying level and true, far down the yard toward the waist-high wooden gate at the far end. Low warm light rakes across the mown stripes of grass. She is watching it go. Exactly ONE plane in the whole image. No other people. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "scene": "A warm afternoon in the long mown back garden behind the shed, which is where the two of them run their little paper-plane shop for the street. Mira sits on the low concrete step with a folded plane in her hands, and Tomas kneels on the grass beside her setting a few finished planes in a row along an upturned wooden crate. Six or seven finished paper planes are about, and EVERY ONE OF THEM IS A DIFFERENT FOLD: a long dart, a fat stubby one, a broad square one, one with upturned wingtips. The mood is ordinary, busy and unremarkable, like a lemonade stand nobody photographed. No other people. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
       "id": "spread-02",
       "cast": [
         {
-          "id": "mira",
-          "pose": "throwing"
+          "id": "mira"
         },
         {
-          "id": "mira-brother",
-          "pose": "wanting"
+          "id": "ana",
+          "pose": "ordering"
+        },
+        {
+          "id": "sam",
+          "pose": "ordering"
+        },
+        {
+          "id": "bea",
+          "pose": "asking"
         }
       ],
       "setting": "the-plane-shed",
       "plate": "yard",
-      "scene": "The same garden, the same low step. Mira has just thrown a SECOND plane and it has gone wrong: it is close to the viewer, TIPPED OVER ONTO ITS BACK and diving nose-down toward a scrubby bush at the edge of the grass, clearly about to crash. Tomas stands beside and slightly behind his sister, hands held together in front of him, looking up and out at the falling plane, still hopeful. Mira's arm is down now and she is watching it fall with a flat, unimpressed expression. Exactly ONE plane in the air. Her expression is NOT distressed, just deflated. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "scene": "THREE CUSTOMERS ARRIVE AT ONCE and they all want different things. Mira stands at the step facing them with her hands full of paper. ANA, tall with two long black braids and round wire glasses in navy dungarees, holds up one finger, precise about it. SAM, curly ginger and freckled in a GREEN-and-cream striped tee, leans in with both hands up, keen and a bit loud. BEA, much the smallest, in a plum-purple cardigan and green wellington boots, stands right at the front with both hands out SHAPING A FAT BLUNT SHAPE IN THE AIR, chin up, entirely certain. The composition should make the THREE DIFFERENT WISHES the subject of the picture. All four are children. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
       "id": "spread-03",
@@ -47,16 +58,26 @@
           "id": "mira"
         },
         {
-          "id": "the-plane-flock",
-          "plate": "master"
+          "id": "bea"
         }
       ],
       "setting": "the-plane-shed",
       "plate": "yard",
-      "scene": "A wide view down the garden showing where FIVE paper planes have each ended up, which is the whole point of the picture: they are scattered at wildly different distances and attitudes. ONE lies neatly by the far gate. ONE is stuck nose-first straight down in the grass only a couple of steps from the step, tail in the air. ONE is upside down in a bush. ONE lies flat and sideways in the middle of the lawn. ONE has barely left the step. EVERY ONE OF THE FIVE IS A DIFFERENT FOLD: one long thin dart, one short and fat, one blunt-nosed, one broad and almost square, one with upturned wingtips. Mira stands near the step with her hands at her sides looking out over the mess of them. Exactly five planes. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "scene": "The result of doing exactly as asked. In the middle distance TWO planes are flying well and away: one plainly BLUE, one cream with a SHARK painted along its side. In the FOREGROUND, close to the viewer, a THIRD plane has failed completely: it is BLUE, it has a SHARK on the side, and it has a THICK FAT BLUNT FOLDED-OVER NOSE, and it is stuck NOSE-FIRST STRAIGHT DOWN in the grass with its tail in the air. Bea stands looking down at it, small and solemn, not crying. Mira stands behind her with her arms at her sides. The fat plane must read as GENUINELY DIFFERENT in shape from the two that flew, not merely as a crashed dart. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
       "id": "spread-04",
+      "cast": [
+        {
+          "id": "mira"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "interior-empty",
+      "scene": "Inside the shed, at the workbench. Mira holds up ONE PLANE IN EACH HAND at chest height, comparing them, and the difference between them is the whole picture. In her LEFT hand, Bea's plane: blue, a shark on the side, a THICK FAT BLUNT NOSE. In her RIGHT hand, the same plane rebuilt with a LONG THIN SHARP NOSE, still blue, still with a shark. She is looking at the thin-nosed one with a flat, unhappy expression, because it flies and it is no longer Bea's. She is NOT pleased and NOT triumphant. Nobody else is in the shed. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
+    },
+    {
+      "id": "spread-05",
       "cast": [
         {
           "id": "mira",
@@ -65,13 +86,16 @@
       ],
       "setting": "the-plane-shed",
       "plate": "yard",
-      "scene": "Mira alone, sitting on the low concrete step with her elbows on her knees and her chin near her hands, looking out down the empty garden at nothing in particular. Stuck, thinking hard, brow faintly drawn, mouth closed and level. Two or three crashed paper planes lie forgotten in the grass near her feet, each a different fold. The SKY ABOVE THE GARDEN IS WIDE AND COMPLETELY EMPTY, taking up the upper half of the frame. Quiet, ordinary, unhurried. She is NOT crying, NOT wistful, NOT gazing at a sunset. No other people. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "scene": "Mira alone, sitting on the low concrete step with her elbows on her knees and her chin near her hands, looking out down the empty garden at nothing. STUCK: brow faintly drawn, mouth closed and level. She is NOT crying, NOT wistful, NOT gazing at a sunset. Beside her on the step lie the two planes from before, the fat blue one and the thin blue one, side by side and both rejected. The sky above the garden is wide and empty. Quiet and ordinary. No other people. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
-      "id": "spread-05",
+      "id": "spread-06",
       "cast": [
         {
           "id": "mira"
+        },
+        {
+          "id": "mira-brother"
         },
         {
           "id": "pip",
@@ -80,68 +104,95 @@
       ],
       "setting": "the-plane-shed",
       "plate": "interior-empty",
-      "scene": "Inside the shed. Mira has CROUCHED RIGHT DOWN ON HER HEELS on the plank floor so that she is at eye level with Pip, who stands on the floor facing her. THIS IS THE SPREAD THAT ESTABLISHES PIP'S SIZE AND IT MUST BE UNMISTAKABLE: Pip is a SMALL TIN TOY ONLY KNEE-HIGH TO HER, so standing it would reach no higher than her knee, and crouched she is still taller than it. Pip leans slightly forward with its head tilted and both hands up and open, plainly keen to help. Mira is talking to it, one hand loosely open. The cluttered workbench, the four-pane window and the open doorway are behind them. Warm daylight. Pip is NEVER as tall as her and NEVER dominates the frame."
+      "scene": "Inside the shed, the moment Pip arrives. Mira has CROUCHED RIGHT DOWN ON HER HEELS on the plank floor so she is at eye level with Pip, who stands on the floor facing her; Tomas stands just behind his sister looking down at it. THIS SPREAD ESTABLISHES PIP'S SIZE AND IT MUST BE UNMISTAKABLE: Pip is a SMALL TIN TOY ONLY KNEE-HIGH to Mira, so standing she would tower over it. Pip leans slightly forward with its head tilted and both hands up and open, plainly keen to help. The bench behind them is bare except for loose paper and a jar of pencils. There is NO row of machines. Warm daylight from the four-pane window."
     },
     {
-      "id": "spread-06",
+      "id": "spread-07",
+      "cast": [
+        {
+          "id": "pip",
+          "pose": "got-it-wrong"
+        },
+        {
+          "id": "mira"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "interior-empty",
+      "scene": "Pip's first attempt at folding, and it has gone badly. Pip stands ON THE BENCH TOP holding up in both hands a CRUMPLED, MANGLED WAD OF PAPER that is not a plane at all: creases going every way, corners torn, nothing symmetrical about it. Its head is tilted and it is willing and waiting to be told what it missed; it is NOT ashamed, NOT sad, NOT comic. Mira stands at the bench looking at the wad with plain surprise, eyebrows up, brow smooth. A clean untouched sheet of paper lies beside it for comparison. Only these two."
+    },
+    {
+      "id": "spread-08",
       "cast": [
         {
           "id": "mira",
           "pose": "folding"
         },
         {
+          "id": "mira-brother"
+        },
+        {
           "id": "pip",
-          "pose": "eager"
+          "pose": "folding"
         }
       ],
       "setting": "the-plane-shed",
       "plate": "interior-empty",
-      "scene": "At the workbench. Mira has a PENCIL in her hand and has begun DRAWING A PICTURE OF ONE PARTICULAR PAPER PLANE on a large sheet of paper on the bench, a careful outline drawing of a single handsome dart seen from the side. HER HAND HAS STOPPED MID-STROKE and lifted slightly off the page, and she has turned her head to look at Pip. The unfinished drawing is clearly visible and is the centre of the picture. Pip stands ON THE BENCH TOP beside the sheet, small, about as tall as her forearm is long, leaning in toward the drawing. The drawing is PICTORIAL ONLY: an outline of a plane and nothing else, with NO words, NO labels, NO arrows, NO numbers and NO readable writing of any kind. CAMERA LAW: the workbench is BUILT AGAINST THE WINDOW WALL, so the camera stands in the open floor of the room and Mira is at the bench seen FROM BEHIND or FROM THE SIDE, working away from the viewer with the window in front of her. She is NOT standing behind the bench facing the camera across it: there is no floor on that side."
-    },
-    {
-      "id": "spread-07",
-      "cast": [
-        {
-          "id": "mira"
-        },
-        {
-          "id": "pip",
-          "pose": "eager"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-empty",
-      "scene": "A close, warm view across the workbench, both of them absorbed in one small physical test. Mira BALANCES A FOLDED PAPER PLANE ACROSS ONE OUTSTRETCHED FINGERTIP near the middle of the frame, and the plane is TIPPING FORWARD, its NOSE DIPPING DOWN and its tail rising, because the nose is the heavier end. Her other hand steadies the air beneath it. Pip stands on the bench close by, leaning in, watching the tipping plane. This is a thing being FOUND OUT BY HAND, not a lesson being taught. There is NO list, NO poster, NO written rule, NO chart and NO readable text anywhere in the frame. CAMERA LAW: the workbench is BUILT AGAINST THE WINDOW WALL, so the camera stands in the open floor of the room and Mira is at the bench seen FROM BEHIND or FROM THE SIDE, working away from the viewer with the window in front of her. She is NOT standing behind the bench facing the camera across it: there is no floor on that side."
-    },
-    {
-      "id": "spread-08",
-      "cast": [
-        {
-          "id": "mira"
-        },
-        {
-          "id": "pip",
-          "pose": "eager"
-        },
-        {
-          "id": "the-throwing-arm",
-          "plate": "hero",
-          "pose": "loaded"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-empty",
-      "scene": "The far LEFT end of the workbench, nearest the open doorway, where the hand-made throwing arm has just been clamped into place. Mira is kneeling up on a crate with both hands on the C-clamp, tightening it. Pip stands on the bench beside the post holding one spare wooden peg. RENDER THE ARM IN EXACTLY ONE STATE: DRAWN FULLY BACK and held by its peg, the coiled steel spring visibly compressed, a plain cream paper plane seated in the cork-and-wire cradle, everything STILL and nothing in motion. The arm must NOT also appear swung forward anywhere in the frame. Beyond the open doorway, green grass. No motor, no wires, no electronics."
+      "scene": "A close warm view along the bench of ONE SMALL SKILL BEING TAUGHT, hands and paper filling most of the frame. Mira's hand runs her THUMBNAIL FIRMLY ALONG A CREASE to press it flat, and right beside it Pip's small brass hand is doing THE SAME MOTION on its own sheet, copying her exactly. Tomas leans in from the far side watching the two hands. The camera is close: this is about the hands, not the room. Several practice sheets carrying a single practice fold each lie about the bench. Patient and unhurried."
     },
     {
       "id": "spread-09",
       "cast": [
         {
           "id": "mira",
-          "pose": "watching"
+          "pose": "folding"
         },
         {
           "id": "mira-brother"
+        },
+        {
+          "id": "pip",
+          "pose": "eager"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "interior-empty",
+      "scene": "The three of them settling how the work will go from now on. Mira is at the bench WRITING IN A SMALL PAPER NOTEBOOK with a pencil, mid-sentence. Tomas stands beside her with a fresh sheet of paper ready to hand over. Pip stands on the bench top opposite them, leaning in, waiting for the notebook. The three of them form a loose triangle around the notebook, which is the centre of the picture. The marks in the notebook are PICTORIAL SCRIBBLE ONLY and must NOT be readable words. There is NO machinery in this scene at all: just a bench, a notebook, paper and the three of them."
+    },
+    {
+      "id": "spread-10",
+      "cast": [
+        {
+          "id": "mira",
+          "pose": "folding"
+        },
+        {
+          "id": "bea",
+          "pose": "asking"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "yard",
+      "scene": "Taking the order, out on the grass by the step. Mira has CROUCHED DOWN on one knee so she is at Bea's eye level, the small notebook open on her thigh and her pencil moving. Bea stands facing her with BOTH HANDS OUT IN THE AIR SHAPING A FAT BLUNT NOSE, chin up, saying exactly what she wants. She is certain and unembarrassed. Mira is listening and writing at the same time, not correcting her. The picture is about a small person being taken seriously. Only these two. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
+    },
+    {
+      "id": "spread-11",
+      "cast": [
+        {
+          "id": "pip",
+          "pose": "folding"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "interior-empty",
+      "scene": "Pip alone at work, solving it. Pip stands on the bench top with both hands mid-fold on a large BLUE sheet of paper, head bent to the task, entirely absorbed. The plane taking shape under its hands is UNLIKE ANY ORDINARY PAPER PLANE: a THICK FAT BLUNT FOLDED-OVER NOSE at the front, and LONG WINGS SET UNUSUALLY FAR BACK toward the tail. The open notebook lies propped beside it. Two or three ABANDONED EARLIER ATTEMPTS lie flat and open on the bench nearby, each folded a different way, showing it has been trying variations. It is competent and calm, NOT gesturing, NOT presenting, NOT pleased with itself. Nobody else is in the shed."
+    },
+    {
+      "id": "spread-12",
+      "cast": [
+        {
+          "id": "pip",
+          "pose": "watching-it-fly"
         },
         {
           "id": "the-throwing-arm",
@@ -151,73 +202,25 @@
       ],
       "setting": "the-plane-shed",
       "plate": "interior-empty",
-      "scene": "THE TURN OF THE BOOK, and the hero of this picture is A PLANE, not a person. Tomas's fold has just been launched and it is IN THE AIR in the middle of the frame, flying strongly out through the open doorway toward the daylight. IT MUST LOOK GENUINELY WRONG: SHORT, FAT, STUBBY AND LUMPY, with a THICK BLUNT FOLDED-OVER NOSE, nothing like a dart, the kind of thing an adult would throw away. It is plainly flying well. RENDER THE ARM IN EXACTLY ONE STATE: SWUNG FULLY FORWARD AND EMPTY at the end of its travel, spring relaxed, peg swinging loose on its string. The arm must NOT also appear drawn back. Mira stands to one side with her head lifted and her arms forgotten at half-height, eyebrows UP, eyes fully open, mouth slightly open, brow SMOOTH: surprised and re-calculating, NOT delighted and NOT dismayed. Tomas is beside her, small and matter-of-fact, unbothered. Exactly ONE plane in the air. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
-    },
-    {
-      "id": "spread-10",
-      "cast": [
-        {
-          "id": "mira"
-        },
-        {
-          "id": "mira-brother"
-        },
-        {
-          "id": "the-plane-flock",
-          "plate": "master"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-empty",
-      "scene": "A big scruffy SCRAPBOOK lies open on the workbench, and pasted flat across its open pages are SIX UNFOLDED PAPER PLANES, each one opened out flat like a map so its pattern of creases shows, and EVERY PATTERN IS DIFFERENT from the others. Mira is pressing a SEVENTH flattened pattern onto the page with the heel of her hand, and this one is unmistakably the SHORT FAT BLUNT-NOSED fold from the previous scene. Tomas leans on the bench beside her watching, chin near his hands. Warm daylight from the window. The pages carry ONLY crease patterns and paste marks: NO words, NO titles, NO labels, NO numbers, NO readable handwriting anywhere. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present. CAMERA LAW: the workbench is BUILT AGAINST THE WINDOW WALL, so the camera stands in the open floor of the room and Mira is at the bench seen FROM BEHIND or FROM THE SIDE, working away from the viewer with the window in front of her. She is NOT standing behind the bench facing the camera across it: there is no floor on that side."
-    },
-    {
-      "id": "spread-11",
-      "cast": [
-        {
-          "id": "mira"
-        },
-        {
-          "id": "pip",
-          "pose": "got-it-wrong"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-empty",
-      "scene": "Two objects side by side across the bench, and the contrast between them is the whole picture. On the LEFT, Pip stands on the bench holding up in both hands a LIMP, SOFTLY-FOLDED, SAGGING PAPER SHAPE that has plainly failed, its creases rounded and mushy, already drooping open. Its head is tilted and it is willing and waiting to be told what it missed; it is NOT ashamed and NOT sad. On the RIGHT, Mira holds up a paper plane OPENED OUT COMPLETELY FLAT like a map, held toward Pip, every crease on it SHARP and crisp and catching the light as a clean straight line. A second, folded plane hangs from a NAIL on the upright post behind them. The difference between the soft shape and the sharp creases must be obvious at a glance."
-    },
-    {
-      "id": "spread-12",
-      "cast": [
-        {
-          "id": "mira"
-        },
-        {
-          "id": "mira-brother"
-        },
-        {
-          "id": "pip",
-          "pose": "folding"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-line",
-      "scene": "The finished line, working. A wide view along the whole workbench showing all five hand-made machines standing in their row in process order, with the throwing arm at the far LEFT end beside the open doorway. All three of them are busy at different points along it: Tomas at the near right end feeding a fresh sheet into the little felt-fingered machine, Mira mid-bench at the CLEAR OPEN STRETCH of bare bench folding a plane by hand, and Pip a little further along working a crease with both hands. A finished plane is in the cradle of the arm at the far end. The room is small, wooden, cluttered and warm and must NEVER read as a laboratory or a factory floor. Every plane visible in the frame is a different fold."
+      "scene": "Pip testing its own work, with NO child in the picture at all, which is the point. The hand-made throwing arm is clamped to the far LEFT end of the bench near the open doorway. RENDER THE ARM IN EXACTLY ONE STATE: SWUNG FULLY FORWARD AND EMPTY at the end of its travel, spring relaxed, peg swinging loose on its string. The BLUE fat-nosed plane is already away and in the air, flying out through the open doorway toward the daylight. Pip stands on the bench with its head tipped back and both arms slightly raised, watching where the plane goes. On the bench beside it lie TWO OR THREE EARLIER VERSIONS of the same blue plane, each folded slightly differently. There is NO line of machines: just the bench and the one launcher."
     },
     {
       "id": "spread-13",
       "cast": [
         {
+          "id": "bea"
+        },
+        {
           "id": "mira"
         },
         {
-          "id": "the-plane-flock",
-          "plate": "master"
+          "id": "pip",
+          "pose": "watching-it-fly"
         }
       ],
       "setting": "the-plane-shed",
-      "plate": "interior-line",
-      "scene": "A quiet moment. A view down the length of the working line with FIVE COMPLETELY DIFFERENT PAPER PLANES sitting at five different points along the bench, one at each machine, waiting their turn: a long thin dart, a short fat one, a broad square-ish one, one with upturned wingtips, and one blunt-nosed. They could not look less like each other and the line is treating them all exactly the same. Mira stands at the near end with her hands at her sides, just looking at it, calm and a little brave about it. Soft daylight from the four-pane window. No other people. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "plate": "yard",
+      "scene": "The payoff of the worked example, out in the garden. BEA'S FINISHED PLANE IS THE HERO OF THIS PICTURE and it is flying strongly and level, high over the mown grass, most of the way down the yard toward the far wooden gate. IT MUST BE UNMISTAKABLY HERS AND UNMISTAKABLY ODD: plainly BLUE, a SHARK painted along the side, and a THICK FAT BLUNT FOLDED-OVER NOSE, short and stubby, nothing like a dart, and it is flying beautifully. Bea stands on the grass with her head tipped right back watching it go, arms down, completely absorbed. Mira is beside her also watching. Pip stands on the low step behind them, small, head tipped back. Exactly ONE plane in the air. Nobody is cheering or punching the air. CRITICAL ON THE PLANE ITSELF: it is SHORT, FAT and STUBBY with a THICK BLUNT FOLDED-OVER NOSE, wide-bodied and chunky, and it looks NOTHING LIKE A DART. A sleek pointed plane with a shark painted on it is WRONG. Its odd fat shape is the entire point of the picture, and it is flying beautifully anyway."
     },
     {
       "id": "spread-14",
@@ -226,16 +229,36 @@
           "id": "mira"
         },
         {
-          "id": "pip",
-          "pose": "eager"
+          "id": "mira-brother"
+        },
+        {
+          "id": "ana"
+        },
+        {
+          "id": "sam"
+        },
+        {
+          "id": "bea"
         }
       ],
       "setting": "the-plane-shed",
-      "plate": "interior-line",
-      "scene": "A grey rainy afternoon: rain runs down the four-pane window and the light in the shed is flat and cool, with the bare bulb doing the work. On the bench in the foreground lies a RUINED PLANE, gone soft and limp, its creases collapsed. At the NEAR RIGHT END of the line, Mira is fitting the small new felt-fingered machine into place with a screwdriver, and Pip stands beside her holding out a screw in one hand, leaning in and helping. Both are absorbed and practical about it. The rest of the line stands unchanged behind them. It is grey and cosy, NOT gloomy and NOT dramatic. CRITICAL: there is EXACTLY ONE Pip in this image and it is the small tin toy standing ON THE BENCH TOP beside Mira, no taller than her forearm is long. There is NO second robot, NO larger robot, and NOTHING standing on the floor. Pip NEVER appears twice and is NEVER as tall as the workbench. CAMERA LAW: the workbench is BUILT AGAINST THE WINDOW WALL, so the camera stands in the open floor of the room and Mira is at the bench seen FROM BEHIND or FROM THE SIDE, working away from the viewer with the window in front of her. She is NOT standing behind the bench facing the camera across it: there is no floor on that side."
+      "plate": "yard",
+      "scene": "The shop busy, the whole street queuing on the grass. Mira takes an order in her notebook while Tomas hands a finished plane to a waiting child. Ana, Sam and Bea are among the group. THE FINISHED PLANES IN THE PICTURE ARE THE SUBJECT AND NO TWO ARE ALIKE: one folded to read as a CAT with two pointed ears at the nose, one folded from PRINTED NEWSPAPER OR A BUS TIMETABLE with type visible on the folds, one with a clean ROUND HOLE right through the middle of its wing, one bright and stubby, one long and thin, one broad and square. Several are already in the air overhead. Cheerful and busy and slightly chaotic. Every person in frame is a child. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
       "id": "spread-15",
+      "cast": [
+        {
+          "id": "pip",
+          "pose": "folding"
+        }
+      ],
+      "setting": "the-plane-shed",
+      "plate": "interior-empty",
+      "scene": "Pip working alone and working FAST, and the bench around it is CLEAR AND TIDY. Pip stands on the bench top mid-fold on a fresh sheet, hands moving confidently, head down. Exactly TWO finished planes stand ready at the end of the bench, both different folds, and nothing else. THE BENCH IS OTHERWISE EMPTY AND CLEAN. CRITICAL: there is NO pile, NO heap, NO hoard, NO stack, NO archive and NO shelf of old paper planes anywhere in this image, and nothing is hanging from the ceiling. The picture must read as SPEED AND EASE, not as accumulation. Late low daylight through the four-pane window. Nobody else is in the shed."
+    },
+    {
+      "id": "spread-16",
       "cast": [
         {
           "id": "mira-brother",
@@ -246,11 +269,11 @@
         }
       ],
       "setting": "the-plane-shed",
-      "plate": "interior-line",
-      "scene": "Tomas has stepped BACK from the bench and stands in the middle of the shed floor with his arms down at his sides, looking along the whole row of machines rather than at his sister. He has just asked a serious question: thoughtful and a little uneasy, brow faintly drawn, mouth closed. He is NOT frightened, NOT accusing and NOT cute. Mira is at the bench in the frame, turned toward him and listening, saying nothing yet. The line of machines runs away behind them. The moment is still and slightly heavy. Composition should give Tomas the weight of the frame. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+      "plate": "interior-empty",
+      "scene": "Tomas has stopped and asked a serious question. He stands in the middle of the shed floor with his arms down at his sides, looking at the bench and the folded planes on it rather than at his sister. Thoughtful and a little uneasy: brow faintly drawn, mouth closed. He is NOT frightened, NOT accusing, NOT cute. Mira is at the bench turned toward him, listening, saying nothing yet. The room is quiet and still. Composition should give Tomas the weight of the frame. Only these two, and no helper in this picture. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO TIN FIGURE anywhere in this image. Only the people named above are present."
     },
     {
-      "id": "spread-16",
+      "id": "spread-17",
       "cast": [
         {
           "id": "mira",
@@ -260,28 +283,13 @@
           "id": "mira-brother"
         },
         {
-          "id": "pip",
-          "pose": "folding"
-        }
-      ],
-      "setting": "the-plane-shed",
-      "plate": "interior-line",
-      "scene": "Mira has turned to face her brother and is mid-sentence, one hand open at chest height, level and matter-of-fact, explaining something she has worked out and believes. She is NOT lecturing, NOT triumphant, NOT scolding. Tomas listens, facing her. IN THE SAME FRAME, off to one side and NOT the subject, Pip is on the bench with its head down, both three-finger hands working a fold, entirely absorbed in the job and not looking up at either child: it is plainly good at this and plainly not part of the conversation. That relationship is the point of the picture. Warm light. Pip must NOT be gesturing, pointing, presenting anything, or looking at the children."
-    },
-    {
-      "id": "spread-17",
-      "cast": [
-        {
-          "id": "mira"
+          "id": "bea"
         },
         {
-          "id": "mira-brother",
-          "pose": "throwing-with-her"
+          "id": "ana"
         },
         {
-          "id": "the-plane-flock",
-          "plate": "master",
-          "pose": "in-flight"
+          "id": "sam"
         },
         {
           "id": "pip",
@@ -290,7 +298,7 @@
       ],
       "setting": "the-plane-shed",
       "plate": "yard",
-      "scene": "THE PAYOFF SPREAD AND THE MOST IMPORTANT IMAGE IN THE BOOK. Mira and Tomas are up on the LOW SLOPING ROOF of the shed at the left of frame, both mid-throw, arms up and forward, delighted, and the whole rest of the frame is SKY FILLED WITH PAPER PLANES over the long garden. There must be A GREAT MANY of them, dozens, at every height and angle and heading in different directions, NOT in formation, NOT evenly spaced, NOT a tidy flock. THE ENTIRE POINT IS THAT NO TWO ARE THE SAME FOLD: long thin darts, short fat ones, blunt-nosed ones, broad square ones, ones with upturned wingtips, one with a thick folded-over nose, several folded from PRINTED paper such as a bus timetable or newsprint with type visible on the folds. Every single one is flying well. Warm late afternoon light. IF THE PLANES READ AS COPIES OF ONE ANOTHER THE IMAGE HAS FAILED. PIP IS UP ON THE ROOF WITH THEM, standing at their feet on the shed roof, a SMALL TIN TOY NO TALLER THAN THE CHILDREN'S KNEES, head tipped back and both arms slightly raised, watching the planes go over. Exactly ONE Pip, rendered exactly as its reference plate, and no other robot or mechanical figure anywhere."
+      "scene": "THE PAYOFF SPREAD AND THE MOST IMPORTANT IMAGE IN THE BOOK. Late afternoon in the garden with the whole street out on the grass, and the SKY ABOVE THEM IS FULL OF PAPER PLANES, dozens of them, at every height and angle and heading in different directions, NOT in formation and NOT evenly spaced. THE ENTIRE POINT IS THAT NO TWO ARE THE SAME: long thin darts, short fat ones, blunt-nosed ones, broad square ones, ones with upturned wingtips, one plainly BLUE with a SHARK and a FAT BLUNT NOSE, one folded from PRINTED paper with type visible, one with a hole through its wing, one with pointed cat ears. Several carry their owner's own colour or a painted mark. Below, Mira stands mid-sentence with one hand open, turned toward Tomas; Bea, Ana and Sam are out on the grass watching their own planes go over. Warm late light. IF THE PLANES READ AS COPIES OF ONE ANOTHER THE IMAGE HAS FAILED. PIP IS WITH THEM on the grass at the edge of the group, a SMALL TIN TOY NO TALLER THAN THE CHILDREN'S KNEES, head tipped back, watching the planes go over. Exactly ONE Pip, rendered exactly as its reference plate, and no other robot or mechanical figure anywhere in the image."
     }
   ]
 }

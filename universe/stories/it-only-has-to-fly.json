@@ -1,10 +1,10 @@
 {
   "id": "it-only-has-to-fly",
   "title": "It Only Has to Fly",
-  "logline": "A girl wants every paper plane she makes to fly, and she does not want any two of them to be the same. Those two wishes look like opposites until she stops writing down what a good plane looks like and starts writing down why a plane flies.",
+  "logline": "Mira and Tomas fold paper planes for every kid on the street, and no two kids want the same thing. They cannot make a plane that is both what somebody asked for and a plane that actually flies, until they get a helper that already knows why things fly and only has to be taught how to fold.",
   "spine": "thesis",
-  "spineNote": "The argued object is WHAT A STANDARD SHOULD BE MADE OF. The wrong answer is a picture of the finished thing, which can only ever return what somebody already imagined. The right answer is the conditions that make a thing of its kind work, which any number of unimagined things can satisfy. The book earns this by making the reader want both halves at once (every plane flies, no two planes alike) and then showing that only one kind of rule can deliver both. It is NOT a hero-journey; Mira does not grow up or win anything. She changes her mind about what to write down.",
-  "refrain": "It does not check what it looks like. It checks whether it flies.",
+  "spineNote": "The argued object is HOW A PERSONAL REQUEST BECOMES A REAL THING. The wrong answer is to normalize the request until it fits what you know how to build, which is what a factory quietly does. The right answer is to delegate the HOW to something that can reason about it, and keep the WHAT with the person who wanted it. NOT a hero-journey: Mira does not grow up or win. She stops having to choose between somebody's taste and whether the thing works.",
+  "refrain": "Everything else is up to you. It only has to fly.",
   "status": "full",
   "register": {
     "id": null,
@@ -16,187 +16,201 @@
     "mira",
     "mira-brother",
     "pip",
+    "bea",
+    "ana",
+    "sam",
     "the-plane-shed",
     "the-throwing-arm"
   ],
   "aimDiscipline": [
-    "THE PLANES MUST NOT CONVERGE. The whole thesis dies if the planes drift toward one handsome dart. Every spread showing more than one plane must show visibly DIFFERENT folds: fat, stubby, blunt, long, asymmetric-looking, one made of printed paper. The final spread is the load-bearing one and its hundred planes must read as a hundred DESIGNS, not a hundred copies. If a render comes back with a tidy squadron of matching darts, it has argued the opposite of the book and must be regenerated, not accepted.",
-    "THE FAT PLANE IS THE HERO OBJECT, NOT MIRA. Spread 9's plane is short, fat, blunt, with a folded-over nose, and it must look genuinely WRONG next to her elegant ones. If it reads as merely a different nice plane, the beat carries nothing. Its ugliness is the argument.",
-    "NO GLOWING TECHNOLOGY. Pip and the machines are plain warm workshop objects in ink and wash: wood, tin, spring steel, one small quiet lamp. The universe's rejected poles (neon, HUD, glossy plastic, 3D/CGI) are especially live here because the story is about a machine, and the default illustration of a helpful machine is exactly the pole this universe refuses. No screens with data on them, no holograms, no blue light.",
-    "THE SHED IS ORDINARY AND SMALL. A backyard shed a child could actually have. Not a laboratory, not a factory floor, not impressive. The argument depends on this being makeable by a kid with a helper, so soaring space or industrial scale breaks it.",
-    "PIP IS EAGER, AND PIP NEVER CHOOSES THE AIM. Gary, 2026-07-29: 'Pip just wanted to be a good helper. The right guardrails and guidance made all the difference.' So Pip MAY look willing, may lean in, may try, may fold, may get things wrong, and may get very good. What it must NEVER do in any render is choose what a plane is FOR or who it is for: no spread may show Pip picking a winner on taste, admiring its own work, or overruling a child. Its failures must always read as bad guidance rather than as carelessness or stupidity.",
-    "SHOW, DO NOT LABEL. No spread may render the three principles as a poster of three sentences on a wall, which is the exact failure the source argument exists to reject. The principles live as things you can see happening: a nose dipping, two wings held against each other, a thumbnail down a crease.",
-    "TWO CHILDREN, ONE HELPER, NO ADULTS. No parents, no teacher, no crowd. An adult in frame turns this into a story about permission.",
-    "PIP'S SCALE IS FIXED AND LOAD-BEARING: knee-high to Mira. It is a small hand-made tin toy, never a full-size robot and never a machine that dominates a frame. If it ever reads as bigger than the children, the power in the room has inverted and the spread is wrong."
+    "THERE IS NO PRODUCTION LINE IN THIS BOOK. No row of machines, no stations, no conveyor, no assembly bench. Pip is the whole factory. A render containing a line of machines is arguing the conception this book was rewritten to escape and must be regenerated.",
+    "THE PLANES MUST NOT CONVERGE. Wherever more than one plane appears, every one is a VISIBLY DIFFERENT FOLD, and several carry a customer's own colour or decal. A tidy squadron of matching darts argues the opposite of the book.",
+    "BEA'S FAT PLANE IS THE HERO OBJECT. Short, fat, blunt, with a folded-over nose, blue, with a shark on the side. It must look genuinely WRONG next to an elegant dart, and it must fly. Its wrongness is the argument.",
+    "PIP NEVER CHOOSES THE AIM, AND PIP IS NEVER THE ONE WITH TASTE. It may design, fold, test, iterate and get very good. It must never be shown picking a favourite, improving on a customer's request, or overruling a child.",
+    "PIP MUST NEVER BE SHOWN HOARDING. It keeps what happened to the planes, not the planes. No render may pile up old planes around it as a trophy heap or an archive.",
+    "PIP'S SCALE IS FIXED: knee-high to Mira, a small hand-made tin toy, never a full-size robot and never dominating a frame.",
+    "NO GLOWING TECHNOLOGY: no screens, dials with readouts, holograms or blue light. Everything is wood, tin, paper, wire and spring steel.",
+    "THE CHILDREN ARE THE LIAISON, NOT THE ENGINEERS. Their job is talking to the street and writing down what people want. Do not draw them building machinery.",
+    "NO ADULTS. The customers are other children."
   ],
   "beats": [
     {
       "n": 1,
-      "text": "Mira folded a paper plane on a Tuesday. She went up on the step and threw it. It crossed the whole yard and landed by the gate.",
+      "text": "Mira and Tomas made paper planes for the whole street.",
       "location": "the-plane-shed",
       "characters": [
-        "mira"
+        "mira",
+        "mira-brother"
       ],
-      "provenance": "The opening success that makes the rest a problem. Structural: a thing works once and you do not yet know why."
+      "provenance": "Opening: they are a shop, not hobbyists. The children are the human interface to the neighborhood."
     },
     {
       "n": 2,
-      "text": "Her brother wanted one too. So she folded another. Same paper. Same hands. Ten minutes later. It went up, turned over, and dived into a bush.",
+      "text": "Nobody ever wanted the same one. Ana wanted blue. Sam wanted a shark on the side. Little Bea wanted a fat, stubby nose, because Bea liked fat, stubby things.",
       "location": "the-plane-shed",
       "characters": [
         "mira",
-        "mira-brother"
+        "ana",
+        "sam",
+        "bea"
       ],
-      "provenance": "ontology-book claim `prompting-reinvents-every-time`: the same request made twice returns different work, because nothing between the two attempts is holding the standard."
+      "provenance": "THE DEMAND IS INHERENTLY PERSONAL. Gary, 2026-07-29: orders come in as creative constraints (must be blue, must have this decal, must have a stubby nose)."
     },
     {
       "n": 3,
-      "text": "By Friday there were five. One flew beautifully. One went straight down. One only worked if you threw it sideways, which is not really working. Mira could not tell you why. She could only tell you after.",
+      "text": "So Mira folded exactly what they asked for. The blue one flew. The shark one flew. Bea's fat one went straight into the ground.",
       "location": "the-plane-shed",
       "characters": [
-        "mira"
+        "mira",
+        "bea"
       ],
-      "provenance": "ontology-book claims `coping-not-knowing` and `cannot-recall-your-standard`: you recognize the failure instantly and cannot state the rule in advance."
+      "provenance": "Doing exactly as asked is not the same as serving the request. Colour and decals are free; geometry is not."
     },
     {
       "n": 4,
-      "text": "She sat on the step for a long time. She wanted every plane to fly. She did not want every plane to be the same plane. That would be a very boring sky.",
+      "text": "Mira tried it again with a thinner nose, and it flew beautifully. But then it was not Bea's plane any more.",
       "location": "the-plane-shed",
       "characters": [
         "mira"
       ],
-      "provenance": "THE THESIS, stated as two wishes that look incompatible. Gary, 2026-07-29: 'the personalization is not just the image on the paper plane, it should be a different fold, but there should be principles of the paper plane engineering that carry through across all the paper planes.'"
+      "provenance": "The ordinary fix destroys the thing that made it hers. This is the cost a normal factory quietly charges."
     },
     {
       "n": 5,
-      "text": "She had a helper. She called it Pip, which is not its real name, but it answered to it. She said: help me build a thing that makes planes. I do not know how. I only know two things. Every one has to fly. And I do not want them all to be the same.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claim `ask-for-sameness-to-surface-the-questions`: asking for a consistent result is what forces the unasked questions into the open."
-    },
-    {
-      "n": 6,
-      "text": "Pip said: then I should not be checking what they look like. Mira had not thought of that. She had been about to draw the good plane and say copy this.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claim `criteria-are-not-descriptions`. The near-miss (draw the good plane, copy this) is the mass-customization trap named on appliedai.wiki/concepts/the-personalizing-factory."
-    },
-    {
-      "n": 7,
-      "text": "So instead they wrote down why a plane flies. The nose has to be heavier than the tail. Both wings have to match each other. The creases have to be sharp. Three sentences, and not one of them says what a plane looks like.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claims `standard-must-be-found` and `the-list-is-short`. The three conditions are real paper-plane aerodynamics: centre of mass forward of centre of pressure, bilateral symmetry, crisp airfoil edges."
-    },
-    {
-      "n": 8,
-      "text": "Then a strange problem. To find out whether a plane flew, somebody had to throw it. And Mira threw harder on good days. So the first machine was not for planes at all. It was an arm. One arm, one spring, the same throw every time. You cannot test a thing with a ruler that keeps changing.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claim `standard-that-cannot-stop-is-an-opinion` plus the measurement precondition: a test whose instrument varies cannot separate the plane from the throw."
-    },
-    {
-      "n": 9,
-      "text": "Now the good part. Her brother folded something that was not a plane at all. It was fat and short and had a folded-over nose, and Mira would have thrown it away. The arm threw it. It flew further than anything she had made all week.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "mira-brother"
-      ],
-      "provenance": "THE TURN. A principle can admit an answer nobody had; a description cannot. This is the beat that separates this book from mass customization (Davis 1987, Pine 1993), where the options had to be pre-enumerated."
-    },
-    {
-      "n": 10,
-      "text": "So it went in the sky, and it went into the book of planes that work. Nobody had ever made that one before. Nobody had said it was allowed. It flew, so it was allowed.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "mira-brother"
-      ],
-      "provenance": "The consequence of beat 9: passing the standard IS the permission. There is no separate approval step, which is what makes the line able to produce things its builders never imagined."
-    },
-    {
-      "n": 11,
-      "text": "Some things still had to be shown, not said. Mira tried to write down how to make a crease sharp. Three paragraphs. Pip read all three and made something soft that opened in the air. So she folded one and left it on the nail. Then she folded a second and opened it out flat, all the creases showing, like a map. After that Pip understood sharp.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claims `descriptions-cannot-refuse` and `a-reference-must-cover-the-range`. Same move as the six loaves on the shelf in `the-kitchen-that-could-say-no`: an example you can point at outranks a paragraph. This beat is now the thematic centre: Pip fails on three paragraphs and succeeds on a shown example, which is the book's proof that its shortcomings were always shortcomings in the guidance."
-    },
-    {
-      "n": 12,
-      "text": "What they built, in the end, was a line. Cut the paper. Fold, however you like. Sharpen. Throw once. Fly. And the line will not skip a step. A plane that never met the arm never gets to the sky.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip",
-        "mira-brother"
-      ],
-      "provenance": "ontology-book claims `the-standard-becomes-a-pipeline`, `check-where-the-part-is-made` and `gate-removes-it-from-the-chain`. The free step (fold however you like) sits INSIDE the line, not outside it."
-    },
-    {
-      "n": 13,
-      "text": "The line does not know what a plane is supposed to look like. That was on purpose, and it took Mira a while to be brave about it. It only knows what makes one fly.",
+      "text": "She could give them the plane they asked for, or she could give them a plane that flew. She could not work out how to do both.",
       "location": "the-plane-shed",
       "characters": [
         "mira"
       ],
-      "provenance": "The refrain stated as a property of the machine. The bravery is the real cost: giving up the picture means giving up knowing in advance what you will get."
+      "provenance": "THE PROBLEM STATED. The whole book is the resolution of this sentence."
     },
     {
-      "n": 14,
-      "text": "One rainy week the paper went soft and no crease would hold. Nobody had thought about rain. So they added a small machine that touches the paper first and stops if it is damp. Every machine in that shed is something that went wrong once.",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "pip"
-      ],
-      "provenance": "ontology-book claims `failures-in-the-field-reveal-gaps` and `first-standard-is-incomplete`. Gary, 2026-07-29: 'consistent failures on behalf of your own dogfooding and customer reports reveal gaps.' You cannot enumerate your gaps in advance."
-    },
-    {
-      "n": 15,
-      "text": "Her brother came and looked at the whole line and said: if a machine decides, is it still ours?",
-      "location": "the-plane-shed",
-      "characters": [
-        "mira",
-        "mira-brother"
-      ],
-      "provenance": "THE OBJECTION, given to a child so it lands plainly. This is the reader's real fear and the book must state it at full strength rather than smuggling past it."
-    },
-    {
-      "n": 16,
-      "text": "Mira said: Pip does not decide. Pip wanted to help from the first day. It was not good at it yet, and that was never Pip's fault. Nobody had told it what good meant. So we told it. And then Pip was better at this than any of us. But Pip has never once decided what a plane is FOR. What it is made of, what it looks like, who it is for, whether anyone has ever seen one before. All of that is still us.",
+      "n": 6,
+      "text": "Then they got Pip. Pip had read every word anyone had ever written about why things fly. Air and weight and angles, all of it. It had never once folded a piece of paper.",
       "location": "the-plane-shed",
       "characters": [
         "mira",
         "mira-brother",
         "pip"
       ],
-      "provenance": "ontology-book claims `ai-has-no-aim`, `steer-without-leave-with` and `agent-must-have-no-mechanism-to-bless`. REWRITTEN 2026-07-29 on Gary's direction: 'Pip just wanted to be a good helper. The right guardrails and guidance made all the difference.' The blessed line 'the machine has never once had an idea' became false under that framing and was replaced. The answer to the objection is no longer that the helper is empty; it is that the helper is willing and capable and still never owns the aim."
+      "provenance": "Gary, 2026-07-29: 'It's trained on tons of physics.' Enormous latent knowledge, zero motor skill."
     },
     {
-      "n": 17,
-      "text": "That afternoon a hundred planes went up off the roof together. No two of them the same. Fat ones, thin ones, one with a folded-over nose, one somebody made out of a bus timetable. Every single one of them flew. It does not check what it looks like. It checks whether it flies.",
+      "n": 7,
+      "text": "Its first plane was a crumpled mess. Knowing why a plane flies is not the same as knowing how to make one.",
+      "location": "the-plane-shed",
+      "characters": [
+        "pip",
+        "mira"
+      ],
+      "provenance": "The gap between knowing and doing, stated plainly."
+    },
+    {
+      "n": 8,
+      "text": "So they taught it the small things. How to line up two edges. How to press a crease flat with your thumbnail. How to fold along a line that is not drawn on the paper. Little skills. One at a time. That part took a week.",
       "location": "the-plane-shed",
       "characters": [
         "mira",
-        "mira-brother"
+        "mira-brother",
+        "pip"
       ],
-      "provenance": "THE PAYOFF. Both wishes from beat 4 delivered at once, which is the whole argument: variety and reliability were never opposites, they were made opposites by writing down the wrong thing."
+      "provenance": "Gary, 2026-07-29: 'It's also rapidly learning atomic skills, like folding on a certain line.' The humans supply the skills, not the physics."
+    },
+    {
+      "n": 9,
+      "text": "Then the three of them worked out a way of doing it. Ask the person exactly what they want. Write down every word they say, even the strange ones. Hand the whole lot to Pip. We did it that same way round every time after.",
+      "location": "the-plane-shed",
+      "characters": [
+        "mira",
+        "mira-brother",
+        "pip"
+      ],
+      "provenance": "THE CO-CREATED META-PROCESS. Gary: 'you co-create a process, like a meta-process, that kind of resembles a factory. It allows for much more personalization than what a factory would enable.' It is a way of working, never machinery."
+    },
+    {
+      "n": 10,
+      "text": "Bea's said: blue, a shark, and a fat, stubby nose.",
+      "location": "the-plane-shed",
+      "characters": [
+        "mira",
+        "bea"
+      ],
+      "provenance": "The children are the LIAISON: they take the order in the customer's own words."
+    },
+    {
+      "n": 11,
+      "text": "Pip did not say the fat nose was wrong. It moved the weight forward. It made the wings longer and set them further back. It made something nobody had ever folded before.",
+      "location": "the-plane-shed",
+      "characters": [
+        "pip"
+      ],
+      "provenance": "THE TURN. The constraint is accepted and the physics is solved around it. A principle can admit a design nobody had; a template cannot."
+    },
+    {
+      "n": 12,
+      "text": "Then it threw the plane itself, and watched where it went. Not far enough. So it changed one thing and threw it again. And again.",
+      "location": "the-plane-shed",
+      "characters": [
+        "pip",
+        "the-throwing-arm"
+      ],
+      "provenance": "Gary: 'it needs to be testing out its designs.' Pip owns its own test loop; no human gate."
+    },
+    {
+      "n": 13,
+      "text": "On the eleventh try, Bea's fat blue shark plane crossed the whole yard.",
+      "location": "the-plane-shed",
+      "characters": [
+        "pip",
+        "bea",
+        "mira"
+      ],
+      "provenance": "The payoff of the worked example. Eleven tries is the honest number."
+    },
+    {
+      "n": 14,
+      "text": "After that, everybody came. A plane shaped like a cat. A plane folded out of a bus timetable. One with a hole right through the middle, which should not have worked at all. Pip made every one of them fly.",
+      "location": "the-plane-shed",
+      "characters": [
+        "mira",
+        "mira-brother",
+        "ana",
+        "sam",
+        "bea"
+      ],
+      "provenance": "The range widens because the constraint is understood rather than enumerated."
+    },
+    {
+      "n": 15,
+      "text": "Pip got quicker, too, because Pip remembered. It did not keep the planes. It kept what happened to them. It knew what fat noses need now. It knew what a hole does. The hundredth plane took all afternoon. The next one took ten minutes.",
+      "location": "the-plane-shed",
+      "characters": [
+        "pip"
+      ],
+      "provenance": "Gary: 'Overall, it should learn.' MEMORY, NOT STORAGE, corrected 2026-07-29 after 'It doesn't need to house a hoarder.' No render may show a hoard of old planes."
+    },
+    {
+      "n": 16,
+      "text": "Tomas said: if Pip works all of it out, is it still ours?",
+      "location": "the-plane-shed",
+      "characters": [
+        "mira-brother",
+        "mira"
+      ],
+      "provenance": "THE OBJECTION, at full strength, in a child's words."
+    },
+    {
+      "n": 17,
+      "text": "Mira said: Bea said blue. Bea said shark. Bea said fat. Pip has never once decided what a plane should be. It only ever worked out how. By summer the sky over our street was full of them, and no two were the same.",
+      "location": "the-plane-shed",
+      "characters": [
+        "mira",
+        "mira-brother",
+        "bea",
+        "ana",
+        "sam"
+      ],
+      "provenance": "THE ANSWER AND THE PAYOFF: the will is the customer's, the how is delegated. Both halves of spread 5 delivered at once."
     }
   ],
   "writesBack": [
@@ -216,6 +230,21 @@
       "locked": true
     },
     {
+      "kind": "character",
+      "id": "bea",
+      "locked": true
+    },
+    {
+      "kind": "character",
+      "id": "ana",
+      "locked": true
+    },
+    {
+      "kind": "character",
+      "id": "sam",
+      "locked": true
+    },
+    {
       "kind": "setting",
       "id": "the-plane-shed",
       "locked": true
@@ -226,5 +255,5 @@
       "locked": true
     }
   ],
-  "closingVerse": "A rule about what a thing must look like can only give you what somebody already imagined. A rule about why it works can let in something nobody has thought of yet."
+  "closingVerse": "You already know what you want. That was never the hard part. The hard part is how, and how is the part you can increasingly hand over."
 }

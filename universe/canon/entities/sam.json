@@ -1,0 +1,49 @@
+{
+  "id": "sam",
+  "kind": "character",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "A neighborhood customer. Appears in the opening run of orders. Distinct from Tomas at a glance. Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/sam/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "about-eight-years-old",
+      "curly-ginger-hair-and-heavy-freckles",
+      "a-green-and-cream-striped-tee-shirt",
+      "one-grazed-knee-with-a-plaster-on-it",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "SAM, a boy of about EIGHT, with CURLY GINGER HAIR and HEAVY FRECKLES. A GREEN-AND-CREAM STRIPED TEE SHIRT and shorts. ONE GRAZED KNEE with a PLASTER on it. Enthusiastic and a bit loud. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "ordering": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "LEANING IN AND ASKING FOR SOMETHING, both hands up, keen. Enthusiastic and a little loud."
+        }
+      },
+      "qa": [
+        "boy of about eight, curly ginger hair, heavy freckles",
+        "green-and-cream STRIPED tee (never rust-and-cream, that is Tomas)",
+        "one grazed knee with a plaster",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "Wanted a shark on the side.",
+    "rules": "MUST NOT BE CONFUSABLE WITH TOMAS. Both are striped-tee boys, so Sam is GINGER and CURLY in GREEN-and-cream, Tomas is dark and cropped in RUST-and-cream."
+  },
+  "fictional": true,
+  "status": "locked"
+}

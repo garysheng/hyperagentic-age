@@ -1,0 +1,48 @@
+{
+  "id": "ana",
+  "kind": "character",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "A neighborhood customer. Appears in the opening run of orders. Distinct from Mira at a glance. Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/ana/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "about-nine-years-old-tall-and-lanky",
+      "black-hair-in-two-long-braids",
+      "round-wire-glasses",
+      "navy-blue-dungarees-over-a-white-long-sleeved-tee",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "ANA, a girl of about NINE, TALL AND LANKY. BLACK HAIR IN TWO LONG BRAIDS. ROUND WIRE GLASSES. NAVY-BLUE DUNGAREES over a white long-sleeved tee. Calm and a bit particular. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "ordering": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING AND NAMING WHAT SHE WANTS, one hand raised with a finger up, precise about it. Particular, not bossy."
+        }
+      },
+      "qa": [
+        "girl of about nine, tall and lanky, two long black braids, round wire glasses",
+        "navy-blue dungarees over a white long-sleeved tee",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "Wanted blue. Got blue.",
+    "rules": "Keep her visually distinct from Mira: taller, braids not a bob, glasses, blue not mustard."
+  },
+  "fictional": true,
+  "status": "locked"
+}

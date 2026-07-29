@@ -5,7 +5,7 @@
   "authority": {
     "lockedBy": "TODO-you",
     "lockedOn": "2026-07-29",
-    "note": "Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed. This motif exists to defend the single visual claim the whole book rests on. Without a locked reference of genuinely DIFFERENT folds, every render drifts toward a tidy squadron of matching darts, which argues the exact opposite of the text."
+    "note": "Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed. This motif exists to defend the single visual claim the whole book rests on. Without a locked reference of genuinely DIFFERENT folds, every render drifts toward a tidy squadron of matching darts, which argues the exact opposite of the text. 2026-07-29: the cream-and-white-only rule was RETIRED when the book was rewritten. Colour and painted decals are now part of what a customer orders ('must be blue', 'must have this decal'), so a monochrome flock would under-sell the book's central claim. The anti-convergence rule about FOLD is unchanged and remains the load-bearing one."
   },
   "structured": {
     "sheets": {
@@ -19,11 +19,11 @@
       "the-range-must-include-fat-stubby-and-blunt-nosed-forms-not-only-darts",
       "at-least-one-plane-is-folded-from-printed-paper-a-timetable-or-newsprint",
       "they-are-plainly-hand-folded-with-soft-and-slightly-imperfect-creases",
-      "cream-and-white-paper-with-occasional-print-never-coloured-craft-paper",
+      "customer-colour-and-painted-marks-are-expected-plain-paper-craft-paper-and-newsprint-all-appear",
       "warm-editorial-ink-and-wash-never-photoreal"
     ],
     "render": {
-      "always": "A FLOCK OF PAPER PLANES IN WHICH NO TWO ARE THE SAME FOLD. The range must be WIDE and OBVIOUS at a glance: long thin darts, but also SHORT FAT ONES, BLUNT-NOSED ONES, wide stubby gliders, one with a thick FOLDED-OVER NOSE, one with upturned wingtips, one broad and almost square. They are HAND-FOLDED by children: creases soft and slightly off, wings never perfectly matched by eye. Plain CREAM AND WHITE paper, and AT LEAST ONE folded from PRINTED paper such as a bus timetable or newsprint with the type still visible. Never coloured craft paper, never origami-store paper. Warm-editorial ink-and-wash, never photoreal, never 3D, never glossy.",
+      "always": "A FLOCK OF PAPER PLANES IN WHICH NO TWO ARE THE SAME FOLD. The range must be WIDE and OBVIOUS at a glance: long thin darts, but also SHORT FAT ONES, BLUNT-NOSED ONES, wide stubby gliders, one with a thick FOLDED-OVER NOSE, one with upturned wingtips, one broad and almost square. They are HAND-FOLDED by children: creases soft and slightly off, wings never perfectly matched by eye. The paper is MIXED, because colour is part of what a customer asks for: mostly plain cream and white, but several in a customer's own COLOUR (a blue one, a yellow one, a green one) and several carrying a PAINTED MARK such as a shark along the side or a pair of cat ears at the nose. At least one is folded from PRINTED paper such as a bus timetable or newsprint with the type still visible. Colours stay MUTED and watercolour-soft, never bright plastic or neon. Warm-editorial ink-and-wash, never photoreal, never 3D, never glossy.",
       "poses": {
         "study": {
           "sheets": [
@@ -49,7 +49,7 @@
         "the range includes fat, stubby and blunt-nosed forms, not only darts",
         "at least one plane folded from printed paper with type visible",
         "hand-folded look: soft, slightly imperfect creases",
-        "cream and white paper, never coloured craft paper",
+        "mixed paper: mostly cream and white, several in a customer's own colour, several with a painted mark",
         "warm-editorial ink-and-wash, never photoreal"
       ]
     }
