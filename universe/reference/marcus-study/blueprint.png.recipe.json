@@ -1,0 +1,14 @@
+{
+  "asset": "blueprint.png",
+  "generator": "agenticstory.massing (code-built 3D massing render)",
+  "deterministic": true,
+  "model": null,
+  "prompt": null,
+  "inputs": [
+    "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/87df508a-5085-4b39-811f-64efba56d7f6/scratchpad/study-massing.json"
+  ],
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "entity": "marcus-study",
+  "specVersion": "0.16",
+  "note": "Blueprint rendered in code from a declarative massing spec, from the entity's own locked cameras. Layout reference only; never painted into artwork."
+}

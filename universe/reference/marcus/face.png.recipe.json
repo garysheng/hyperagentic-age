@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus/face.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent watercolour washes over it, muted earth palette, quiet and hand-made. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal.\n\nCharacter reference: HEAD AND SHOULDERS CLOSE PORTRAIT of the EXACT SAME MAN shown in the attached character plate. Match his face, hair, colouring and clothing precisely: a man in his LATE THIRTIES, SHORT DARK HAIR going GREY AT THE TEMPLES, a few days of STUBBLE, WIRE-RIMMED READING GLASSES PUSHED UP ONTO THE TOP OF HIS HEAD resting in his hair rather than over his eyes, wearing the collar of a soft OLIVE-GREEN OPEN SHIRT over a plain GREY TEE.\n\nFront three-quarter view. Calm neutral expression, mouth closed and level, eyes open and direct, brow smooth. Ordinary and a little tired. He is NOT smiling for the camera, NOT sad, NOT intense. Plain empty cream background.\n\nRender ONE single image only: NOT a contact sheet, NOT a grid, NOT a turnaround. No captions, no labels, no text.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus/master.png"
+  ],
+  "size": "1024x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T17:24:46+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

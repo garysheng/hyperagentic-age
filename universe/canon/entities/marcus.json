@@ -1,0 +1,80 @@
+{
+  "id": "marcus",
+  "kind": "character",
+  "originStory": "what-a-book-is-made-of",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null,
+    "note": "Marcus is a MARKETER, not an engineer, and the whole book depends on that reading. He is an ordinary man at an ordinary desk who could TELL and could not SAY. He must never look like a developer, a founder or a technologist: no hoodie, no startup uniform, no wall of monitors, no whiteboard of diagrams. He is also never inside the laptop. His half of every picture is the warm real room; the work lives in the screen."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/marcus/master.png",
+      "face": "reference/marcus/face.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "a-man-in-his-late-thirties-ordinary-and-slightly-tired",
+      "short-dark-hair-going-grey-at-the-temples-and-a-few-days-of-stubble",
+      "a-soft-olive-green-shirt-worn-open-over-a-plain-grey-tee-sleeves-rolled",
+      "wire-rimmed-reading-glasses-often-pushed-up-onto-his-head",
+      "never-a-hoodie-never-startup-uniform-never-a-technologist",
+      "he-is-ALWAYS-outside-the-laptop-in-the-real-room-never-inside-the-screen",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "MARCUS, a man in his LATE THIRTIES, ordinary and a little tired. SHORT DARK HAIR going GREY AT THE TEMPLES and a few days of STUBBLE. A soft OLIVE-GREEN SHIRT worn open over a plain GREY TEE, sleeves rolled to the forearm. WIRE-RIMMED READING GLASSES, often pushed up onto his head rather than worn. He is a MARKETER and a dad, NOT an engineer: never a hoodie, never a startup uniform, never a technologist, never a wall of monitors. He is patient, curious and slightly rumpled. He is ALWAYS in the warm real room and NEVER inside the laptop screen. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "reading-to-kids": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SITTING ON THE FLOOR OR A SOFA with an open picture book on his knee, leaning toward two small children. Warm and unremarkable. He is NOT performing."
+        },
+        "at-the-desk": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SITTING AT HIS DESK in three-quarter view with the glowing laptop in front of him, one hand near the keyboard. Attentive. He is OUTSIDE the machine, looking into it."
+        },
+        "stuck": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "SITTING BACK from the desk, glasses pushed up into his hair, one hand over his mouth, looking at nothing in particular. Genuinely stuck, NOT despairing and NOT theatrical."
+        },
+        "objecting": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "LEANING IN TOWARD THE SCREEN, brow drawn, one finger raised or pointing at something in it. He has spotted a thing that is wrong. Firm, not angry."
+        },
+        "realising": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "STILL, HEAD LIFTED, eyes open and brow SMOOTH, having just understood something he had walked past many times. Quiet recognition. He is NOT delighted and NOT triumphant."
+        }
+      },
+      "qa": [
+        "man in his late thirties, dark hair greying at the temples, stubble",
+        "olive-green open shirt over a grey tee, sleeves rolled, wire-rimmed glasses",
+        "reads as an ordinary marketer and dad, never as an engineer or founder",
+        "always outside the laptop, never inside the screen",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Plain, first person, unhurried. He says when he was wrong and does not dress it up.",
+    "lore": "For a year he bought children's books for his two kids and could tell something was missing without being able to say what. He ended up with four hundred files describing what a book is.",
+    "rules": "HE IS NOT A GENIUS AND NOT A FOUNDER. The book only works if the reader believes an ordinary person did this by answering one question at a time for a few months. Never draw him presenting, pitching, or being admired."
+  },
+  "fictional": true,
+  "status": "locked"
+}

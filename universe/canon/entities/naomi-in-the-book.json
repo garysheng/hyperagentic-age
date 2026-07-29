@@ -1,0 +1,61 @@
+{
+  "id": "naomi-in-the-book",
+  "kind": "character",
+  "originStory": "what-a-book-is-made-of",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null,
+    "note": "Naomi is NOT a person in Marcus's world. She is a CHARACTER INSIDE THE BOOKS HE MAKES, so she only ever appears WITHIN the glowing laptop screen or on a printed page, never standing in his room. She is the worked example of drift: the reader has to be able to see her stay herself, and see her fail to."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/naomi-in-the-book/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "an-older-woman-with-a-lined-kind-face-and-deep-set-eyes",
+      "silver-grey-hair-pulled-back-under-a-dark-red-headscarf",
+      "a-simple-ochre-robe-with-a-darker-red-shawl-over-one-shoulder",
+      "she-appears-ONLY-inside-the-laptop-screen-or-on-a-page-never-in-the-real-room",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "NAOMI, a character from a children's Bible book. An OLDER WOMAN with a LINED, KIND FACE and DEEP-SET EYES. SILVER-GREY HAIR pulled back under a DARK RED HEADSCARF. A simple OCHRE ROBE with a DARKER RED SHAWL over one shoulder. She is calm and steady. SHE IS A DRAWING INSIDE A BOOK: she appears only within the glowing laptop screen or on a printed page, and NEVER stands in the real room. Warm-editorial ink-and-wash, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "correct": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "FRONT-ON PORTRAIT, exactly as her locked reference: same face, same headscarf, same shawl. This is the version that is RIGHT."
+        },
+        "drifted": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "THE SAME CHARACTER RENDERED WRONG: recognisably meant to be her, but a DIFFERENT WOMAN. Different face shape, different age, different nose and mouth, headscarf a different colour. It must be obvious at a glance that this is not the same person, while still plainly being an attempt at her."
+        },
+        "turned": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "HER HEAD TURNED TO A THREE-QUARTER OR PROFILE ANGLE, correct and consistent with her locked front view."
+        }
+      },
+      "qa": [
+        "older woman, lined kind face, deep-set eyes, silver-grey hair",
+        "dark red headscarf, ochre robe, darker red shawl over one shoulder",
+        "appears only inside the laptop screen or on a page, never in the real room",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "A character in the Ruth book who kept coming out as a different woman on page eleven, until she stopped being described and started being shown.",
+    "rules": "SHE IS THE WORKED EXAMPLE OF DRIFT. Where the story calls for the wrong Naomi, she must read as a DIFFERENT WOMAN at a glance, or the beat carries nothing."
+  },
+  "fictional": true,
+  "status": "locked"
+}

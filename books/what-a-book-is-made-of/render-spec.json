@@ -1,0 +1,310 @@
+{
+  "book": "what-a-book-is-made-of",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "style": "WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book for adults. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a quiet account of working out what a children's book is actually made of, set in an ordinary family house. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there.",
+  "negatives": [
+    "NO STRAY OR INVENTED TEXT anywhere: no captions, no labels, no signage, no watermarks, no logos, no signatures, no dates, no readable handwriting and no readable print. Writing on paper or on a screen is PICTORIAL SCRIBBLE ONLY and must never resolve into words.",
+    "NO PHYSICAL FACTORY: no warehouse, no conveyor belt, no industrial machinery, no robot arms, no server racks and no assembly hall anywhere in this book. Every factory is inside the laptop screen.",
+    "MARCUS IS NEVER INSIDE THE LAPTOP SCREEN and never shrunk, never floating in it, never reaching into it. He stays in the real room.",
+    "NEVER show the back of a laptop lid, and never the lid-back and the screen face in the same image. The screen face is always toward the viewer.",
+    "THE ROOM IS NEVER AN OFFICE, a studio, a startup, a lab or a maker-space. No wall of monitors, no whiteboard covered in diagrams, no exposed brick, no neon sign, no lanyards.",
+    "NOTHING IS TRIUMPHANT: no fist-pumps, no applause, no crowds, no pitch decks, no stage, no trophy. Nobody is lit from below or haloed.",
+    "THE SUPERCHARGED LAPTOP LAW, and it is canon: when an agent is running, the ENTIRE LAPTOP is a TRANSLUCENT LUMINOUS HOLOGRAPHIC OBJECT, glowing all through its lid, its keyboard, its base and its edges, so you can SEE THROUGH the whole machine and it casts light rather than shadow. It is NEVER an ordinary solid laptop with a bright screen. If the body of the machine looks like normal grey metal or plastic while only the display glows, the image has failed."
+  ],
+  "spreads": [
+    {
+      "id": "spread-01",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "reading-to-kids"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "scene": "Evening in the living room of an ordinary family house. Marcus sits on the worn sofa with an open children's picture book on his knee and TWO SMALL CHILDREN, about four and six, tucked either side of him, looking at the page. A short stack of other picture books sits on the arm of the sofa and a few more are on the floor. Lamplight. He is reading, unremarkable and a bit tired. There is NO computer anywhere in this image. THERE IS NO ROBOT and no glowing object of any kind."
+    },
+    {
+      "id": "spread-02",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Late on a Saturday. Marcus sits at the plain wooden desk under the sash window, seen in three-quarter view from inside the room, typing. ON THE DESK IS AN ORDINARY, PLAIN GREY LAPTOP THAT DOES NOT GLOW AT ALL: it is a dull everyday object, and this is important, because nothing has been supercharged yet. Its screen face is turned toward the viewer and shows only faint pictorial scribble, no readable words. The doorway to the rest of the house is at the FAR LEFT of frame, the bookshelf of picture books at the RIGHT. A cooling mug beside him. Quiet and ordinary."
+    },
+    {
+      "id": "spread-03",
+      "cast": [
+        {
+          "id": "marcus"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "scene": "That afternoon, on the sofa. Marcus sits between his TWO SMALL CHILDREN, about four and six, and all three are looking at THE GLOWING LAPTOP open on his lap. THE WHOLE LAPTOP IS NOW A TRANSLUCENT LUMINOUS HOLOGRAPHIC OBJECT GLOWING WARM ORANGE, not merely a lit screen, and it casts warm light onto the three faces rather than shadow. Its screen face is toward the viewer and holds a single finished picture-book page: a painted illustration of a great fish and a small boat. The children are delighted in a plain, quiet way. Marcus is watching them rather than the screen."
+    },
+    {
+      "id": "spread-04",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "objecting"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Marcus at the desk, leaning in toward the GLOWING ORANGE TRANSLUCENT LAPTOP. Inside its screen, TWO FINISHED BOOKS ARE HELD SIDE BY SIDE and they plainly do not belong together: different page shapes, the words sitting in a different place on each, two completely different painting styles, and two characters who look like they come from different worlds. The mismatch between the two is the subject of the picture and must be obvious at a glance. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame. One of his hands is raised into frame from below, pointing at the screen."
+    },
+    {
+      "id": "spread-05",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Inside the GLOWING ORANGE TRANSLUCENT LAPTOP, FIVE FINISHED BOOKS float in a loose row, and EVERY ONE OF THEM IS A DIFFERENT WORLD: five different page shapes, five different painting styles, five different letterings, nothing shared between any two. Warm evening light. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame."
+    },
+    {
+      "id": "spread-06",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "scene": "Marcus sitting alone on the bottom few steps of the staircase in the hall of the house, elbows on his knees, holding a cold mug in both hands, looking at nothing. A landing light above, toys on the floor at the foot of the stairs, the house asleep around him. He has just said something out loud to himself. Thoughtful and unresolved. There is NO computer in this image and nothing glows."
+    },
+    {
+      "id": "spread-07",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk"
+        },
+        {
+          "id": "chief-of-agents",
+          "plate": "listening"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "THE TURN OF THE BOOK. Marcus sits at the desk leaning toward the GLOWING ORANGE TRANSLUCENT LAPTOP and is TALKING to it, one hand open in mid-sentence, explaining rather than instructing. INSIDE THE SCREEN, the Chief of Agents stands square and LISTENING, fully within the screen, attentive and still. The screen holds nothing else: no books, no pages, no diagrams, just the listener. This is the moment he stops asking for a book and says what he is actually trying to do. Marcus is outside the machine and stays there."
+    },
+    {
+      "id": "spread-08",
+      "cast": [
+        {
+          "id": "marcus"
+        },
+        {
+          "id": "chief-of-agents",
+          "plate": "delivering"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Questions coming back instead of answers. INSIDE THE GLOWING ORANGE SCREEN, the Chief of Agents holds out a small stack of plain cards toward Marcus, and more cards are stacked and fanned in the screen behind it, a great many of them. THE CARDS ARE BLANK OR CARRY ONLY PICTORIAL SCRIBBLE, never readable words. Marcus sits back slightly with his eyebrows up and his brow smooth, surprised and re-calculating, taking one card. He is outside the screen; the Chief leans only as far as the screen face and its legs stay inside."
+    },
+    {
+      "id": "spread-09",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "objecting"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "A small hand-written list of THREE SHORT LINES on a torn scrap of paper is stuck to the wall above the desk with tape, and it is limp and unremarkable and doing nothing. The lines are PICTORIAL SCRIBBLE ONLY, never readable words. Inside the GLOWING ORANGE LAPTOP a finished book page is drifting past, wrong: the woman drawn on it does not match the woman on the page beside it. The list on the wall has no connection to the screen at all, no line, no thread, no glow. The point of the picture is that the paper is inert. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame. One of his hands rests on the desk. The taped scrap of paper is on the wall beyond, past the screen."
+    },
+    {
+      "id": "spread-10",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "objecting"
+        },
+        {
+          "id": "naomi-in-the-book",
+          "pose": "drifted"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "INSIDE THE GLOWING ORANGE SCREEN, THREE PORTRAITS OF NAOMI HANG SIDE BY SIDE and they are plainly THREE DIFFERENT WOMEN, though all three are obviously meant to be the same character: different face shapes, different ages, one headscarf a different colour. Only the leftmost is her true likeness. On the desk in the real room lies a long handwritten description covering several sheets, PICTORIAL SCRIBBLE ONLY and never readable words, which is how hard he tried to say it in words. Naomi appears ONLY inside the screen and never in the room. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame. One of his hands is raised into frame, pointing at the middle portrait."
+    },
+    {
+      "id": "spread-11",
+      "cast": [
+        {
+          "id": "naomi-in-the-book",
+          "pose": "correct"
+        },
+        {
+          "id": "sub-agent",
+          "plate": "working"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "NO PERSON IS IN THE REAL ROOM IN THIS PICTURE, and the camera is close on the GLOWING ORANGE SCREEN so the screen fills most of the frame. INSIDE it, ONE PORTRAIT OF NAOMI IS FIXED AT THE CENTRE, framed and lit as the single locked truth. A small glowing sub-agent holds a freshly drawn page up BESIDE that portrait, comparing the two directly, and its posture is checking rather than admiring. The composition is a comparison: the locked one, and the one being held against it. Everything is inside the screen except the edge of the desk and the mug in the near dark. ABSOLUTELY NOBODY IS IN THE REAL ROOM IN THIS PICTURE: no man, no person, no figure, no hands, no shoulder, no reflection of a person. The room is empty and the only characters anywhere are the small glowing ones INSIDE the screen."
+    },
+    {
+      "id": "spread-12",
+      "cast": [
+        {
+          "id": "naomi-in-the-book",
+          "pose": "turned"
+        },
+        {
+          "id": "sub-agent",
+          "plate": "working"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Close on the GLOWING ORANGE SCREEN again. The single locked portrait has become A SHEET OF MANY VIEWS OF THE SAME WOMAN arranged in a grid inside the screen: front, three-quarter, profile, and a few different expressions, all unmistakably the same person. IMPORTANT: the multi-view grid exists ONLY INSIDE THE SCREEN as an object in the story; the picture itself is still ONE single scene and must NOT be laid out as a contact sheet. A sub-agent hovers close to one of the views with a small round magnifying lens held right up against a single detail of the face, leaning in close. The idea is checking one thing at a time, very close up. ABSOLUTELY NOBODY IS IN THE REAL ROOM IN THIS PICTURE: no man, no person, no figure, no hands, no shoulder, no reflection of a person. The room is empty and the only characters anywhere are the small glowing ones INSIDE the screen."
+    },
+    {
+      "id": "spread-13",
+      "cast": [
+        {
+          "id": "sub-agent",
+          "plate": "working"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "NO PERSON IN THE ROOM. Close on the GLOWING ORANGE SCREEN. Inside it, order is appearing out of nowhere: FOUR SIMPLE GLOWING GATEWAYS OR DOORFRAMES stand in a row one behind another, receding into the depth of the screen, and each is CLOSED until the one before it has been passed. Two small sub-agents are at work at the nearest two, one of them holding a gate shut with a flat mitten stub. There are no conveyor belts, no machines, no industrial equipment: only thresholds in a sequence. Quiet and orderly. ABSOLUTELY NOBODY IS IN THE REAL ROOM IN THIS PICTURE: no man, no person, no figure, no hands, no shoulder, no reflection of a person. The room is empty and the only characters anywhere are the small glowing ones INSIDE the screen."
+    },
+    {
+      "id": "spread-14",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk"
+        },
+        {
+          "id": "chief-of-agents",
+          "plate": "commanding"
+        },
+        {
+          "id": "sub-agent",
+          "plate": "carrying-stack"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "THE BIG PICTURE OF THE BOOK. and the GLOWING ORANGE TRANSLUCENT LAPTOP in front of him opens onto A WHOLE LINE OF STATIONS RECEDING DEEP INTO THE SCREEN. At each station a sub-agent works on one thing and passes it on: the first decides who is in the book, the next locks a character sheet, the next draws a spread, the next the cover, the last carries a finished bound book toward the front of the screen. The Chief of Agents stands mid-line with one nub arm raised, directing. THE ENTIRE FACTORY IS INSIDE THE SCREEN and none of it is in the room. Marcus is outside it, watching, and the scale difference between the small tired man and the deep bright line is the point of the composition. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame. His head and shoulder are small and dark in the near foreground and the bright line receding inside the screen dominates the frame. The scale difference between the small dark shoulder and the deep bright line is the point of the composition."
+    },
+    {
+      "id": "spread-15",
+      "cast": [
+        {
+          "id": "chief-of-agents",
+          "plate": "commanding"
+        },
+        {
+          "id": "sub-agent",
+          "plate": "working"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "NO PERSON IN THE ROOM. Deep inside the GLOWING ORANGE SCREEN, the same line, but longer and more tangled now: many more small stations wedged in between the original ones, each a slightly different improvised shape, each with a small handwritten paper tag tied to it. THE TAGS CARRY PICTORIAL SCRIBBLE ONLY, never readable words. It should read as something GROWN rather than designed, like a house that has been extended many times. Sub-agents work along it. Warm and busy and slightly ramshackle. ABSOLUTELY NOBODY IS IN THE REAL ROOM IN THIS PICTURE: no man, no person, no figure, no hands, no shoulder, no reflection of a person. The room is empty and the only characters anywhere are the small glowing ones INSIDE the screen."
+    },
+    {
+      "id": "spread-16",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising"
+        },
+        {
+          "id": "chief-of-agents",
+          "plate": "delivering"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Late evening, the room dark except for the screen. INSIDE the GLOWING ORANGE LAPTOP the Chief of Agents holds up TWO CARDS, ONE IN EACH MITTEN STUB, and holds them apart from one another. On one card a picture of a SHORT stack of pages; on the other a picture of a MUCH TALLER stack. THE CARDS CARRY PICTURES ONLY, never readable words or numbers. The two cards are lit so the viewer reads them as being in conflict. Marcus sits very still, head lifted, eyes open and brow smooth, understanding something. He is NOT delighted and NOT triumphant. Marcus wears his soft OLIVE-GREEN open shirt over a plain grey tee, never navy and never dark blue."
+    },
+    {
+      "id": "spread-17",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising"
+        },
+        {
+          "id": "naomi-in-the-book",
+          "pose": "correct"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "THE REALISATION. Inside the GLOWING ORANGE SCREEN, a book lies open, and out of its pages the SAME WOMAN, Naomi, has risen and now stands CLEAR OF THE PAGES at her own level, calm and whole, while below her the pages of the book fan out beneath her feet like ground she is standing above. She is plainly not part of any single page. Faint glowing threads connect her down to several of the pages at once, showing she walks through many of them. Marcus is at the desk in the warm room, still, watching. Naomi appears only inside the screen."
+    },
+    {
+      "id": "spread-18",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "Morning. On the desk beside the GLOWING ORANGE LAPTOP lies AN OPENED PAPER LETTER on headed notepaper and a small printed church newsletter, both carrying PICTORIAL SCRIBBLE ONLY and never readable words. The room is warm and ordinary. Nobody else is present. Marcus wears his soft OLIVE-GREEN open shirt over a plain grey tee, never navy and never dark blue. CAMERA: THIS IS AN OVER-THE-SHOULDER SHOT. The camera sits BEHIND AND SLIGHTLY ABOVE MARCUS, who is SEATED IN HIS CHAIR at the desk. We look PAST THE BACK OF HIS HEAD AND ONE SHOULDER, which occupy the near foreground at the lower left, straight at the glowing screen, so the viewer sees exactly what he sees. HIS FACE IS NOT VISIBLE AT ALL: we see the back of his head, his dark hair greying at the temples with the wire-rimmed glasses pushed up into it, and the shoulder of his soft OLIVE-GREEN shirt. He is NOT turned toward the camera and NOT seen from the side. The screen is the subject and should hold the centre of the frame. One of his hands rests on the opened letter on the desk beside the laptop."
+    },
+    {
+      "id": "spread-19",
+      "cast": [
+        {
+          "id": "marcus"
+        },
+        {
+          "id": "storywell-agent",
+          "pose": "master"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "THE PRODUCT REVEALED, AND THE COLOUR IS THE POINT. The laptop on Marcus's desk NO LONGER GLOWS ORANGE. THE WHOLE LAPTOP IS NOW A TRANSLUCENT LUMINOUS HOLOGRAPHIC OBJECT GLOWING DEEP INDIGO, the blue of evening, casting soft blue light into the warm room. Standing square inside its screen is STORYWELL: a small blocky translucent indigo mascot with wire-rimmed reading glasses pushed up on its head and a slim gold ribbon bookmark trailing from its crown. It is calm and attentive and entirely inside the screen. Marcus sits back a little, looking at it, quietly pleased. THERE IS NO ORANGE GLOW ANYWHERE IN THIS IMAGE."
+    },
+    {
+      "id": "spread-20",
+      "cast": [
+        {
+          "id": "storywell-agent",
+          "pose": "delivering"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "desk",
+      "scene": "SOMEWHERE ELSE ENTIRELY, AND MARCUS IS NOT IN THIS PICTURE. A plain church hall: a trestle table, stacking chairs, a noticeboard, a window with plain glass, a paper cup of tea. On the table stands a laptop GLOWING DEEP INDIGO, the whole machine translucent and luminous, its screen face toward the viewer. STORYWELL leans out through the face of the screen from the waist up, holding out a FINISHED BOUND CHILDREN'S BOOK on both mitten stubs toward the empty chair at the table. ITS LEGS STAY INSIDE THE SCREEN and it does not step out. Nobody is in the room yet. Ordinary, quiet, a little bare. NO ORANGE GLOW anywhere. ABSOLUTELY NOBODY IS IN THE REAL ROOM IN THIS PICTURE: no man, no person, no figure, no hands, no shoulder, no reflection of a person. The room is empty and the only characters anywhere are the small glowing ones INSIDE the screen."
+    },
+    {
+      "id": "spread-21",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "reading-to-kids"
+        }
+      ],
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "scene": "THE CLOSING PICTURE. Evening in the living room again, mirroring the first spread. Marcus sits on the worn sofa with his TWO SMALL CHILDREN either side of him and an open picture book on his knee. THE CHANGE IS THE SHELF BEHIND THEM: it is now full of MANY FINISHED BOOKS THAT PLAINLY BELONG TOGETHER, matching spines in a row, a proper set rather than a pile of odd things. The children are absorbed in the page. Marcus is reading, calm and no longer tired in the same way. There is NO computer in this image and nothing glows. Warm lamplight. Quiet and unremarkable and finished."
+    }
+  ]
+}

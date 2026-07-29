@@ -1,0 +1,28 @@
+{
+  "id": "marcus-study",
+  "kind": "setting",
+  "originStory": "what-a-book-is-made-of",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null,
+    "note": "The warm real room the whole book is watched from. Its job is to be ORDINARY and DOMESTIC so that the glowing laptop is the only remarkable thing in it. This is a corner of a family house, never an office and never a studio. 2026-07-29, Gary: 'really feels like you hate putting the person in a seat where it's an over the shoulder shot why?' He was right. Every interior spread had been written side-on, and the blueprint's own C2 over-shoulder camera was never once referenced. The cause was that a side-on face is easier to read back against invariants, which is optimising the composition for the checker instead of for the book."
+  },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/marcus-study/desk.png",
+    "emptyPlates": [
+      "reference/marcus-study/desk.png",
+      "reference/marcus-study/livingroom.png"
+    ],
+    "blueprint": "reference/marcus-study/blueprint.png",
+    "scalePlate": null,
+    "map": "THE STUDY: a corner of an ordinary family house that has been turned into a desk, not a room built for work. A plain wooden table against a wall under a sash window, a mismatched dining chair, a shelf of well-read children's picture books, a mug, a radiator, a child's drawing stuck to the wall with tape. Warm lamplight and whatever comes through the window. The rest of the house is visible past a doorway: a hallway, a bit of sofa, toys on the floor. NEVER an office, NEVER a studio, NEVER a wall of monitors, NEVER a whiteboard covered in diagrams, NEVER impressive.",
+    "blocking": "HANDEDNESS IS FIXED. The desk stands against the wall under the WINDOW, and the camera is always INSIDE the room at seated eye height, over Marcus's shoulder or beside him in three-quarter view. THE GLOWING LAPTOP SITS ON THE DESK AND ITS SCREEN FACE IS ALWAYS VISIBLE TO THE VIEWER, never the back of the lid. Marcus is always OUTSIDE the laptop, in the room. The doorway to the rest of the house is at the camera's LEFT and never moves. DEFAULT CAMERA IS OVER-THE-SHOULDER, and this is a correction of a real authoring bias. On any spread where THE SCREEN IS THE SUBJECT, the camera sits BEHIND AND SLIGHTLY ABOVE Marcus's shoulder while he is SEATED, so the viewer looks past the back of his head and his shoulder at the glowing screen and sees what he sees. His face is not visible in those shots and does not need to be. Reserve the side-on three-quarter view, where his face reads, for the spreads whose subject is HIS REACTION rather than the screen. The book argues that he is outside the machine looking in, and over-the-shoulder is the composition that says so; side-on quietly turns it into a man talking to a gadget.",
+    "dressing": "LIVED-IN and domestic: a cooling mug, a child's crayon drawing taped to the wall, a stack of picture books with broken spines, a stray sock or toy on the floor past the doorway, cables that are just cables. It is NEVER tidy, NEVER styled, and NEVER lit dramatically. RENDER ONE MOMENT IN TIME ONLY: one view of one room, never a before-and-after, never a split panel.",
+    "scale": "A corner of a house. Small enough that a man at a desk fills it."
+  },
+  "prose": {
+    "rules": "THE ROOM MUST NEVER LOOK LIKE A WORKPLACE. The argument depends on this being a dad at the kitchen-table end of the house. If a render returns an office, a studio, a startup or a lab, regenerate."
+  },
+  "fictional": true
+}

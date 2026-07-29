@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/what-a-book-is-made-of/closing-plate.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a thoughtful printed picture book for adults. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal. PORTRAIT CLOSING PLATE. ABSOLUTELY NO TEXT OF ANY KIND anywhere: no words, no letters, no lettering, no titles on book spines, no signature, no numbers.\n\nA quiet corner of an ordinary family living room, late evening, EMPTY OF PEOPLE. In the LOWER PORTION, a low bookshelf holds A LONG ROW OF FINISHED CHILDREN'S PICTURE BOOKS THAT PLAINLY BELONG TOGETHER: matching spine heights, a shared palette, an evident set rather than a jumble. Their spines carry only soft abstract marks and NO readable words. One book lies open face-down on the arm of a worn sofa where somebody stopped reading. A lamp is on. A mug. A child's toy on the rug.\n\nThere is NO computer in this image and NOTHING GLOWS except the ordinary lamp.\n\nTHE UPPER HALF OF THE FRAME MUST BE CALM, OPEN AND UNCLUTTERED, mostly quiet wall and soft warm air, because a closing verse will be overlaid there. Keep the detail low in the frame.\n\nONE single continuous full-bleed painting. Never a grid, never panels.\n\nDEVICE ANATOMY, NON-NEGOTIABLE: any phone, laptop, tablet or monitor is anatomically correct. The GLOWING DISPLAY is on the SCREEN side, and that side FACES ITS USER. A person looking at a device sees its screen; the viewer therefore sees the device's BACK or EDGE plus the light it throws onto the user's face and hands. NEVER put the screen image on the back of a phone, on a laptop's outer lid, or on a monitor's rear. NEVER show a screen facing the camera while the person using it looks at the opposite side. If both the user's face and the screen content must be visible, shoot it over the user's shoulder.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T17:34:23+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

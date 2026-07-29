@@ -1,0 +1,258 @@
+{
+  "id": "what-a-book-is-made-of",
+  "title": "What a Book Is Made Of",
+  "spine": "testimony",
+  "logline": "A marketer who could tell that something was missing from his kids' books, and could not say what, ends up with four hundred files describing what a book is, by answering one question at a time for a few months.",
+  "spineNote": "The argued object is HOW A PERSON COMES TO HAVE A THEORY OF THEIR OWN CRAFT. He does not study his way there and he does not arrive with opinions. He gets there because something kept asking, could not leave a thing undecided, and would not take a mood for an answer. NOT a hero-journey: nothing is overcome. The arc is from 'I could tell, I could not say' to 'I can say it now', and every station on his line is one thing that moved between those.",
+  "refrain": "I could tell. I could not say.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "marcus",
+    "naomi-in-the-book",
+    "storywell-agent",
+    "chief-of-agents",
+    "sub-agent",
+    "supercharged-laptop",
+    "marcus-study"
+  ],
+  "aimDiscipline": [
+    "THE FACTORY IS NOT A BUILDING. It is all happening inside his computer, so it is drawn the universe's way: Marcus in the warm real room, the work INSIDE the glowing laptop. Any render that puts a physical factory, warehouse, conveyor or machinery in his house has broken the book.",
+    "MARCUS IS ALWAYS OUTSIDE THE LAPTOP AND NEVER INSIDE THE SCREEN. His half of every picture is the real room and his job in it is taste, decision and objection. That composition IS the argument: he is outside it the whole way and it is still his.",
+    "THE SCREEN FACE IS ALWAYS VISIBLE TO THE VIEWER. Never the back of the lid, and never the lid-back and the screen face at once.",
+    "COLOUR IS MEANING. An un-supercharged machine is a plain grey object. Orange glow means the Chief of Agents is running on it. DEEP INDIGO means Storywell. Never mix two agent colours on one machine, and never make Storywell orange.",
+    "HE IS A MARKETER AND A DAD, NEVER A TECHNOLOGIST. No hoodie, no startup uniform, no wall of monitors, no whiteboard of diagrams, no server racks. The room is the kitchen-table end of a family house.",
+    "NAOMI IS A DRAWING, NOT A PERSON IN HIS WORLD. She appears only inside the screen or on a page and never stands in his room.",
+    "NOTHING IS TRIUMPHANT. He is tired, patient and often wrong. No fist-pumps, no crowds, no applause, no pitch decks."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "For a year I bought children's books about God for my two kids. Some were beautiful. Most were instructive. None of them were bad. Something was missing and I could not have told you what. I could tell. I could not say.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 2,
+      "text": "One Saturday in November I thought: I could probably make one. So I described Jonah the way I tell it at bedtime, and asked for a book.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 3,
+      "text": "It made one that afternoon. Pictures, nineteen pages, a page you turn with your thumb. Both my kids asked for it again on Monday, which is the only review that matters in this house.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 4,
+      "text": "The next weekend they wanted the burning bush. Second book. Just as good. And the two of them had nothing to do with each other. The words sat somewhere else on the page. Moses and Jonah did not look like they came from the same world. I had always assumed the trouble with these machines would be that the work was bad. The work was good. Two good things do not make a pair.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 5,
+      "text": "By the fifth book I had five of them, and no two matched. Every one had been worked out from nothing by something that did not know the other four existed. I was paying, every time, to decide things I had already decided.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 6,
+      "text": "So I said the question out loud, sitting on the stairs. If I make them all the same way, do I lose the thing that made them good? I sat with that for days, because I did not want the answer to be yes.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 7,
+      "text": "Then I stopped asking for a book. I said what I was actually doing. I want to build a factory that makes these. I do not know what that means yet and I am probably wrong about most of it. Two things have to stay true. They have to be as good as the good ones. And they all have to open on one shelf. Work out the rest with me.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "chief-of-agents"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 8,
+      "text": "After that I stopped getting answers and started getting questions. It could not leave a thing undecided. So every place it had been quietly guessing turned out to be a place I had an opinion and had never once said it.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "chief-of-agents"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 9,
+      "text": "First I wrote down what was not allowed to move. Three lines. It held for about a week. Then a book came out wrong anyway, because a line on a list has no hands. Somebody still had to notice, and the somebody was me.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 10,
+      "text": "Naomi kept coming out wrong. So I wrote a description of her face. Then a better one. Then one longer than the story. She still turned up as a different woman on page eleven.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "naomi-in-the-book"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 11,
+      "text": "So we stopped describing her and started showing her. One picture, locked, and every page checked against it. That worked, and it worked because it was not a rule. It was a thing that runs. And a thing that runs can refuse.",
+      "location": "marcus-study",
+      "characters": [
+        "naomi-in-the-book",
+        "sub-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 12,
+      "text": "Then she turned her head, and drifted again. One picture of a face tells you nothing about the side of it. So it stopped being a picture and became a sheet. Front, three-quarter, profile, a few faces she pulls. Enough that a new angle is something she has already been. And the checking had to lean right in, close, one thing at a time. From far enough away, a wrong face looks fine.",
+      "location": "marcus-study",
+      "characters": [
+        "naomi-in-the-book",
+        "sub-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 13,
+      "text": "Once something could refuse, order turned up out of nowhere. You cannot check a face against a locked picture if nothing has been locked yet. So the locking has to happen first. So something has to decide who is even in this book before that.",
+      "location": "marcus-study",
+      "characters": [
+        "sub-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 14,
+      "text": "That is where I stopped writing rules and started building a line. Stations, and a book that walks down them. Each one will not start until the thing it needs already exists. A wrong face stopped being something I catch at the end. It became something the factory cannot make.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "chief-of-agents",
+        "sub-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 15,
+      "text": "The line looks complicated now. That is not clever design. Every station on it is something that went wrong once, standing exactly where it went wrong. Four hundred files, and I never sat down and wrote four hundred of anything. I answered one question, then another, most evenings, for a few months.",
+      "location": "marcus-study",
+      "characters": [
+        "chief-of-agents",
+        "sub-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 16,
+      "text": "One evening it told me two of my own rules could not both be true. One of them meant nine pages. The other meant twenty-six. Both perfectly reasonable on their own. Writing the parts down was never the job. Writing parts that do not fight each other is the job, and I could not see the fight from inside the thing I was building.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "chief-of-agents"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 17,
+      "text": "Then I saw something I had walked straight past seventeen times. A book is pages. Open a page and there is a picture. Open the picture and there is a girl in it. She is not part of that page. She walks through fourteen of them. She was a thing all along, at her own level, and I had never written down that she was a thing.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "naomi-in-the-book"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 18,
+      "text": "A church asked for one at Easter, in their own words. Then two more. So I asked the real question. How do I package all of this up and send it out to a church without me standing in the middle of it?",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 19,
+      "text": "That turned out to be the product. Not a form. Not a website with boxes to fill in. A church gets its own Storywell. It knows the factory, and it is entirely on their side. It stays up when I close the lid.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus",
+        "storywell-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 20,
+      "text": "One church talked to it for forty minutes. Another typed six words and left. Both of them got a whole book. It knows what a finished book needs, so it knows what it is missing. A vague tool has to ask you everything. A precise one can offer to decide.",
+      "location": "marcus-study",
+      "characters": [
+        "storywell-agent"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    },
+    {
+      "n": 21,
+      "text": "I was a marketer. I had two kids, a shelf that never quite landed, and nothing but the ability to tell. I can say it now.",
+      "location": "marcus-study",
+      "characters": [
+        "marcus"
+      ],
+      "provenance": "ontology-book/projections/what-a-book-is-made-of.md, Marcus in his own words."
+    }
+  ],
+  "writesBack": [
+    {
+      "kind": "character",
+      "id": "marcus",
+      "locked": true
+    },
+    {
+      "kind": "character",
+      "id": "naomi-in-the-book",
+      "locked": true
+    },
+    {
+      "kind": "character",
+      "id": "storywell-agent",
+      "locked": true
+    },
+    {
+      "kind": "setting",
+      "id": "marcus-study",
+      "locked": true
+    }
+  ],
+  "closingVerse": "You do not need the theory before you start. You need something that keeps asking, and will not take a mood for an answer."
+}

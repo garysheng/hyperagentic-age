@@ -1,0 +1,49 @@
+{
+  "asset": "spread-03.png",
+  "assetSha256_16": "902b339754825a4d",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "4f422d832cb7024a5113fe1fd4a4216350475088",
+  "book": "what-a-book-is-made-of",
+  "story": null,
+  "spread": "spread-03",
+  "descriptor": {
+    "id": "spread-03",
+    "cast": [
+      {
+        "id": "marcus"
+      }
+    ],
+    "setting": "marcus-study",
+    "plate": "livingroom",
+    "scene": "That afternoon, on the sofa. Marcus sits between his TWO SMALL CHILDREN, about four and six, and all three are looking at THE GLOWING LAPTOP open on his lap. THE WHOLE LAPTOP IS NOW A TRANSLUCENT LUMINOUS HOLOGRAPHIC OBJECT GLOWING WARM ORANGE, not merely a lit screen, and it casts warm light onto the three faces rather than shadow. Its screen face is toward the viewer and holds a single finished picture-book page: a painted illustration of a great fish and a small boat. The children are delighted in a plain, quiet way. Marcus is watching them rather than the screen."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book for adults. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a quiet first-person account of a man at a desk in an ordinary family house, working out what a children's book is actually made of. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there. SCENE: That afternoon, on the sofa. Marcus sits between his TWO SMALL CHILDREN, about four and six, and all three are looking at THE GLOWING LAPTOP open on his lap. THE WHOLE LAPTOP IS NOW A TRANSLUCENT LUMINOUS HOLOGRAPHIC OBJECT GLOWING WARM ORANGE, not merely a lit screen, and it casts warm light onto the three faces rather than shadow. Its screen face is toward the viewer and holds a single finished picture-book page: a painted illustration of a great fish and a small boat. The children are delighted in a plain, quiet way. Marcus is watching them rather than the screen. marcus rendered exactly per the supplied reference images: a man in his late thirties ordinary and slightly tired; short dark hair going grey at the temples and a few days of stubble; a soft olive green shirt worn open over a plain grey tee sleeves rolled; wire rimmed reading glasses often pushed up onto his head; never a hoodie never startup uniform never a technologist; he is ALWAYS outside the laptop in the real room never inside the screen; warm editorial ink and wash never photoreal. MARCUS, a man in his LATE THIRTIES, ordinary and a little tired. SHORT DARK HAIR going GREY AT THE TEMPLES and a few days of STUBBLE. A soft OLIVE-GREEN SHIRT worn open over a plain GREY TEE, sleeves rolled to the forearm. WIRE-RIMMED READING GLASSES, often pushed up onto his head rather than worn. He is a MARKETER and a dad, NOT an engineer: never a hoodie, never a startup uniform, never a technologist, never a wall of monitors. He is patient, curious and slightly rumpled. He is ALWAYS in the warm real room and NEVER inside the laptop screen. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy. marcus-study exactly as its reference plate: THE STUDY: a corner of an ordinary family house that has been turned into a desk, not a room built for work. A plain wooden table against a wall under a sash window, a mismatched dining chair, a shelf of well-read children's picture books, a mug, a radiator, a child's drawing stuck to the wall with tape. Warm lamplight and whatever comes through the window. The rest of the house is visible past a doorway: a hallway, a bit of sofa, toys on the floor. NEVER an office, NEVER a studio, NEVER a wall of monitors, NEVER a whiteboard covered in diagrams, NEVER impressive. HANDEDNESS IS FIXED. The desk stands against the wall under the WINDOW, and the camera is always INSIDE the room at seated eye height, over Marcus's shoulder or beside him in three-quarter view. THE GLOWING LAPTOP SITS ON THE DESK AND ITS SCREEN FACE IS ALWAYS VISIBLE TO THE VIEWER, never the back of the lid. Marcus is always OUTSIDE the laptop, in the room. The doorway to the rest of the house is at the camera's LEFT and never moves. LIVED-IN and domestic: a cooling mug, a child's crayon drawing taped to the wall, a stack of picture books with broken spines, a stray sock or toy on the floor past the doorway, cables that are just cables. It is NEVER tidy, NEVER styled, and NEVER lit dramatically. RENDER ONE MOMENT IN TIME ONLY: one view of one room, never a before-and-after, never a split panel. A corner of a house. Small enough that a man at a desk fills it. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, NO STRAY OR INVENTED TEXT anywhere: no captions, no labels, no signage, no watermarks, no logos, no signatures, no dates, no readable handwriting and no readable print. Writing on paper or on a screen is PICTORIAL SCRIBBLE ONLY and must never resolve into words., NO PHYSICAL FACTORY: no warehouse, no conveyor belt, no industrial machinery, no robot arms, no server racks and no assembly hall anywhere in this book. Every factory is inside the laptop screen., MARCUS IS NEVER INSIDE THE LAPTOP SCREEN and never shrunk, never floating in it, never reaching into it. He stays in the real room., NEVER show the back of a laptop lid, and never the lid-back and the screen face in the same image. The screen face is always toward the viewer., THE ROOM IS NEVER AN OFFICE, a studio, a startup, a lab or a maker-space. No wall of monitors, no whiteboard covered in diagrams, no exposed brick, no neon sign, no lanyards., NOTHING IS TRIUMPHANT: no fist-pumps, no applause, no crowds, no pitch decks, no stage, no trophy. Nobody is lit from below or haloed.. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus/master.png",
+      "sha256_16": "ed1a263be0b2bfa4"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus-study/livingroom.png",
+      "sha256_16": "25321543111f6c67"
+    }
+  ],
+  "qa": [
+    "marcus: a-man-in-his-late-thirties-ordinary-and-slightly-tired",
+    "marcus: short-dark-hair-going-grey-at-the-temples-and-a-few-days-of-stubble",
+    "marcus: a-soft-olive-green-shirt-worn-open-over-a-plain-grey-tee-sleeves-rolled",
+    "marcus: wire-rimmed-reading-glasses-often-pushed-up-onto-his-head",
+    "marcus: never-a-hoodie-never-startup-uniform-never-a-technologist",
+    "marcus: he-is-ALWAYS-outside-the-laptop-in-the-real-room-never-inside-the-screen",
+    "marcus: warm-editorial-ink-and-wash-never-photoreal"
+  ]
+}

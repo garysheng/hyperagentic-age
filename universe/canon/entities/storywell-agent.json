@@ -1,0 +1,75 @@
+{
+  "id": "storywell-agent",
+  "kind": "character",
+  "originStory": "what-a-book-is-made-of",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "Named by Gary 2026-07-29, on the Grantwell pattern: a managed agent that IS one person's packaged expertise, not the generic comms layer. Storywell is Marcus's children's-book factory made shareable, so a church can have its own without Marcus in the middle. Its colour is DEEP INDIGO, deliberately distinct from the Chief of Agents' orange and Grantwell's sage-green, because in this universe colour tells you WHOSE craft is running on a machine. It carries Marcus's wire-rimmed reading glasses the way Grantwell carries Maya's rust scarf, and its rank mark is a slim GOLD RIBBON BOOKMARK, never the Chief's admiral hat and never Grantwell's laurel."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/storywell-agent/master.png",
+      "delivering": null,
+      "commanding": null
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "small-blocky-mascot-same-class-as-the-chief-of-agents-and-grantwell",
+      "DEEP-INDIGO-glowing-body-NEVER-orange-NEVER-sage-green",
+      "STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+      "casts-light-not-shadow",
+      "wire-rimmed-reading-glasses-pushed-up-onto-its-head-ALWAYS-Marcus-own-glasses",
+      "a-slim-GOLD-RIBBON-BOOKMARK-trailing-from-the-top-of-its-head-NEVER-an-admiral-hat-NEVER-a-laurel-sprig",
+      "warm-rounded-dot-eyes-with-tiny-catchlights",
+      "two-stubby-legs-and-short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers",
+      "lives-INSIDE-the-screen-leans-out-only-to-deliver-never-steps-out",
+      "warm-editorial-register-never-comic"
+    ],
+    "render": {
+      "always": "STORYWELL, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows DEEP INDIGO, the blue of evening and bedtime. NEVER orange, which is the Chief of Agents, and NEVER sage-green, which is Grantwell. It wears WIRE-RIMMED READING GLASSES PUSHED UP ONTO THE TOP OF ITS HEAD, which are Marcus's own glasses. Its rank mark is a SLIM GOLD RIBBON BOOKMARK trailing from the crown of its head, like the ribbon in a hardback book: NEVER an admiral hat, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers or hands. It LIVES INSIDE THE SCREEN and leans out through it only to deliver a finished book; it never steps out and its legs never leave the screen. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING SQUARE AND FRONT-ON inside the screen, calm and attentive, arms at its sides. The identity plate."
+        },
+        "working": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "INSIDE THE SCREEN AT WORK, turned three-quarter, mitten stubs on a page or a stack in front of it, head down to the task. Fully inside the screen."
+        },
+        "delivering": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "LEANING OUT THROUGH THE FACE OF THE SCREEN from the waist up, holding out a finished book on both mitten stubs toward the person in the room. ITS LEGS STAY INSIDE THE SCREEN and it never steps out. The crossing is soft and luminous."
+        },
+        "commanding": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "FULLY INSIDE THE SCREEN, one nub arm raised, directing sub-agents at work around it. It never does the rote task itself."
+        }
+      },
+      "qa": [
+        "small blocky mascot, strongly translucent and luminous, casts light not shadow",
+        "DEEP INDIGO body: never orange (the Chief), never sage-green (Grantwell)",
+        "wire-rimmed reading glasses pushed up onto its head",
+        "slim gold ribbon bookmark trailing from the crown: never an admiral hat, never a laurel",
+        "dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+        "inside the screen; legs never leave it",
+        "warm-editorial, never comic or neon"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Marcus's judgment about what a children's book is, packaged so it can sit with a hundred congregations at once. Warm, patient, and it asks rather than assumes.",
+    "role": "Storywell is a Chief-of-Agents-class agent that IS a specific person's packaged expertise. It knows the factory: what a finished book needs, and therefore what is missing from what it has been told. It commands sub-agents for the hands-on work and delivers the finished book. It never replaces the church's own words and never decides what the lesson is.",
+    "rules": "Identity of record is reference/storywell-agent/master.png. Derive every new pose from it, passing the master FIRST plus all previously-locked goldens, ONE pose per render, never a multi-pose sheet. COLOUR IS MEANING in this universe: a machine running Storywell glows DEEP INDIGO, which is how a reader knows whose craft is on it. Never mix two agent colours on one machine."
+  },
+  "fictional": true,
+  "status": "locked"
+}

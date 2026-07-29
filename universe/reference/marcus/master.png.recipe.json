@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus/master.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good printed picture book. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal. Character reference: MARCUS, a man in his LATE THIRTIES, ordinary and a little tired. SHORT DARK HAIR going GREY AT THE TEMPLES, and a few days of STUBBLE. A soft OLIVE-GREEN SHIRT worn open over a plain GREY TEE, sleeves rolled to the forearm. Plain dark trousers. WIRE-RIMMED READING GLASSES PUSHED UP ONTO HIS HEAD, resting in his hair rather than on his nose. He is a marketer and a dad, NOT an engineer: no hoodie, no startup uniform, no lanyard, no gadgets. Patient, curious, slightly rumpled and a bit worn out. FULL BODY head to feet, front three-quarter view, relaxed neutral pose, arms loose at his sides, plain empty cream background, no scenery, no props. Render ONE single image only: NOT a contact sheet, NOT a grid, NOT a turnaround strip. No panel borders, no captions, no labels, no text of any kind.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T17:12:47+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

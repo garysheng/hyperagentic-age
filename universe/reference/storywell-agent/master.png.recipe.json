@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "9b45590320f79494",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "c1d2fa37f0a7810b",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/master.png"
+    }
+  ],
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: soft washes over a loose ink line, muted and hand-made, the register of a thoughtful printed picture book. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal.\n\nCharacter reference plate: STORYWELL, a small blocky mascot of exactly the same CLASS, PROPORTION and CONSTRUCTION as the character in the second attached reference image, but a DIFFERENT CHARACTER with a different colour and different markings.\n\nMatch from the reference: the small blocky rounded body, the stubby proportions, the two short legs, the short nub arms ending in ROUNDED MITTEN STUBS with no fingers, the warm rounded DOT EYES with tiny catchlights, and the STRONGLY TRANSLUCENT HOLOGRAPHIC quality, a projection you can see through, luminous with soft scanlines, casting light rather than shadow.\n\nCHANGE THESE, and they are what make it a different character:\n- Its whole glowing body is DEEP INDIGO, the blue of evening and bedtime. It is NEVER orange and NEVER green.\n- It wears WIRE-RIMMED READING GLASSES PUSHED UP ONTO THE TOP OF ITS HEAD, resting there rather than over its eyes, so both dot eyes are clearly visible below them.\n- Its rank mark is a SLIM GOLD RIBBON BOOKMARK trailing from the crown of its head, exactly like the sewn-in ribbon of a hardback book: a narrow flat gold ribbon hanging down one side. It has NO HAT of any kind, NO admiral cap, NO military cap, and NO laurel sprig.\n\nStanding square and front-on, calm and attentive, arms at its sides. Plain empty cream background.\n\nRender ONE single image only: NOT a contact sheet, NOT a grid, NOT a turnaround, NOT multiple poses. No captions, no labels, no text.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

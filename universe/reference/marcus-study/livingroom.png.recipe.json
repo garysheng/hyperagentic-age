@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus-study/livingroom.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good printed picture book. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NOT photoreal. EMPTY SET PLATE, ABSOLUTELY NO PEOPLE anywhere in this image. The living-room end of the same ordinary family house, seen from inside at seated height: a worn sofa with a blanket over the arm, a low rug, a scatter of children's toys and picture books on the floor, a lamp, a window with the evening outside. Warm, untidy, entirely ordinary, the room of a family with two small children. NEVER styled, NEVER a showroom, NEVER dramatically lit. RENDER ONE MOMENT IN TIME: one view of one room, never a split panel. Render ONE single image only: NOT a contact sheet, NOT a grid, NOT a turnaround strip. No panel borders, no captions, no labels, no text of any kind.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T17:12:40+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}
