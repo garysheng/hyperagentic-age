@@ -1,0 +1,60 @@
+{
+  "asset": "spread-03.png",
+  "assetSha256_16": "c3c32326dfbfc38d",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2a3e8aa7e62d913807a85d97da2698e4d2f3490f",
+  "book": "it-only-has-to-fly",
+  "story": null,
+  "spread": "spread-03",
+  "descriptor": {
+    "id": "spread-03",
+    "cast": [
+      {
+        "id": "mira"
+      },
+      {
+        "id": "the-plane-flock",
+        "plate": "master"
+      }
+    ],
+    "setting": "the-plane-shed",
+    "plate": "yard",
+    "scene": "A wide view down the garden showing where FIVE paper planes have each ended up, which is the whole point of the picture: they are scattered at wildly different distances and attitudes. ONE lies neatly by the far gate. ONE is stuck nose-first straight down in the grass only a couple of steps from the step, tail in the air. ONE is upside down in a bush. ONE lies flat and sideways in the middle of the lawn. ONE has barely left the step. EVERY ONE OF THE FIVE IS A DIFFERENT FOLD: one long thin dart, one short and fat, one blunt-nosed, one broad and almost square, one with upturned wingtips. Mira stands near the step with her hands at her sides looking out over the mess of them. Exactly five planes. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a children's picture book about building a little factory in a garden shed that will make any paper plane at all, so long as it flies. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there. SCENE: A wide view down the garden showing where FIVE paper planes have each ended up, which is the whole point of the picture: they are scattered at wildly different distances and attitudes. ONE lies neatly by the far gate. ONE is stuck nose-first straight down in the grass only a couple of steps from the step, tail in the air. ONE is upside down in a bush. ONE lies flat and sideways in the middle of the lawn. ONE has barely left the step. EVERY ONE OF THE FIVE IS A DIFFERENT FOLD: one long thin dart, one short and fat, one blunt-nosed, one broad and almost square, one with upturned wingtips. Mira stands near the step with her hands at her sides looking out over the mess of them. Exactly five planes. THERE IS NO ROBOT, NO MECHANICAL FIGURE, NO TOY ROBOT, NO AUTOMATON and NO MACHINE WITH A FACE anywhere in this image. Only the people named above are present. mira rendered exactly per the supplied reference images: a girl about ten ordinary not precocious; dark hair in a blunt chin length bob with a straight fringe; mustard yellow knitted cardigan over a plain rust red dress; bare knees and scuffed cream canvas shoes; hands are always doing something folding holding throwing; warm editorial ink and wash never photoreal. MIRA, a girl of about TEN. Dark hair in a blunt CHIN-LENGTH BOB with a straight fringe across her forehead. A MUSTARD-YELLOW KNITTED CARDIGAN, sleeves pushed up, over a plain RUST-RED DRESS. Bare knees. Scuffed CREAM CANVAS SHOES. She is an ORDINARY CHILD, absorbed and a bit stubborn, NOT precocious, NOT a prodigy, NOT tidy. Her hands are always occupied. Warm-editorial ink-and-wash on a cream ground, soft washes over a loose ink line, never photoreal, never 3D, never glossy. CONVERGENCE IS THE FAILURE MODE. Any render in which the planes read as copies of one handsome dart has argued against the book and must be regenerated from scratch, not accepted and not patched. This applies hardest on the final spread, where a hundred planes must read as a hundred designs. the-plane-shed exactly as its reference plate: The shed is CLUTTERED, WOODEN and WARM, and everything in it is plainly hand-made by children: loose sheets of paper, a jar of pencils, blunt scissors, string, pencil marks straight on the bench top, folded paper planes lying where they were put down. Light is only daylight through the four-pane window plus one bare bulb; never dramatic, never rim-lit, never moody. RENDER ONE MOMENT IN TIME ONLY: a single view of the shed as it is in this one scene, never a before-and-after, never a split panel, never two versions of the room in one image. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, NO STRAY OR INVENTED TEXT anywhere: no captions, no labels, no signage, no watermarks, no logos, no signatures, no dates, no readable handwriting and no readable print. THE ONE EXCEPTION is text a scene specifies as an exact quoted string., NO ADULTS anywhere in this book: no parents, no teacher, no crowd. Only the two children and the helper., NO GLOWING TECHNOLOGY: no screens, no displays, no dials with readouts, no holograms, no blue light, no cables, no motors, no chrome, no sleek modern product design. Every machine is hand-made from scrap wood, tin, wire and spring steel., NO PLANE MAY BE A COPY OF ANOTHER: wherever more than one paper plane appears in a frame, every one of them must be a VISIBLY DIFFERENT FOLD. A tidy squadron of matching darts is a failure of the whole book., NO character may be lit from below, haloed, or gazed up at., PIP IS NEVER LARGER THAN KNEE-HIGH to Mira and never dominates a frame.. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira/master.png",
+      "sha256_16": "c4edecfe4673b940"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira/face.png",
+      "sha256_16": "26d950d1bf65b9fc"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-flock/master.png",
+      "sha256_16": "c3f9b27566b469b6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/yard.png",
+      "sha256_16": "9fff51fa7edcaacd"
+    }
+  ],
+  "qa": [
+    "mira: a-girl-about-ten-ordinary-not-precocious",
+    "mira: dark-hair-in-a-blunt-chin-length-bob-with-a-straight-fringe",
+    "mira: mustard-yellow-knitted-cardigan-over-a-plain-rust-red-dress",
+    "mira: bare-knees-and-scuffed-cream-canvas-shoes",
+    "mira: hands-are-always-doing-something-folding-holding-throwing",
+    "mira: warm-editorial-ink-and-wash-never-photoreal"
+  ]
+}

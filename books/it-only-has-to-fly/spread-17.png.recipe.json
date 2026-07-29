@@ -1,0 +1,94 @@
+{
+  "asset": "spread-17.png",
+  "assetSha256_16": "3e945a49ea606be2",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2a3e8aa7e62d913807a85d97da2698e4d2f3490f",
+  "book": "it-only-has-to-fly",
+  "story": null,
+  "spread": "spread-17",
+  "descriptor": {
+    "id": "spread-17",
+    "cast": [
+      {
+        "id": "mira"
+      },
+      {
+        "id": "mira-brother",
+        "pose": "throwing-with-her"
+      },
+      {
+        "id": "the-plane-flock",
+        "plate": "master",
+        "pose": "in-flight"
+      },
+      {
+        "id": "pip",
+        "pose": "watching-it-fly"
+      }
+    ],
+    "setting": "the-plane-shed",
+    "plate": "yard",
+    "scene": "THE PAYOFF SPREAD AND THE MOST IMPORTANT IMAGE IN THE BOOK. Mira and Tomas are up on the LOW SLOPING ROOF of the shed at the left of frame, both mid-throw, arms up and forward, delighted, and the whole rest of the frame is SKY FILLED WITH PAPER PLANES over the long garden. There must be A GREAT MANY of them, dozens, at every height and angle and heading in different directions, NOT in formation, NOT evenly spaced, NOT a tidy flock. THE ENTIRE POINT IS THAT NO TWO ARE THE SAME FOLD: long thin darts, short fat ones, blunt-nosed ones, broad square ones, ones with upturned wingtips, one with a thick folded-over nose, several folded from PRINTED paper such as a bus timetable or newsprint with type visible on the folds. Every single one is flying well. Warm late afternoon light. IF THE PLANES READ AS COPIES OF ONE ANOTHER THE IMAGE HAS FAILED. PIP IS UP ON THE ROOF WITH THEM, standing at their feet on the shed roof, a SMALL TIN TOY NO TALLER THAN THE CHILDREN'S KNEES, head tipped back and both arms slightly raised, watching the planes go over. Exactly ONE Pip, rendered exactly as its reference plate, and no other robot or mechanical figure anywhere."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: a loose confident ink line with soft transparent watercolour washes over it, a muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the look of a thoughtful printed picture book. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet, never a before-and-after. This is a children's picture book about building a little factory in a garden shed that will make any paper plane at all, so long as it flies. Each spread contains ONLY the figures its own scene description names. Keep the LOWER RIGHT of the frame calm and uncluttered, because a caption card sits there. SCENE: THE PAYOFF SPREAD AND THE MOST IMPORTANT IMAGE IN THE BOOK. Mira and Tomas are up on the LOW SLOPING ROOF of the shed at the left of frame, both mid-throw, arms up and forward, delighted, and the whole rest of the frame is SKY FILLED WITH PAPER PLANES over the long garden. There must be A GREAT MANY of them, dozens, at every height and angle and heading in different directions, NOT in formation, NOT evenly spaced, NOT a tidy flock. THE ENTIRE POINT IS THAT NO TWO ARE THE SAME FOLD: long thin darts, short fat ones, blunt-nosed ones, broad square ones, ones with upturned wingtips, one with a thick folded-over nose, several folded from PRINTED paper such as a bus timetable or newsprint with type visible on the folds. Every single one is flying well. Warm late afternoon light. IF THE PLANES READ AS COPIES OF ONE ANOTHER THE IMAGE HAS FAILED. PIP IS UP ON THE ROOF WITH THEM, standing at their feet on the shed roof, a SMALL TIN TOY NO TALLER THAN THE CHILDREN'S KNEES, head tipped back and both arms slightly raised, watching the planes go over. Exactly ONE Pip, rendered exactly as its reference plate, and no other robot or mechanical figure anywhere. mira rendered exactly per the supplied reference images: a girl about ten ordinary not precocious; dark hair in a blunt chin length bob with a straight fringe; mustard yellow knitted cardigan over a plain rust red dress; bare knees and scuffed cream canvas shoes; hands are always doing something folding holding throwing; warm editorial ink and wash never photoreal. MIRA, a girl of about TEN. Dark hair in a blunt CHIN-LENGTH BOB with a straight fringe across her forehead. A MUSTARD-YELLOW KNITTED CARDIGAN, sleeves pushed up, over a plain RUST-RED DRESS. Bare knees. Scuffed CREAM CANVAS SHOES. She is an ORDINARY CHILD, absorbed and a bit stubborn, NOT precocious, NOT a prodigy, NOT tidy. Her hands are always occupied. Warm-editorial ink-and-wash on a cream ground, soft washes over a loose ink line, never photoreal, never 3D, never glossy. mira-brother rendered exactly per the supplied reference images: a boy about seven clearly younger and shorter than mira; cropped dark hair and a rounder face than his sister; horizontally striped rust and cream tee shirt and plain shorts; one sock always slumped around the ankle; never comic relief never mugging at the viewer; warm editorial ink and wash never photoreal. TOMAS, a boy of about SEVEN, clearly YOUNGER AND SHORTER than Mira, reaching roughly to her shoulder. CROPPED DARK HAIR and a ROUNDER, softer face than his sister's. A HORIZONTALLY STRIPED RUST-AND-CREAM TEE SHIRT and plain shorts. ONE SOCK IS ALWAYS SLUMPED DOWN AROUND THE ANKLE. He is serious more often than silly, and he is NEVER comic relief, NEVER mugging, NEVER pulling a face at the viewer. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy. ARM UP AND FORWARD IN MID-THROW alongside his sister, whole body committed, delighted. An open-mouthed grin is allowed here and only here. CONVERGENCE IS THE FAILURE MODE. Any render in which the planes read as copies of one handsome dart has argued against the book and must be regenerated from scratch, not accepted and not patched. This applies hardest on the final spread, where a hundred planes must read as a hundred designs. pip rendered exactly per the supplied reference images: a small hand made tin toy robot about knee high to a ten year old; a round tin head slightly too big for the body; two round dark glass eyes with a single warm highlight in each; a small round brass grille below the eyes that it speaks through; a boxy dented tin torso with one small hinged panel; two stubby jointed brass arms with simple three finger hands; two short stubby legs with round flat feet; one small amber pilot bulb on top of its head warm and dim; dented patinated and plainly made from scrap never sleek never new; eager and willing it is always TRYING; warm editorial ink and wash never photoreal never glossy never 3d. PIP, a small hand-made TIN-TOY ROBOT about KNEE-HIGH TO A TEN-YEAR-OLD. A ROUND TIN HEAD slightly TOO BIG for its body, which is what makes it endearing. TWO ROUND DARK GLASS EYES, simple and wide-set, each with a single warm highlight. A SMALL ROUND BRASS GRILLE below the eyes that it speaks through. A BOXY DENTED TIN TORSO with one small hinged panel. TWO STUBBY JOINTED BRASS ARMS ending in simple THREE-FINGER HANDS. TWO SHORT STUBBY LEGS with round flat feet. ONE SMALL AMBER PILOT BULB on top of its head, warm and dim, which does NOT glow and does NOT cast light on anything. The tin is DENTED, scratched and patinated, plainly assembled from scrap by children: mismatched panels, visible rivets, one arm a slightly different metal from the other. Its whole bearing is EAGER AND WILLING: it leans in, it is paying attention, it is always TRYING to be useful. Rendered in warm-editorial ink-and-wash on a cream ground, like a beloved hand-painted tin toy. ABSOLUTELY NOT: neon, glowing screens, holograms, blue light, HUD graphics, glossy plastic, 3D or CGI or Pixar rendering, chrome, sleek modern product design, or anything that looks manufactured in a factory. HEAD TIPPED BACK AND UP, both arms slightly raised, watching something travel away above it. Delighted in a plain, uncomplicated way. the-plane-shed exactly as its reference plate: The shed is CLUTTERED, WOODEN and WARM, and everything in it is plainly hand-made by children: loose sheets of paper, a jar of pencils, blunt scissors, string, pencil marks straight on the bench top, folded paper planes lying where they were put down. Light is only daylight through the four-pane window plus one bare bulb; never dramatic, never rim-lit, never moody. RENDER ONE MOMENT IN TIME ONLY: a single view of the shed as it is in this one scene, never a before-and-after, never a split panel, never two versions of the room in one image. TELL THEM APART, keep every face and hairstyle distinct: mira is the one with a girl about ten ordinary not precocious, dark hair in a blunt chin length bob with a straight fringe, mustard yellow knitted cardigan over a plain rust red dress, bare knees and scuffed cream canvas shoes, hands are always doing something folding holding throwing, warm editorial ink and wash never photoreal; mira-brother is the one with a boy about seven clearly younger and shorter than mira, cropped dark hair and a rounder face than his sister, horizontally striped rust and cream tee shirt and plain shorts, one sock always slumped around the ankle, never comic relief never mugging at the viewer, warm editorial ink and wash never photoreal; pip is the one with a small hand made tin toy robot about knee high to a ten year old, a round tin head slightly too big for the body, two round dark glass eyes with a single warm highlight in each, a small round brass grille below the eyes that it speaks through, a boxy dented tin torso with one small hinged panel, two stubby jointed brass arms with simple three finger hands, two short stubby legs with round flat feet, one small amber pilot bulb on top of its head warm and dim, dented patinated and plainly made from scrap never sleek never new, eager and willing it is always TRYING, warm editorial ink and wash never photoreal never glossy never 3d. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, NO STRAY OR INVENTED TEXT anywhere: no captions, no labels, no signage, no watermarks, no logos, no signatures, no dates, no readable handwriting and no readable print. THE ONE EXCEPTION is text a scene specifies as an exact quoted string., NO ADULTS anywhere in this book: no parents, no teacher, no crowd. Only the two children and the helper., NO GLOWING TECHNOLOGY: no screens, no displays, no dials with readouts, no holograms, no blue light, no cables, no motors, no chrome, no sleek modern product design. Every machine is hand-made from scrap wood, tin, wire and spring steel., NO PLANE MAY BE A COPY OF ANOTHER: wherever more than one paper plane appears in a frame, every one of them must be a VISIBLY DIFFERENT FOLD. A tidy squadron of matching darts is a failure of the whole book., NO character may be lit from below, haloed, or gazed up at., PIP IS NEVER LARGER THAN KNEE-HIGH to Mira and never dominates a frame.. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira/master.png",
+      "sha256_16": "c4edecfe4673b940"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira/face.png",
+      "sha256_16": "26d950d1bf65b9fc"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira-brother/master.png",
+      "sha256_16": "762917f11a8c98df"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-flock/master.png",
+      "sha256_16": "c3f9b27566b469b6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/pip/master.png",
+      "sha256_16": "ee92b9a8c773f559"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/yard.png",
+      "sha256_16": "9fff51fa7edcaacd"
+    }
+  ],
+  "qa": [
+    "mira: a-girl-about-ten-ordinary-not-precocious",
+    "mira: dark-hair-in-a-blunt-chin-length-bob-with-a-straight-fringe",
+    "mira: mustard-yellow-knitted-cardigan-over-a-plain-rust-red-dress",
+    "mira: bare-knees-and-scuffed-cream-canvas-shoes",
+    "mira: hands-are-always-doing-something-folding-holding-throwing",
+    "mira: warm-editorial-ink-and-wash-never-photoreal",
+    "mira-brother: a-boy-about-seven-clearly-younger-and-shorter-than-mira",
+    "mira-brother: cropped-dark-hair-and-a-rounder-face-than-his-sister",
+    "mira-brother: horizontally-striped-rust-and-cream-tee-shirt-and-plain-shorts",
+    "mira-brother: one-sock-always-slumped-around-the-ankle",
+    "mira-brother: never-comic-relief-never-mugging-at-the-viewer",
+    "mira-brother: warm-editorial-ink-and-wash-never-photoreal",
+    "pip: a-small-hand-made-tin-toy-robot-about-knee-high-to-a-ten-year-old",
+    "pip: a-round-tin-head-slightly-too-big-for-the-body",
+    "pip: two-round-dark-glass-eyes-with-a-single-warm-highlight-in-each",
+    "pip: a-small-round-brass-grille-below-the-eyes-that-it-speaks-through",
+    "pip: a-boxy-dented-tin-torso-with-one-small-hinged-panel",
+    "pip: two-stubby-jointed-brass-arms-with-simple-three-finger-hands",
+    "pip: two-short-stubby-legs-with-round-flat-feet",
+    "pip: one-small-amber-pilot-bulb-on-top-of-its-head-warm-and-dim",
+    "pip: dented-patinated-and-plainly-made-from-scrap-never-sleek-never-new",
+    "pip: eager-and-willing-it-is-always-TRYING",
+    "pip: warm-editorial-ink-and-wash-never-photoreal-never-glossy-never-3d"
+  ]
+}

@@ -5,7 +5,7 @@
   "model": null,
   "prompt": null,
   "inputs": [
-    "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/87df508a-5085-4b39-811f-64efba56d7f6/scratchpad/plane-shed-massing.json"
+    "/tmp/shed-oneground.json"
   ],
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
   "entity": "the-plane-shed",
