@@ -109,7 +109,7 @@ It did not keep the planes. It kept what happened to them.
 
 It knew what fat noses need now. It knew what a hole does.
 
-The hundredth plane took all afternoon. The next one took ten minutes.
+Bea's plane took all afternoon. The hundredth one took ten minutes.
 
 ---
 
