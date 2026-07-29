@@ -5,7 +5,7 @@
   "authority": {
     "lockedBy": "TODO-you",
     "lockedOn": "2026-07-29",
-    "note": "REDESIGNED 2026-07-29 on Gary's direction, replacing a deliberately cold tin instrument on tripod legs. His framing, verbatim: 'Pip just wanted to be a good helper. The right guardrails and guidance made all the difference.' That is a better and warmer premise than the one the first design served, and it changes what Pip IS. Pip is not a gate and not a rival inventor. Pip is willing from the first day, not good at it yet, and it becomes genuinely good once somebody writes down what good means. Its early failures are never its fault; they are the fault of the guidance it was given. He also called the look: cute and humanoid. Checked against universe.json first: the rejected poles (neon, 3D/CGI/Pixar, glossy plastic, HUD, neo-comic) are all RENDERING-STYLE poles and none of them bans a humanoid or bans cute. The previous 'no humanoid, never endearing' rule was written into this file by the author, not inherited from the universe, so honoring the direction breaks no pole and needs no override. MASTER FIRST ROLL on the redesign, 2026-07-29. One invariant corrected to match the locked plate: it specified THREE-FINGER hands and the render returned four blunt digits. The art is right and the finger count was never load-bearing, so the rule was fixed rather than good art re-rolled."
+    "note": "REDESIGNED 2026-07-29 on Gary's direction, replacing a deliberately cold tin instrument on tripod legs. His framing, verbatim: 'Pip just wanted to be a good helper. The right guardrails and guidance made all the difference.' That is a better and warmer premise than the one the first design served, and it changes what Pip IS. Pip is not a gate and not a rival inventor. Pip is willing from the first day, not good at it yet, and it becomes genuinely good once somebody writes down what good means. Its early failures are never its fault; they are the fault of the guidance it was given. He also called the look: cute and humanoid. Checked against universe.json first: the rejected poles (neon, 3D/CGI/Pixar, glossy plastic, HUD, neo-comic) are all RENDERING-STYLE poles and none of them bans a humanoid or bans cute. The previous 'no humanoid, never endearing' rule was written into this file by the author, not inherited from the universe, so honoring the direction breaks no pole and needs no override. MASTER FIRST ROLL on the redesign, 2026-07-29, and it satisfies every invariant including the finger count. A READ-BACK ERROR is recorded here on purpose: the author first counted FOUR digits per hand at full-plate scale and loosened this file's three-finger rule to match. Gary caught it. A crop-zoom of both hands shows exactly THREE fingers each, so the plate had been obeying canon all along and the rule was restored. The lesson is the one the read-back procedure already states and that pass skipped: COUNT AT CROP-ZOOM, never at full-plate scale. Loosening a correct invariant is worse than a bad render, because the render is one image and the rule governs every image after it."
   },
   "structured": {
     "sheets": {
@@ -20,7 +20,7 @@
       "two-round-dark-glass-eyes-with-a-single-warm-highlight-in-each",
       "a-small-round-brass-grille-below-the-eyes-that-it-speaks-through",
       "a-boxy-dented-tin-torso-with-one-small-hinged-panel",
-      "two-stubby-jointed-brass-arms-with-simple-blunt-fingered-hands",
+      "two-stubby-jointed-brass-arms-with-simple-three-finger-hands",
       "two-short-stubby-legs-with-round-flat-feet",
       "one-small-amber-pilot-bulb-on-top-of-its-head-warm-and-dim",
       "dented-patinated-and-plainly-made-from-scrap-never-sleek-never-new",
@@ -28,7 +28,7 @@
       "warm-editorial-ink-and-wash-never-photoreal-never-glossy-never-3d"
     ],
     "render": {
-      "always": "PIP, a small hand-made TIN-TOY ROBOT about KNEE-HIGH TO A TEN-YEAR-OLD. A ROUND TIN HEAD slightly TOO BIG for its body, which is what makes it endearing. TWO ROUND DARK GLASS EYES, simple and wide-set, each with a single warm highlight. A SMALL ROUND BRASS GRILLE below the eyes that it speaks through. A BOXY DENTED TIN TORSO with one small hinged panel. TWO STUBBY JOINTED BRASS ARMS ending in SIMPLE BLUNT-FINGERED HANDS. TWO SHORT STUBBY LEGS with round flat feet. ONE SMALL AMBER PILOT BULB on top of its head, warm and dim, which does NOT glow and does NOT cast light on anything. The tin is DENTED, scratched and patinated, plainly assembled from scrap by children: mismatched panels, visible rivets, one arm a slightly different metal from the other. Its whole bearing is EAGER AND WILLING: it leans in, it is paying attention, it is always TRYING to be useful. Rendered in warm-editorial ink-and-wash on a cream ground, like a beloved hand-painted tin toy. ABSOLUTELY NOT: neon, glowing screens, holograms, blue light, HUD graphics, glossy plastic, 3D or CGI or Pixar rendering, chrome, sleek modern product design, or anything that looks manufactured in a factory.",
+      "always": "PIP, a small hand-made TIN-TOY ROBOT about KNEE-HIGH TO A TEN-YEAR-OLD. A ROUND TIN HEAD slightly TOO BIG for its body, which is what makes it endearing. TWO ROUND DARK GLASS EYES, simple and wide-set, each with a single warm highlight. A SMALL ROUND BRASS GRILLE below the eyes that it speaks through. A BOXY DENTED TIN TORSO with one small hinged panel. TWO STUBBY JOINTED BRASS ARMS ending in simple THREE-FINGER HANDS. TWO SHORT STUBBY LEGS with round flat feet. ONE SMALL AMBER PILOT BULB on top of its head, warm and dim, which does NOT glow and does NOT cast light on anything. The tin is DENTED, scratched and patinated, plainly assembled from scrap by children: mismatched panels, visible rivets, one arm a slightly different metal from the other. Its whole bearing is EAGER AND WILLING: it leans in, it is paying attention, it is always TRYING to be useful. Rendered in warm-editorial ink-and-wash on a cream ground, like a beloved hand-painted tin toy. ABSOLUTELY NOT: neon, glowing screens, holograms, blue light, HUD graphics, glossy plastic, 3D or CGI or Pixar rendering, chrome, sleek modern product design, or anything that looks manufactured in a factory.",
       "poses": {
         "eager": {
           "sheets": [
@@ -46,7 +46,7 @@
           "sheets": [
             "master"
           ],
-          "bake": "BOTH HANDS WORKING A SHEET OF PAPER, mid-fold, head bent to the task. Carefully doing the job. Competent and absorbed."
+          "bake": "BOTH THREE-FINGER HANDS WORKING A SHEET OF PAPER, mid-fold, head bent to the task. Carefully doing the job. Competent and absorbed."
         },
         "got-it-wrong": {
           "sheets": [
@@ -65,11 +65,12 @@
         "a small hand-made tin-toy robot, knee-high to a ten-year-old",
         "round tin head slightly too big for the body, two round dark glass eyes",
         "small round brass grille below the eyes, amber pilot bulb on top",
-        "boxy dented tin torso, two stubby brass arms with simple blunt-fingered hands, two stubby legs",
+        "boxy dented tin torso, two stubby brass arms with three-finger hands, two stubby legs",
         "dented, patinated, made from mismatched scrap; never sleek, never new",
         "eager and willing, always trying",
         "no glow, no screens, no blue light, no chrome, no glossy plastic, no 3D or Pixar",
-        "warm-editorial ink-and-wash, never photoreal"
+        "warm-editorial ink-and-wash, never photoreal",
+        "exactly THREE fingers on each hand, never four or five"
       ]
     }
   },
