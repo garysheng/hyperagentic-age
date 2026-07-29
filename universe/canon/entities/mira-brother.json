@@ -1,0 +1,69 @@
+{
+  "id": "mira-brother",
+  "kind": "character",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "Manuscript blessed by Gary 2026-07-29; visual design NOT yet reviewed. Tomas is never named in the book text, only ever 'her brother'. He matters because he is the one who makes the thing nobody sanctioned, and he asks the book's hardest question. He must never read as comic relief."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/mira-brother/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "a-boy-about-seven-clearly-younger-and-shorter-than-mira",
+      "cropped-dark-hair-and-a-rounder-face-than-his-sister",
+      "horizontally-striped-rust-and-cream-tee-shirt-and-plain-shorts",
+      "one-sock-always-slumped-around-the-ankle",
+      "never-comic-relief-never-mugging-at-the-viewer",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "TOMAS, a boy of about SEVEN, clearly YOUNGER AND SHORTER than Mira, reaching roughly to her shoulder. CROPPED DARK HAIR and a ROUNDER, softer face than his sister's. A HORIZONTALLY STRIPED RUST-AND-CREAM TEE SHIRT and plain shorts. ONE SOCK IS ALWAYS SLUMPED DOWN AROUND THE ANKLE. He is serious more often than silly, and he is NEVER comic relief, NEVER mugging, NEVER pulling a face at the viewer. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "wanting": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING CLOSE AND WAITING, both hands out or held together in front of him, looking UP at his sister. Hopeful and patient. He is NOT whining and NOT tugging at her."
+        },
+        "offering": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "HOLDING OUT A FOLDED PAPER OBJECT ON TWO FLAT PALMS toward his sister, arms extended. Matter-of-fact, unbothered about whether it is correct. He is NOT proud, NOT sheepish, and he is NOT presenting it as a joke."
+        },
+        "asking": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING STILL AND LOOKING AT THE MACHINES rather than at his sister, having just asked a serious question. Thoughtful and slightly uneasy: brow faintly drawn, mouth closed, arms down at his sides. He is NOT frightened, NOT accusing, NOT cute."
+        },
+        "throwing-with-her": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "ARM UP AND FORWARD IN MID-THROW alongside his sister, whole body committed, delighted. An open-mouthed grin is allowed here and only here."
+        }
+      },
+      "qa": [
+        "boy of about seven, clearly shorter than Mira, reaching her shoulder",
+        "cropped dark hair, rounder face, horizontally striped rust-and-cream tee",
+        "one sock slumped at the ankle",
+        "serious rather than silly; never mugging",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Very few words, and the ones he uses are direct. He asks the question the adults in the reader's life are too polite to ask.",
+    "lore": "He wanted a plane, which started the whole problem. Later he folded something fat and blunt that was not a plane at all, and it flew further than anything his sister had made. He is the proof that a principle can let in what a picture would have thrown away.",
+    "rules": "HIS FOLD IS NOT A JOKE. Spread 9 fails if his object reads as a gag, or as a little kid's mess that got lucky. It must read as a genuine and unfamiliar solution. HIS QUESTION IS NOT NAIVE either: 'if a machine decides, is it still ours' is the book's real objection, and he must be drawn taking it seriously."
+  },
+  "fictional": true,
+  "status": "locked"
+}

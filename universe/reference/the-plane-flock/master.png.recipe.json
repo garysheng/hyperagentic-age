@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "c3f9b27566b469b6",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    }
+  ],
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent washes over it, muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good picture book rather than a comic. A REFERENCE STUDY SHEET of TWELVE PAPER PLANES, arranged in a loose grid of four across and three down on a plain warm cream ground, each drawn from a three-quarter angle so its shape reads clearly. THE ENTIRE POINT IS THAT NO TWO ARE THE SAME FOLD. The range must be WIDE and OBVIOUS at a glance: one long thin dart, one SHORT AND FAT one, one with a THICK FOLDED-OVER BLUNT NOSE, one broad and almost square, one wide stubby glider, one with UPTURNED WINGTIPS, one very narrow needle, one with a deep keel, one squat delta, one with swept-back wings, one with a rounded nose, one asymmetrical and lopsided. They are all HAND-FOLDED BY CHILDREN: creases slightly soft and imperfect, wings not perfectly matched. Plain CREAM AND WHITE paper. AT LEAST TWO of them are folded from PRINTED paper such as a bus timetable or newsprint, with small lines of type still visible on the folds. Never coloured craft paper, never origami-store paper, never foil. No labels, no numbers, no captions, no annotation text. ABSOLUTELY NOT, these are the rejected poles of this style and any of them is a failure: neon, 3D or CGI or Pixar rendering, glossy plastic, HUD or arc-reactor comic vocabulary, neo-comic styling, photorealism, airbrushing, lens flare, heavy drop shadows.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

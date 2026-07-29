@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/interior-empty.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent washes over it, muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good picture book rather than a comic. EMPTY SET PLATE, ABSOLUTELY NO PEOPLE AND NO ANIMALS IN THIS IMAGE. The interior of a small ordinary backyard timber shed, about three metres by four, seen from the back corner looking along the workbench toward the window, exactly as in the attached layout reference. Weathered grey-brown vertical board walls. A LOW SINGLE-PITCH ROOF. ONE SQUARE FOUR-PANE WINDOW in the long wall with daylight coming through it, and a WOODEN WORKBENCH running the full length of that wall beneath it. The open doorway is at the far left, with green grass visible outside. Shelves and a pegboard above the bench. One bare bulb on a flex. The bench is CLUTTERED with loose sheets of paper, a jar of pencils, blunt scissors, string, and a few folded paper planes lying where they were put down; there are pencil marks straight on the bench top. It is SMALL, WOODEN, CLUTTERED AND WARM, and it must read as a place two children made things in. It is NEVER a laboratory, NEVER a factory floor, NEVER a maker-space, NEVER impressive, NEVER tidy, NEVER dramatically lit. Light is only daylight through the window plus the one bulb. There is NO row of machines along the bench yet. RENDER ONE SINGLE MOMENT IN TIME: one view of one room, never a before-and-after, never a split panel, never two versions side by side. The attached grey blocky sheet is a LAYOUT REFERENCE ONLY and must NEVER be painted. Match its geometry, camera angle, proportions and the placement of every object EXACTLY, then render the result fully in the warm editorial ink-and-wash style. Do NOT reproduce its flat grey blocks, its outlines, its labels, its leader lines or any of its text. ABSOLUTELY NOT, these are the rejected poles of this style and any of them is a failure: neon, 3D or CGI or Pixar rendering, glossy plastic, HUD or arc-reactor comic vocabulary, neo-comic styling, photorealism, airbrushing, lens flare, heavy drop shadows.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/blueprint.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T14:43:01+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

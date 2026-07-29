@@ -1,0 +1,63 @@
+{
+  "id": "the-throwing-arm",
+  "kind": "prop",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "Manuscript blessed by Gary 2026-07-29; visual design NOT yet reviewed. This is the book's most important object: the instrument that made the standard testable, and therefore the reason an unfamiliar fold could be admitted on evidence rather than on taste."
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-throwing-arm/hero.png",
+      "detail": "reference/the-throwing-arm/detail.png"
+    },
+    "requiredForRender": [
+      "hero",
+      "detail"
+    ],
+    "invariants": [
+      "hand-made-of-pale-wood-and-steel-clearly-built-by-children",
+      "one-upright-post-c-clamped-to-the-end-of-the-workbench",
+      "one-hinged-swinging-arm-of-pale-wood-about-a-forearm-long",
+      "one-visible-coiled-steel-spring-at-the-pivot",
+      "a-small-cork-and-wire-cradle-at-the-tip-that-grips-a-plane-by-its-keel",
+      "a-wooden-peg-trigger-on-a-loop-of-string",
+      "about-chest-high-on-a-ten-year-old",
+      "NO-motor-NO-wires-NO-electronics-NO-dial-NO-screen-NO-glow",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "THE THROWING ARM, a hand-made paper-plane launcher of pale wood and steel that two children plainly built themselves. ONE UPRIGHT POST of pale timber roughly 60cm tall, C-CLAMPED to the END of the workbench so it stands CHEST-HIGH ON A TEN-YEAR-OLD. ONE HINGED PALE-WOOD ARM about a forearm long swings on a bolt through the top of the post. At that pivot, ONE VISIBLE COILED STEEL SPRING provides the force. At the ARM'S TIP, a SMALL CORK-AND-WIRE CRADLE grips a paper plane by its keel. A WOODEN PEG TRIGGER hangs on a loop of string. Pencil marks and a stray screw show it was made by hand. Entirely mechanical: NO motor, NO wires, NO electronics, NO dials, NO displays, NO glow. Warm-editorial ink-and-wash, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "loaded": {
+          "sheets": [
+            "hero"
+          ],
+          "bake": "ARM DRAWN FULLY BACK AND HELD BY THE PEG, the coiled spring visibly compressed and under tension, a paper plane seated in the cork cradle ready to go. Everything is STILL; nothing is in motion. Render EXACTLY ONE state: the arm is drawn back, and it must NOT also appear swung forward anywhere in frame."
+        },
+        "released": {
+          "sheets": [
+            "hero"
+          ],
+          "bake": "ARM SWUNG FULLY FORWARD AND EMPTY at the end of its travel, spring relaxed, peg swinging loose on its string, the plane already away and in the air beyond it. Render EXACTLY ONE state: the arm is forward and empty, and it must NOT also appear drawn back anywhere in frame."
+        }
+      },
+      "qa": [
+        "pale-wood upright post clamped to the bench end, chest-high on a child",
+        "one hinged arm with a visibly coiled steel spring at the pivot",
+        "cork-and-wire cradle at the tip, wooden peg trigger on a string",
+        "no motor, wires, electronics, dials, screens or glow",
+        "exactly one state per render: loaded or released, never both",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The first machine they built, and it was not for making planes at all. It was for throwing them the same way every time, because Mira threw harder on good days.",
+    "rules": "IT MUST LOOK HOME-MADE AND MECHANICAL. The moment it reads as a manufactured product, or acquires a motor or a readout, the story stops being about two children who solved their own measurement problem. It must also never be shown deciding anything: it throws, and the distance is the answer."
+  },
+  "fictional": true,
+  "status": "locked"
+}

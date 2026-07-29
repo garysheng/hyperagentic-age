@@ -1,0 +1,79 @@
+{
+  "id": "mira",
+  "kind": "character",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "Manuscript blessed by Gary 2026-07-29; the visual design has NOT been reviewed by him, so this stays TODO-you. Mira is the maker and the one who changes her mind. She is NOT a prodigy and NOT precocious: she is a kid who is annoyed that her planes are inconsistent. Any render that makes her look like a tiny genius or a tiny CEO breaks the book."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/mira/master.png",
+      "face": "reference/mira/face.png"
+    },
+    "requiredForRender": [
+      "master",
+      "face"
+    ],
+    "invariants": [
+      "a-girl-about-ten-ordinary-not-precocious",
+      "dark-hair-in-a-blunt-chin-length-bob-with-a-straight-fringe",
+      "mustard-yellow-knitted-cardigan-over-a-plain-rust-red-dress",
+      "bare-knees-and-scuffed-cream-canvas-shoes",
+      "hands-are-always-doing-something-folding-holding-throwing",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "MIRA, a girl of about TEN. Dark hair in a blunt CHIN-LENGTH BOB with a straight fringe across her forehead. A MUSTARD-YELLOW KNITTED CARDIGAN, sleeves pushed up, over a plain RUST-RED DRESS. Bare knees. Scuffed CREAM CANVAS SHOES. She is an ORDINARY CHILD, absorbed and a bit stubborn, NOT precocious, NOT a prodigy, NOT tidy. Her hands are always occupied. Warm-editorial ink-and-wash on a cream ground, soft washes over a loose ink line, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "throwing": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "ARM FULLY EXTENDED FORWARD just after release, weight on the front foot, eyes following the plane away from her. Side-on or three-quarter camera so the whole throwing line of the body reads. The plane is already out of her hand and in the air."
+        },
+        "folding": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "BENT OVER A SHEET OF PAPER, both hands working a crease, head down, fringe falling forward. Close or medium camera on the hands and face together. Concentrating, mouth slightly set. She is NOT smiling for the viewer."
+        },
+        "sitting-thinking": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SITTING ON A LOW CONCRETE STEP, elbows on knees, chin near her hands, looking out and slightly down at nothing in particular. STUCK: brow faintly drawn, mouth closed and level. She is NOT crying, NOT wistful, NOT dreamy, NOT gazing at a sunset."
+        },
+        "watching": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "STANDING STILL AND WATCHING SOMETHING SHE DID NOT EXPECT, head lifted, arms loose or half-raised and forgotten. Surprised and re-calculating: eyebrows UP, eyes fully open, mouth slightly open, brow SMOOTH rather than furrowed. She is NOT delighted, NOT laughing, NOT dismayed, NOT frightened."
+        },
+        "explaining": {
+          "sheets": [
+            "master",
+            "face"
+          ],
+          "bake": "TURNED TOWARD ANOTHER PERSON, mid-sentence, one hand open at chest height. Level and matter-of-fact, the way you explain something you have just worked out and believe. She is NOT lecturing, NOT triumphant, NOT pleading, NOT scolding."
+        }
+      },
+      "qa": [
+        "girl of about ten, blunt chin-length dark bob with a straight fringe",
+        "mustard-yellow cardigan over a rust-red dress, cream canvas shoes",
+        "ordinary and absorbed; never precocious, never a tiny adult",
+        "warm-editorial ink-and-wash, never photoreal or 3D"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Plain and short. She says what she wants before she knows how to get it, and she is willing to say she does not know.",
+    "lore": "She made a plane that flew on a Tuesday and could not make a second one like it. The book is what she did about that. Her real move is not building the machine, it is giving up the picture of the good plane she was about to draw.",
+    "rules": "SHE IS NOT A PRODIGY. The story only works if she is an ordinary kid with an ordinary annoyance, because the reader has to believe they could have had the same idea. No lab-coat energy, no clipboard, no adult poise. She is also NOT the hero of a triumph: the last spread is delight, not victory."
+  },
+  "fictional": true,
+  "status": "locked"
+}

@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/yard.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent washes over it, muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good picture book rather than a comic. EMPTY SET PLATE, ABSOLUTELY NO PEOPLE AND NO ANIMALS IN THIS IMAGE. Looking out from a LOW CONCRETE STEP of two treads at the door of a small backyard shed, straight DOWN THE LENGTH OF A MOWN GRASS YARD about fifteen metres long, to a WAIST-HIGH WOODEN GATE at the far end. The camera is low, at the eye height of a child standing on the step, exactly as in the attached layout reference. The mown grass recedes away from the viewer with the low afternoon light across it. A plain wooden fence runs down each side. An upturned wooden crate sits near the step. The mood is an ordinary quiet back garden late in the afternoon, warm and unremarkable. NEVER dramatic, NEVER a sunset postcard, NEVER a manicured lawn. RENDER ONE SINGLE MOMENT IN TIME: one view, never a before-and-after, never a split panel. The attached grey blocky sheet is a LAYOUT REFERENCE ONLY and must NEVER be painted. Match its geometry, camera angle, proportions and the placement of every object EXACTLY, then render the result fully in the warm editorial ink-and-wash style. Do NOT reproduce its flat grey blocks, its outlines, its labels, its leader lines or any of its text. ABSOLUTELY NOT, these are the rejected poles of this style and any of them is a failure: neon, 3D or CGI or Pixar rendering, glossy plastic, HUD or arc-reactor comic vocabulary, neo-comic styling, photorealism, airbrushing, lens flare, heavy drop shadows.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plane-shed/blueprint.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-29T14:45:42+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

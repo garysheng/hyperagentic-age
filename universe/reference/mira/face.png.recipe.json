@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "26d950d1bf65b9fc",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "c4edecfe4673b940",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mira/master.png"
+    }
+  ],
+  "prompt": "Warm editorial ink-and-wash illustration on a warm cream ground: a loose confident ink line with soft transparent washes over it, muted earth palette of cream, rust, ochre, mustard, sage and warm grey, quiet and hand-made, the register of a good picture book rather than a comic. Character reference, HEAD AND SHOULDERS CLOSE PORTRAIT of the EXACT SAME GIRL shown in the attached character plate. Match her face, hair and colouring precisely: a girl of about TEN with dark hair in a blunt CHIN-LENGTH BOB and a straight fringe across her forehead, wearing the collar of her MUSTARD-YELLOW KNITTED CARDIGAN over a RUST-RED DRESS. Front three-quarter view, calm neutral expression, mouth closed and level, eyes open and direct, brow smooth. She is NOT smiling for the camera, NOT sad, NOT wide-eyed. Plain empty cream background. Render ONE single image only. This is NOT a contact sheet, NOT a grid, NOT a multi-panel study sheet, NOT a turnaround strip. No panel borders, no captions, no labels, no annotation text of any kind. ABSOLUTELY NOT, these are the rejected poles of this style and any of them is a failure: neon, 3D or CGI or Pixar rendering, glossy plastic, HUD or arc-reactor comic vocabulary, neo-comic styling, photorealism, airbrushing, lens flare, heavy drop shadows.\n\nREADABLE SURFACES FACE THEIR READER: any book, page, letter, scroll or sign a character is reading or writing faces THAT CHARACTER, never the camera. Compose over-the-shoulder or from behind so the surface genuinely faces them. Any handwriting is abstract handwriting-like line work with NO real readable letters.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": "the-plane-flock",
+  "kind": "motif",
+  "originStory": "it-only-has-to-fly",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-07-29",
+    "note": "Manuscript blessed by Gary 2026-07-29; visual design not yet reviewed. This motif exists to defend the single visual claim the whole book rests on. Without a locked reference of genuinely DIFFERENT folds, every render drifts toward a tidy squadron of matching darts, which argues the exact opposite of the text."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/the-plane-flock/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "no-two-planes-in-any-frame-share-a-fold",
+      "the-range-must-include-fat-stubby-and-blunt-nosed-forms-not-only-darts",
+      "at-least-one-plane-is-folded-from-printed-paper-a-timetable-or-newsprint",
+      "they-are-plainly-hand-folded-with-soft-and-slightly-imperfect-creases",
+      "cream-and-white-paper-with-occasional-print-never-coloured-craft-paper",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "render": {
+      "always": "A FLOCK OF PAPER PLANES IN WHICH NO TWO ARE THE SAME FOLD. The range must be WIDE and OBVIOUS at a glance: long thin darts, but also SHORT FAT ONES, BLUNT-NOSED ONES, wide stubby gliders, one with a thick FOLDED-OVER NOSE, one with upturned wingtips, one broad and almost square. They are HAND-FOLDED by children: creases soft and slightly off, wings never perfectly matched by eye. Plain CREAM AND WHITE paper, and AT LEAST ONE folded from PRINTED paper such as a bus timetable or newsprint with the type still visible. Never coloured craft paper, never origami-store paper. Warm-editorial ink-and-wash, never photoreal, never 3D, never glossy.",
+      "poses": {
+        "study": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "A REFERENCE STUDY of twelve clearly different paper planes arranged in a loose grid on a cream ground, each one a DIFFERENT FOLD, drawn from a three-quarter angle so the shape of each reads. This is a study sheet and is used as reference only."
+        },
+        "in-flight": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "MANY PLANES IN THE AIR AT ONCE at different heights and angles, each a VISIBLY DIFFERENT FOLD, spread across the sky rather than in formation. They are NOT in a line, NOT evenly spaced, NOT flying in the same direction. Render as a scene, NOT as a grid or study sheet or contact sheet."
+        },
+        "scattered": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SEVERAL PLANES AT REST on a bench or on grass, each a DIFFERENT FOLD, lying at careless angles and overlapping. Render as a scene, NOT as a grid or study sheet."
+        }
+      },
+      "qa": [
+        "no two planes in frame share a fold",
+        "the range includes fat, stubby and blunt-nosed forms, not only darts",
+        "at least one plane folded from printed paper with type visible",
+        "hand-folded look: soft, slightly imperfect creases",
+        "cream and white paper, never coloured craft paper",
+        "warm-editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "What comes off the end of the line. A hundred planes that share three properties and no shape.",
+    "rules": "CONVERGENCE IS THE FAILURE MODE. Any render in which the planes read as copies of one handsome dart has argued against the book and must be regenerated from scratch, not accepted and not patched. This applies hardest on the final spread, where a hundred planes must read as a hundred designs."
+  },
+  "fictional": true,
+  "status": "locked"
+}
