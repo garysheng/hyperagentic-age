@@ -4,14 +4,16 @@
   "originStory": "the-outcome-economy",
   "authority": {
     "lockedBy": "gary",
-    "lockedOn": "2026-07-23"
+    "lockedOn": "2026-07-23",
+    "note": "SCALE PLATE ADDED 2026-07-29 at reference/supercharged-laptop/scale.png, code-drawn and therefore exact. Gary: 'why does the laptop look different sizes?' It did: across one book it ranged from a notebook to a small television, because the entity declared its FORM and its GLOW and never once declared its SIZE. Colour was meaning and scale was a guess. The plate fixes it against three things a render always contains anyway, a desk, a mug and a hand, so the ratios are checkable at read-back instead of eyeballed."
   },
   "structured": {
     "sheets": {
       "hero": null,
       "detail": null,
       "orange": "reference/supercharged-laptop/orange.png",
-      "green": "reference/supercharged-laptop/green.png"
+      "green": "reference/supercharged-laptop/green.png",
+      "scale": "reference/supercharged-laptop/scale.png"
     },
     "requiredForRender": [],
     "invariants": [
@@ -21,7 +23,11 @@
       "screen-FACE-is-visible-to-the-viewer",
       "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
       "casts-light-not-shadow",
-      "warm-editorial-register"
+      "warm-editorial-register",
+      "it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+      "the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+      "it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+      "the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide"
     ]
   },
   "prose": {
