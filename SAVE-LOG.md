@@ -35,3 +35,5 @@ Marcus's glasses and a gold hardback ribbon.
 **Open threads.** The ontology book's own projection still names "Marcus Vance"; the
 surname is dropped in the picture book but not there. `it-only-has-to-fly` still carries
 `the-plane-flock` and `the-throwing-arm` from the first conception, both still valid.
+
+2026-07-29T22:20:00Z · 65e974b · Two books shipped: It Only Has to Fly (rewritten from a rejected pipeline conception) and What a Book Is Made Of (Marcus, 25 spreads, Storywell cast). Framework: negatives coercion, setting geometry, near-plane clipper, absolute scale, cast closure.
