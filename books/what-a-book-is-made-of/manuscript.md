@@ -1,6 +1,6 @@
 # What a Book Is Made Of
 
-*A HYPERAGENTIC AGE story. 21 spreads, landscape full-spread.*
+*A HYPERAGENTIC AGE story. 25 spreads, landscape full-spread.*
 
 *Marcus, in his own words. A marketer with no theory of children's books ends up
 with four hundred files describing what one is.*
@@ -209,22 +209,52 @@ standing in the middle of it?**
 
 Not a form. Not a website with boxes to fill in.
 
-A church gets its own Storywell. It knows the factory, and it is entirely on
-their side. It stays up when I close the lid.
+**A church gets its own Storywell.**
 
 ---
 
-**20.** One church talked to it for forty minutes.
+**20.** The first thing I got wrong about it was where it lives.
 
-Another typed six words and left.
+It is not on my laptop. I close the lid and go to bed, and it carries on without
+me.
 
-Both of them got a whole book. It knows what a finished book needs, so it knows
-what it is missing. A vague tool has to ask you everything. A precise one can
-offer to decide.
+A thing that only runs while your machine is awake is not a thing you can give
+somebody.
 
 ---
 
-**21.** I was a marketer. I had two kids, a shelf that never quite landed, and
+**21.** And it does not get a summary of the factory. It gets the factory.
+
+The same line, the same order, the same small workers, running now on a machine
+in a church office I have never been inside.
+
+---
+
+**22.** It asks the way a person asks.
+
+One church talked to it for forty minutes and sent four paragraphs about a boy
+in their congregation who had had a hard year.
+
+---
+
+**23.** Another typed six words and left.
+
+Both of them got a whole book.
+
+---
+
+**24.** That is the opposite of what people expect from being careful.
+
+All that answering did not turn into a longer form. It turned into a list of
+every decision a finished book needs.
+
+Once that list exists, each one can come from the church, or it can be made
+without them. **A vague tool has to ask you everything, because it cannot tell
+what is missing. A precise one can offer to decide.**
+
+---
+
+**25.** I was a marketer. I had two kids, a shelf that never quite landed, and
 nothing but the ability to tell.
 
 **I can say it now.**
