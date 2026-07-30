@@ -12,7 +12,7 @@
 set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 UNIVERSE="$(cd "$HERE/../.." && pwd)"                 # <universe> (this file is at <universe>/canon/scripts/)
-ENGINE="${AGENTICSTORY_ENGINE:-/Users/garysheng/Documents/github-repos/agenticstory/engine}"     # override with $AGENTICSTORY_ENGINE if the engine moves
+ENGINE="${AGENTICSTORY_ENGINE:-/Users/garysheng/Documents/github-repos/agentic-brand-universe/engine}"     # override with $AGENTICSTORY_ENGINE if the engine moves
 [ -d "$ENGINE" ] || { echo "agenticstory engine not found at $ENGINE — set AGENTICSTORY_ENGINE" >&2; exit 3; }
 
 [ $# -ge 1 ] || { echo "usage: assert.sh validate|spread|story ..." >&2; exit 2; }
