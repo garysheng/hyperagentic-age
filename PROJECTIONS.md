@@ -38,7 +38,7 @@ follows the reader's light or dark theme.
 
 ![The altitudes plate](./examples/explanatory-plate.svg)
 
-Emitter: `agenticstory:explanatory-plate`. Its gate is entirely **computed**, so it costs nothing and
+Emitter: `abu:explanatory-plate`. Its gate is entirely **computed**, so it costs nothing and
 runs on every render: palette-only, content fits the viewBox, column headers fit their column, title
 and role present. Two real defects were caught by that gate alone, a clipped viewBox and two colliding
 headers, both of which look fine in code and are obvious the moment they render.

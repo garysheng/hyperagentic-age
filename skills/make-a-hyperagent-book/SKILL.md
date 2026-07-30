@@ -1,11 +1,11 @@
 ---
 name: make-a-hyperagent-book
-description: One-command front door for making an illustrated, narrated picture book in the HYPERAGENTIC AGE universe (hyperagentic-age). A thin cartridge over agenticstory:make-a-book, which owns the chain, the auto-advance policy and every universal render gotcha. This file supplies only what is true of THIS universe. Use when Gary says "make a hyperagent book", "new book in the hyperagent universe", "start a HYPERAGENTIC AGE book about X", or "/make-a-hyperagent-book <idea>". NOT for a brand-new universe (agenticstory:start-new-story-universe) and NOT for editing an existing book (agenticstory:update-book).
+description: One-command front door for making an illustrated, narrated picture book in the HYPERAGENTIC AGE universe (hyperagentic-age). A thin cartridge over abu:make-a-book, which owns the chain, the auto-advance policy and every universal render gotcha. This file supplies only what is true of THIS universe. Use when Gary says "make a hyperagent book", "new book in the hyperagent universe", "start a HYPERAGENTIC AGE book about X", or "/make-a-hyperagent-book <idea>". NOT for a brand-new universe (abu:start-new-story-universe) and NOT for editing an existing book (abu:update-book).
 ---
 
 # Make a HYPERAGENT Book
 
-**Read `agenticstory:make-a-book` FIRST and follow it.** It owns the load-bearing order
+**Read `abu:make-a-book` FIRST and follow it.** It owns the load-bearing order
 (story -> cast -> lock -> render -> cover -> narrate -> deliver -> publish), the auto-advance
 policy, the two real gates, the environment, every universal render gotcha, and land-work.
 
@@ -102,5 +102,5 @@ asks. Private-by-default for real-person books, per the universe law above.
 - The published trilogy: The Narrow Path, A Book to Live By, Machines of Loving Grace.
 
 ## Skill improvement
-A lesson true of any universe goes in `agenticstory:make-a-book`, not here. Only Hyperagentic Age
+A lesson true of any universe goes in `abu:make-a-book`, not here. Only Hyperagentic Age
 facts live in this file.
