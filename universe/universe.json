@@ -42,7 +42,7 @@
       "stylePack": "reference/style/warm-editorial-neutral"
     }
   },
-  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC §3a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC §11/§12) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki.",
+  "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC \u00a73a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC \u00a711/\u00a712) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki.",
   "projections": {
     "dir": "projections",
     "specVersion": "0.6",
@@ -55,5 +55,7 @@
       "thank-you-card"
     ],
     "note": "Typed contracts per SPEC 4.8. requires names KINDS; a composition binds this universe's entity ids to them."
-  }
+  },
+  "workRoot": "../books",
+  "workRootNote": "DEVIATES from the works/ default deliberately. Books are siblings of the universe at hyperagentic-age/books/, for the same weight and independent-shipping reasons as nation-of-fire."
 }
