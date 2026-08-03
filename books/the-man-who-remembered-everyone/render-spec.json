@@ -1,0 +1,410 @@
+{
+  "book": "the-man-who-remembered-everyone",
+  "story": "the-man-who-remembered-everyone",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Evening. Marcus stands still in the middle of the room with an ordinary phone held to his ear, his free hand fallen open at his side. He has stopped moving in the way people do when they are being told something. The lamp is on, the valley window has gone to dusk, and the children's picture books are still open on the rug where they were left. The lower right of the room is quiet floor and rug.",
+      "_caption": "My friend called on a Tuesday to tell me his mother had died."
+    },
+    {
+      "id": "spread-02",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Closer. Marcus half turned away from the window, phone still at his ear, his mouth slightly open on a word he has not found. His other hand has come up to the back of his neck. The room is unchanged and warm around him, which is the point: nothing has happened to the room. Keep the lower right of the frame quiet.",
+      "_caption": "I said all the right things. I never said her name, because I did not know it. He had told me twice."
+    },
+    {
+      "id": "spread-03",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-dark"
+        }
+      ],
+      "scene": "Marcus lowers the phone, seen from behind and to one side so he is small in his own room. Against the far wall the grid of panels stands completely unlit, ash grey and inert, and the only light on it is the lamp's. He is not looking at it. The lower right is open rug.",
+      "_caption": "That is what a conversation was for me. It happened, and it was real, and then it was gone."
+    },
+    {
+      "id": "spread-04",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "The desk end of the room. Marcus sits with his elbows on the table, looking at an ordinary phone lying face up beside a spiral notebook and a second older phone. Three separate small objects, none of them touching, spread across the table with gaps between them. Warm lamplight, a mug, the room's clutter behind him. Keep the lower right clear of detail.",
+      "_caption": "I was not careless about it. I had voice memos on my phone, notes in one app, a recorded call in another. None of them talked to each other, and I never opened any of them again."
+    },
+    {
+      "id": "spread-05",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Marcus has sat up. One hand is flat on the table and he is looking off to the side, thinking rather than working. The scattered phone and notebook are still there in front of him but he is no longer looking at them. The light is the same warm lamp. Lower right stays quiet.",
+      "_caption": "So I stopped trying to remember. I kept it instead."
+    },
+    {
+      "id": "spread-06",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Over Marcus's shoulder at the desk. On the table in front of him the loose objects have been gathered into one squared-up stack of plain paper folders, edges aligned, nothing decorative, nothing labelled in a way the viewer can read. His hand rests on top of the stack. Warm and ordinary. Lower right is table surface.",
+      "_caption": "Every recording became a plain file with a plain name, in one folder, on my own machine. Nothing clever. Just kept."
+    },
+    {
+      "id": "spread-07",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Marcus at the desk with the plain stack beside him, the laptop open in front of him and its screen throwing a soft clay-coral light up onto his face and hands. He is outside the laptop, in the real room, solid and casting a shadow. The coral light is the only cool thing in a warm frame. Keep the lower right calm.",
+      "_caption": "The folder was not the point. Being able to read every file in it at once was the point."
+    },
+    {
+      "id": "spread-08",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-dark"
+        }
+      ],
+      "scene": "Wider. Marcus small at his desk on the left with the laptop's coral glow on him, and across the room on the right the grid of panels stands unlit and grey, waiting. A clear horizontal threshold in the air between the warm desk end and the panels. He has turned in his chair to look at them for the first time. Lower right is floor and rug.",
+      "_caption": "So I gave it to something that reads. It does not remember anything, and it never needs to. It reads the folder every time."
+    },
+    {
+      "id": "spread-09",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-dark"
+        }
+      ],
+      "scene": "Marcus standing in front of the wall of panels, close but not touching, seen from behind and slightly to the left so both he and the whole grid are in frame. The panels are unlit ash grey, complete and regular, and the warm gold room light falls across them. He is solid and casts a shadow onto the rug. Lower right is open rug.",
+      "_caption": "What came back was a wall of small lights, one for each person I have, holding everything they ever told me."
+    },
+    {
+      "id": "spread-10",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-dark"
+        }
+      ],
+      "scene": "The same view a step further back, the room's furniture framing him: the sofa with its draped blanket on the left, the valley window on the right going dark. The grid of panels is still entirely unlit. Marcus stands small in front of it with his hands at his sides. Quiet, not sad. Keep the lower right region simple.",
+      "_caption": "Most of them were dark at first. I had twenty years of people and almost none of it kept."
+    },
+    {
+      "id": "spread-11",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-filling"
+        }
+      ],
+      "scene": "Time has passed. The same wall, now with a scattering of panels lit warm clay-coral among the grey ones, spread irregularly across the grid. Marcus sits on the arm of the sofa in the foreground with a mug, not looking at the wall, the coral light reaching across the rug toward him. Ordinary evening. Lower right is rug and lamplight.",
+      "_caption": "It fills faster than you would think. A month of ordinary calls is a lot of light."
+    },
+    {
+      "id": "spread-12",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-filling"
+        }
+      ],
+      "scene": "Marcus half risen from the sofa with the phone in his hand, lit screen, caught in the second before he answers. Behind him most of the panels are now lit warm coral and throwing light across the room. His body is turned toward the phone and away from the wall. Keep the lower right of the frame quiet.",
+      "_caption": "Eleven months later, the same friend called."
+    },
+    {
+      "id": "spread-13",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "realising",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-answering"
+        }
+      ],
+      "scene": "The beat the book is built on. One single panel has come out of the lit grid and floats forward across the threshold into the room, the empty gap it left clearly visible behind it, and it throws warm coral light down onto Marcus's open hand. He is solid, warm gold, casting a shadow, standing out in his own room and not touching the wall. His face is lifting. Lower right is open rug.",
+      "_caption": "Before I picked up, I knew what he was carrying, and I knew her name was Ruth."
+    },
+    {
+      "id": "spread-14",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "stuck",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        }
+      ],
+      "scene": "Marcus sitting down heavily on the sofa with the phone pressed to his ear and his other hand over his eyes, in the warm lamplight, the valley window dark behind him. The wall is out of frame entirely. This one is only the room and the man. Keep the lower right simple.",
+      "_caption": "I said it first. He went quiet, and then he cried, and we talked for an hour about her."
+    },
+    {
+      "id": "spread-15",
+      "setting": "marcus-study",
+      "plate": "desk",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "at-the-desk",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-filling"
+        }
+      ],
+      "scene": "Morning light instead of lamplight. Marcus at the desk working through something ordinary, the laptop open, the plain folder stack squared beside him, and far behind him across the room the lit panels glow quietly without anyone attending to them. Unremarkable, which is the point. Lower right is table.",
+      "_caption": "People tell me this saves me hours every week. It does. That is the smallest thing it does."
+    },
+    {
+      "id": "spread-16",
+      "setting": "marcus-study",
+      "plate": "livingroom",
+      "cast": [
+        {
+          "id": "marcus",
+          "pose": "reading-to-kids",
+          "_choices": [
+            "reading-to-kids",
+            "at-the-desk",
+            "stuck",
+            "objecting",
+            "realising"
+          ]
+        },
+        {
+          "id": "the-lit-index",
+          "_choices": [
+            "dark",
+            "filling",
+            "answering"
+          ],
+          "plate": "state-filling"
+        }
+      ],
+      "scene": "Evening again, and the whole room. Marcus sits on the rug among the open picture books with his back against the sofa, relaxed, the phone nowhere in frame. Behind him the wall of panels is mostly lit and warm, part of the room now rather than the subject of it. The valley window holds the last of the sunset. Lower right is rug and books.",
+      "_caption": "I am not better at remembering than I was. I keep it, and I can find it, and so nobody I love has to be a stranger to me twice."
+    }
+  ]
+}

@@ -32,7 +32,7 @@
       "ALWAYS-in-marcus-study-the-same-family-living-room-with-its-sofa-lamp-bookshelf-valley-window-and-toy-strewn-rug",
       "many-SMALL-UPRIGHT-PANELS-in-a-regular-complete-grid-never-a-screen-monitor-dashboard-chart-or-window",
       "every-panel-identical-in-size-and-shape-no-panel-larger-nearer-or-more-important-than-another",
-      "panels-carry-NO-readable-text-names-numbers-or-glyphs-only-a-warm-density-of-light",
+      "panels-carry-NO-readable-text-names-numbers-glyphs-portraits-faces-or-human-figures-only-a-warm-density-of-light-one-panel-is-one-person-and-must-never-depict-them",
       "no-housing-frame-cabling-pedestal-or-interface-furniture-of-any-kind",
       "domestic-bookcase-scale-never-architectural-and-never-larger-than-the-room",
       "warm-editorial-ink-and-wash-never-photoreal-never-neon-never-HUD-or-dashboard-vocabulary"
@@ -46,6 +46,7 @@
       "poses": {
         "dark": {
           "invariants": [
+            "the-wall-is-present-on-the-digital-side-of-the-threshold-but-emits-NOTHING-it-is-lit-only-by-the-rooms-own-lamp",
             "every-panel-present-and-unlit-ash-grey-and-inert-with-no-coral-and-no-glow",
             "the-grid-is-COMPLETE-the-panels-exist-and-are-simply-empty-nothing-is-missing-or-broken"
           ],
@@ -55,7 +56,17 @@
             "warm light coming from the wall",
             "cracks",
             "missing panels",
-            "rubble"
+            "rubble",
+            "a portrait inside a panel",
+            "a face inside a panel",
+            "a human figure inside a panel",
+            "silhouettes of people inside the panels"
+          ],
+          "sheets": [
+            "state-dark"
+          ],
+          "supersedes": [
+            "on-the-DIGITAL-side-of-a-visible-threshold-translucent-clay-coral-glowing-and-casting-light-never-a-shadow"
           ]
         },
         "filling": {
@@ -68,7 +79,17 @@
             "a progress bar",
             "a solid lit block",
             "a percentage",
-            "any chart"
+            "any chart",
+            "a portrait inside a panel",
+            "a face inside a panel",
+            "a human figure inside a panel",
+            "silhouettes of people inside the panels"
+          ],
+          "sheets": [
+            "state-filling"
+          ],
+          "supersedes": [
+            "on-the-DIGITAL-side-of-a-visible-threshold-translucent-clay-coral-glowing-and-casting-light-never-a-shadow"
           ]
         },
         "answering": {
@@ -80,7 +101,14 @@
             "two or more panels forward",
             "a closed gapless grid",
             "a hand rendered translucent or coral",
-            "a hand inside the wall"
+            "a hand inside the wall",
+            "a portrait inside a panel",
+            "a face inside a panel",
+            "a human figure inside a panel",
+            "silhouettes of people inside the panels"
+          ],
+          "sheets": [
+            "state-answering"
           ]
         }
       }
@@ -91,11 +119,14 @@
       "state-filling": "reference/the-lit-index/state-filling.png",
       "state-answering": "reference/the-lit-index/state-answering.png",
       "blueprint": "reference/the-lit-index/blueprint.png"
-    }
+    },
+    "requiredForRender": [
+      "master"
+    ]
   },
   "prose": {
     "voice": "What a kept record looks like from the inside. Quiet, complete, and domestic, and it is a keeping rather than a display.",
     "lore": "One panel per person, holding everything that person actually said. It never shows a name because the whole claim is that these are real people's private words, kept where they can be found and nowhere else. That is why the panels are legible as light and never as text. This is the same deliberate exception the-constitution makes in reverse: a lab publishes its principles because legibility is what makes them copyable, and a man keeps his people unreadable for exactly the same reason run the other way.",
-    "rules": "IT MUST NEVER READ AS A DASHBOARD. Every temptation to make it impressive is a temptation to break the book: no charts, no counters, no percentages, no filled progress rows, no glowing HUD furniture, no hall of light. It is bookcase-sized and it lives in a house. A render that returns a control room, an operations display or a data centre has argued the opposite of the story, which is about an ordinary tired man keeping his own people, so regenerate rather than accept it. The second failure to watch is legibility: if any panel comes back carrying readable text, a name or a number, the privacy claim is broken and the plate is dead. THIRD failure, and the one a read-back will miss unless it is told to count: the COLUMN COUNT drifts. The first shoot produced two plates at seven columns and two at eight, which makes the four states four different objects rather than one object in four states. Count the columns at crop-zoom on every plate and on every spread that casts it. FOURTH, and the one that produced the worst first shoot: THE ROOM DRIFTS unless something carries it. Four plates seeded off the line-only blueprint alone came back in four different rooms, because a seed can only carry what it draws. master conditions on marcus-study@livingroom and every state chains off master, so the room traces to locked canon rather than to luck."
+    "rules": "IT MUST NEVER READ AS A DASHBOARD. Every temptation to make it impressive is a temptation to break the book: no charts, no counters, no percentages, no filled progress rows, no glowing HUD furniture, no hall of light. It is bookcase-sized and it lives in a house. A render that returns a control room, an operations display or a data centre has argued the opposite of the story, which is about an ordinary tired man keeping his own people, so regenerate rather than accept it. The second failure to watch is legibility: if any panel comes back carrying readable text, a name or a number, the privacy claim is broken and the plate is dead. THIRD failure, and the one a read-back will miss unless it is told to count: the COLUMN COUNT drifts. The first shoot produced two plates at seven columns and two at eight, which makes the four states four different objects rather than one object in four states. Count the columns at crop-zoom on every plate and on every spread that casts it. FOURTH, and the one that produced the worst first shoot: THE ROOM DRIFTS unless something carries it. Four plates seeded off the line-only blueprint alone came back in four different rooms, because a seed can only carry what it draws. master conditions on marcus-study@livingroom and every state chains off master, so the room traces to locked canon rather than to luck. FIFTH: the panels must not become PORTRAITS. The first book run rendered a little head-and-shoulders figure inside each one, which is a pretty idea and is the exact claim this object refuses. One panel is one person and must never show them; that is what makes it a keeping rather than a display."
   }
 }
