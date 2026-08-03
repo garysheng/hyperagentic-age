@@ -1,0 +1,25 @@
+{
+  "asset": "spread-17.webp",
+  "model": "gpt-image-2",
+  "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. ART ONLY: absolutely NO text, NO lettering, NO title, NO byline, NO numbers and NO signature anywhere in the frame. The title is typeset separately afterwards, so keep the upper third of the frame calm, uncluttered background with nothing that must be read. marcus exactly as its reference sheets: a-man-in-his-late-thirties-ordinary-and-slightly-tired; short-dark-hair-going-grey-at-the-temples-and-a-few-days-of-stubble; a-soft-olive-green-shirt-worn-open-over-a-plain-grey-tee-sleeves-rolled; wire-rimmed-reading-glasses-often-pushed-up-onto-his-head; never-a-hoodie-never-startup-uniform-never-a-technologist; he-is-ALWAYS-outside-the-laptop-in-the-real-room-never-inside-the-screen; warm-editorial-ink-and-wash-never-photoreal. MARCUS, a man in his LATE THIRTIES, ordinary and a little tired. SHORT DARK HAIR going GREY AT THE TEMPLES and a few days of STUBBLE. A soft OLIVE-GREEN SHIRT worn open over a plain GREY TEE, sleeves rolled to the forearm. WIRE-RIMMED READING GLASSES, often pushed up onto his head rather than worn. He is a MARKETER and a dad, NOT an engineer: never a hoodie, never a startup uniform, never a technologist, never a wall of monitors. He is patient, curious and slightly rumpled. He is ALWAYS in the warm real room and NEVER inside the laptop screen. Warm-editorial ink-and-wash on a cream ground, never photoreal, never 3D, never glossy. the-lit-index exactly as its reference plate: Nothing decorates it. No frame, no housing, no cabling, no pedestal, no floor markings, no interface furniture of any kind. The wall is the only object on the digital side of the frame. The room at rest with nobody in it, the lamp on, the wall of panels lit and quiet, the children's picture books still open on the rug, the valley window holding the last of the sunset. Calm and open across the lower half of the frame. CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges.",
+  "references": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/marcus/master.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-lit-index/state-dark.png"
+  ],
+  "size": "1024x1536",
+  "qa": [
+    "title line spelled exactly: \"The Man Who Remembered Everyone\"",
+    "title line spelled exactly: \"A HYPERAGENTIC AGE story\"",
+    "marcus: a-man-in-his-late-thirties-ordinary-and-slightly-tired",
+    "marcus: short-dark-hair-going-grey-at-the-temples-and-a-few-days-of-stubble",
+    "marcus: a-soft-olive-green-shirt-worn-open-over-a-plain-grey-tee-sleeves-rolled",
+    "marcus: wire-rimmed-reading-glasses-often-pushed-up-onto-his-head",
+    "marcus: never-a-hoodie-never-startup-uniform-never-a-technologist",
+    "marcus: he-is-ALWAYS-outside-the-laptop-in-the-real-room-never-inside-the-screen",
+    "marcus: warm-editorial-ink-and-wash-never-photoreal",
+    "shipped file aspect == 3:4 (run conform_cover.py; a 2:3 file does not ship)"
+  ],
+  "renderedOn": "anthropic-managed-agents",
+  "bookId": "qs73xuvgjmwzjttian3rz9"
+}

@@ -172,5 +172,15 @@
     }
   ],
   "writesBack": [],
-  "gates": []
+  "gates": [],
+  "publish": {
+    "subtitle": "A testimony about keeping the people you love",
+    "author": "Gary Sheng",
+    "closingVerse": "Nobody I love has to be a stranger to me twice.",
+    "closingVerseRef": "Marcus",
+    "closingNote": [
+      "Everything in this book is a real practice. The recordings are ordinary voice memos and call notes. The folder is plain markdown files on one machine. The thing that reads them is an agent with no memory of its own, which re-reads the folder every time it is asked.",
+      "None of it is clever, and that is the point. The files are the durable part, and anyone can start keeping them today."
+    ]
+  }
 }
