@@ -1,0 +1,101 @@
+{
+  "id": "the-lit-index",
+  "kind": "visual-metaphor",
+  "originStory": "The Man Who Remembered Everyone",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": "2026-08-03",
+    "note": "The spine object of The Man Who Remembered Everyone. It is what a kept relationship record looks like from the inside: one panel per person, holding what that person actually said. The book argues through its states, from dark to answering."
+  },
+  "status": "locked",
+  "partOf": null,
+  "contract": {
+    "turnaround": "reference/the-lit-index/master.png",
+    "emptyPlates": [
+      "reference/the-lit-index/state-dark.png",
+      "reference/the-lit-index/state-filling.png",
+      "reference/the-lit-index/state-answering.png",
+      "reference/the-lit-index/master.png"
+    ],
+    "blueprint": "reference/the-lit-index/blueprint.png",
+    "scalePlate": null,
+    "blockingPlate": null,
+    "map": "A standing wall of small upright panels on the DIGITAL side of the threshold, in a regular grid, seven across and five high. Every panel is the same tall rounded rectangle at the same size with even gutters, and the grid is complete: no gaps, no missing cells, no panel larger or nearer than another. One panel is one person. The wall is translucent Anthropic clay-coral (#D97757), it glows, and it casts LIGHT rather than shadow. It stands against the wall of marcus-study, the family living room, and that room is fixed: same sofa, lamp, bookshelf, valley window and toy-strewn rug in every state. It sits a little back from the threshold line, so the real room and its warm gold light are always in front of it.",
+    "blocking": "The wall faces the viewer straight on and is seen slightly from the LEFT, so the grid reads as a flat plane in space rather than a diagram. The threshold line runs horizontally across the lower third of the frame: everything below and in front of it is REAL (solid, warm gold, casting shadow), everything above and behind it is DIGITAL (translucent coral, glowing, casting light). Marcus, when he is in frame, is ALWAYS on the real side, in front of the line, never inside the wall and never between panels. In the answering state exactly ONE panel leaves the grid and comes forward across the threshold; the gap it left stays visible in the wall.",
+    "dressing": "Nothing decorates it. No frame, no housing, no cabling, no pedestal, no floor markings, no interface furniture of any kind. The wall is the only object on the digital side of the frame.",
+    "scale": "Human-scale and domestic: the full grid stands about the height and width of an ordinary bookcase in a house, roughly two metres wide and one and a half high, so a standing man reaches the middle rows without stretching. It is never architectural, never a hall, never larger than the room it is in."
+  },
+  "structured": {
+    "invariants": [
+      "on-the-DIGITAL-side-of-a-visible-threshold-translucent-clay-coral-glowing-and-casting-light-never-a-shadow",
+      "EXACTLY-seven-panels-across-and-five-high-thirty-five-in-total",
+      "ALWAYS-in-marcus-study-the-same-family-living-room-with-its-sofa-lamp-bookshelf-valley-window-and-toy-strewn-rug",
+      "many-SMALL-UPRIGHT-PANELS-in-a-regular-complete-grid-never-a-screen-monitor-dashboard-chart-or-window",
+      "every-panel-identical-in-size-and-shape-no-panel-larger-nearer-or-more-important-than-another",
+      "panels-carry-NO-readable-text-names-numbers-or-glyphs-only-a-warm-density-of-light",
+      "no-housing-frame-cabling-pedestal-or-interface-furniture-of-any-kind",
+      "domestic-bookcase-scale-never-architectural-and-never-larger-than-the-room",
+      "warm-editorial-ink-and-wash-never-photoreal-never-neon-never-HUD-or-dashboard-vocabulary"
+    ],
+    "houseRules": {
+      "invariants": [],
+      "dressing": ""
+    },
+    "render": {
+      "always": "Compose it as an object standing in a real domestic room, seen past the warm gold of that room, so the reader reads it as something in Marcus's house rather than a user interface he is looking at. The threshold line is the composition's spine: keep the real, shadowed, gold-lit half of the frame in front of the coral half in every render that shows both.",
+      "poses": {
+        "dark": {
+          "invariants": [
+            "every-panel-present-and-unlit-ash-grey-and-inert-with-no-coral-and-no-glow",
+            "the-grid-is-COMPLETE-the-panels-exist-and-are-simply-empty-nothing-is-missing-or-broken"
+          ],
+          "negatives": [
+            "coral glow",
+            "lit panels",
+            "warm light coming from the wall",
+            "cracks",
+            "missing panels",
+            "rubble"
+          ]
+        },
+        "filling": {
+          "invariants": [
+            "a-scattered-minority-of-panels-lit-clay-coral-the-rest-still-ash-grey",
+            "the-lit-panels-are-scattered-through-the-grid-never-a-solid-block-a-progress-bar-or-a-filled-row"
+          ],
+          "negatives": [
+            "a filled row",
+            "a progress bar",
+            "a solid lit block",
+            "a percentage",
+            "any chart"
+          ]
+        },
+        "answering": {
+          "invariants": [
+            "EXACTLY-ONE-panel-out-of-the-grid-and-forward-across-the-threshold-with-the-gap-it-left-still-visible",
+            "the-forward-panel-throws-coral-light-onto-a-real-human-hand-which-stays-solid-warm-gold-and-casts-a-shadow"
+          ],
+          "negatives": [
+            "two or more panels forward",
+            "a closed gapless grid",
+            "a hand rendered translucent or coral",
+            "a hand inside the wall"
+          ]
+        }
+      }
+    },
+    "sheets": {
+      "master": "reference/the-lit-index/master.png",
+      "state-dark": "reference/the-lit-index/state-dark.png",
+      "state-filling": "reference/the-lit-index/state-filling.png",
+      "state-answering": "reference/the-lit-index/state-answering.png",
+      "blueprint": "reference/the-lit-index/blueprint.png"
+    }
+  },
+  "prose": {
+    "voice": "What a kept record looks like from the inside. Quiet, complete, and domestic, and it is a keeping rather than a display.",
+    "lore": "One panel per person, holding everything that person actually said. It never shows a name because the whole claim is that these are real people's private words, kept where they can be found and nowhere else. That is why the panels are legible as light and never as text. This is the same deliberate exception the-constitution makes in reverse: a lab publishes its principles because legibility is what makes them copyable, and a man keeps his people unreadable for exactly the same reason run the other way.",
+    "rules": "IT MUST NEVER READ AS A DASHBOARD. Every temptation to make it impressive is a temptation to break the book: no charts, no counters, no percentages, no filled progress rows, no glowing HUD furniture, no hall of light. It is bookcase-sized and it lives in a house. A render that returns a control room, an operations display or a data centre has argued the opposite of the story, which is about an ordinary tired man keeping his own people, so regenerate rather than accept it. The second failure to watch is legibility: if any panel comes back carrying readable text, a name or a number, the privacy claim is broken and the plate is dead. THIRD failure, and the one a read-back will miss unless it is told to count: the COLUMN COUNT drifts. The first shoot produced two plates at seven columns and two at eight, which makes the four states four different objects rather than one object in four states. Count the columns at crop-zoom on every plate and on every spread that casts it. FOURTH, and the one that produced the worst first shoot: THE ROOM DRIFTS unless something carries it. Four plates seeded off the line-only blueprint alone came back in four different rooms, because a seed can only carry what it draws. master conditions on marcus-study@livingroom and every state chains off master, so the room traces to locked canon rather than to luck."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "asset": "spread-07.png",
+  "assetSha256_16": "589d766a07781e3d",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b7d557111909477a98f4e0caba62230749b6cceb",
+  "book": "the-room-it-was-made-in",
+  "story": null,
+  "spread": "spread-07",
+  "descriptor": {
+    "id": "spread-07",
+    "cast": [],
+    "scene": "Exterior, winter, night. An ordinary suburban street of houses with warm lit windows, snow or bare trees. Quiet and domestic and far from any workplace. NO people in frame."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed scene per image: never a grid of panels, never a contact sheet. This book argues that a made thing comes out like the room it was made in, so the room must always look ORDINARY and lived-in rather than impressive, and each spread is set wherever its own scene description says. SCENE: Exterior, winter, night. An ordinary suburban street of houses with warm lit windows, snow or bare trees. Quiet and domestic and far from any workplace. NO people in frame. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, N, O,  , S, T, R, A, Y,  , O, R,  , I, N, V, E, N, T, E, D,  , t, e, x, t,  , a, n, y, w, h, e, r, e, :,  , n, o,  , c, a, p, t, i, o, n, s, ,,  , n, o,  , w, a, t, e, r, m, a, r, k, s, ,,  , n, o,  , s, i, g, n, a, g, e, ,,  , n, o,  , s, l, o, g, a, n, s,  , o, n,  , w, a, l, l, s, ,,  , n, o,  , r, e, a, d, a, b, l, e,  , w, o, r, d, s,  , o, n,  , a, n, y,  , s, c, r, e, e, n, ,,  , w, h, i, t, e, b, o, a, r, d, ,,  , p, o, s, t, e, r,  , o, r,  , p, a, g, e, ,,  , n, o,  , i, n, t, e, r, f, a, c, e,  , l, a, b, e, l, s, ,,  , n, o,  , l, o, g, o, s, ,,  , n, o,  , c, o, m, p, a, n, y,  , m, a, r, k, s,  , o, r,  , b, r, a, n, d, i, n, g,  , o, f,  , a, n, y,  , k, i, n, d, .,  , T, H, E,  , O, N, E,  , E, X, C, E, P, T, I, O, N,  , i, s,  , t, e, x, t,  , a,  , s, c, e, n, e,  , s, p, e, c, i, f, i, e, s,  , a, s,  , a, n,  , e, x, a, c, t,  , q, u, o, t, e, d,  , s, t, r, i, n, g, .,  , N, O,  , s, i, n, g, l, e,  , f, i, g, u, r, e,  , c, e, n, t, r, e, d, ,,  , e, l, e, v, a, t, e, d, ,,  , s, p, o, t, l, i, t,  , o, r,  , f, r, a, m, e, d,  , a, s,  , a,  , l, e, a, d, e, r, ;,  , t, h, e,  , m, a, k, e, r, s,  , a, r, e,  , a, l, w, a, y, s,  , a,  , g, r, o, u, p, .,  , N, O,  , c, a, r, i, c, a, t, u, r, e,  , o, f,  , a, n, y,  , i, d, e, n, t, i, f, i, a, b, l, e,  , r, e, a, l,  , p, e, r, s, o, n,  , o, r,  , c, o, m, p, a, n, y, .,  , N, O,  , s, o, a, r, i, n, g,  , c, e, i, l, i, n, g, s, ,,  , a, t, r, i, u, m, s, ,,  , g, l, a, s, s,  , c, o, n, f, e, r, e, n, c, e,  , b, o, x, e, s, ,,  , r, o, w, s,  , o, f,  , i, d, e, n, t, i, c, a, l,  , m, o, n, i, t, o, r, s,  , o, r,  , t, e, c, h, -, c, a, m, p, u, s,  , g, l, o, s, s, .,  , N, O,  , d, r, a, m, a, t, i, c,  , o, r,  , t, h, e, a, t, r, i, c, a, l,  , l, i, g, h, t, i, n, g, ;,  , t, h, e,  , l, i, g, h, t,  , i, s,  , w, h, a, t, e, v, e, r,  , t, h, e,  , r, o, o, m,  , a, c, t, u, a, l, l, y,  , h, a, s, .,  , N, O,  , c, e, l, e, b, r, a, t, i, o, n,  , i, m, a, g, e, r, y, :,  , n, o,  , c, o, n, f, e, t, t, i, ,,  , n, o,  , a, p, p, l, a, u, s, e, ,,  , n, o,  , r, a, i, s, e, d,  , a, r, m, s, .. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}

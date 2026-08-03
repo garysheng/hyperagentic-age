@@ -1,0 +1,27 @@
+{
+  "asset": "spread-01.png",
+  "assetSha256_16": "fc707774d7e0582f",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "6c7cbe366a641ab72ab8011458ab9f85a700f9ff",
+  "book": "the-best-news-ever",
+  "story": null,
+  "spread": "spread-01",
+  "descriptor": {
+    "id": "spread-01",
+    "cast": [],
+    "scene": "A wide landscape of open country at the moment a new fire arrives in the world. Warm light spilling across distant workshops and fields, beautiful and not yet frightening. NO people in frame, or only tiny distant figures too small to read. This is the world before anyone has decided anything."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet. This book is about a builder who ties a weight to himself in public and then gives away the design, and each spread is set wherever its own scene description says. SCENE: A wide landscape of open country at the moment a new fire arrives in the world. Warm light spilling across distant workshops and fields, beautiful and not yet frightening. NO people in frame, or only tiny distant figures too small to read. This is the world before anyone has decided anything. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, N, O,  , S, T, R, A, Y,  , O, R,  , I, N, V, E, N, T, E, D,  , t, e, x, t,  , a, n, y, w, h, e, r, e, :,  , n, o,  , c, a, p, t, i, o, n, s, ,,  , n, o,  , w, a, t, e, r, m, a, r, k, s, ,,  , n, o,  , i, n, v, e, n, t, e, d,  , s, i, g, n, a, g, e, ,,  , n, o,  , l, o, g, o, s, ,,  , n, o,  , m, a, r, k, s, ,,  , n, o,  , s, i, g, n, a, t, u, r, e, s, ,,  , n, o,  , d, a, t, e, s, .,  , T, H, E,  , O, N, E,  , E, X, C, E, P, T, I, O, N,  , i, s,  , t, e, x, t,  , a,  , s, c, e, n, e,  , s, p, e, c, i, f, i, e, s,  , a, s,  , a, n,  , e, x, a, c, t,  , q, u, o, t, e, d,  , s, t, r, i, n, g, ,,  , w, h, i, c, h,  , i, s,  , a,  , d, e, s, i, g, n, e, d,  , e, l, e, m, e, n, t,  , a, n, d,  , m, u, s, t,  , b, e,  , r, e, n, d, e, r, e, d,  , a, n, d,  , s, p, e, l, l, e, d,  , e, x, a, c, t, l, y, .,  , N, O,  , c, a, r, i, c, a, t, u, r, e,  , o, f,  , a, n, y,  , r, e, a, l, ,,  , i, d, e, n, t, i, f, i, a, b, l, e,  , c, o, m, p, a, n, y, ,,  , l, a, b, o, r, a, t, o, r, y, ,,  , p, r, o, d, u, c, t,  , o, r,  , p, u, b, l, i, c,  , p, e, r, s, o, n, ;,  , t, h, e,  , r, i, v, a, l, s,  , a, r, e,  , a, r, c, h, e, t, y, p, e, s, .,  , N, O,  , g, l, o, w, ,,  , N, O,  , h, a, l, o, ,,  , N, O,  , a, u, r, a, ,,  , N, O,  , r, a, d, i, a, n, c, e,  , a, r, o, u, n, d,  , a, n, y,  , p, e, r, s, o, n,  , o, r,  , a, n, y,  , d, o, o, r, .,  , N, O,  , s, a, v, i, o, u, r,  , f, r, a, m, i, n, g, :,  , n, o, b, o, d, y,  , i, s,  , l, i, t,  , f, r, o, m,  , b, e, l, o, w, ,,  , n, o, b, o, d, y,  , i, s,  , g, a, z, e, d,  , u, p,  , a, t,  , b, y,  , a,  , c, r, o, w, d, .,  , N, O,  , c, e, l, e, b, r, a, t, i, o, n,  , i, m, a, g, e, r, y, :,  , n, o,  , c, o, n, f, e, t, t, i, ,,  , n, o,  , b, a, n, n, e, r, s, ,,  , n, o,  , b, u, n, t, i, n, g, ,,  , n, o,  , r, a, i, s, e, d,  , a, r, m, s, ,,  , n, o,  , t, r, o, p, h, i, e, s, .. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}

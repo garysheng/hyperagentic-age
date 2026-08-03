@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/machines-of-loving-grace/cover-baked.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook COVER illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER flat vector, NEVER photoreal, NEVER neon. FIRST reference is STYLE ONLY. SECOND reference is THE LITTLE HELPER: a small blocky TRANSLUCENT GLOWING clay-coral-ORANGE mascot with a white-and-orange-glow sailor cap and glowing eyes, casting warm light not shadow.\n\nSCENE: the little glowing helper stands on a gentle grassy rise in the LOWER portion, its back partly to us, gazing out over a radiant flourishing valley of green fields, a winding bright river and a distant happy town glowing in warm golden sunrise light. Hopeful, tender, expansive. NO human figures. The UPPER third is open warm dawn sky, generous calm room for a title.\n\nBAKED-IN COVER TYPOGRAPHY (real book cover, render the title AS PART OF THE ART, hand-painted integrated warm dark-brown serif lettering with gentle botanical flourishes, NOT a flat computer font): a large elegant serif TITLE across the upper third reading exactly 'Machines of Loving Grace'; directly beneath it smaller italic serif reading exactly 'What a careful power is for'; centered along the very bottom edge in small spaced capitals reading exactly 'A HYPERAGENTIC AGE STORY'. Spell every word EXACTLY, correctly and legibly.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T20:36:00+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

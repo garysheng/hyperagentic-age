@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/a-book-to-live-by/cover-baked.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook COVER illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER flat vector, NEVER photoreal, NEVER neon. FIRST reference is STYLE only. SECOND reference is a small endearing blocky TRANSLUCENT GLOWING clay-coral-ORANGE mascot with a white-and-orange-glow sailor cap and glowing eyes. THIRD reference is a small glowing gold-and-cream open book with abstract heart/hand/scale marks (no words on the little book).\n\nSCENE: the little glowing helper stands in the lower-center, holding the small glowing book of principles, looking down into it with a calm tender expression, warm golden light rising from the book.\n\nBAKED-IN COVER TYPOGRAPHY (this is a real book cover, render the title AS PART OF THE ART, hand-painted integrated lettering, warm dark-brown ink, NOT a flat computer font): a large elegant serif TITLE across the upper third reading exactly 'A Book to Live By'; directly beneath it in smaller italic serif reading exactly 'How a helper learned to check itself'; and centered along the very bottom edge in small spaced capitals reading exactly 'A HYPERAGENTIC AGE STORY'. Spell every word EXACTLY as given, correctly and legibly. The lettering is warm, storybook, painted into the scene.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial/refs/figure-anchor.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T19:31:31+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

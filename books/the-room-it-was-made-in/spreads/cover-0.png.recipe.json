@@ -1,0 +1,54 @@
+{
+  "asset": "cover-0.png",
+  "assetSha256_16": "857c21284006e510",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1024x1536",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b7d557111909477a98f4e0caba62230749b6cceb",
+  "book": "the-room-it-was-made-in",
+  "story": null,
+  "spread": "cover-0",
+  "descriptor": {
+    "id": "cover-0",
+    "cast": [
+      {
+        "id": "the-room",
+        "plate": "wide"
+      },
+      {
+        "id": "the-makers",
+        "pose": "at-work"
+      }
+    ],
+    "scene": "A PORTRAIT BOOK COVER, vertical. Looking into the ordinary working room in warm daylight, the makers at work in loose clusters, nobody centred or leading. Lived-in and unremarkable and warm. Compose the people and desks in the LOWER TWO THIRDS and leave the UPPER THIRD relatively calm and uncluttered, because the title goes there.\n\nBAKED TITLE LETTERING, hand-painted directly into the artwork in the upper third, in large warm off-white capitals, well clear of every face. It must read EXACTLY, spelled correctly and completely:\nTHE ROOM IT WAS MADE IN\n\nDirectly beneath it, in much smaller capitals of the same hand, spelled EXACTLY:\nA HYPERAGENTIC AGE story\n\nThose two lines are the ONLY text anywhere in the image.",
+    "size": "1024x1536",
+    "negatives": "NO logos, NO company marks, NO branding, NO slogans on walls, NO invented signage, NO readable words on any screen, whiteboard, notebook or page in the scene. THE TWO TITLE STRINGS BELOW ARE REQUIRED DESIGNED ELEMENTS AND MUST BE RENDERED, prominently and spelled exactly. They are the only text permitted in this image. NO single figure centred, elevated or spotlit as a leader. NO caricature of any identifiable real person or company. NO soaring ceilings, atriums or glass boxes. NO dramatic lighting."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, NO HUD or arc-reactor vocabulary. ONE single full-bleed scene per image: never a grid of panels, never a contact sheet. This book argues that a made thing comes out like the room it was made in, so the room must always look ORDINARY and lived-in rather than impressive, and each spread is set wherever its own scene description says. SCENE: A PORTRAIT BOOK COVER, vertical. Looking into the ordinary working room in warm daylight, the makers at work in loose clusters, nobody centred or leading. Lived-in and unremarkable and warm. Compose the people and desks in the LOWER TWO THIRDS and leave the UPPER THIRD relatively calm and uncluttered, because the title goes there.\n\nBAKED TITLE LETTERING, hand-painted directly into the artwork in the upper third, in large warm off-white capitals, well clear of every face. It must read EXACTLY, spelled correctly and completely:\nTHE ROOM IT WAS MADE IN\n\nDirectly beneath it, in much smaller capitals of the same hand, spelled EXACTLY:\nA HYPERAGENTIC AGE story\n\nThose two lines are the ONLY text anywhere in the image. the-room exactly as its reference plate: The room is LIVED-IN and a little untidy, with evidence of people everywhere whether or not anyone is in frame: a jacket over a chair back, an open notebook, a half-drunk mug, printouts curling where they are taped up, mismatched chairs pushed at angles. It is NEVER sterile, NEVER a showroom, and NEVER lit dramatically; the light is only ever whatever the room actually has at that hour. RENDER EXACTLY ONE MOMENT IN TIME: one single continuous scene at one time of day, filling the whole frame. Do NOT divide the image, do NOT stack a daytime version above a night version, do NOT show the room twice, and do NOT produce a before-and-after or side-by-side comparison of any kind. the-makers rendered exactly per the supplied reference images: an ENSEMBLE of four to six ordinary people never one protagonist; visibly mixed in age gender and ethnicity; ordinary comfortable work clothes no suits no branded merch; absorbed in work rather than posing or presenting; no single figure centered lit or elevated above the others; archetypes never caricatures of identifiable real employees; warm editorial register never photoreal. THE MAKERS: an ENSEMBLE of four to six ordinary people who build things together, visibly mixed in age, gender and ethnicity, in ordinary comfortable work clothes with NO suits and NO branded merchandise. They are ABSORBED IN WORK rather than posing or presenting. CRITICAL COMPOSITION LAW: NO SINGLE FIGURE is centred, lit, elevated or framed as the leader; the group reads as a group, and if one person is speaking the others are loose around them rather than arranged in an audience. They are archetypes and NEVER caricatures of identifiable real employees. Warm-editorial ink-and-wash, never photoreal. Working in loose clusters, some at screens, one at a whiteboard, two talking over a printout. Ordinary concentration. Nobody is looking at the camera. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, N, O,  , l, o, g, o, s, ,,  , N, O,  , c, o, m, p, a, n, y,  , m, a, r, k, s, ,,  , N, O,  , b, r, a, n, d, i, n, g, ,,  , N, O,  , s, l, o, g, a, n, s,  , o, n,  , w, a, l, l, s, ,,  , N, O,  , i, n, v, e, n, t, e, d,  , s, i, g, n, a, g, e, ,,  , N, O,  , r, e, a, d, a, b, l, e,  , w, o, r, d, s,  , o, n,  , a, n, y,  , s, c, r, e, e, n, ,,  , w, h, i, t, e, b, o, a, r, d, ,,  , n, o, t, e, b, o, o, k,  , o, r,  , p, a, g, e,  , i, n,  , t, h, e,  , s, c, e, n, e, .,  , T, H, E,  , T, W, O,  , T, I, T, L, E,  , S, T, R, I, N, G, S,  , B, E, L, O, W,  , A, R, E,  , R, E, Q, U, I, R, E, D,  , D, E, S, I, G, N, E, D,  , E, L, E, M, E, N, T, S,  , A, N, D,  , M, U, S, T,  , B, E,  , R, E, N, D, E, R, E, D, ,,  , p, r, o, m, i, n, e, n, t, l, y,  , a, n, d,  , s, p, e, l, l, e, d,  , e, x, a, c, t, l, y, .,  , T, h, e, y,  , a, r, e,  , t, h, e,  , o, n, l, y,  , t, e, x, t,  , p, e, r, m, i, t, t, e, d,  , i, n,  , t, h, i, s,  , i, m, a, g, e, .,  , N, O,  , s, i, n, g, l, e,  , f, i, g, u, r, e,  , c, e, n, t, r, e, d, ,,  , e, l, e, v, a, t, e, d,  , o, r,  , s, p, o, t, l, i, t,  , a, s,  , a,  , l, e, a, d, e, r, .,  , N, O,  , c, a, r, i, c, a, t, u, r, e,  , o, f,  , a, n, y,  , i, d, e, n, t, i, f, i, a, b, l, e,  , r, e, a, l,  , p, e, r, s, o, n,  , o, r,  , c, o, m, p, a, n, y, .,  , N, O,  , s, o, a, r, i, n, g,  , c, e, i, l, i, n, g, s, ,,  , a, t, r, i, u, m, s,  , o, r,  , g, l, a, s, s,  , b, o, x, e, s, .,  , N, O,  , d, r, a, m, a, t, i, c,  , l, i, g, h, t, i, n, g, .. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/wide.png",
+      "sha256_16": "a4eaeabf3c4309e8"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-makers/master.png",
+      "sha256_16": "5a1a4b00f3a77e25"
+    }
+  ],
+  "qa": [
+    "the-makers: an-ENSEMBLE-of-four-to-six-ordinary-people-never-one-protagonist",
+    "the-makers: visibly-mixed-in-age-gender-and-ethnicity",
+    "the-makers: ordinary-comfortable-work-clothes-no-suits-no-branded-merch",
+    "the-makers: absorbed-in-work-rather-than-posing-or-presenting",
+    "the-makers: no-single-figure-centered-lit-or-elevated-above-the-others",
+    "the-makers: archetypes-never-caricatures-of-identifiable-real-employees",
+    "the-makers: warm-editorial-register-never-photoreal"
+  ]
+}

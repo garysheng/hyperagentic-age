@@ -1,0 +1,62 @@
+{
+  "asset": "spread-04.png",
+  "assetSha256_16": "a9b4b272cdf81971",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "agenticstory:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "6c7cbe366a641ab72ab8011458ab9f85a700f9ff",
+  "book": "the-best-news-ever",
+  "story": null,
+  "spread": "spread-04",
+  "descriptor": {
+    "id": "spread-04",
+    "cast": [
+      {
+        "id": "dario",
+        "pose": "at-the-door"
+      },
+      {
+        "id": "the-posted-promise",
+        "pose": "one-door"
+      }
+    ],
+    "scene": "He paints the promise onto his own workshop door in plain capitals, brush in hand, seen from a three-quarter angle so both his face and the door face are visible. The lettering is fully legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Every other door on the street is blank. An ordinary working morning; nobody is watching him."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. WARM EDITORIAL INK-AND-WASH illustration: soft illustrative linework, warm restrained colour, gentle washes, the look of a thoughtful printed picture book for adults. It is NOT neon, NOT 3D or CGI or Pixar, NOT glossy plastic, NOT neo-comic, and carries NO HUD or arc-reactor comic vocabulary. ONE single full-bleed scene per image: never a grid, never split panels, never a contact sheet. This book is about a builder who ties a weight to himself in public and then gives away the design, and each spread is set wherever its own scene description says. SCENE: He paints the promise onto his own workshop door in plain capitals, brush in hand, seen from a three-quarter angle so both his face and the door face are visible. The lettering is fully legible and reads exactly \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\". Every other door on the street is blank. An ordinary working morning; nobody is watching him. dario rendered exactly per the supplied reference images: middle aged man; tousled curly dark brown hair medium length; signature round thin rimmed glasses; clean shaven no beard; warm earnest thoughtful expression; simple dark casual sweater; recognizable illustrated likeness of the real subject never photoreal; warm editorial register; appears EXACTLY ONCE per scene no other figure shares his face or hair. DARIO (canon id dario), the careful builder. A MIDDLE-AGED MAN with TOUSLED CURLY DARK-BROWN HAIR of medium length, SIGNATURE ROUND THIN-RIMMED GLASSES, and a CLEAN-SHAVEN face with no beard and no moustache. His expression is WARM, EARNEST and THOUGHTFUL. He wears a SIMPLE DARK CASUAL SWEATER. He is a RECOGNIZABLE ILLUSTRATED LIKENESS of a real public figure, rendered in the warm-editorial ink-and-wash register, and NEVER photoreal, never a photograph, never glossy or 3D. Depict only the public professional persona. DRAW HIM WARM AND HUMAN, NEVER HEROIC: he is more worried than triumphant, measured rather than commanding, and he is never posed as a saviour, never lit from below, never given a glow, an aura or a crowd looking up at him. HE APPEARS EXACTLY ONCE IN ANY SCENE, and NO OTHER FIGURE in the image shares his face, his hair or his glasses. AT THE DOOR OF HIS WORKSHOP, writing or painting the promise onto the wood, or standing back from it having just finished. Seen from the side or three-quarter so both his face and the door face are visible. He is unhurried and deliberate, doing an ordinary careful job rather than making a proclamation. He is NOT addressing anybody and there is NO crowd watching him. The exact string is \"NEVER HAND OUT MORE FIRE THAN YOU CAN MAKE SAFE\", reused verbatim from The Narrow Path where Dario first makes this promise, so the two books share one sentence. NEVER paraphrase it, NEVER shorten it, and spell-check it at crop-zoom on every read-back, regenerating from scratch on any error. It is never rendered as sacred: no glow, no gold leaf, no halo. It is a working man's paint on a working door, and that ordinariness is the point. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, N, O,  , S, T, R, A, Y,  , O, R,  , I, N, V, E, N, T, E, D,  , t, e, x, t,  , a, n, y, w, h, e, r, e, :,  , n, o,  , c, a, p, t, i, o, n, s, ,,  , n, o,  , w, a, t, e, r, m, a, r, k, s, ,,  , n, o,  , i, n, v, e, n, t, e, d,  , s, i, g, n, a, g, e, ,,  , n, o,  , l, o, g, o, s, ,,  , n, o,  , m, a, r, k, s, ,,  , n, o,  , s, i, g, n, a, t, u, r, e, s, ,,  , n, o,  , d, a, t, e, s, .,  , T, H, E,  , O, N, E,  , E, X, C, E, P, T, I, O, N,  , i, s,  , t, e, x, t,  , a,  , s, c, e, n, e,  , s, p, e, c, i, f, i, e, s,  , a, s,  , a, n,  , e, x, a, c, t,  , q, u, o, t, e, d,  , s, t, r, i, n, g, ,,  , w, h, i, c, h,  , i, s,  , a,  , d, e, s, i, g, n, e, d,  , e, l, e, m, e, n, t,  , a, n, d,  , m, u, s, t,  , b, e,  , r, e, n, d, e, r, e, d,  , a, n, d,  , s, p, e, l, l, e, d,  , e, x, a, c, t, l, y, .,  , N, O,  , c, a, r, i, c, a, t, u, r, e,  , o, f,  , a, n, y,  , r, e, a, l, ,,  , i, d, e, n, t, i, f, i, a, b, l, e,  , c, o, m, p, a, n, y, ,,  , l, a, b, o, r, a, t, o, r, y, ,,  , p, r, o, d, u, c, t,  , o, r,  , p, u, b, l, i, c,  , p, e, r, s, o, n, ;,  , t, h, e,  , r, i, v, a, l, s,  , a, r, e,  , a, r, c, h, e, t, y, p, e, s, .,  , N, O,  , g, l, o, w, ,,  , N, O,  , h, a, l, o, ,,  , N, O,  , a, u, r, a, ,,  , N, O,  , r, a, d, i, a, n, c, e,  , a, r, o, u, n, d,  , a, n, y,  , p, e, r, s, o, n,  , o, r,  , a, n, y,  , d, o, o, r, .,  , N, O,  , s, a, v, i, o, u, r,  , f, r, a, m, i, n, g, :,  , n, o, b, o, d, y,  , i, s,  , l, i, t,  , f, r, o, m,  , b, e, l, o, w, ,,  , n, o, b, o, d, y,  , i, s,  , g, a, z, e, d,  , u, p,  , a, t,  , b, y,  , a,  , c, r, o, w, d, .,  , N, O,  , c, e, l, e, b, r, a, t, i, o, n,  , i, m, a, g, e, r, y, :,  , n, o,  , c, o, n, f, e, t, t, i, ,,  , n, o,  , b, a, n, n, e, r, s, ,,  , n, o,  , b, u, n, t, i, n, g, ,,  , n, o,  , r, a, i, s, e, d,  , a, r, m, s, ,,  , n, o,  , t, r, o, p, h, i, e, s, .. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/dario/master.png",
+      "sha256_16": "939f82a150934f0e"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/dario/photos/01-glasses-blazer.jpg",
+      "sha256_16": "d443aac8af30456f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/dario/photos/02-speaking-glasses.jpg",
+      "sha256_16": "04e3dd0f81cebac3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-posted-promise/one-door.png",
+      "sha256_16": "1338431de4bab95f"
+    }
+  ],
+  "qa": [
+    "dario: middle-aged-man",
+    "dario: tousled-curly-dark-brown-hair-medium-length",
+    "dario: signature-round-thin-rimmed-glasses",
+    "dario: clean-shaven-no-beard",
+    "dario: warm-earnest-thoughtful-expression",
+    "dario: simple-dark-casual-sweater",
+    "dario: recognizable-illustrated-likeness-of-the-real-subject-never-photoreal",
+    "dario: warm-editorial-register",
+    "dario: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-or-hair"
+  ]
+}

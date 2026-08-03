@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/a-book-to-live-by/spread-06.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER cartoon, NEVER flat vector, NEVER photoreal, NEVER neon or 3D. The FIRST reference is the illustration STYLE only. No text or lettering anywhere. No religious iconography. Compose as a WIDE CINEMATIC LANDSCAPE for a two-page spread, using the full width. Keep the LOWER-RIGHT area calm for a caption. SECOND reference is THE TEACHER, a middle-aged man with tousled curly dark-brown hair, round thin-rimmed glasses, clean-shaven, a dark casual sweater. THIRD reference is THE BOOK: a small hand-sized open book that softly GLOWS warm gold-and-cream, its pages carrying only a few simple ABSTRACT principle-marks (a heart, an open hand, a little scale), NEVER readable words. SCENE: the teacher writes carefully in the small glowing book at a warm desk, gathering old and true principles from a few worn older books and scrolls stacked beside him, copying human wisdom into plain simple marks. The principles come from human wisdom, not invented by a machine.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial/refs/figure-anchor.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/dario/master.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-constitution/hero.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T18:34:45+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

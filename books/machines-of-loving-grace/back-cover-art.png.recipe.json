@@ -1,0 +1,16 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/machines-of-loving-grace/back-cover-art.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Warm editorial storybook BACK COVER illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground. Picture-book register for adults. NEVER comic, NEVER flat vector, NEVER photoreal, NEVER neon. NO TEXT OR LETTERING ANYWHERE (this is a clean back cover; words will be overlaid later, so leave generous calm empty space in the LOWER HALF). FIRST reference is STYLE ONLY. SECOND reference is THE LITTLE HELPER: a small blocky TRANSLUCENT GLOWING clay-coral-ORANGE mascot with a white-and-orange-glow sailor cap and TWO glowing eyes on its face, casting warm light not shadow.\n\nSCENE: a quiet, gentle, tender closing image: the little glowing helper, small, seen in soft three-quarter view with its two eyes visible, resting peacefully on a flowering rise at dusk, a soft warm glowing valley blurred far behind and below it. Calm, intimate, hopeful, understated. The UPPER portion holds the small helper and the soft scene; the LOWER HALF is calm open warm ground with generous empty space for text. No human figures. No title, no words.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-07-25T21:08:58+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

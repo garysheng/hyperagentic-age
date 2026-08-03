@@ -1,0 +1,47 @@
+{
+  "id": "lit-index-blueprint",
+  "name": "The Lit Index geometry blueprint",
+  "kind": "generator",
+  "entrypoint": "generate.py",
+  "determinism": "pure",
+  "params": {
+    "cols": 7,
+    "rows": 5,
+    "panelAspect": 0.62,
+    "gutterFraction": 0.28,
+    "canvas": [
+      1024,
+      1024
+    ],
+    "gridCenter": [
+      0.5,
+      0.38
+    ],
+    "thresholdY": 0.86,
+    "leftSkew": 0.03,
+    "gridHeightFraction": 0.6
+  },
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "out/blueprint.png",
+      "description": "1024x1024 line-only geometry seed for the-lit-index: 7x5 identical upright panels, equal gutters in both axes, slight left skew, the whole grid clear of a threshold line in the lower sixth"
+    }
+  ],
+  "install": {
+    "out/blueprint.png": [
+      "reference/the-lit-index/blueprint.png"
+    ]
+  },
+  "proof": {
+    "sheet": "proof/contact-sheet.png",
+    "assertions": [
+      "all 35 panel cells are identical in width and height to the pixel",
+      "the gutters are equal in both axes",
+      "the grid is complete: 35 cells, no gaps and no missing cells",
+      "the entire grid sits ABOVE the threshold line and no panel crosses or touches it",
+      "no panel is clipped by any canvas edge",
+      "nothing is painted: the sheet is line and label only, so no surface, colour or lighting can be inherited from it"
+    ]
+  }
+}

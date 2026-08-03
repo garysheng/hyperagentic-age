@@ -1,0 +1,39 @@
+{
+  "asset": "blueprint.png",
+  "method": "generator",
+  "generator": {
+    "id": "lit-index-blueprint",
+    "entrypoint": "generate.py",
+    "determinism": "pure"
+  },
+  "params": {
+    "cols": 7,
+    "rows": 5,
+    "panelAspect": 0.62,
+    "gutterFraction": 0.28,
+    "canvas": [
+      1024,
+      1024
+    ],
+    "gridCenter": [
+      0.5,
+      0.38
+    ],
+    "thresholdY": 0.86,
+    "leftSkew": 0.03,
+    "gridHeightFraction": 0.6
+  },
+  "derived": {
+    "panel_w": 62.243,
+    "panel_h": 100.392,
+    "gutter_x": 28.11,
+    "gutter_y": 28.11,
+    "pitch_x": 90.353,
+    "pitch_y": 128.502,
+    "x0": 209.82,
+    "y0": 81.92,
+    "grid_w": 604.361,
+    "grid_h": 614.4
+  },
+  "sha256": "b4987b8539dc0c2abd4fb6d9532c5f959fba070589ef5f244a8f7b340256991b"
+}
