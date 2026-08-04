@@ -71,7 +71,7 @@
           "plate": "state-dark"
         }
       ],
-      "scene": "Marcus lowers the phone, seen from behind and to one side so he is small in his own room. Against the far wall the grid of panels stands completely unlit, ash grey and inert, and the only light on it is the lamp's. He is not looking at it. The lower right is open rug.",
+      "scene": "Marcus lowers the phone, seen from behind and to one side so he is small in his own room. Against the far wall the grid of panels is COMPLETELY UNLIT: count them, exactly 0 of the 35 panels glow, every single one is ash grey and dead, and not one is picked out in colour. The only light in the frame is the room's own warm lamp. He is not looking at the wall. The lower right is open rug.",
       "_caption": "That is what a conversation was for me. It happened, and it was real, and then it was gone."
     },
     {
@@ -180,8 +180,14 @@
           "plate": "state-dark"
         }
       ],
-      "scene": "Wider. Marcus small at his desk on the left with the laptop's coral glow on him, and across the room on the right the grid of panels stands unlit and grey, waiting. A clear horizontal threshold in the air between the warm desk end and the panels. He has turned in his chair to look at them for the first time. Lower right is floor and rug.",
-      "_caption": "So I gave it to something that reads. It does not remember anything, and it never needs to. It reads the folder every time."
+      "scene": "Wider. Marcus small at his desk on the left, his laptop open and throwing plain pale screen-light onto his face, and across the room on the right the grid of panels is COMPLETELY UNLIT: count them, exactly 0 of the 35 panels glow, every single one ash grey and dead, not one picked out in colour. A clear horizontal threshold in the air between the warm desk end and the panels. He has turned in his chair to look at them for the first time. Lower right is floor and rug.",
+      "_caption": "So I gave it to something that reads. It does not remember anything, and it never needs to. It reads the folder every time.",
+      "negatives": [
+        "any coral or orange light anywhere in the room",
+        "a glowing panel",
+        "a lit rectangle standing on the floor",
+        "a second light source besides the lamp and the laptop"
+      ]
     },
     {
       "id": "spread-09",
