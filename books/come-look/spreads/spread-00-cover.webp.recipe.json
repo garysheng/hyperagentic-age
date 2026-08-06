@@ -1,0 +1,24 @@
+{
+  "asset": "spread-00-cover.webp",
+  "model": "gpt-image-2",
+  "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. ruth exactly as its reference sheets: older-latina-woman-sixties; dark-hair-heavily-streaked-with-silver-in-a-short-practical-cut; reading-glasses-on-a-small-beaded-cord-around-her-neck; soft-rust-cardigan-over-a-simple-cream-blouse-default; warm-unhurried-expression-never-stern-never-saccharine; warm-editorial-register. Ruth sits in the reading chair with an open picture book on her knees, leaning down toward one small child who stands at her elbow, so their two heads are almost level and both are looking at the same page. Warm window light from the side. Keep the upper third of the frame simple and uncluttered so lettering can sit there, and keep the very bottom of the frame calm. CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. THIS COVER CARRIES 2 LINE(S) OF HAND-LETTERED TEXT AND EVERY ONE IS REQUIRED. Bake them spelled EXACTLY, and NO other text anywhere: \"Come Look\" | \"A HYPERAGENTIC AGE story\". COMPOSE THE ART SO THERE IS ROOM FOR THEM: keep an uncluttered, quiet, low-detail area behind every line so each one reads clearly, with the first line(s) toward the top of the frame and the last line small along the bottom. Busy detail, faces, bright highlights and hard edges must not sit under any line of lettering. IF ANY OF THESE LINES IS MISSING FROM THE FINISHED IMAGE THE IMAGE IS WRONG, however good the art is. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges.",
+  "references": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/ruth/forward-fullbody.png",
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/ruth/face-neutral.png"
+  ],
+  "size": "1024x1536",
+  "qa": [
+    "title line spelled exactly: \"Come Look\"",
+    "title line spelled exactly: \"A HYPERAGENTIC AGE story\"",
+    "ruth: older-latina-woman-sixties",
+    "ruth: dark-hair-heavily-streaked-with-silver-in-a-short-practical-cut",
+    "ruth: reading-glasses-on-a-small-beaded-cord-around-her-neck",
+    "ruth: soft-rust-cardigan-over-a-simple-cream-blouse-default",
+    "ruth: warm-unhurried-expression-never-stern-never-saccharine",
+    "ruth: warm-editorial-register",
+    "shipped file aspect == 3:4 (run conform_cover.py; a 2:3 file does not ship)"
+  ],
+  "renderedOn": "anthropic-managed-agents",
+  "bookId": "w4ai4xh49h6nbct76xzs2w"
+}

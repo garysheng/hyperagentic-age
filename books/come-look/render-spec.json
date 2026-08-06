@@ -320,10 +320,11 @@
           "pose": "passing"
         }
       ],
-      "scene": "Morning light. A finished book sits squared up on the bench, and the small calm machine stands beside it with both hands down at its sides, plainly letting it through.",
-      "shot": "close",
+      "scene": "Morning light across the whole room, seen wide so the room reads at once. A finished book sits squared up on the wooden bench. The small machine stands on the floor NEXT TO the bench and is SHORT: the top of its head is below the level of the bench top, and it is roughly the height of one of the low childrens chairs beside it. Exactly zero of its hands are raised: both arms hang straight down at its sides, palms toward its body, nothing lifted, nothing blocking, no gesture of any kind. It is simply standing next to the finished book and letting it be there. Calm and quiet and unhurried.",
+      "shot": "wide",
       "_caption": "In the morning there was a book on the bench. And two words. Come look.",
-      "pos": "top"
+      "pos": "top",
+      "negatives": "a raised hand, a raised palm, an open palm held up, any halting or stopping gesture, a large or towering machine, a machine taller than the bench, a machine filling the frame, a close-up of the machine, holding or reading a book"
     },
     {
       "id": "spread-22",
