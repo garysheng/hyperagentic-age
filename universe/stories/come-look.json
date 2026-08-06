@@ -1,0 +1,255 @@
+{
+  "id": "come-look",
+  "title": "Come Look",
+  "logline": "Ruth has read to the children at a small church for twenty years and knows exactly what makes a lesson land, and nobody has ever asked her to write any of it down. When the church asks for a book, she learns that writing it down is the easy half: a written rule can be read, agreed with, and forgotten. Every rule that mattered had to stop being a sentence and become something that refuses. What she ends up with is not a faster helper. It is a thing that can finish the work and say two words at the end.",
+  "spine": "thesis",
+  "spineNote": "The argued object is WHO OWNS THE ENDING. The wrong answer, and the one almost every helper gives today, is to own a step and hand the ending back a hundred times a day, which leaves the person tired in a way that has nothing to do with their arms. The right answer has three parts and only one of them is clever: write the craft down, convert every rule that matters from a sentence into a refusal, and put something at the end of the bench that checks the work against a standard anyone can read. NOT a hero-journey. Ruth does not become a technologist and does not stop being needed. Her role shrinks to the one part nobody has built a wall for, and she is not certain anyone should.",
+  "refrain": "Come look.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "ruth",
+    "church-classroom",
+    "the-doorkeeper",
+    "the-untouched-stack",
+    "sub-agent"
+  ],
+  "aimDiscipline": [
+    "THE REFRAIN CHANGES MOUTHS AND THAT IS THE BOOK. 'Come look' is Ruth's own phrase to a child in the opening, becomes the helper's pestering in the middle, and is said back to her ONCE at the end by the finished work. Any render that blurs who is saying it has lost the argument.",
+    "RUTH IS NEVER REPLACED AND NEVER DIMINISHED. She is not shown redundant, sad, obsolete, or standing outside looking in. The final movement has her doing the one thing nobody has automated, and doing it with authority. A render that reads as a person made unnecessary is arguing the opposite of this book.",
+    "THE WALLS ARE ORDINARY OBJECTS, NEVER SCREENS OR UI. A tray with room for exactly one card. A frame a long sentence will not fit inside. A latch. They must look like carpentry, not software, because the claim is that a rule has to have a BODY. Any render showing a dialog box, an error message, a progress bar or a warning icon has turned a wall back into a sign.",
+    "THE DOORKEEPER IS SMALL AND CALM AND MUST BE SHOWN LETTING WORK THROUGH AT LEAST AS OFTEN AS STOPPING IT. It is never large, never uniformed, never stern. Its power is that it cannot be argued with, not that it is imposing. This is the entity's own locked rule and it governs here.",
+    "NO PRODUCTION LINE. No conveyor, no row of machines, no stations. The workshop end of this book is one bench in one room that a person actually works at.",
+    "NOTHING DENOMINATIONAL. Per Ruth's locked rules: no habit, no worn cross, no pulpit, nothing that makes this a book about church rather than a book about craft. It is a small bright room with children in it."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "Ruth reads to the children at a small church on Sunday mornings. She has been doing it for twenty years.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Opening on the practitioner, not the technology. Twenty years is the number the whole book rests on."
+    },
+    {
+      "n": 2,
+      "text": "She knows what makes a lesson land. Which sentence to slow down on. Which picture to hold up one beat longer than feels comfortable. When to stop talking and let a seven-year-old finish the thought herself.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Names the tacit craft concretely. Three specifics, because a claim about expertise that lists nothing is a claim about nothing."
+    },
+    {
+      "n": 3,
+      "text": "When it works she leans over the page and says two words. Come look.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The refrain in its original mouth. Warm, human, said to a child."
+    },
+    {
+      "n": 4,
+      "text": "Nobody has ever asked her to write any of it down. In twenty years it has never once needed to leave her head.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Ruth's canon voice line, verbatim in spirit. This is the premise: tacit knowledge has never been under any pressure to become explicit."
+    },
+    {
+      "n": 5,
+      "text": "Then the church asks for a book. Their own lesson, made into something the children can carry home in a bag.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The forcing function. Demand is what makes tacit knowledge expensive."
+    },
+    {
+      "n": 6,
+      "text": "She gets a helper for it. The helper is quick, and it is willing, and it asks her everything.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Introduces the step-owning helper. 'Quick and willing' is deliberate praise: the problem is not that it is bad."
+    },
+    {
+      "n": 7,
+      "text": "Which picture. How long. Is this one right. Come look, it says. Come look. Come look. Forty times before lunch.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The refrain in the wrong mouth. This is what owning a step feels like from the other side, and it is the book's central complaint."
+    },
+    {
+      "n": 8,
+      "text": "By the evening there is a book, and Ruth is tired in a way that has nothing to do with her arms. She did not make it. She answered for it, all day, one question at a time.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The distinction the whole book turns on: she owned the ending the entire time, which is the cost nobody prices."
+    },
+    {
+      "n": 9,
+      "text": "So she writes it down. A page of it, by the door. Keep the sentences short. Never explain the ending. One idea to a page.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The obvious move, and the one everyone tries first. Three real rules, plainly stated."
+    },
+    {
+      "n": 10,
+      "text": "The helper reads the page. It agrees with the page. Then it explains the ending.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The load-bearing failure, stated in three short sentences. Agreement is not compliance."
+    },
+    {
+      "n": 11,
+      "text": "She writes it bigger. She underlines it. Same page, same morning, and the ending explained again.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Emphasis as the natural second attempt, and its failure. This is the beat that earns the next one."
+    },
+    {
+      "n": 12,
+      "text": "A written rule asks you to remember it. Remembering is the part that fails.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The thesis sentence of the middle movement. Prose does not bind."
+    },
+    {
+      "n": 13,
+      "text": "So Ruth stops writing rules and starts building them.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The hinge of the book. One line, on its own."
+    },
+    {
+      "n": 14,
+      "text": "Not a note that says keep the sentences short. A frame a long sentence will not fit inside.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "First wall, made of wood. The rule acquires a body."
+    },
+    {
+      "n": 15,
+      "text": "Not a reminder about one idea to a page. A tray with room for exactly one card, so the second one has nowhere to go.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Second wall. Physical impossibility beats instruction."
+    },
+    {
+      "n": 16,
+      "text": "Every one of them came out of a book that went wrong. She built one after each wrong book, for a long time. It was not interesting. It was the job.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The repetition claim, stated without glamour. The unglamorous middle is the actual method and books usually skip it."
+    },
+    {
+      "n": 17,
+      "text": "And at the end of the bench she put someone small, who reads the standard out of a book anyone is allowed to open.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth",
+        "the-doorkeeper"
+      ],
+      "provenance": "The independent verifier enters. The standard being public and readable is what separates this from a bouncer, per the entity's own locked lore."
+    },
+    {
+      "n": 18,
+      "text": "It has no opinion about her. It stops her own work, and it does. It lets far more through than it stops, because a gate that only ever refuses is a wall.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth",
+        "the-doorkeeper"
+      ],
+      "provenance": "Reuses the doorkeeper's own locked rule verbatim. The judge must not be the maker, and it must not merely be an obstacle."
+    },
+    {
+      "n": 19,
+      "text": "One Sunday night Ruth said what she wanted and went to bed.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The handover, understated. The whole argument lands on a person going to sleep."
+    },
+    {
+      "n": 20,
+      "text": "Nothing woke her. There was nothing left to ask. Every question worth asking had already been built into the room.",
+      "location": "church-classroom",
+      "characters": [],
+      "provenance": "Why the ending could change hands: not because the helper got smarter, but because the askable questions were designed out."
+    },
+    {
+      "n": 21,
+      "text": "In the morning there was a book on the bench. And two words. Come look.",
+      "location": "church-classroom",
+      "characters": [
+        "the-doorkeeper"
+      ],
+      "provenance": "The refrain in its final mouth. This is the payoff and it must be quiet."
+    },
+    {
+      "n": 22,
+      "text": "She came. She read it the way she reads everything, slowly, with a finger under the line. Nobody has built a wall for that part, and she is not certain anyone should.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The honest limit. Her role shrinks to the part that needs a person, and she is left with an open question rather than a reassurance."
+    },
+    {
+      "n": 23,
+      "text": "The children know none of it. They know there is a book on Sunday, and it is theirs, and it is good.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "What the customer actually buys. None of the machinery is the product."
+    },
+    {
+      "n": 24,
+      "text": "Come look.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "Closing refrain, back in her mouth, said to a child, exactly as it began."
+    }
+  ],
+  "writesBack": [
+    "the-doorkeeper: FIRST BOOK TO CAST IT. Locked 2026-07-28 for the-tastefully-automated-business, which was never written. Its `passing` plate is load-bearing here and must appear.",
+    "ruth: FIRST BOOK TO CAST HER. Same orphaned origin story. Her canon voice line about knowledge nobody asked her to write down is this book's premise.",
+    "church-classroom: the only entity in this cast with no locked sheets. Shot for this book.",
+    "sub-agent: cast as the step-owning helper. Deliberately holographic against the doorkeeper's physical body, so the book argues visually that the thing which only asks has no body and the thing which refuses does."
+  ],
+  "closingVerse": "A rule you can read is a rule you can forget.\nA rule with a body is a rule that holds.\nAnd the last look is still yours."
+}

@@ -1,0 +1,373 @@
+{
+  "book": "come-look",
+  "story": "come-look",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth in the reading chair with an open picture book flat on her knees, and a loose half-circle of small children sitting on the rug in front of her, listening. Warm late-morning light comes across the rug from the side. Keep the lower right of the frame calm and uncluttered.",
+      "shot": "wide",
+      "_caption": "Ruth reads to the children at a small church on Sunday mornings. She has been doing it for twenty years.",
+      "pos": "bottom",
+      "anonymous": "Small children, five to eight years old, ordinary modern clothes. None of them is a canon character."
+    },
+    {
+      "id": "spread-02",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Close in on Ruth's hands holding a page open with one finger resting under a single line, and one child on the rug leaning forward with her mouth just beginning to open to say something. The rest of the room falls away soft behind them.",
+      "shot": "close",
+      "_caption": "She knows what makes a lesson land. Which sentence to slow down on. Which picture to hold up one beat longer than feels comfortable. When to stop talking and let a seven-year-old finish the thought herself.",
+      "pos": "top",
+      "anonymous": "Small children, five to eight years old, ordinary modern clothes. None of them is a canon character."
+    },
+    {
+      "id": "spread-03",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth leaning down over the open book toward one child so their two heads are almost level, both looking at the same picture on the page. Quiet and warm. No other children in frame.",
+      "shot": "two-shot",
+      "_caption": "When it works she leans over the page and says two words. Come look.",
+      "pos": "top",
+      "anonymous": "Small children, five to eight years old, ordinary modern clothes. None of them is a canon character."
+    },
+    {
+      "id": "spread-04",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        },
+        {
+          "id": "the-untouched-stack",
+          "plate": "hero"
+        }
+      ],
+      "scene": "The room after the children have gone, chairs half stacked at the side, Ruth mid-stack with one low chair in her hands. On the shelf beside her sits a crisp square stack of blank pages that nobody has touched.",
+      "shot": "wide",
+      "_caption": "Nobody has ever asked her to write any of it down. In twenty years it has never once needed to leave her head.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-05",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth standing at the low bookshelf holding a thin sheaf of her own handwritten lesson pages, looking at an empty gap on the shelf where a book would go.",
+      "shot": "close",
+      "_caption": "Then the church asks for a book. Their own lesson, made into something the children can carry home in a bag.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-06",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        },
+        {
+          "id": "sub-agent",
+          "pose": "idle"
+        }
+      ],
+      "scene": "A plain wooden work bench has been brought into the room. Ruth stands at it, and the small glowing translucent helper hovers beside her at shoulder height, turned toward her, plainly waiting for an answer.",
+      "shot": "two-shot",
+      "_caption": "She gets a helper for it. The helper is quick, and it is willing, and it asks her everything.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-07",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        },
+        {
+          "id": "sub-agent",
+          "pose": "working"
+        }
+      ],
+      "scene": "The bench is covered in half-finished spreads. The helper is in close at Ruth's shoulder again holding another one up. Ruth has one hand raised mid-answer and her other hand still resting on the last page. The frame feels crowded and interrupted.",
+      "shot": "two-shot",
+      "_caption": "Which picture. How long. Is this one right. Come look, it says. Come look. Come look. Forty times before lunch.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-08",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Evening. One finished book squared up on the bench beneath the window, and Ruth sitting back in the low chair beside it with her hands open and empty in her lap, looking at it. Long low light.",
+      "shot": "wide",
+      "_caption": "By the evening there is a book, and Ruth is tired in a way that has nothing to do with her arms. She did not make it. She answered for it, all day, one question at a time.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-09",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth pinning a single handwritten page to the wall beside the door, stepping back with the pin still between her fingers.",
+      "shot": "close",
+      "_caption": "So she writes it down. A page of it, by the door. Keep the sentences short. Never explain the ending. One idea to a page.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-10",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "sub-agent",
+          "pose": "idle"
+        }
+      ],
+      "scene": "The helper hovering directly in front of the pinned page, clearly reading it, while on the bench behind it a finished spread carries a paragraph that visibly runs on far too long.",
+      "shot": "close",
+      "_caption": "The helper reads the page. It agrees with the page. Then it explains the ending.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-11",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "The same page on the wall, rewritten much larger and underlined twice. On the bench directly below it, the same over-long paragraph again on a fresh spread. Ruth stands at the edge of the frame looking between the two.",
+      "shot": "wide",
+      "_caption": "She writes it bigger. She underlines it. Same page, same morning, and the ending explained again.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-12",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth standing still in the middle of the room with the pinned page on the wall behind her, hands at her sides, looking at the bench rather than at the page.",
+      "shot": "wide",
+      "_caption": "A written rule asks you to remember it. Remembering is the part that fails.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-13",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth at the bench with the pinned page taken down and folded under her elbow, a hand plane and a small saw laid out in front of her, beginning to shape a piece of wood.",
+      "shot": "close",
+      "_caption": "So Ruth stops writing rules and starts building them.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-14",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Close on Ruth's hands sliding a shallow wooden frame down over a written line, so that a long sentence plainly will not fit inside it and the extra words run past the frame's edge.",
+      "shot": "close",
+      "_caption": "Not a note that says keep the sentences short. A frame a long sentence will not fit inside.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-15",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "A shallow wooden tray on the bench with a recess sized for exactly one card. One card already sits in it. A second card is in Ruth's hand with nowhere to put it down.",
+      "shot": "close",
+      "_caption": "Not a reminder about one idea to a page. A tray with room for exactly one card, so the second one has nowhere to go.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-16",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "An ordinary afternoon partway through. Several finished wooden fixtures stand in a row along the back edge of the bench, and a small pile of spoiled spreads has collected on the floor at Ruth's feet. She is making another fixture and not looking up.",
+      "shot": "wide",
+      "_caption": "Every one of them came out of a book that went wrong. She built one after each wrong book, for a long time. It was not interesting. It was the job.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-17",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        },
+        {
+          "id": "the-doorkeeper",
+          "pose": "forward-fullbody"
+        }
+      ],
+      "scene": "At the far end of the bench, where finished work leaves, stands a small calm machine with an open book of the standard propped up in front of it, reading. Ruth watches from a step away with her hands at her sides.",
+      "shot": "two-shot",
+      "_caption": "And at the end of the bench she put someone small, who reads the standard out of a book anyone is allowed to open.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-18",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        },
+        {
+          "id": "the-doorkeeper",
+          "pose": "signature-pose"
+        }
+      ],
+      "scene": "The small machine at the end of the bench holds one open palm raised, and a single spread is halted in the air just short of it. Beside it, three finished spreads that already went through sit squared and stacked. Ruth stands well back with her hands behind her, not intervening.",
+      "shot": "two-shot",
+      "_caption": "It has no opinion about her. It stops her own work, and it does. It lets far more through than it stops, because a gate that only ever refuses is a wall.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-19",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Night. The room is tidy and dark, one card set out alone in the middle of the bench, and Ruth is seen from behind going out through the door, which is almost closed.",
+      "shot": "wide",
+      "_caption": "One Sunday night Ruth said what she wanted and went to bed.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-20",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "sub-agent",
+          "pose": "working"
+        }
+      ],
+      "scene": "The dark empty room lit only by the tall window and a faint glow at the bench, work laid out mid-progress, nobody there at all. Completely still.",
+      "shot": "wide",
+      "_caption": "Nothing woke her. There was nothing left to ask. Every question worth asking had already been built into the room.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-21",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "the-doorkeeper",
+          "pose": "passing"
+        }
+      ],
+      "scene": "Morning light. A finished book sits squared up on the bench, and the small calm machine stands beside it with both hands down at its sides, plainly letting it through.",
+      "shot": "close",
+      "_caption": "In the morning there was a book on the bench. And two words. Come look.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-22",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth at the bench in the morning with the finished book open in front of her, reading it slowly with one finger under the line, exactly the way she reads to the children.",
+      "shot": "close",
+      "_caption": "She came. She read it the way she reads everything, slowly, with a finger under the line. Nobody has built a wall for that part, and she is not certain anyone should.",
+      "pos": "top"
+    },
+    {
+      "id": "spread-23",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Sunday again. The half-circle of children back on the rug, several of them holding their own copies of the finished book, one child already turning a page.",
+      "shot": "wide",
+      "_caption": "The children know none of it. They know there is a book on Sunday, and it is theirs, and it is good.",
+      "pos": "bottom",
+      "anonymous": "Small children, five to eight years old, ordinary modern clothes. None of them is a canon character."
+    },
+    {
+      "id": "spread-24",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth leaning down over an open book toward one child so their two heads are almost level, both looking at the same picture on the page. Framed exactly like the third spread.",
+      "shot": "two-shot",
+      "_caption": "Come look.",
+      "pos": "top",
+      "anonymous": "Small children, five to eight years old, ordinary modern clothes. None of them is a canon character."
+    }
+  ]
+}
