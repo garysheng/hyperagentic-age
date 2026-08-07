@@ -1,0 +1,23 @@
+{
+  "book": "the-smoke-test",
+  "story": "the-smoke-test",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth is the subject of this picture. She stands beside the tall window, holding one small page up to the window light in both hands, examining it closely against the daylight. The plain wooden work bench that has been brought into the reading room, with its short row of simple wooden fixtures lined up along it, stays exactly where it was, running toward the tall window, and she has stepped from it to the window to inspect the page. She is at full length inside the room, seen from across the rug, and the warm daylight falls through the page she holds up. The reading chair and the low shelf sit soft in the background. Keep the bottom right of the frame calm and uncluttered.",
+      "shot": "wide",
+      "pos": "bottom",
+      "_caption": "Before Ruth trusts the bench with a real book, she sends one small page through it, from the first station to the last. If every station holds for one page, she will believe it for a hundred."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-smoke-test/closing-plate.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts (compile_cover --no-cast --no-text -> provider -> conform_cover)",
+  "args": {
+    "publish": "platform-facing copy of the conformed closing plate"
+  },
+  "prompt": null,
+  "transform": "copy (byte-identical; no resample, no crop, no repaint)",
+  "inputs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-smoke-test/closing-plate-raw.png",
+      "sha256_16": "9642b0ad383a76a0",
+      "role": "conformed closing plate"
+    }
+  ],
+  "sha256_16": "9642b0ad383a76a0",
+  "derivedFrom": {
+    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-smoke-test/closing-plate-raw.png",
+    "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-smoke-test/closing-plate-raw.png.recipe.json",
+    "sha256_16": "9642b0ad383a76a0"
+  },
+  "note": "DERIVATIVE, not a generation. Platform-facing name for the conformed closing plate; derivedFrom carries the recipe of the render that made the art. Produced by chaining the cover skill's own tools because render_cover.py does not yet forward compile_cover's --no-cast/--no-text closing-plate mode."
+}

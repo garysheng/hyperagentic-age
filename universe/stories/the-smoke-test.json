@@ -1,0 +1,34 @@
+{
+  "id": "the-smoke-test",
+  "title": "The Smoke Test",
+  "logline": "Before Ruth trusts the bench with a real book, she sends one small page through it from start to finish. A pipeline is proven by the smallest thing that can travel its full length.",
+  "spine": "thesis",
+  "spineNote": "The argued object is HOW A PIPELINE EARNS TRUST. You do not prove a bench by admiring its fixtures; you prove it by passing one small honest piece of work through every station and looking at what comes out the other end. This book IS that piece of work: a deliberately minimal book made to exercise the chain, and it says so plainly. One beat, because one beat is enough to cross every station once.",
+  "refrain": "Send the small one through first.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "ruth",
+    "church-classroom"
+  ],
+  "aimDiscipline": [
+    "THIS IS A TEST ARTIFACT AND IT DOES NOT PRETEND OTHERWISE. It reuses Ruth and her reading room exactly as canon locks them, adds nothing new to canon, and exists to prove the path from story to rendered page. A render that invents a new character or a new room has failed the test it was built to run."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "Before Ruth trusts the bench with a real book, she sends one small page through it, from the first station to the last. If every station holds for one page, she will believe it for a hundred.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The smoke-test doctrine itself: prove the flow with the smallest run before spending on a keeper. Authored 2026-08-07 as the pipeline's minimal end-to-end exercise."
+    }
+  ],
+  "writesBack": []
+}
