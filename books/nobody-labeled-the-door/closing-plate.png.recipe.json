@@ -2,24 +2,24 @@
   "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/nobody-labeled-the-door/closing-plate.png",
   "model": "none (deterministic image transform, no model call)",
   "mode": "derive",
-  "tool": "abu:cover/scripts (compile_cover --no-text -> provider -> conform_cover)",
+  "tool": "abu:cover/scripts/render_cover.py",
   "args": {
-    "publish": "platform-facing copy of the conformed closing plate"
+    "publish": "platform-facing copy of the conformed cover"
   },
   "prompt": null,
   "transform": "copy (byte-identical; no resample, no crop, no repaint)",
   "inputs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/nobody-labeled-the-door/closing-plate-raw.png",
-      "sha256_16": "5fa49b1eb8f2a350",
-      "role": "conformed closing plate"
+      "sha256_16": "35b24051e6bdeaae",
+      "role": "conformed cover"
     }
   ],
-  "sha256_16": "5fa49b1eb8f2a350",
+  "sha256_16": "35b24051e6bdeaae",
   "derivedFrom": {
     "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/nobody-labeled-the-door/closing-plate-raw.png",
     "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/nobody-labeled-the-door/closing-plate-raw.png.recipe.json",
-    "sha256_16": "5fa49b1eb8f2a350"
+    "sha256_16": "35b24051e6bdeaae"
   },
-  "note": "DERIVATIVE, not a generation. Platform-facing name for the conformed closing plate; derivedFrom carries the recipe of the render that made the art. Produced by chaining the cover skill's own tools because render_cover.py does not yet forward compile_cover's --no-cast/--no-text closing-plate mode."
+  "note": "DERIVATIVE, not a generation. This is the platform-facing name for the conformed cover: byte-identical to the file in derivedFrom, which carries the recipe of the render that made the art. Published by render_cover.py so that the copy and its provenance can never be done by hand, or half-done."
 }
