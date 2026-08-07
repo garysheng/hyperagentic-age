@@ -1,0 +1,39 @@
+{
+  "title": "THE PLAIN DOOR",
+  "subtitle": "ELEVATION",
+  "sheet": { "width": 1536, "height": 1024, "margin": 60 },
+  "scale": { "unit": "m", "pxPerUnit": 330, "originPx": [560, 150] },
+  "parts": [
+    { "kind": "rect", "at": [-0.09, -0.07], "size": [1.08, 2.07], "fill": "wood", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [-1.35, -0.05], "text": ["SIMPLE WOODEN CASING", "in ordinary cream plaster wall"], "leaderTo": [-0.05, 0.4], "stroke": "ink" },
+
+    { "kind": "rect", "at": [0, 0], "size": [0.9, 2.0], "fill": "#B5854B", "stroke": "ink", "width": 4 },
+    { "kind": "note", "at": [1.35, 0.02], "text": ["DOOR LEAF, solid wood", "warm honey-brown, slightly worn"], "stroke": "ink" },
+
+    { "kind": "rect", "at": [0.13, 0.14], "size": [0.28, 0.38], "stroke": "ink", "width": 3, "dashed": true },
+    { "kind": "rect", "at": [0.49, 0.14], "size": [0.28, 0.38], "stroke": "ink", "width": 3, "dashed": true },
+    { "kind": "note", "at": [1.35, 0.32], "text": ["TWO SMALL RECESSED PANELS", "(upper pair)"], "leaderTo": [0.77, 0.33], "stroke": "accent" },
+
+    { "kind": "rect", "at": [0.13, 0.66], "size": [0.28, 1.12], "stroke": "ink", "width": 3, "dashed": true },
+    { "kind": "rect", "at": [0.49, 0.66], "size": [0.28, 1.12], "stroke": "ink", "width": 3, "dashed": true },
+    { "kind": "note", "at": [1.35, 0.72], "text": ["TWO TALL RECESSED PANELS", "(lower pair)"], "leaderTo": [0.77, 0.9], "stroke": "accent" },
+    { "kind": "note", "at": [1.35, 1.12], "text": ["FOUR PANELS TOTAL:", "two small ABOVE two tall", "dashed = recessed field,", "never a raised moulding"], "heading": false },
+
+    { "kind": "ellipse", "center": [0.075, 1.0], "r": [0.04, 0.04], "fill": "#B08D3E", "stroke": "iron", "width": 3 },
+    { "kind": "note", "at": [-1.35, 0.85], "text": ["ROUND BRASS KNOB", "LEFT edge AS VIEWED", "mid-height ~1.0 m off floor", "(adult hip height)"], "leaderTo": [0.055, 1.0], "stroke": "accent" },
+    { "kind": "note", "at": [-1.35, 1.55], "text": ["HINGES on RIGHT edge", "as viewed (concealed)"], "leaderTo": [0.9, 1.45], "stroke": "ink" },
+
+    { "kind": "line", "from": [-0.5, 2.0], "to": [1.4, 2.0], "stroke": "dim", "width": 2 },
+    { "kind": "note", "at": [1.5, 1.95], "text": "FLOOR LINE", "heading": false },
+    { "kind": "line", "from": [2.05, 2.0], "to": [2.05, 0.3], "stroke": "dim", "width": 2, "dashed": true },
+    { "kind": "note", "at": [2.11, 0.24], "text": ["HUMAN SCALE ~1.7 m:", "head below top rail,", "knob at the hip"], "heading": false, "stroke": "dim" },
+
+    { "kind": "dim", "axis": "h", "from": [0, 2.0], "to": [0.9, 2.0], "offset": 40, "label": "0.9 m" },
+    { "kind": "dim", "axis": "v", "from": [0, 0], "to": [0, 2.0], "offset": 130, "label": "2.0 m" }
+  ],
+  "laws": [
+    "THE IDENTICAL DOOR DESIGN IN EVERY STATE AND EVERY ERA: four recessed panels (two small above two tall), round brass knob mid-height on the LEFT edge as viewed.",
+    "THE DOOR FACE NEVER CARRIES LETTERING, A SIGN, OR A PLAQUE. Labels live on walls and frames beside or below it, never on it.",
+    "OPEN STATES SHOW ONLY WARM LIGHT THROUGH THE GAP, never what is behind; never darkness."
+  ]
+}

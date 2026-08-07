@@ -1,0 +1,70 @@
+{
+  "asset": "spread-14.png",
+  "assetSha256_16": "0ea26f6e482a9bcc",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-14",
+  "descriptor": {
+    "id": "spread-14",
+    "plate": "museum-hall",
+    "cast": [
+      {
+        "id": "gary"
+      },
+      {
+        "id": "maya"
+      }
+    ],
+    "scene": "Two people fill the middle of the frame from the waist up: Gary and Maya, walking slowly together down the hall of framed doors, deep in it now. Gary counts on his fingers, three fingers up, making the third point; Maya watches his hands, nodding, working it through. The framed, spotlit doors recede behind them soft and out of focus, their plaques too small to read. Warm museum light.",
+    "shot": "two-shot",
+    "negatives": [
+      "readable plaque text anywhere in this image"
+    ],
+    "_caption": "The guide says the doors follow three rules. A door opens when something newly built makes a new kind of company possible. It closes as the obvious things get made. And while it is open, it never looks important. That is why founders call them windows.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Two people fill the middle of the frame from the waist up: Gary and Maya, walking slowly together down the hall of framed doors, deep in it now. Gary counts on his fingers, three fingers up, making the third point; Maya watches his hands, nodding, working it through. The framed, spotlit doors recede behind them soft and out of focus, their plaques too small to read. Warm museum light. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, TWO-SHOT: TWO figures fill the middle of the frame from the waist up and are the subject of the picture. The camera is closer than an establishing view. Behind them the place falls away softly and out of focus, present but never competing with them. gary rendered exactly per the supplied reference images: east asian man; clean shaven no mustache; double eyelid crease; black hair; light wash denim jacket; claude mascot patch right chest; yellow smiley patch left chest; white crew neck tee; white high top sneakers; no necklace; jacket back completely PLAIN denim no patches no artwork no text; appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket; religious iconography only where the story calls for it never decorative; warm editorial register. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. TELL THEM APART, keep every face and hairstyle distinct: gary is the one with east asian man, clean shaven no mustache, double eyelid crease, black hair, light wash denim jacket, claude mascot patch right chest, yellow smiley patch left chest, white high top sneakers, no necklace, jacket back completely PLAIN denim no patches no artwork no text, appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket, religious iconography only where the story calls for it never decorative; maya is the one with half black half white founder, sage olive blazer single button notch lapel sleeves pushed to elbow, stone khaki chinos never blue jeans, laptop under arm. THE ONLY CHARACTERS IN THIS IMAGE ARE: gary, maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, readable plaque text anywhere in this image. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary/master.png",
+      "sha256_16": "6c9c523477123c1f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    }
+  ],
+  "qa": [
+    "gary: east-asian-man",
+    "gary: clean-shaven-no-mustache",
+    "gary: double-eyelid-crease",
+    "gary: black-hair",
+    "gary: light-wash-denim-jacket",
+    "gary: claude-mascot-patch-right-chest",
+    "gary: yellow-smiley-patch-left-chest",
+    "gary: white-crew-neck-tee",
+    "gary: white-high-top-sneakers",
+    "gary: no-necklace",
+    "gary: jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text",
+    "gary: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket",
+    "gary: religious-iconography-only-where-the-story-calls-for-it-never-decorative",
+    "gary: warm-editorial-register",
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register"
+  ]
+}

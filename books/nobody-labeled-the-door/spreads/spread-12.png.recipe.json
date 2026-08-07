@@ -1,0 +1,64 @@
+{
+  "asset": "spread-12.png",
+  "assetSha256_16": "c52743154c6c1be1",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-12",
+  "descriptor": {
+    "id": "spread-12",
+    "plate": "brownstone-street",
+    "cast": [
+      {
+        "id": "the-plain-door",
+        "plate": "ajar"
+      }
+    ],
+    "anonymous": "A middle-aged host on a brownstone stoop handing keys down to two young travelers with rolling suitcases. None is a canon character.",
+    "scene": "Three people fill the middle of the frame from the waist up: a middle-aged host standing on the bottom step of a brownstone stoop, handing a set of keys down to two young travelers with rolling suitcases, all three mid-laugh like strangers surprised to be trusting each other. At street level beside the stoop, the plain honey-brown door stands open a little in the wall with warm light through the gap. The street is slightly shabby and completely alive.",
+    "shot": "group",
+    "negatives": [
+      "signage or readable text",
+      "brand logos",
+      "anything visible through the gap other than warm light"
+    ],
+    "_caption": "Then strangers learned to trust each other. A spare room here, a spare seat there. Whole marketplaces came in through a door nobody respectable would stand near.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Three people fill the middle of the frame from the waist up: a middle-aged host standing on the bottom step of a brownstone stoop, handing a set of keys down to two young travelers with rolling suitcases, all three mid-laugh like strangers surprised to be trusting each other. At street level beside the stoop, the plain honey-brown door stands open a little in the wall with warm light through the gap. The street is slightly shabby and completely alive. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: A middle-aged host on a brownstone stoop handing keys down to two young travelers with rolling suitcases. None is a canon character.. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, signage or readable text, brand logos, anything visible through the gap other than warm light. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plain-door/ajar.png",
+      "sha256_16": "58196317b91a9625"
+    }
+  ],
+  "qa": [
+    "the-plain-door: single-plain-solid-wood-door-warm-honey-brown",
+    "the-plain-door: four-recessed-panels-two-small-above-two-tall",
+    "the-plain-door: leaf-roughly-twice-as-tall-as-wide-standard-door-proportions",
+    "the-plain-door: round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
+    "the-plain-door: no-lettering-no-sign-no-plaque-on-the-door-face-ever",
+    "the-plain-door: identical-door-design-in-every-state-and-every-era",
+    "the-plain-door: open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+    "the-plain-door: museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
+    "the-plain-door: nothing-ominous-through-any-gap-warm-light-never-darkness",
+    "the-plain-door: warm-editorial-register-never-photoreal",
+    "the-plain-door: four recessed panels: two small panels above two tall panels, at crop-zoom",
+    "the-plain-door: round brass knob at mid-height on the LEFT edge as viewed",
+    "the-plain-door: leaf roughly twice as tall as wide, standard door proportions",
+    "the-plain-door: NO lettering, sign, or plaque anywhere on the door face",
+    "the-plain-door: any open gap shows only warm light, never a room or scene behind",
+    "the-plain-door: museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
+    "the-plain-door: warm-editorial, never photoreal"
+  ]
+}

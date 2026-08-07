@@ -1,0 +1,244 @@
+{
+  "id": "nobody-labeled-the-door",
+  "title": "Nobody Labeled the Door",
+  "logline": "There is a hall where the doors of past eras hang, each one framed, spotlit, and labeled with a small brass plaque, and standing in it you would swear nobody could have missed them. A guide walks a young founder down the hall and tells the truth about the plaques: on the day each door mattered, it was plain, unlabeled, and standing open in an ordinary wall, and most people walked past it. The web, the phone, the cloud, the feed, the marketplace, the bedrooms: same plain door every time, labeled only after it shut. At the end of the hall there is one more door, no frame, no rope, warm light through the gap, and behind it intelligence that works while you sleep. The visitor does not wait for the plaque. The book turns to the reader and asks the only question it was ever building toward: this era's door is open. Will you walk through it?",
+  "spine": "thesis",
+  "spineNote": "The argued object is HINDSIGHT VERSUS THE OPEN MOMENT. The claim has three parts, stated by the guide as the rules of the doors: a door opens because something newly built makes a new shape of company possible; it closes as the obvious versions get built; and while it is open it never looks important. The proof is repetition: six eras, the identical plain door each time, plaque applied only afterward. The payoff is not a moral, it is a question aimed at the reader while the seventh door is still open. NOT a hero-journey: the visitor's walk through the door in the second-to-last spread is a demonstration, and the ending belongs to the reader.",
+  "refrain": "Nobody labeled the door.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "maya",
+    "gary",
+    "the-plain-door",
+    "the-childhood-bedrooms",
+    "chief-of-agents",
+    "sub-agent",
+    "supercharged-laptop"
+  ],
+  "aimDiscipline": [
+    "THE SAME DOOR EVERY TIME. Every era's door is the identical plain door entity, in every state and every period scene. The repetition IS the argument: if the doors render as different doors, the book has lost its thesis. Only the surroundings change.",
+    "NEVER SHOW WHAT IS BEHIND THE DOOR. Through any open gap there is only warm light, in every era including the agent era. The far side is the reader's to imagine; a render that depicts a room, a landscape, or a technology behind the door has answered a question the book deliberately leaves open.",
+    "THE HALL IS A WARM MUSEUM, NEVER A TECH SHOWROOM. Honey wood floors, cream plaster, brass fittings, framed doors hung like paintings. No glass cases, no chrome, no screens on the walls, no futurism. Hindsight is cozy; that is the point of it.",
+    "PLAQUE AND SIGN TEXT IS DESIGNED LETTERING. Every plaque string is quoted exactly in the spec, spelled exactly in the render, and spell-checked at crop-zoom on readback. The door itself NEVER carries lettering; labels live on plaques and frames beside or below it, which is the entity's own locked rule.",
+    "PERIOD PEOPLE ARE ANONYMOUS AND ORDINARY. Dorm kids, commuters, hosts, drivers: ordinary clothes, ordinary tiredness, never caricatures, never recognizable real founders. No real logos, no brand marks, no readable UI on any screen (the childhood-bedrooms motif's own no-readable-text rule extends to every period scene).",
+    "THE AGENT ERA USES CANON AGENT GRAMMAR. The Chief of Agents and sub-agents are translucent digital beings behind the screen and never cross into the real room; work arrives only as the Chief delivers it to the screen. The supercharged laptop glows Claude-orange, per its locked colour law.",
+    "THE DOOR IS NEVER A METAPHOR FOR DANGER. Nothing ominous through any gap, no darkness, no storm light. The stakes of the book are missed opportunity, never menace.",
+    "NO NEON ANYWHERE, in art or in scene dressing. The commission's phrase 'labeled in neon' is rendered as museum treatment: brass, spotlight, rope. The register rejects neon and the hall proves hindsight with warmth instead."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "There is a hall where they keep the doors. Every company you have ever heard of walked in through one of them.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Gary's commission (2026-08-07): every era of YC had one door standing open. The hall is the book's hindsight frame; the visitor enters small in a wide establishing shot."
+    },
+    {
+      "n": 2,
+      "text": "Each door has a frame, a spotlight, and a small brass plaque. Standing here, you would think nobody could have missed them.",
+      "characters": [
+        "maya"
+      ],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission: 'in hindsight every single one looks like it was labeled in neon.' Rendered as museum treatment per aim discipline. Plants the phrase 'nobody could have missed' that beat 20 returns to."
+    },
+    {
+      "n": 3,
+      "text": "The guide has walked this hall more times than he can count. He says the plaques are the part people get wrong. On the day it mattered, every door in this hall looked like this.",
+      "characters": [
+        "gary",
+        "maya"
+      ],
+      "provenance": "Commission: 'None of them were [labeled].' Gary cast as the guide because this is the story he keeps telling founders, per the commission's own first line."
+    },
+    {
+      "n": 4,
+      "text": "A plain door. An ordinary wall. Open a little, with warm light coming through the gap. No plaque, no spotlight, no line. Nobody labeled the door.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "The refrain in full, on the entity's ajar state. The door full-frame for the first time; every era beat reuses this exact door."
+    },
+    {
+      "n": 5,
+      "text": "The first one opened when the web came. Two kids in a dorm room could build a page at midnight, and by morning anyone on earth could be standing in it.",
+      "characters": [],
+      "provenance": "Commission: 'The web-app window, when two kids could ship a site from a dorm and reach everyone.' YC founded 2005 on exactly this shape."
+    },
+    {
+      "n": 6,
+      "text": "It looked like a toy. Most people walked past it on the way to real jobs. A few odd ones walked through. Nobody labeled the door.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "The refrain on the open moment. Historically true of the early web (dismissed as a toy next to desktop software and print); the plain door stands in a period hallway with commuters passing."
+    },
+    {
+      "n": 7,
+      "text": "The ones who walked through built the shop, the search, the pages where everybody lives. Then the obvious things were all built, and the door swung quietly shut. Later, it got its plaque.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission: 'each one closed as the obvious versions got built.' The shop, the search, the pages: the web era's giants named by shape, never by logo, per aim discipline. First appearance of the museum state with plaque text THE WEB."
+    },
+    {
+      "n": 8,
+      "text": "Then a phone became a camera, a wallet, and a map, and a new door opened. Serious people said serious work happens at a desk. The door did not argue. It stood open.",
+      "characters": [],
+      "provenance": "Commission verbatim: 'a phone became a camera, a wallet, and a map.' The dismissal is period-true (smartphones read as consumer toys to enterprise seriousness, 2008)."
+    },
+    {
+      "n": 9,
+      "text": "The ones who walked through built the apps a billion people touch before breakfast.",
+      "characters": [],
+      "provenance": "Commission: 'the founders who moved early built the apps a billion people touch.' Rendered as ordinary morning life saturated with phone-shaped habits, no readable UI."
+    },
+    {
+      "n": 10,
+      "text": "Then came a strange one. You could rent computers by the hour, the way you rent a room for the night. A weekend project could survive its own success. Two people could carry what used to take a building.",
+      "characters": [],
+      "provenance": "Commission: 'renting servers by the hour meant a weekend project could survive its own success.' EC2 launched 2006; the era's real unlock was elasticity for tiny teams."
+    },
+    {
+      "n": 11,
+      "text": "Then everyone's friends showed up in one place, and a thing people loved could be passed along a million times by lunch.",
+      "characters": [],
+      "provenance": "Commission: 'the social window.' Distribution through friend graphs, stated as passing-along rather than as any named network."
+    },
+    {
+      "n": 12,
+      "text": "Then strangers learned to trust each other. A spare room here, a spare seat there. Whole marketplaces came in through a door nobody respectable would stand near.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission: 'the marketplace window.' Airbnb and rideshare by shape, unnamed. 'Nobody respectable would stand near' is the era's real texture: strangers-in-your-house was a widely mocked idea before it was an obvious one."
+    },
+    {
+      "n": 13,
+      "text": "Then, for a while, the offices closed, and it turned out a company could be forty childhood bedrooms held together by a screen.",
+      "characters": [],
+      "features": [
+        "the-childhood-bedrooms"
+      ],
+      "provenance": "Commission: 'the remote-work window.' Direct crossover: the-childhood-bedrooms motif is locked canon from The Room It Was Made In, reused here as the remote era's image."
+    },
+    {
+      "n": 14,
+      "text": "The guide says the doors follow three rules. A door opens when something newly built makes a new kind of company possible. It closes as the obvious things get made. And while it is open, it never looks important. That is why founders call them windows.",
+      "characters": [
+        "gary",
+        "maya"
+      ],
+      "provenance": "The thesis stated plainly, all three parts from the commission. The last sentence reconciles the commission's working title: the window vocabulary kept diegetically while the book's object stays a door."
+    },
+    {
+      "n": 15,
+      "text": "The ones who won were rarely the smartest people in the hall. They were the ones who saw a plain door standing open and walked through it while everyone else waited for a plaque.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission: 'the founders who win are the ones who see it while it is still open.' The one figure mid-threshold while a crowd faces the framed, labeled doors the other way."
+    },
+    {
+      "n": 16,
+      "text": "At the end of the hall there is no frame, no rope, no spotlight. There is a wall. In the wall there is a door, and the door is open.",
+      "characters": [
+        "gary",
+        "maya"
+      ],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "The turn from hindsight to the present. The hall of finished eras terminates in the era that is not finished; the same plain door, undecorated, ajar."
+    },
+    {
+      "n": 17,
+      "text": "Listen at the gap. Behind this one is intelligence that keeps working after you go to bed. You hand it the outcome you want. It goes away for hours and comes back with the work done.",
+      "characters": [
+        "maya"
+      ],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission: 'intelligence that works unattended for hours, owned outcomes.' Stated at the door without showing behind it, per aim discipline."
+    },
+    {
+      "n": 18,
+      "text": "Behind this one, a founder with good judgment can run a company's worth of work from one desk, and the machines that carry it are kept running by somebody else, somewhere else.",
+      "characters": [
+        "maya",
+        "chief-of-agents",
+        "sub-agent"
+      ],
+      "features": [
+        "supercharged-laptop"
+      ],
+      "provenance": "Commission: 'infrastructure someone else runs.' The one glimpse of the agentic shape, drawn in canon agent grammar: Maya at a desk, the Chief of Agents and sub-agents behind the screen. Crossover with the evangelism-wiki cast."
+    },
+    {
+      "n": 19,
+      "text": "The obvious things have not been built yet. There is no line, and there is no plaque. Nobody labeled the door. The labels come later.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "The refrain aimed at the present tense. Commission: the agent window is open now and the obvious versions are unbuilt."
+    },
+    {
+      "n": 20,
+      "text": "Someday this door will hang in the hall like the others, lit and labeled and roped off, and people will say nobody could have missed it. That is how every open door looks, after.",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Beat 2's phrase returned with its meaning inverted by everything between. The future museum state of the current door, imagined."
+    },
+    {
+      "n": 21,
+      "text": "The visitor does not wait for the plaque. She puts her hand on the door, and she walks through.",
+      "characters": [
+        "maya"
+      ],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "The demonstration, not the ending. Maya models the commission's answer; the reader still holds the question."
+    },
+    {
+      "n": 22,
+      "text": "This era's door is open. Will you walk through it?",
+      "characters": [],
+      "features": [
+        "the-plain-door"
+      ],
+      "provenance": "Commission verbatim: 'this era's door is open, will you walk through it?' Final frame is the reader's own POV at the threshold, warm light, nothing behind the door revealed."
+    }
+  ],
+  "publish": {
+    "subtitle": "A picture book for founders",
+    "author": "Gary Sheng",
+    "closingVerse": "Nobody labeled the door.\nThe labels come later.\nIt is open now.\nWalk through.",
+    "closingVerseRef": "Nobody Labeled the Door",
+    "closingNote": [
+      "Every era has one door standing open that did not exist the year before. It opens because something newly built makes a new shape of company possible. It closes as the obvious versions get made. And while it is open, it never looks important.",
+      "The web, the phone, the cloud, the feed, the marketplace, the bedrooms: the same plain door every time, labeled only after it shut. The founders who won were rarely the smartest people in the hall. They walked through while everyone else waited for a plaque.",
+      "The agent door is open now: intelligence that works unattended for hours, outcomes you can own from one desk, machines somebody else keeps running. The obvious things have not been built yet.",
+      "This book exists to ask you one question at the right time instead of ten years late. This era's door is open. Will you walk through it?"
+    ],
+    "shareHint": "Every era's door looked like nothing the day it opened. The agent era's door is open right now."
+  }
+}

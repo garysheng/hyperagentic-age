@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "eef2441dd0777827",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "21653d653b9a4600",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plain-door/blueprint.png"
+    }
+  ],
+  "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. The identity of record. A single plain solid-wood door, warm honey-brown, seen exactly FACE-ON and SHUT, filling most of the frame, set in an ordinary cream plaster wall with a simple wooden casing. The leaf has FOUR recessed panels: two small panels side by side in the upper third, above two tall panels below, matching the attached elevation drawing exactly. One round brass knob at mid-height on the LEFT edge of the leaf as viewed; hinges on the right, barely visible. Standard door proportions, the leaf roughly twice as tall as wide (about 0.9 m by 2.0 m). The wood is slightly worn, ordinary, well-made: soft sheen, faint grain, gentle scuffs near the bottom rail. The door face is completely BLANK: no lettering, no sign, no plaque, no number, no poster. Quiet even daylight, warm cream tones, an ordinary unremarkable wall. The elevation drawing is layout reference only: never paint its lines, dashes, dimensions or labels into the image. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, lettering of any kind on the door face, a sign or plaque mounted on the door, text or writing anywhere in frame, any room or scene visible through a door gap, darkness or storm light through a gap, ominous mood, windows or glass panes in the door, panel count other than four, knob on the right side of the leaf, photoreal rendering, neon light.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

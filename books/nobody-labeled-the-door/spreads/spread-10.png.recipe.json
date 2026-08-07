@@ -1,0 +1,37 @@
+{
+  "asset": "spread-10.png",
+  "assetSha256_16": "2dd696c77f0693b7",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-10",
+  "descriptor": {
+    "id": "spread-10",
+    "plate": "kitchen-night",
+    "cast": [],
+    "anonymous": "Two young founders, a man and a woman, at a kitchen table late at night. Neither is a canon character.",
+    "scene": "Two young founders fill the middle of the frame from the waist up, sitting side by side at a small kitchen table at night, lit by one laptop between them, watching a line climb on its soft unreadable screen with equal parts terror and joy. Through the dark kitchen window behind them, impossibly far away, glows a vast warehouse of server racks receding in ordered rows, somebody else's building humming through the night for them. Dishes in the sink, cold tea, one hanging bulb.",
+    "shot": "two-shot",
+    "negatives": [
+      "readable screen text or UI",
+      "brand logos",
+      "the server warehouse reading as neon or sci-fi; it is warm distant industrial light"
+    ],
+    "_caption": "Then came a strange one. You could rent computers by the hour, the way you rent a room for the night. A weekend project could survive its own success. Two people could carry what used to take a building.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Two young founders fill the middle of the frame from the waist up, sitting side by side at a small kitchen table at night, lit by one laptop between them, watching a line climb on its soft unreadable screen with equal parts terror and joy. Through the dark kitchen window behind them, impossibly far away, glows a vast warehouse of server racks receding in ordered rows, somebody else's building humming through the night for them. Dishes in the sink, cold tea, one hanging bulb. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, TWO-SHOT: TWO figures fill the middle of the frame from the waist up and are the subject of the picture. The camera is closer than an establishing view. Behind them the place falls away softly and out of focus, present but never competing with them. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: Two young founders, a man and a woman, at a kitchen table late at night. Neither is a canon character.. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, readable screen text or UI, brand logos, the server warehouse reading as neon or sci-fi; it is warm distant industrial light. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}

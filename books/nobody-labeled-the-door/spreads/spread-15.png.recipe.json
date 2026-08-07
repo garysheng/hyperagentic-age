@@ -1,0 +1,64 @@
+{
+  "asset": "spread-15.png",
+  "assetSha256_16": "8fcc7c2ab2f6ac35",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-15",
+  "descriptor": {
+    "id": "spread-15",
+    "plate": "hindsight-allegory",
+    "cast": [
+      {
+        "id": "the-plain-door",
+        "plate": "ajar"
+      }
+    ],
+    "anonymous": "A small crowd of eight or nine people gathered before a framed, spotlit, roped-off door, and apart from them one lone figure stepping through the plain open door. None is a canon character.",
+    "scene": "A small crowd of eight or nine people is the subject, gathered close before a grand framed spotlit door on the left, all of them waiting, some checking watches, one photographing its plaque, which is too small to read. On the right, in a bare stretch of the same wall, the plain honey-brown door stands open a little with warm light through the gap, and ONE lone figure, mid-stride, is walking through it while nobody in the crowd notices. The two doors are the same door design; only the dressing differs. If either group is missing the image is wrong.",
+    "shot": "imagined",
+    "negatives": [
+      "readable plaque text",
+      "anyone in the crowd looking toward the plain door",
+      "anything visible through the gap other than warm light"
+    ],
+    "_caption": "The ones who won were rarely the smartest people in the hall. They were the ones who saw a plain door standing open and walked through it while everyone else waited for a plaque.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: A small crowd of eight or nine people is the subject, gathered close before a grand framed spotlit door on the left, all of them waiting, some checking watches, one photographing its plaque, which is too small to read. On the right, in a bare stretch of the same wall, the plain honey-brown door stands open a little with warm light through the gap, and ONE lone figure, mid-stride, is walking through it while nobody in the crowd notices. The two doors are the same door design; only the dressing differs. If either group is missing the image is wrong. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, IMAGINED: this picture shows the THING BEING DESCRIBED, full bleed, and the people describing it are NOT in the frame at all. Nobody listens, nobody speaks, and no part of the room the conversation happens in appears. Paint the idea itself as a real place or a real object, in the same register as the rest of the book, with no bubble, no border, no vignette and no lettering. Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: A small crowd of eight or nine people gathered before a framed, spotlit, roped-off door, and apart from them one lone figure stepping through the plain open door. None is a canon character.. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, readable plaque text, anyone in the crowd looking toward the plain door, anything visible through the gap other than warm light. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. A NAMED CHARACTER SITTING IN A CROWD IS STILL PART OF THAT CROWD. When someone the story cares about is among an audience, congregation, class or crowd, they FACE THE SAME WAY EVERYONE ELSE FACES and hold the same posture as the people around them. They are NOT turned out toward the camera while the rest of the room faces the speaker, NOT swivelled in their seat, NOT leaning into the aisle, NOT lit differently, NOT haloed, and NOT given more space around them than their neighbours. A figure facing a different direction from everyone around them reads as detached from the room, or as though they are looking at something nobody else can see. IF THE SCENE NEEDS THEIR FACE, MOVE THE CAMERA, NOT THE PERSON: shoot the crowd from in front or from the side so their face is naturally visible while they still face what everyone else faces. Make them findable by PLACEMENT and by what they wear, never by breaking the room's shared orientation.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plain-door/ajar.png",
+      "sha256_16": "58196317b91a9625"
+    }
+  ],
+  "qa": [
+    "the-plain-door: single-plain-solid-wood-door-warm-honey-brown",
+    "the-plain-door: four-recessed-panels-two-small-above-two-tall",
+    "the-plain-door: leaf-roughly-twice-as-tall-as-wide-standard-door-proportions",
+    "the-plain-door: round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
+    "the-plain-door: no-lettering-no-sign-no-plaque-on-the-door-face-ever",
+    "the-plain-door: identical-door-design-in-every-state-and-every-era",
+    "the-plain-door: open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+    "the-plain-door: museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
+    "the-plain-door: nothing-ominous-through-any-gap-warm-light-never-darkness",
+    "the-plain-door: warm-editorial-register-never-photoreal",
+    "the-plain-door: four recessed panels: two small panels above two tall panels, at crop-zoom",
+    "the-plain-door: round brass knob at mid-height on the LEFT edge as viewed",
+    "the-plain-door: leaf roughly twice as tall as wide, standard door proportions",
+    "the-plain-door: NO lettering, sign, or plaque anywhere on the door face",
+    "the-plain-door: any open gap shows only warm light, never a room or scene behind",
+    "the-plain-door: museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
+    "the-plain-door: warm-editorial, never photoreal"
+  ]
+}

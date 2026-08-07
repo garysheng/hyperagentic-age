@@ -1,0 +1,78 @@
+{
+  "id": "the-plain-door",
+  "kind": "motif",
+  "name": "The Plain Door",
+  "originStory": "nobody-labeled-the-door",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-07",
+    "note": "locked in headless commissioned run; design per commission 2026-08-07. Blueprint-seeded STAR chain: code-drawn elevation (abu elevation, deterministic) conditions every shot; master is the paint seed and identity of record; ajar and museum shot star off master so no sibling light walks between states. Museum roll 1 rejected on readback for photoreal drift (airbrushed stanchion/plaque, register's rejected pole); roll 2 passed with paint language restated in prompts.md. Plaque on the locked museum sheet is EMPTY by design so no string leaks across spreads."
+  },
+  "contract": {
+    "blueprint": "reference/the-plain-door/blueprint.png",
+    "blocking": "The leaf is roughly 0.9 m wide by 2.0 m tall, standard door proportions: roughly twice as tall as wide. The round brass knob sits at adult hip height, about 1.0 m off the floor, on the LEFT edge of the leaf as viewed. A human standing at the door reads about 1.7 m tall against it: head below the top rail, knob at the hip. The door is never monumental and never miniature; it is an ordinary door a person walks through without ducking or reaching."
+  },
+  "structured": {
+    "sheets": {
+      "blueprint": "reference/the-plain-door/blueprint.png",
+      "master": "reference/the-plain-door/master.png",
+      "ajar": "reference/the-plain-door/ajar.png",
+      "museum": "reference/the-plain-door/museum.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "single-plain-solid-wood-door-warm-honey-brown",
+      "four-recessed-panels-two-small-above-two-tall",
+      "leaf-roughly-twice-as-tall-as-wide-standard-door-proportions",
+      "round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
+      "no-lettering-no-sign-no-plaque-on-the-door-face-ever",
+      "identical-door-design-in-every-state-and-every-era",
+      "open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+      "museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
+      "nothing-ominous-through-any-gap-warm-light-never-darkness",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE PLAIN DOOR: a single plain solid-wood door, warm honey-brown, with FOUR recessed panels (two small panels above two tall panels) and a round brass knob at mid-height on the LEFT edge as viewed. Slightly worn, ordinary, well-made. Standard proportions: the leaf roughly twice as tall as wide (about 0.9 m by 2.0 m). The door face NEVER carries lettering, a sign, or a plaque of any kind. The identical door design appears in every state and every era; only its surroundings change. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "Face-on, door SHUT, set in an ordinary cream plaster wall with a simple wooden casing. The identity of record: four recessed panels (two small above two tall), round brass knob at mid-height on the LEFT edge as viewed, warm honey-brown wood, slightly worn and ordinary."
+        },
+        "ajar": {
+          "sheets": [
+            "ajar",
+            "master"
+          ],
+          "bake": "The same door open a little toward the viewer, warm golden light spilling through the gap. NOTHING is visible behind the door: no room, no landscape, no object, only warm light. Never darkness, never anything ominous through the gap."
+        },
+        "museum": {
+          "sheets": [
+            "museum",
+            "master"
+          ],
+          "bake": "The same door hung flat on a warm museum wall: honey wood floor, cream plaster, a soft spotlight from above, a small EMPTY brass plaque on the wall below/beside the door, and a velvet rope on brass stanchions in front. Frame, plaque, and rope never touch the door's face. NO lettering anywhere; the locked plaque is EMPTY."
+        }
+      },
+      "qa": [
+        "four recessed panels: two small panels above two tall panels, at crop-zoom",
+        "round brass knob at mid-height on the LEFT edge as viewed",
+        "leaf roughly twice as tall as wide, standard door proportions",
+        "NO lettering, sign, or plaque anywhere on the door face",
+        "any open gap shows only warm light, never a room or scene behind",
+        "museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
+        "warm-editorial, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The identical plain unlabeled door through which every era's founders walked. The book's argument is that it looked like nothing at the time and got its plaque only in hindsight: the same door in a dorm hallway, a city street, and a museum hall, and the repetition IS the thesis.",
+    "rules": "Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state."
+  },
+  "status": "locked"
+}

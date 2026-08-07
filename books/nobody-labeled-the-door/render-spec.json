@@ -1,0 +1,444 @@
+{
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "plate": "museum-hall",
+      "cast": [
+        {
+          "id": "maya"
+        }
+      ],
+      "scene": "One young woman, Maya, has just stepped into a long museum hall and stands small near the entrance, taking it in. The hall is grand and warm and hushed: honey wood floor, cream plaster walls, and along both walls a receding row of doors hung like paintings, each in a simple wooden frame with a soft spotlight from above and a low velvet rope on brass stanchions in front. The plaques beside the far doors are too small and too distant to read. Morning light falls from high windows. Keep the lower right of the frame calm and open floor.",
+      "shot": "wide",
+      "_caption": "There is a hall where they keep the doors. Every company you have ever heard of walked in through one of them.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-02",
+      "plate": "museum-hall",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "museum"
+        }
+      ],
+      "scene": "A close, reverent study of one exhibited door in the hall: the plain honey-brown door hung flat on the cream museum wall in its simple wooden frame, a soft spotlight pooling on it from above, a low velvet rope on two brass stanchions in front. On the wall beside the frame, a small brass plaque with designed lettering that is fully legible and reads exactly \"THE CLOUD\", and nothing else. The frame, plaque, rope and light all sit beside or below the door and never touch its face. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "insert",
+      "negatives": [
+        "any lettering other than the quoted plaque string",
+        "lettering on the door face itself",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "Each door has a frame, a spotlight, and a small brass plaque. Standing here, you would think nobody could have missed them.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-03",
+      "plate": "museum-hall",
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "maya"
+        }
+      ],
+      "scene": "Two people fill the middle of the frame from the waist up: Gary, the guide, and Maya, the visitor, standing together in the museum hall. Gary is mid-sentence, turned toward Maya, one hand raised in a gentle explaining gesture; Maya listens with her head slightly tilted, genuinely weighing it. Behind them the row of framed, spotlit doors falls away soft and out of focus down the hall. Warm, unhurried light.",
+      "shot": "two-shot",
+      "_caption": "The guide has walked this hall more times than he can count. He says the plaques are the part people get wrong. On the day it mattered, every door in this hall looked like this.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-04",
+      "plate": "plain-wall-study",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "The plain door itself, filling the frame, set in an ordinary cream plaster wall with simple wooden casing: honey-brown wood, four recessed panels, round brass knob at mid-height on the left edge as viewed. It stands open a little, and warm golden light spills through the gap onto the floor. Nothing behind the door is visible, only light. No plaque, no frame, no rope, no spotlight, no sign of any kind. The wall around it is bare and ordinary. Place the door left of center; keep the bottom right calm and empty. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "insert",
+      "negatives": [
+        "any lettering, plaque, frame, rope or spotlight",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "A plain door. An ordinary wall. Open a little, with warm light coming through the gap. No plaque, no spotlight, no line. Nobody labeled the door.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-05",
+      "plate": "dorm-room-2005",
+      "cast": [],
+      "anonymous": "Two college kids, about nineteen, one at the keyboard and one leaning over the chair back, in a cluttered 2005 dorm room. Neither is a canon character.",
+      "scene": "Two college kids are the subject, lit by a bulky computer monitor at midnight in a small dorm room, and together they fill the middle of the frame: one typing, one leaning in over the chair back pointing at the screen, both grinning at something that is working. Around them the 2005 dorm texture: a narrow unmade bed, band posters with no readable words, a mini fridge, tangled cables, pizza box, a desk lamp. The screen's glow is warm, its contents soft and unreadable. Deep blue night in the window. If the room is empty of people the image is wrong.",
+      "shot": "group",
+      "negatives": [
+        "readable screen text or UI",
+        "brand logos",
+        "modern flat-screen monitors or smartphones"
+      ],
+      "_caption": "The first one opened when the web came. Two kids in a dorm room could build a page at midnight, and by morning anyone on earth could be standing in it.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-06",
+      "plate": "city-street-commuters",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "anonymous": "A stream of adult commuters in late-1990s and 2000s office clothes walking past, briefcases and coffee cups, and one odd young person in a t-shirt stepping through the door. None is a canon character.",
+      "scene": "A stream of five or six adult commuters is the subject, walking left to right along an ordinary city sidewalk past the plain honey-brown door, which stands open a little in the brick-and-plaster wall with warm light through the gap. Every commuter looks straight ahead, not one of them glancing at it. One young person in a t-shirt and jeans, mid-stride, is halfway through the doorway into the light. The commuters fill the middle band of the frame at full length. If the sidewalk is empty of people the image is wrong. Keep the bottom right calmer than the rest. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "group",
+      "negatives": [
+        "anyone in the crowd looking at the door",
+        "signage or readable text on the street",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "It looked like a toy. Most people walked past it on the way to real jobs. A few odd ones walked through. Nobody labeled the door.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-07",
+      "plate": "museum-hall",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "museum"
+        }
+      ],
+      "anonymous": "Four or five museum visitors of mixed ages seen mostly from behind, admiring the exhibit. None is a canon character.",
+      "scene": "Four or five museum visitors, seen mostly from behind at waist height, stand admiring the plain door where it now hangs in the hall: framed, spotlit, velvet rope in front. On the wall beside the frame a small brass plaque with designed lettering that is fully legible and reads exactly \"THE WEB\", and nothing else. The visitors' heads tilt up at it the way people look at a famous painting. If nobody is standing before the door the image is wrong. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "group",
+      "negatives": [
+        "any lettering other than the quoted plaque string",
+        "lettering on the door face itself",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "The ones who walked through built the shop, the search, the pages where everybody lives. Then the obvious things were all built, and the door swung quietly shut. Later, it got its plaque.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-08",
+      "plate": "city-street-2008",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "anonymous": "One young woman in 2008 street clothes holding up an early smartphone with both hands, and two men in suits walking past behind her. None is a canon character.",
+      "scene": "One young woman is the subject, from the chest up, holding an early flat-slab smartphone up with both hands to photograph the morning street, her face lit with plain delight. Behind her, soft and out of focus, two men in suits walk past shaking their heads at her, and further behind them the plain honey-brown door stands open a little in the wall with warm light through the gap, unnoticed by everyone. The phone screen shows only a soft warm glow, nothing readable. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "close",
+      "negatives": [
+        "readable screen text or UI",
+        "brand logos or a logo on the phone",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "Then a phone became a camera, a wallet, and a map, and a new door opened. Serious people said serious work happens at a desk. The door did not argue. It stood open.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-09",
+      "plate": "city-street-morning",
+      "cast": [],
+      "anonymous": "A dozen ordinary people of mixed ages on a sunlit morning street, every one of them mid-habit with a phone. None is a canon character.",
+      "scene": "A dozen ordinary people are the subject of this sunlit morning street, filling the frame at full length: a runner checking her wrist and phone, a man paying at a coffee cart by tapping his phone, a couple navigating by a phone held between them, a teenager filming a dog, a woman on a bench laughing at her screen. Every screen is a soft unreadable glow. The street is warm, ordinary, alive. If the street is empty of people the image is wrong. Keep the bottom right calmer than the rest.",
+      "shot": "wide",
+      "negatives": [
+        "readable screen text or UI",
+        "brand logos",
+        "signage with readable words"
+      ],
+      "_caption": "The ones who walked through built the apps a billion people touch before breakfast.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-10",
+      "plate": "kitchen-night",
+      "cast": [],
+      "anonymous": "Two young founders, a man and a woman, at a kitchen table late at night. Neither is a canon character.",
+      "scene": "Two young founders fill the middle of the frame from the waist up, sitting side by side at a small kitchen table at night, lit by one laptop between them, watching a line climb on its soft unreadable screen with equal parts terror and joy. Through the dark kitchen window behind them, impossibly far away, glows a vast warehouse of server racks receding in ordered rows, somebody else's building humming through the night for them. Dishes in the sink, cold tea, one hanging bulb.",
+      "shot": "two-shot",
+      "negatives": [
+        "readable screen text or UI",
+        "brand logos",
+        "the server warehouse reading as neon or sci-fi; it is warm distant industrial light"
+      ],
+      "_caption": "Then came a strange one. You could rent computers by the hour, the way you rent a room for the night. A weekend project could survive its own success. Two people could carry what used to take a building.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-11",
+      "plate": "city-park",
+      "cast": [],
+      "anonymous": "Fifteen or so people of mixed ages in a city park at lunchtime, clustered in twos and threes, each cluster sharing something on a phone. None is a canon character.",
+      "scene": "Fifteen or so people are the subject, scattered across a sunny city park at lunchtime in clusters of two and three, and in every single cluster one person is holding a phone out and the others are leaning in and laughing. The same laughter repeats across the park like a wave, cluster after cluster, near to far. Screens are soft unreadable glows. Sandwiches, bikes leaned on benches, a fountain. If the park is empty of people the image is wrong.",
+      "shot": "wide",
+      "negatives": [
+        "readable screen text or UI",
+        "brand logos"
+      ],
+      "_caption": "Then everyone's friends showed up in one place, and a thing people loved could be passed along a million times by lunch.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-12",
+      "plate": "brownstone-street",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "anonymous": "A middle-aged host on a brownstone stoop handing keys down to two young travelers with rolling suitcases. None is a canon character.",
+      "scene": "Three people fill the middle of the frame from the waist up: a middle-aged host standing on the bottom step of a brownstone stoop, handing a set of keys down to two young travelers with rolling suitcases, all three mid-laugh like strangers surprised to be trusting each other. At street level beside the stoop, the plain honey-brown door stands open a little in the wall with warm light through the gap. The street is slightly shabby and completely alive. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "group",
+      "negatives": [
+        "signage or readable text",
+        "brand logos",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "Then strangers learned to trust each other. A spare room here, a spare seat there. Whole marketplaces came in through a door nobody respectable would stand near.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-13",
+      "plate": "laptop-screen",
+      "cast": [
+        {
+          "id": "the-childhood-bedrooms",
+          "plate": "grid"
+        }
+      ],
+      "anonymous": "The small tired faces of young workers inside the video-call tiles, each in a different childhood bedroom. None is a canon character.",
+      "scene": "One laptop screen, seen STRAIGHT-ON, fills the frame nearly edge to edge, showing a video-call grid of tiles, and EVERY tile is bright enough to read clearly: each tile shows a different person in a different childhood bedroom, with band posters, narrow beds, old trophies, a bunk ladder, dinosaur wallpaper, each room lit by its own warm lamp. The faces are small and tired and ordinary. It is late. Only a thin margin of dark desk surrounds the screen. No tile text, no names, no interface labels, nothing readable anywhere on the screen.",
+      "shot": "insert",
+      "negatives": [
+        "readable text, names or UI labels on any tile or poster",
+        "a triumphant or heroic tone; it is late and everyone is tired",
+        "the screen seen at a steep angle or mostly in shadow",
+        "a dark murky screen whose tiles cannot be read",
+        "a hand, keyboard or notebook dominating the foreground"
+      ],
+      "_caption": "Then, for a while, the offices closed, and it turned out a company could be forty childhood bedrooms held together by a screen.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-14",
+      "plate": "museum-hall",
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "maya"
+        }
+      ],
+      "scene": "Two people fill the middle of the frame from the waist up: Gary and Maya, walking slowly together down the hall of framed doors, deep in it now. Gary counts on his fingers, three fingers up, making the third point; Maya watches his hands, nodding, working it through. The framed, spotlit doors recede behind them soft and out of focus, their plaques too small to read. Warm museum light.",
+      "shot": "two-shot",
+      "negatives": [
+        "readable plaque text anywhere in this image"
+      ],
+      "_caption": "The guide says the doors follow three rules. A door opens when something newly built makes a new kind of company possible. It closes as the obvious things get made. And while it is open, it never looks important. That is why founders call them windows.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-15",
+      "plate": "hindsight-allegory",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "anonymous": "A small crowd of eight or nine people gathered before a framed, spotlit, roped-off door, and apart from them one lone figure stepping through the plain open door. None is a canon character.",
+      "scene": "A small crowd of eight or nine people is the subject, gathered close before a grand framed spotlit door on the left, all of them waiting, some checking watches, one photographing its plaque, which is too small to read. On the right, in a bare stretch of the same wall, the plain honey-brown door stands open a little with warm light through the gap, and ONE lone figure, mid-stride, is walking through it while nobody in the crowd notices. The two doors are the same door design; only the dressing differs. If either group is missing the image is wrong. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "imagined",
+      "negatives": [
+        "readable plaque text",
+        "anyone in the crowd looking toward the plain door",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "The ones who won were rarely the smartest people in the hall. They were the ones who saw a plain door standing open and walked through it while everyone else waited for a plaque.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-16",
+      "plate": "museum-hall-end",
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "maya"
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "Gary and Maya stand together at full length, small against the bare end wall of the museum hall, having arrived at the last thing in it: the plain honey-brown door, unframed, unlit by any spotlight, standing open a little with warm golden light spilling through the gap onto the floor toward them. No rope, no plaque, no frame. Behind them, far back down the hall, the framed exhibited doors glow in their little pools of light. The end wall is otherwise completely bare. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "wide",
+      "negatives": [
+        "any frame, plaque, rope or spotlight on or near the end-wall door",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "At the end of the hall there is no frame, no rope, no spotlight. There is a wall. In the wall there is a door, and the door is open.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-17",
+      "plate": "museum-hall-end",
+      "cast": [
+        {
+          "id": "maya"
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "One face fills the frame from the chest up: Maya, in profile at the plain door, leaning her ear toward the open gap, one hand resting flat on the honey-brown wood. Warm golden light from the gap falls across her cheek and shoulder. Her eyes are open and still; she is listening the way you listen to something you can almost hear. The door's brass knob catches the light near her hand. Nothing behind the door is visible, only light. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "close",
+      "negatives": [
+        "anything visible through the gap other than warm light",
+        "a fearful or anxious expression; this is attention, not dread",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "Listen at the gap. Behind this one is intelligence that keeps working after you go to bed. You hand it the outcome you want. It goes away for hours and comes back with the work done.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-18",
+      "plate": "desk-room",
+      "cast": [
+        {
+          "id": "maya"
+        },
+        {
+          "id": "chief-of-agents"
+        },
+        {
+          "id": "sub-agent",
+          "pose": "working"
+        },
+        {
+          "id": "sub-agent",
+          "pose": "en-route-a"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "Maya sits at a plain desk in a small evening room, calm, one mug beside her, her laptop open and unmistakably glowing warm Claude-orange: the screen light, a soft rim of orange light along the lid's edge, and the orange glow falling on her hands and the desk around it. Above and behind the screen the picture opens into the digital space, painted as a soft luminous workshop in the air: the Chief of Agents in its gold admiral hat stands nearest the screen receiving work, one sub-agent heads-down typing at a tiny holographic terminal, and one sub-agent mid-stride carrying a fanned armful of glowing papers toward the Chief with a thin dotted glowing tether arcing between them. Every agent stays inside the digital space; none crosses into the real room. Maya's real room stays quiet and warm and ordinary.",
+      "shot": "wide",
+      "negatives": [
+        "any agent standing in the real room or touching real objects",
+        "readable text on the laptop screen or the glowing papers",
+        "neon or sci-fi HUD treatment of the digital space",
+        "a grey, white or blue laptop screen glow; the laptop's glow is warm orange"
+      ],
+      "_caption": "Behind this one, a founder with good judgment can run a company's worth of work from one desk, and the machines that carry it are kept running by somebody else, somewhere else.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-19",
+      "plate": "museum-hall-end",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "A close, quiet detail of the plain door: the round brass knob at mid-height on the left edge as viewed, the grain of the honey-brown wood, and the strip of warm golden light along the open gap, falling in a soft band across the floorboards. Nothing else. No hand, no figure, no lettering, nothing visible through the gap but light. The stillness is the subject. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "insert",
+      "negatives": [
+        "any lettering, plaque or sign",
+        "any hand or figure",
+        "anything visible through the gap other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "The obvious things have not been built yet. There is no line, and there is no plaque. Nobody labeled the door. The labels come later.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-20",
+      "plate": "imagined-future",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "museum"
+        }
+      ],
+      "scene": "The same plain door as it will hang someday: framed on the cream museum wall, a soft spotlight pooling on it, the velvet rope in place, the floor polished and empty of people. On the wall beside the frame, a small brass plaque with designed lettering that is fully legible and reads exactly \"THE AGENTS\" in two clean words, spelled letter for letter T-H-E A-G-E-N-T-S, and nothing else. The scene is imagined, serene, a little too tidy, the way the past always looks once it is finished. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "imagined",
+      "negatives": [
+        "any lettering other than the quoted plaque string",
+        "lettering on the door face itself",
+        "any people",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "Someday this door will hang in the hall like the others, lit and labeled and roped off, and people will say nobody could have missed it. That is how every open door looks, after.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-21",
+      "plate": "museum-hall-end",
+      "cast": [
+        {
+          "id": "maya"
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "Maya, seen from behind at full length, is mid-step through the plain door, which now stands wider open. Her torso is turned away from the camera and squared to the doorway; head and body point the same way, into the warm golden light, so the camera sees her back, the back of her head, and the silver laptop under her left arm. Her right hand rests on the door's edge, pushing it gently wider. The light through the doorway washes over her without revealing anything beyond. The bare museum wall around the door is quiet. Her face is not visible and does not need to be. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "wide",
+      "negatives": [
+        "her face or the front of her blazer visible",
+        "anything visible through the doorway other than warm light",
+        "hesitation in her posture; she is already going",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "The visitor does not wait for the plaque. She puts her hand on the door, and she walks through.",
+      "pos": "bottom"
+    },
+    {
+      "id": "spread-22",
+      "plate": "museum-hall-end",
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "The plain door from straight on and slightly low, as if the viewer is standing before it: open wider than we have ever seen it, warm golden light flooding through the gap and across the floorboards to the very bottom edge of the frame, reaching the viewer's own feet, though no feet are shown. The honey-brown wood, the four panels, the round brass knob on the left edge as viewed. No plaque, no frame, no rope, no figure. Nothing beyond the door is visible, only light. The invitation is the whole picture. Keep the top of the frame calm for the caption. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+      "shot": "insert",
+      "negatives": [
+        "any lettering, plaque, frame or rope",
+        "any figure, hand or feet",
+        "anything visible through the doorway other than warm light",
+        "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+      ],
+      "_caption": "This era's door is open. Will you walk through it?",
+      "pos": "top"
+    }
+  ]
+}

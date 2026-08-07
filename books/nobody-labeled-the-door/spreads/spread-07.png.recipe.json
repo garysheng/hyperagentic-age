@@ -1,0 +1,64 @@
+{
+  "asset": "spread-07.png",
+  "assetSha256_16": "64a22cc600e8ffd0",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-07",
+  "descriptor": {
+    "id": "spread-07",
+    "plate": "museum-hall",
+    "cast": [
+      {
+        "id": "the-plain-door",
+        "plate": "museum"
+      }
+    ],
+    "anonymous": "Four or five museum visitors of mixed ages seen mostly from behind, admiring the exhibit. None is a canon character.",
+    "scene": "Four or five museum visitors, seen mostly from behind at waist height, stand admiring the plain door where it now hangs in the hall: framed, spotlit, velvet rope in front. On the wall beside the frame a small brass plaque with designed lettering that is fully legible and reads exactly \"THE WEB\", and nothing else. The visitors' heads tilt up at it the way people look at a famous painting. If nobody is standing before the door the image is wrong. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door.",
+    "shot": "group",
+    "negatives": [
+      "any lettering other than the quoted plaque string",
+      "lettering on the door face itself",
+      "a six-panel colonial door, a third row of panels at the bottom of the door leaf"
+    ],
+    "_caption": "The ones who walked through built the shop, the search, the pages where everybody lives. Then the obvious things were all built, and the door swung quietly shut. Later, it got its plaque.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Four or five museum visitors, seen mostly from behind at waist height, stand admiring the plain door where it now hangs in the hall: framed, spotlit, velvet rope in front. On the wall beside the frame a small brass plaque with designed lettering that is fully legible and reads exactly \"THE WEB\", and nothing else. The visitors' heads tilt up at it the way people look at a famous painting. If nobody is standing before the door the image is wrong. Keep the bottom right calm. The door leaf has EXACTLY FOUR recessed panels in TWO rows and no more: a top row of two small square panels, and below it a single row of two tall rectangular panels that reach nearly to the floor with only a plain flat rail beneath them. There is NO third row of panels at the bottom of the door. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: Four or five museum visitors of mixed ages seen mostly from behind, admiring the exhibit. None is a canon character.. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, any lettering other than the quoted plaque string, lettering on the door face itself, a six-panel colonial door, a third row of panels at the bottom of the door leaf. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plain-door/museum.png",
+      "sha256_16": "a17005ed4c6264e0"
+    }
+  ],
+  "qa": [
+    "the-plain-door: single-plain-solid-wood-door-warm-honey-brown",
+    "the-plain-door: four-recessed-panels-two-small-above-two-tall",
+    "the-plain-door: leaf-roughly-twice-as-tall-as-wide-standard-door-proportions",
+    "the-plain-door: round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
+    "the-plain-door: no-lettering-no-sign-no-plaque-on-the-door-face-ever",
+    "the-plain-door: identical-door-design-in-every-state-and-every-era",
+    "the-plain-door: open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+    "the-plain-door: museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
+    "the-plain-door: nothing-ominous-through-any-gap-warm-light-never-darkness",
+    "the-plain-door: warm-editorial-register-never-photoreal",
+    "the-plain-door: four recessed panels: two small panels above two tall panels, at crop-zoom",
+    "the-plain-door: round brass knob at mid-height on the LEFT edge as viewed",
+    "the-plain-door: leaf roughly twice as tall as wide, standard door proportions",
+    "the-plain-door: NO lettering, sign, or plaque anywhere on the door face",
+    "the-plain-door: any open gap shows only warm light, never a room or scene behind",
+    "the-plain-door: museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
+    "the-plain-door: warm-editorial, never photoreal"
+  ]
+}

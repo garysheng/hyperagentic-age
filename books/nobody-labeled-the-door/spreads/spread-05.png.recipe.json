@@ -1,0 +1,37 @@
+{
+  "asset": "spread-05.png",
+  "assetSha256_16": "1b596e16c52d75ad",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "2c0a4b7eb708f67ebc3a58d3423f9b2a01c93f96",
+  "book": "nobody-labeled-the-door",
+  "story": "nobody-labeled-the-door",
+  "spread": "spread-05",
+  "descriptor": {
+    "id": "spread-05",
+    "plate": "dorm-room-2005",
+    "cast": [],
+    "anonymous": "Two college kids, about nineteen, one at the keyboard and one leaning over the chair back, in a cluttered 2005 dorm room. Neither is a canon character.",
+    "scene": "Two college kids are the subject, lit by a bulky computer monitor at midnight in a small dorm room, and together they fill the middle of the frame: one typing, one leaning in over the chair back pointing at the screen, both grinning at something that is working. Around them the 2005 dorm texture: a narrow unmade bed, band posters with no readable words, a mini fridge, tangled cables, pizza box, a desk lamp. The screen's glow is warm, its contents soft and unreadable. Deep blue night in the window. If the room is empty of people the image is wrong.",
+    "shot": "group",
+    "negatives": [
+      "readable screen text or UI",
+      "brand logos",
+      "modern flat-screen monitors or smartphones"
+    ],
+    "_caption": "The first one opened when the web came. Two kids in a dorm room could build a page at midnight, and by morning anyone on earth could be standing in it.",
+    "pos": "bottom"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Two college kids are the subject, lit by a bulky computer monitor at midnight in a small dorm room, and together they fill the middle of the frame: one typing, one leaning in over the chair back pointing at the screen, both grinning at something that is working. Around them the 2005 dorm texture: a narrow unmade bed, band posters with no readable words, a mini fridge, tangled cables, pizza box, a desk lamp. The screen's glow is warm, its contents soft and unreadable. Deep blue night in the window. If the room is empty of people the image is wrong. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: Two college kids, about nineteen, one at the keyboard and one leaning over the chair back, in a cluttered 2005 dorm room. Neither is a canon character.. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, readable screen text or UI, brand logos, modern flat-screen monitors or smartphones. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}
