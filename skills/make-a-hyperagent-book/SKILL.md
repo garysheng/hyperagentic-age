@@ -95,6 +95,22 @@ first-class design element here: a promise on a door, a posted notice, a plaque,
 Ships to books.garysheng.com via the platform-delivery skill when the book is blessed and Gary
 asks. Private-by-default for real-person books, per the universe law above.
 
+## 6b. Editing a shipped book: know the one-command route first
+
+Edits route to `abu:update-book`. But if the edit is ART-ONLY on one slot — "re-roll the
+closing plate", "same cover, warmer light" — the whole reproduction context already sits in
+the `.recipe.json` beside the asset, and the route is ONE command with ZERO canon reads:
+
+```bash
+python3 <abu>/skills/reroll-slot/scripts/reroll_from_recipe.py \
+  books/<book>/closing-plate.png --note "<the one delta>"
+```
+
+It replays the recorded generate + conform + publish chain and prints the readback
+reminder. Earned in THIS universe: the 2026-08-07 closing-plate edit on
+nobody-labeled-the-door took 85 tool calls (71 before the first generation) with the
+answer sitting in the recipe the whole time; the reroll verb replays it in one call.
+
 ## 7. Worked examples
 
 - `stories/ai-safety-primer.json` — a 5-spread primer of Anthropic's AI-safety worldview, beats
