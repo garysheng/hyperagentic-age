@@ -1,0 +1,35 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-dress-rehearsal/cover-raw.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts/conform_cover.py",
+  "args": {
+    "aspect": "3:4",
+    "mode": "pad",
+    "inset": 1.0,
+    "blur": 40,
+    "keyline": null
+  },
+  "prompt": null,
+  "sourceRender": {
+    "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. ruth exactly as its reference sheets: older-latina-woman-sixties; dark-hair-heavily-streaked-with-silver-in-a-short-practical-cut; reading-glasses-on-a-small-beaded-cord-around-her-neck; soft-rust-cardigan-over-a-simple-cream-blouse-default; warm-unhurried-expression-never-stern-never-saccharine; warm-editorial-register. Ruth sits in the adult-sized reading chair, leaning forward, an open picture book held up in both hands, reading aloud in her full storytelling voice to a loose half-circle of empty low wooden chairs before her, warm late daylight from the tall window falling across the rug CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. THIS COVER CARRIES 2 LINE(S) OF HAND-LETTERED TEXT AND EVERY ONE IS REQUIRED. Bake them spelled EXACTLY, and NO other text anywhere: \"The Dress Rehearsal\" | \"A HYPERAGENTIC AGE story\". COMPOSE THE ART SO THERE IS ROOM FOR THEM: keep an uncluttered, quiet, low-detail area behind every line so each one reads clearly, with the first line(s) toward the top of the frame and the last line small along the bottom. Busy detail, faces, bright highlights and hard edges must not sit under any line of lettering. IF ANY OF THESE LINES IS MISSING FROM THE FINISHED IMAGE THE IMAGE IS WRONG, however good the art is. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high"
+  },
+  "transform": "1024x1536 -> 1152x1536",
+  "inputs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-dress-rehearsal/cover-raw.png",
+      "sha256_16": "c1ff6c736da20fb5",
+      "role": "source render"
+    }
+  ],
+  "sha256_16": "c1ff6c736da20fb5",
+  "derivedFrom": {
+    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-dress-rehearsal/cover-raw.png",
+    "recipe": null,
+    "sha256_16": "c1ff6c736da20fb5"
+  },
+  "note": "DERIVATIVE, not a generation. The cover was conformed to the reader platform's page aspect by conform_cover.py. No image model was called and no pixels of the sharp art were repainted; see derivedFrom for the recipe of the render this came from."
+}

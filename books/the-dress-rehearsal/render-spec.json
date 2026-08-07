@@ -1,0 +1,23 @@
+{
+  "book": "the-dress-rehearsal",
+  "story": "the-dress-rehearsal",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth"
+        }
+      ],
+      "scene": "Ruth is the subject of this picture, and she is performing to an empty room on purpose. She sits in the adult-sized reading chair at the head of the rug, leaning forward, an open picture book held up in both hands with its pages turned toward the loose half-circle of empty low wooden chairs in front of her, reading aloud in her full storytelling voice: mouth open mid-word, eyebrows lifted, face warm and animated as if the room were full. Every low chair is empty, and the emptiness is the point; no children and no other people appear anywhere in the picture. If the low chairs have children in them the image is wrong. Last warm light of the day comes through the tall window and falls across the rug. The low shelf of picture books sits soft in the background. The camera is low, near a child's eye height, looking across the rug and the empty chairs toward her. Keep the bottom right of the frame calm and uncluttered.",
+      "shot": "wide",
+      "pos": "bottom",
+      "_caption": "The night before the children come, Ruth reads the lesson to the empty chairs in her full reading voice, from the first word to the last. When the seats are filled tomorrow, it will be the second time she has done this, and only she will know."
+    }
+  ]
+}

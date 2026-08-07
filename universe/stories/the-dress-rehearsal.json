@@ -1,0 +1,34 @@
+{
+  "id": "the-dress-rehearsal",
+  "title": "The Dress Rehearsal",
+  "logline": "The night before the children come, Ruth performs the lesson once for nobody. A dress rehearsal is the real show run at full strength before the audience arrives, so the first time in front of the children is already the second time she has done it.",
+  "spine": "thesis",
+  "spineNote": "The argued object is WHY YOU REHEARSE IN COSTUME. A read-through at half voice proves nothing; the only rehearsal that counts is the one that is identical to the show, run once, all the way through, for an empty house. This book IS that rehearsal: a deliberately minimal book made to exercise the production chain at full strength before a real book travels it, and it says so plainly. One beat, because one full pass is what a dress rehearsal is.",
+  "refrain": "Run it once for nobody.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "ruth",
+    "church-classroom"
+  ],
+  "aimDiscipline": [
+    "THIS IS A TEST ARTIFACT AND IT DOES NOT PRETEND OTHERWISE. It reuses Ruth and her reading room exactly as canon locks them, adds nothing new to canon, and exists to prove the chain end to end at full strength before the real show. A render that invents a new character or a new room has failed the rehearsal it was built to run."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "The night before the children come, Ruth reads the lesson to the empty chairs in her full reading voice, from the first word to the last. When the seats are filled tomorrow, it will be the second time she has done this, and only she will know.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The dress-rehearsal doctrine: run the show identically, at full strength, for an empty house, before any audience sees it. Authored 2026-08-07 as the pipeline's full-dress exercise, sibling to the-smoke-test."
+    }
+  ],
+  "writesBack": []
+}
