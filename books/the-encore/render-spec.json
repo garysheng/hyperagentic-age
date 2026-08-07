@@ -1,0 +1,24 @@
+{
+  "book": "the-encore",
+  "story": "the-encore",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "church-classroom",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "ruth",
+          "pose": "front"
+        }
+      ],
+      "scene": "Ruth is the subject of this picture, seen from the waist up, and she is starting the lesson over on purpose. She sits in the adult-sized reading chair at the head of the rug, the open picture book resting in her lap and tilted up toward her, and with one hand she turns a thick wedge of pages back toward the front of the book: she has just read the lesson to the end, and she is beginning it again. Her eyes are down on the page and her face is warm, unhurried and quietly satisfied, with the smallest knowing smile; she does not look tired and she does not look bored. The backs of two empty low wooden chairs sit soft and out of focus in the near foreground at the bottom left, and the emptiness is the point: no children and no other people appear anywhere in the picture, and if any chair has a child in it the image is wrong. Dusk light, a shade past golden hour, comes through the tall window and warms the side of her face and the cardigan. The low shelf of picture books sits soft in the background. Ruth sits left of center, and the bottom right of the frame stays calm and uncluttered.",
+      "shot": "close",
+      "pos": "bottom",
+      "_caption": "When the last word lands, Ruth closes the book and sits a moment in the quiet. Then she opens it back to the first page and reads the lesson through again, at full voice, for the same empty chairs. Once could be luck. Again is the proof."
+    }
+  ]
+}

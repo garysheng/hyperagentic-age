@@ -1,0 +1,25 @@
+{
+ "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-encore/closing-plate.png",
+ "model": "none (deterministic image transform, no model call)",
+ "mode": "derive",
+ "tool": "abu:cover/scripts (compile_cover --no-cast --no-text -> provider -> conform_cover)",
+ "args": {
+  "publish": "platform-facing copy of the conformed closing plate"
+ },
+ "prompt": null,
+ "transform": "copy (byte-identical; no resample, no crop, no repaint)",
+ "inputs": [
+  {
+   "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-encore/closing-plate-raw.png",
+   "sha256_16": "8d2bb646ea960ec5",
+   "role": "conformed closing plate"
+  }
+ ],
+ "sha256_16": "8d2bb646ea960ec5",
+ "derivedFrom": {
+  "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-encore/closing-plate-raw.png",
+  "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-encore/closing-plate-raw.png.recipe.json",
+  "sha256_16": "8d2bb646ea960ec5"
+ },
+ "note": "DERIVATIVE, not a generation. Platform-facing name for the conformed closing plate; derivedFrom carries the recipe of the render that made the art. Produced by chaining the cover skill's compile (--no-cast --no-text), the provider call, and conform_cover, matching the-dress-rehearsal's closing-plate chain."
+}

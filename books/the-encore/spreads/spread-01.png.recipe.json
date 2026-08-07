@@ -1,0 +1,56 @@
+{
+  "asset": "spread-01.png",
+  "assetSha256_16": "11f501608237e1f4",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "74ece17e14a1b52937f3a4e95c86aeddd468799a",
+  "book": "the-encore",
+  "story": "the-encore",
+  "spread": "spread-01",
+  "descriptor": {
+    "id": "spread-01",
+    "setting": "church-classroom",
+    "plate": "establishing",
+    "cast": [
+      {
+        "id": "ruth",
+        "pose": "front"
+      }
+    ],
+    "scene": "Ruth is the subject of this picture, seen from the waist up, and she is starting the lesson over on purpose. She sits in the adult-sized reading chair at the head of the rug, the open picture book resting in her lap and tilted up toward her, and with one hand she turns a thick wedge of pages back toward the front of the book: she has just read the lesson to the end, and she is beginning it again. Her eyes are down on the page and her face is warm, unhurried and quietly satisfied, with the smallest knowing smile; she does not look tired and she does not look bored. The backs of two empty low wooden chairs sit soft and out of focus in the near foreground at the bottom left, and the emptiness is the point: no children and no other people appear anywhere in the picture, and if any chair has a child in it the image is wrong. Dusk light, a shade past golden hour, comes through the tall window and warms the side of her face and the cardigan. The low shelf of picture books sits soft in the background. Ruth sits left of center, and the bottom right of the frame stays calm and uncluttered.",
+    "shot": "close",
+    "pos": "bottom",
+    "_caption": "When the last word lands, Ruth closes the book and sits a moment in the quiet. Then she opens it back to the first page and reads the lesson through again, at full voice, for the same empty chairs. Once could be luck. Again is the proof."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Ruth is the subject of this picture, seen from the waist up, and she is starting the lesson over on purpose. She sits in the adult-sized reading chair at the head of the rug, the open picture book resting in her lap and tilted up toward her, and with one hand she turns a thick wedge of pages back toward the front of the book: she has just read the lesson to the end, and she is beginning it again. Her eyes are down on the page and her face is warm, unhurried and quietly satisfied, with the smallest knowing smile; she does not look tired and she does not look bored. The backs of two empty low wooden chairs sit soft and out of focus in the near foreground at the bottom left, and the emptiness is the point: no children and no other people appear anywhere in the picture, and if any chair has a child in it the image is wrong. Dusk light, a shade past golden hour, comes through the tall window and warms the side of her face and the cardigan. The low shelf of picture books sits soft in the background. Ruth sits left of center, and the bottom right of the frame stays calm and uncluttered. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. ruth rendered exactly per the supplied reference images: older latina woman sixties; dark hair heavily streaked with silver in a short practical cut; reading glasses on a small beaded cord around her neck; soft rust cardigan over a simple cream blouse default; warm unhurried expression never stern never saccharine; warm editorial register. Ruth is an older Latina woman in her sixties. Her dark hair, heavily streaked with silver, is cut short and practical. Her reading glasses hang on a small beaded cord around her neck. By default she wears a soft rust cardigan over a simple cream blouse. Her expression is warm and unhurried, never stern and never saccharine, and she is usually holding something ordinary she is about to read from. Warm and practical, never a caricature: no habit, no cross worn as a prop, nothing denominational. church-classroom exactly as its reference plate: One small room in a modest church, used for reading to children. A worn rug covers the middle of the floor. Low wooden chairs stand in a loose half-circle facing one slightly larger reading chair. A low shelf of picture books runs along one wall. One tall window on the opposite wall throws warm daylight across the rug. Cream walls. No sanctuary, no pews, no altar, no stage, no other rooms. The camera sits low, near a child's eye height, looking across the rug toward the reading chair with the window light coming from the side. Keep the frame close to the half-circle so the room reads in one glance. To feel later or fuller, change what is ON the rug and the shelf rather than adding rooms or furniture. A worn rug, low wooden chairs, one reading chair, a low shelf of picture books, a tall window with warm daylight, a few floor cushions. Low element count. No signage, no posters, no banners, no labels, no lettering on any book spine or wall. Small. A child standing on the rug reaches roughly the height of the window sill, and the reading chair is adult-sized among child-sized ones. THE ONLY CHARACTERS IN THIS IMAGE ARE: ruth. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/ruth/forward-fullbody.png",
+      "sha256_16": "d850ed45e143499d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/ruth/face-neutral.png",
+      "sha256_16": "21cdfd493b54c640"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/church-classroom/establishing.png",
+      "sha256_16": "d298a9903c858dc6"
+    }
+  ],
+  "qa": [
+    "ruth: older-latina-woman-sixties",
+    "ruth: dark-hair-heavily-streaked-with-silver-in-a-short-practical-cut",
+    "ruth: reading-glasses-on-a-small-beaded-cord-around-her-neck",
+    "ruth: soft-rust-cardigan-over-a-simple-cream-blouse-default",
+    "ruth: warm-unhurried-expression-never-stern-never-saccharine",
+    "ruth: warm-editorial-register"
+  ]
+}

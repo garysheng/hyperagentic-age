@@ -28,7 +28,18 @@
       "soft-rust-cardigan-over-a-simple-cream-blouse-default",
       "warm-unhurried-expression-never-stern-never-saccharine",
       "warm-editorial-register"
-    ]
+    ],
+    "render": {
+      "always": "Ruth is an older Latina woman in her sixties. Her dark hair, heavily streaked with silver, is cut short and practical. Her reading glasses hang on a small beaded cord around her neck. By default she wears a soft rust cardigan over a simple cream blouse. Her expression is warm and unhurried, never stern and never saccharine, and she is usually holding something ordinary she is about to read from. Warm and practical, never a caricature: no habit, no cross worn as a prop, nothing denominational.",
+      "poses": {
+        "front": {
+          "sheets": [
+            "forward-fullbody",
+            "face-neutral"
+          ]
+        }
+      }
+    }
   },
   "prose": {
     "voice": "She runs the children's reading at a small church. She has taught the same lessons for twenty years and knows exactly what makes one land, which is the knowledge nobody has ever asked her to write down.",

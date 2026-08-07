@@ -7,6 +7,15 @@
     "lockedOn": null
   },
   "status": "locked",
+  "structured": {
+    "sheets": {
+      "establishing": "reference/church-classroom/establishing.png",
+      "blueprint": "reference/church-classroom/blueprint.png"
+    },
+    "requiredForRender": [
+      "establishing"
+    ]
+  },
   "contract": {
     "turnaround": "reference/church-classroom/establishing.png",
     "emptyPlates": [

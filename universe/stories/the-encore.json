@@ -1,0 +1,34 @@
+{
+  "id": "the-encore",
+  "title": "The Encore",
+  "logline": "The dress rehearsal went clean, so Ruth runs the lesson once more, the same way, at full voice, for the same empty chairs. An encore before an audience exists proves the thing the first pass could not: that the first pass was no accident.",
+  "spine": "thesis",
+  "spineNote": "The argued object is WHY A CLEAN RUN GETS RUN AGAIN. One green pass at full strength tells you the chain can work; only the second identical pass tells you it works repeatably, because once could be luck and again is the proof. This book IS that second pass: a deliberately minimal book made to travel the production chain a second time, the same way, before a real book relies on it.",
+  "refrain": "Again is the proof.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "ruth",
+    "church-classroom"
+  ],
+  "aimDiscipline": [
+    "THIS IS A TEST ARTIFACT AND IT DOES NOT PRETEND OTHERWISE. It reuses Ruth and her reading room exactly as canon locks them, adds nothing new to canon, and exists to prove the chain runs clean a second time, the same way, before a real book travels it. A render that invents a new character or a new room has failed the rehearsal it was built to run."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "When the last word lands, Ruth closes the book and sits a moment in the quiet. Then she opens it back to the first page and reads the lesson through again, at full voice, for the same empty chairs. Once could be luck. Again is the proof.",
+      "location": "church-classroom",
+      "characters": [
+        "ruth"
+      ],
+      "provenance": "The encore doctrine: a clean pass proven once is proven by luck until the identical pass returns the same result. Authored 2026-08-07 as the pipeline's repeat exercise, third rehearsal artifact, sibling to the-smoke-test and the-dress-rehearsal."
+    }
+  ],
+  "writesBack": []
+}
