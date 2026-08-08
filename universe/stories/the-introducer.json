@@ -18,7 +18,8 @@
     "maya",
     "sub-agent",
     "supercharged-laptop",
-    "gary-vee"
+    "gary-vee",
+    "the-plain-door"
   ],
   "aimDiscipline": [
     "THE REFRAIN CHANGES OBJECTS AND THAT IS THE BOOK. 'Let me introduce you' joins a stranger to a room (1), founders to agents (9), intention to evolution (11), and the reader to David himself (15). Every refrain spread must make BOTH parties of the introduction legible in the art.",
@@ -174,6 +175,17 @@
     },
     {
       "n": 17,
+      "text": "At Anthropic his introductions found a new scale. Two companies building on Claude, solving cousin problems in different cities, ought to be comparing notes. They had never met. Now they meet, because David noticed. Builders, meet builders. Let me introduce you.",
+      "location": null,
+      "characters": [
+        "david-kobrosky",
+        "sub-agent",
+        "supercharged-laptop"
+      ],
+      "provenance": "Gary's commission (2026-08-08): 'David, as prophesized, helping companies that build on top of Anthropic that should know each other and compare notes and are not in common.' The introduction craft at ecosystem scale; fourth object of the refrain."
+    },
+    {
+      "n": 18,
       "text": "Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.",
       "characters": [
         "maya",
@@ -183,7 +195,7 @@
       "provenance": "Gary's commission: 'helping awaken so many, so many people to just the opportunity that we have today.' Maya is this universe's canonical founder-learner, reused as the awakened founder. The before-and-after is the wiki's compounding-loop claim made visible."
     },
     {
-      "n": 18,
+      "n": 19,
       "text": "Underneath the career sits the thing David actually believes. One of the finest human qualities is that we do not have to wait for our evolution. We can look at what we are, decide what we would rather become, and build the bridge on purpose. Intention, meet evolution. Let me introduce you.",
       "characters": [
         "david-kobrosky"
@@ -191,7 +203,7 @@
       "provenance": "Gary's commission, David's stated belief: 'one of the greatest qualities that humans have is our ability to consciously use our evolution.' The refrain's third object, and the book's thesis-inside-the-ode."
     },
     {
-      "n": 19,
+      "n": 20,
       "text": "For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.",
       "characters": [
         "david-kobrosky",
@@ -200,7 +212,7 @@
       "provenance": "PRM: engaged to Mikaela (engagement shoot June 2026); Gary confirmed in the commission session that she is now his wife. The couple photos Gary supplied are the likeness source."
     },
     {
-      "n": 20,
+      "n": 21,
       "text": "What works in a room works in the world. A society is a community of communities, and it has edges too, crowded with people slipping through cracks. Hyperagents can build the systems that notice them, welcome them in, and waste nobody. That is the world worth building toward.",
       "characters": [
         "david-kobrosky"
@@ -208,7 +220,7 @@
       "provenance": "Gary's commission: 'how communities can be improved, how society can be improved.' David's falling-through-the-cracks doctrine (movement 2) scaled from the room to the society, which is the ode's honest way to make the big claim."
     },
     {
-      "n": 21,
+      "n": 22,
       "text": "The coming years belong to people like this. Teachers with a thousand patient helpers. Doctors whose agents read every new paper overnight. Neighbors who can organize a block as easily as a group chat. People who choose their evolution on purpose, and choose it for the rest of us too.",
       "characters": [
         "sub-agent"
@@ -216,7 +228,17 @@
       "provenance": "Gary's commission: 'forecast some of the amazing things we're going to do in the coming years.' Kept as a crowd of ordinary vocations rather than sci-fi spectacle, per the universe's warm-editorial register."
     },
     {
-      "n": 22,
+      "n": 23,
+      "text": "And one more thing, spoken here as prophecy. Someday, when his amazing tour at Anthropic is complete, David will go and build one of the greatest consumer intelligence platforms of all time, a place where companies finally know the people they serve. But that is a story for another day.",
+      "location": null,
+      "characters": [
+        "david-kobrosky",
+        "the-plain-door"
+      ],
+      "provenance": "Gary's commission (2026-08-08): 'after an amazing tour of beauty at Anthropic, he goes on to build one of the greatest consumer intelligence platforms, of all time, but that's a story for another day.' The plain door reused from nobody-labeled-the-door: an unlabeled door ajar with warm light IS a story for another day. Crossover receipt."
+    },
+    {
+      "n": 24,
       "text": "So this book is an introduction too, the kind David never thinks to make for himself. Reader, here is a man who spends his days connecting people to people, founders to the future, and humanity to its own next chapter. David, meet everyone. Everyone, meet David. Let me introduce you.",
       "characters": [
         "david-kobrosky"

@@ -66,24 +66,32 @@ His old craft came with him. Founders arrive nervous, certain that everyone else
 
 ## Spread 17
 
-Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.
+At Anthropic his introductions found a new scale. Two companies building on Claude, solving cousin problems in different cities, ought to be comparing notes. They had never met. Now they meet, because David noticed. Builders, meet builders. Let me introduce you.
 
 ## Spread 18
 
-Underneath the career sits the thing David actually believes. One of the finest human qualities is that we do not have to wait for our evolution. We can look at what we are, decide what we would rather become, and build the bridge on purpose. Intention, meet evolution. Let me introduce you.
+Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.
 
 ## Spread 19
 
-For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.
+Underneath the career sits the thing David actually believes. One of the finest human qualities is that we do not have to wait for our evolution. We can look at what we are, decide what we would rather become, and build the bridge on purpose. Intention, meet evolution. Let me introduce you.
 
 ## Spread 20
 
-What works in a room works in the world. A society is a community of communities, and it has edges too, crowded with people slipping through cracks. Hyperagents can build the systems that notice them, welcome them in, and waste nobody. That is the world worth building toward.
+For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.
 
 ## Spread 21
 
-The coming years belong to people like this. Teachers with a thousand patient helpers. Doctors whose agents read every new paper overnight. Neighbors who can organize a block as easily as a group chat. People who choose their evolution on purpose, and choose it for the rest of us too.
+What works in a room works in the world. A society is a community of communities, and it has edges too, crowded with people slipping through cracks. Hyperagents can build the systems that notice them, welcome them in, and waste nobody. That is the world worth building toward.
 
 ## Spread 22
+
+The coming years belong to people like this. Teachers with a thousand patient helpers. Doctors whose agents read every new paper overnight. Neighbors who can organize a block as easily as a group chat. People who choose their evolution on purpose, and choose it for the rest of us too.
+
+## Spread 23
+
+And one more thing, spoken here as prophecy. Someday, when his amazing tour at Anthropic is complete, David will go and build one of the greatest consumer intelligence platforms of all time, a place where companies finally know the people they serve. But that is a story for another day.
+
+## Spread 24
 
 So this book is an introduction too, the kind David never thinks to make for himself. Reader, here is a man who spends his days connecting people to people, founders to the future, and humanity to its own next chapter. David, meet everyone. Everyone, meet David. Let me introduce you.

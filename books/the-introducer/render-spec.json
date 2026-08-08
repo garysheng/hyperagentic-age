@@ -373,6 +373,34 @@
       "plate": null,
       "cast": [
         {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "sub-agent"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "A WARM PRIVATE DINING ROOM SET FOR INTRODUCTIONS, and DAVID KOBROSKY stands at the head of a long wooden table gesturing two small founder teams toward each other, one team seated on each side. On the LEFT, two founders half-risen from their chairs; on the RIGHT, two more leaning across with hands extended toward their counterparts; ALL FOUR founders' EYES ARE ON EACH OTHER across the table, faces lighting with recognition, while DAVID'S EYES move between them, delighted. In front of each team sits an open SUPERCHARGED LAPTOP glowing coral, each SCREEN FACING ITS OWN TEAM. Two small coral holographic SUB-AGENTS in glowing white sailor caps carry a bread basket and a carafe down the table like tiny waiters. Warm pendant light, wine glasses, notebooks. It reads as a dinner, never a boardroom. Lower-right: table wood and one folded napkin, calm.",
+      "_caption": "At Anthropic his introductions found a new scale. Two companies building on Claude, solving cousin problems in different cities, ought to be comparing notes. They had never met. Now they meet, because David noticed. Builders, meet builders. Let me introduce you.",
+      "shot": "group",
+      "pos": "top-left",
+      "anonymous": "Four founders, two per team, all visibly distinct from David and from each other: a tall Black woman in a rust blazer and a wiry white man with glasses on the left; an East Asian woman with a silver bob and a bearded Latino man in a henley on the right. Nobody wears sky-blue; nobody resembles David.",
+      "negatives": [
+        "a second man resembling David",
+        "corporate boardroom dressing",
+        "anyone looking at the camera",
+        "neon lighting"
+      ]
+    },
+    {
+      "id": "spread-18",
+      "plate": null,
+      "cast": [
+        {
           "id": "maya",
           "pose": "master"
         },
@@ -397,7 +425,7 @@
       ]
     },
     {
-      "id": "spread-18",
+      "id": "spread-19",
       "plate": null,
       "cast": [
         {
@@ -416,7 +444,7 @@
       ]
     },
     {
-      "id": "spread-19",
+      "id": "spread-20",
       "plate": null,
       "cast": [
         {
@@ -438,7 +466,7 @@
       ]
     },
     {
-      "id": "spread-20",
+      "id": "spread-21",
       "plate": null,
       "cast": [
         {
@@ -458,7 +486,7 @@
       ]
     },
     {
-      "id": "spread-21",
+      "id": "spread-22",
       "plate": null,
       "cast": [
         {
@@ -477,7 +505,31 @@
       ]
     },
     {
-      "id": "spread-22",
+      "id": "spread-23",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "the-plain-door"
+        }
+      ],
+      "scene": "A QUIET PROPHECY OF A PICTURE. In a wide, calm dusk landscape, THE PLAIN DOOR stands alone and slightly AJAR in the middle distance, warm light spilling through the gap, exactly as its reference plates hold it: plain honey-brown wood, four recessed panels, round brass knob, no lettering of any kind. DAVID KOBROSKY walks toward it along a gentle path, seen in three-quarter view from behind-left so his warm profile stays visible, unhurried, hands easy, HIS EYES ON THE DOOR and the light in the gap. The evening around him is soft rolling meadow and first stars; the light through the door is the warmest thing in the frame. Nothing shows what is behind the door. Lower-right: dusk grass, calm.",
+      "_caption": "And one more thing, spoken here as prophecy. Someday, when his amazing tour at Anthropic is complete, David will go and build one of the greatest consumer intelligence platforms of all time, a place where companies finally know the people they serve. But that is a story for another day.",
+      "shot": "wide",
+      "pos": "top-right",
+      "negatives": [
+        "any lettering, sign, or plaque on or near the door",
+        "anything visible through the gap besides warm light",
+        "a second man resembling David",
+        "David looking at the camera",
+        "dread, storm, or ominous shadow: the mood is promise"
+      ]
+    },
+    {
+      "id": "spread-24",
       "plate": null,
       "cast": [
         {
