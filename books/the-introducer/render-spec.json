@@ -99,13 +99,13 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
       "scene": "DAVID KOBROSKY, chest-up at his crowded kitchen counter, hands a tall fruit smoothie across to a guest whose hands are just receiving it, HIS EYES LOCKED ON THE GUEST'S EYES, both mid-laugh. The blender jug sits beside him with three more filled glasses lined up, each a different sunrise color. Behind him, slightly soft, a wall crowded with dozens of small pinned photographs of past brunches, years of them, and a small glass jar of wooden tokens on the shelf. The guest is seen from behind over their shoulder, softly out of focus. Warm morning light. Lower-right: countertop with a folded dish towel, calm.",
       "_caption": "He ran Brunch Club for years, more than a hundred brunches in all, and he made the smoothies himself. Ask anyone who came. The room stayed small on purpose, the door stayed open anyway, and table by table he became the center of a certain kind of gravity in New York.",
       "shot": "close",
-      "pos": "bottom-left",
+      "pos": "bottom-right",
       "anonymous": "One guest receiving the smoothie, seen mostly from behind: a young woman with a dark ponytail in a green cardigan, visibly distinct from David.",
       "negatives": [
         "a second man resembling David",
@@ -119,13 +119,13 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
-      "scene": "A close INSERT of the apartment wall: two strong forearms with rolled sky-blue sleeves, DAVID's hands, pinning one more small photograph onto a corkboard already crowded with dozens of little photographs of brunches, faces around tables, pancakes held up like trophies, mismatched mugs raised. Among the photos, a small hand-lettered card reads exactly thebrunchguy in lowercase marker letters, and below the board a glass jar spills a few small plain wooden tokens onto the shelf. Desk-lamp warmth. The faces in the photographs are tiny and soft, no larger than a thumbnail, none of them a recognizable canon character. Lower-right: bare shelf wood, calm.",
+      "scene": "A close INSERT of the apartment wall: two strong bare forearms below navy polo sleeves, DAVID's hands, pinning one more small photograph onto a corkboard already crowded with dozens of little photographs of brunches, faces around tables, pancakes held up like trophies, mismatched mugs raised. Among the photos, a small hand-lettered card reads exactly thebrunchguy in lowercase marker letters, and below the board a glass jar spills a few small plain wooden tokens onto the shelf. Desk-lamp warmth. The faces in the photographs are tiny and soft, no larger than a thumbnail, none of them a recognizable canon character. Lower-right: bare shelf wood, calm.",
       "_caption": "The internet gave him a name for it. Online he is thebrunchguy, and regulars collected little brunch tokens for showing up, the way kids collect arcade tickets. When your nickname is a meal you share with strangers, you are doing something right.",
       "shot": "insert",
-      "pos": "bottom-right",
+      "pos": "bottom-left",
       "negatives": [
         "any legible text besides the exact card thebrunchguy",
         "a visible face of David (hands and forearms only)",

@@ -122,6 +122,15 @@ answer sitting in the recipe the whole time; the reroll verb replays it in one c
 
 ## 7. Worked examples
 
+- **`stories/the-introducer.json` — THE real-person reference instance** (2026-08-08): a
+  22-spread ODE spine (subject never arcs; one craft lands on ever-larger objects; the refrain
+  changes OBJECTS not mouths), a commissioned private person (david-kobrosky, ships unlisted), a
+  spouse cameo (mikaela), a public-figure cameo (gary-vee, photo-stack + single master, the
+  dario pattern), and an AGE ERA (`david-kobrosky@college`, anchored on a real young photo).
+  Backstory beats carry public receipts (107 brunches, @thebrunchguy, MeetSunday, Forbes) in
+  their provenance. ERA CASTING RULE learned here: when a book spans a life, sweep EVERY beat
+  for which era it belongs to when the look is created — spreads 5 and 6 shipped in the adult
+  shirt during the Brunch Club years and Gary caught it in the reader.
 - `stories/ai-safety-primer.json` — a 5-spread primer of Anthropic's AI-safety worldview, beats
   traced to the culture-interview corpus.
 - The published trilogy: The Narrow Path, A Book to Live By, Machines of Loving Grace.

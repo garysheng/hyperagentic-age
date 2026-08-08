@@ -1,13 +1,13 @@
 {
   "asset": "spread-05.png",
-  "assetSha256_16": "4e07c5b537f8e4a8",
+  "assetSha256_16": "cb86682b3291e382",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
   "size": "1536x1024",
   "generatedBy": "abu:compose-spread render_spread.py",
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
-  "universeCommit": "06cf34beb199413d6f9e073d3787a013ea9b0d0b",
+  "universeCommit": "df64f235091150243e38544e176a4dc51733ca9a",
   "book": "the-introducer",
   "story": "the-introducer",
   "spread": "spread-05",
@@ -17,13 +17,13 @@
     "cast": [
       {
         "id": "david-kobrosky",
-        "pose": "front"
+        "look": "college"
       }
     ],
     "scene": "DAVID KOBROSKY, chest-up at his crowded kitchen counter, hands a tall fruit smoothie across to a guest whose hands are just receiving it, HIS EYES LOCKED ON THE GUEST'S EYES, both mid-laugh. The blender jug sits beside him with three more filled glasses lined up, each a different sunrise color. Behind him, slightly soft, a wall crowded with dozens of small pinned photographs of past brunches, years of them, and a small glass jar of wooden tokens on the shelf. The guest is seen from behind over their shoulder, softly out of focus. Warm morning light. Lower-right: countertop with a folded dish towel, calm.",
     "_caption": "He ran Brunch Club for years, more than a hundred brunches in all, and he made the smoothies himself. Ask anyone who came. The room stayed small on purpose, the door stayed open anyway, and table by table he became the center of a certain kind of gravity in New York.",
     "shot": "close",
-    "pos": "top",
+    "pos": "bottom-left",
     "anonymous": "One guest receiving the smoothie, seen mostly from behind: a young woman with a dark ponytail in a green cardigan, visibly distinct from David.",
     "negatives": [
       "a second man resembling David",
@@ -31,54 +31,40 @@
       "legible text on the photographs or tokens"
     ]
   },
-  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: DAVID KOBROSKY, chest-up at his crowded kitchen counter, hands a tall fruit smoothie across to a guest whose hands are just receiving it, HIS EYES LOCKED ON THE GUEST'S EYES, both mid-laugh. The blender jug sits beside him with three more filled glasses lined up, each a different sunrise color. Behind him, slightly soft, a wall crowded with dozens of small pinned photographs of past brunches, years of them, and a small glass jar of wooden tokens on the shelf. The guest is seen from behind over their shoulder, softly out of focus. Warm morning light. Lower-right: countertop with a folded dish towel, calm. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; flat even side profile nose straight chin never jutting; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. IN PROFILE OR THREE-QUARTER VIEW his facial profile is comparatively FLAT and even: a straight, moderate nose and a firm chin that does NOT jut forward; never an exaggerated protruding nose-and-chin profile (Gary, 2026-08-08: 'his face is flatter, chin and nose; front shot is good'). REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: david-kobrosky. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: One guest receiving the smoothie, seen mostly from behind: a young woman with a dark ponytail in a green cardigan, visibly distinct from David.. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second man resembling David, David looking at the camera, legible text on the photographs or tokens. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: DAVID KOBROSKY, chest-up at his crowded kitchen counter, hands a tall fruit smoothie across to a guest whose hands are just receiving it, HIS EYES LOCKED ON THE GUEST'S EYES, both mid-laugh. The blender jug sits beside him with three more filled glasses lined up, each a different sunrise color. Behind him, slightly soft, a wall crowded with dozens of small pinned photographs of past brunches, years of them, and a small glass jar of wooden tokens on the shelf. The guest is seen from behind over their shoulder, softly out of focus. Warm morning light. Lower-right: countertop with a folded dish towel, calm. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. david-kobrosky rendered exactly per the supplied reference images: green hazel eyes; thick dark eyebrows strong jaw; flat even side profile nose straight chin never jutting; broad warm grin that reaches his eyes; athletic broad shouldered build; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt; college age man early twenties; completely clean shaven no stubble; neat short college haircut fuller lower straight hairline; same wide grin strong jaw thick eyebrows as default era; navy polo shirt or plain heather crew tee; light khaki chinos; warm editorial register at spread time hyper real at reference time. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. IN PROFILE OR THREE-QUARTER VIEW his facial profile is comparatively FLAT and even: a straight, moderate nose and a firm chin that does NOT jut forward; never an exaggerated protruding nose-and-chin profile (Gary, 2026-08-08: 'his face is flatter, chin and nose; front shot is good'). REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: david-kobrosky. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: One guest receiving the smoothie, seen mostly from behind: a young woman with a dark ponytail in a green cardigan, visibly distinct from David.. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second man resembling David, David looking at the camera, legible text on the photographs or tokens, beard or stubble of any kind, a sky-blue button-down, a receding or high hairline. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
   "refs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
       "sha256_16": "988cef324da88dc6"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
-      "sha256_16": "3ac52f44ea329264"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/06-college-bw-hires.png",
+      "sha256_16": "656b0d5e1410a25b"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
-      "sha256_16": "0d5dd6d6105a3ed3"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/face-neutral.png",
+      "sha256_16": "3c9d76acf43f5b9d"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
-      "sha256_16": "848243b77c02df8c"
-    },
-    {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
-      "sha256_16": "1d2de165730bae67"
-    },
-    {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
-      "sha256_16": "f4396611c663cd2d"
-    },
-    {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
-      "sha256_16": "1bb7a4499aaf7d81"
-    },
-    {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
-      "sha256_16": "338e735f16117d5a"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/forward-fullbody.png",
+      "sha256_16": "b019bbe21424e8e8"
     }
   ],
   "qa": [
-    "david-kobrosky: man-early-thirties",
-    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
-    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
     "david-kobrosky: green-hazel-eyes",
     "david-kobrosky: thick-dark-eyebrows-strong-jaw",
     "david-kobrosky: flat-even-side-profile-nose-straight-chin-never-jutting",
     "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
     "david-kobrosky: athletic-broad-shouldered-build",
-    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
-    "david-kobrosky: dark-warm-gray-trousers",
     "david-kobrosky: no-necklace-no-lanyard-no-badge",
     "david-kobrosky: recognizable-likeness-of-the-real-subject",
-    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt"
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt",
+    "david-kobrosky: college-age-man-early-twenties",
+    "david-kobrosky: completely-clean-shaven-no-stubble",
+    "david-kobrosky: neat-short-college-haircut-fuller-lower-straight-hairline",
+    "david-kobrosky: same-wide-grin-strong-jaw-thick-eyebrows-as-default-era",
+    "david-kobrosky: navy-polo-shirt-or-plain-heather-crew-tee",
+    "david-kobrosky: light-khaki-chinos",
+    "david-kobrosky: warm-editorial-register-at-spread-time-hyper-real-at-reference-time"
   ]
 }
