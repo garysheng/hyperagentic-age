@@ -228,6 +228,48 @@
           "pose": "front"
         }
       ],
+      "scene": "AN INFUSION SUITE MADE HUMAN. DAVID KOBROSKY sits in a recliner chair by a big window, chest-up and large in frame, a soft KNIT BEANIE where his curls would be, an IV line taped to his forearm and a slim laptop open ON HIS LAP with ITS SCREEN FACING HIM, his hands on the keys. He is thinner in the face and unmistakably HIMSELF: the grin is intact, aimed down at the work, undefeated. A warm blanket, a smoothie cup on the side table, afternoon light across the floor. The picture's argument is a spirit that did not take the season off. Lower-right: sunlit linoleum, calm.",
+      "_caption": "In the middle of the building years, his own body picked a fight. Stage four blood cancer, the kind that comes with twelve rounds of chemo. David did the rounds, kept a full head of plans if not of hair, and kept building all the way through.",
+      "shot": "close",
+      "pos": "bottom-left",
+      "negatives": [
+        "a second man resembling David",
+        "visible hair under the beanie",
+        "gaunt hopelessness: the mood is quiet defiance",
+        "David looking at the camera",
+        "medical gore or graphic detail"
+      ]
+    },
+    {
+      "id": "spread-12",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "THE BELL. DAVID KOBROSKY stands at the end-of-treatment bell mounted on the clinic wall, one hand on the pull cord mid-RING, his other fist raised, face thrown back in a huge open laugh. His hair is back as a SHORT dark regrowth of curls under no hat. Around him, THREE nurses in scrubs and TWO friends applaud and cheer, all eyes on HIM, one friend holding up a phone to film, another holding a small handmade sign that reads exactly CANCER FREE in marker capitals. Streamers, a balloon, afternoon light. Pure triumph, zero solemnity. Lower-right: clinic floor with a fallen streamer, calm.",
+      "_caption": "And here is the most David thing that has ever happened. Mid-chemo, he rallied hundreds of friends to help cover someone else's cancer treatment, and let the internet vote on his hairstyle before the razor took it. By November the scans came back clean. Cancer, meet David. Let me introduce you.",
+      "shot": "group",
+      "pos": "top-left",
+      "anonymous": "Three nurses in scrubs and two friends, visibly distinct from David and each other: mixed ages, builds and skin tones; nobody wears sky-blue; nobody resembles David.",
+      "negatives": [
+        "a second man resembling David",
+        "any legible text besides the exact sign CANCER FREE",
+        "solemn or tearful tone: this is a victory",
+        "anyone looking at the camera"
+      ]
+    },
+    {
+      "id": "spread-13",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
       "scene": "THREE PEOPLE CELEBRATING fill this small startup office, and the champagne pop is the moment. DAVID KOBROSKY stands at the center behind a cluttered desk, POPPING A CHAMPAGNE BOTTLE: the cork is mid-flight near the top of the frame, foam just cresting from the neck, his grin huge, one fist raised. His TWO teammates flank him, both turned toward him and the bottle, celebrating with him: on the LEFT a nerdy, brilliant-looking young East Asian man programmer with thick round glasses, a rumpled graphic tee and a laptop-stickered water bottle, laughing with both arms up; on the RIGHT a Latina woman programmer with curly dark hair tied back, a flannel over a tee, holding out two paper cups to catch the pour, mid-cheer. Exactly three people in the room, all eyes on the bottle and each other, nobody looking at the camera. The office is small and scrappy: whiteboard of diagrams behind them, sticky notes, a pizza box, desk plants, late-afternoon sun through the window. It reads as a tiny team that just got the phone call. Lower-right: the warm blur of a chair back, calm.",
       "shot": "group",
       "_caption": "The company worked, and a bigger one bought it. The sale proved a thing David had known for years. Bringing people together is real work, as real as steel or code, and it is worth real money.",
@@ -241,7 +283,7 @@
       ]
     },
     {
-      "id": "spread-12",
+      "id": "spread-14",
       "plate": null,
       "cast": [
         {
@@ -271,7 +313,7 @@
       ]
     },
     {
-      "id": "spread-13",
+      "id": "spread-15",
       "plate": null,
       "cast": [
         {
@@ -294,7 +336,7 @@
       ]
     },
     {
-      "id": "spread-14",
+      "id": "spread-16",
       "plate": null,
       "cast": [
         {
@@ -317,7 +359,7 @@
       ]
     },
     {
-      "id": "spread-15",
+      "id": "spread-17",
       "plate": null,
       "cast": [
         {
@@ -346,7 +388,7 @@
       ]
     },
     {
-      "id": "spread-16",
+      "id": "spread-18",
       "plate": null,
       "cast": [
         {
@@ -369,7 +411,7 @@
       ]
     },
     {
-      "id": "spread-17",
+      "id": "spread-19",
       "plate": null,
       "cast": [
         {
@@ -397,7 +439,7 @@
       ]
     },
     {
-      "id": "spread-18",
+      "id": "spread-20",
       "plate": null,
       "cast": [
         {
@@ -425,7 +467,7 @@
       ]
     },
     {
-      "id": "spread-19",
+      "id": "spread-21",
       "plate": null,
       "cast": [
         {
@@ -444,7 +486,7 @@
       ]
     },
     {
-      "id": "spread-20",
+      "id": "spread-22",
       "plate": null,
       "cast": [
         {
@@ -466,7 +508,7 @@
       ]
     },
     {
-      "id": "spread-21",
+      "id": "spread-23",
       "plate": null,
       "cast": [
         {
@@ -486,7 +528,7 @@
       ]
     },
     {
-      "id": "spread-22",
+      "id": "spread-24",
       "plate": null,
       "cast": [
         {
@@ -505,7 +547,7 @@
       ]
     },
     {
-      "id": "spread-23",
+      "id": "spread-25",
       "plate": null,
       "cast": [
         {
@@ -529,7 +571,7 @@
       ]
     },
     {
-      "id": "spread-24",
+      "id": "spread-26",
       "plate": null,
       "cast": [
         {

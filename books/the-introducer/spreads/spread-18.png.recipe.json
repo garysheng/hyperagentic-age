@@ -1,6 +1,6 @@
 {
-  "asset": "spread-10.png",
-  "assetSha256_16": "c3848b7316fa6e90",
+  "asset": "spread-09.png",
+  "assetSha256_16": "25134601ee0120e1",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
@@ -10,61 +10,82 @@
   "universeCommit": "4c2653ee38889f086517575f91ec7d44c94bc552",
   "book": "the-introducer",
   "story": "the-introducer",
-  "spread": "spread-10",
+  "spread": "spread-09",
   "descriptor": {
-    "id": "spread-10",
+    "id": "spread-09",
     "plate": null,
     "cast": [
       {
-        "id": "maya",
-        "pose": "master"
+        "id": "david-kobrosky",
+        "pose": "front"
       },
       {
         "id": "sub-agent"
-      },
-      {
-        "id": "supercharged-laptop",
-        "plate": "orange"
       }
     ],
-    "scene": "MAYA is the subject, mid-stride through her studio's open door into morning sun, laptop under her arm per her signature carry, laughing at something over her shoulder. Behind her through the doorway her workroom hums without her: THREE SMALL CORAL HOLOGRAPHIC SUB-AGENTS, each WEARING ITS GLOWING WHITE SAILOR CAP, tend the desk: one stacking folders, one watering her plant, one updating a wall calendar. On that desk the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA so its glowing coral SCREEN FACE is visible to the viewer; THE BACK OF THE LID IS NOT SHOWN. She is leaving on time, and the work is carried. Her stride says spring, not winter. Lower-right: the sunlit threshold, calm. Maya's HEAD IS TURNED BACK toward the room she is leaving and her EYES ARE ON THE SUB-AGENTS she is laughing with, not on the camera.",
+    "scene": "FOUR FIGURES around a sunlit brunch table, and the introduction is the subject: DAVID KOBROSKY sits at the table's head on the RIGHT, one open hand presenting a SMALL CORAL HOLOGRAPHIC SUB-AGENT in a white sailor cap who stands proudly on the tablecloth beside the jam jar, cap in hand, mid-bow to the guests. Across the table on the LEFT sit two founders leaning in with widening eyes: their nervousness just breaking into delight. Croissants, coffee cups, a folded map of notes. Sun through a cafe window, string of tiny flags overhead. The agent and the founders are BOTH fully legible: this is a formal introduction between them. Lower-right: David's side of the tablecloth, calm. DAVID'S EYES ARE ON THE TWO FOUNDERS across the table as he presents the agent to them, his face in warm three-quarter view turned toward THEM, never toward the camera. The founders' eyes are on the little agent.",
     "shot": "group",
-    "_caption": "Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.",
+    "_caption": "His old craft came with him. Founders arrive nervous, certain that everyone else already understands this stuff. David makes it feel like brunch. Nothing is obvious, nobody is stupid, the door is propped open. Founders, meet your agents. Let me introduce you.",
     "pos": "bottom",
+    "anonymous": "Two founders, visibly distinct from David: a young woman with a dark bob and round glasses in a rust jumper, and a broad-shouldered man with a shaved head in a charcoal tee. Neither wears sky-blue; neither shares David's face or beard.",
     "negatives": [
-      "Maya tired, frantic, or at the desk",
-      "robots or drones",
-      "blue jeans on Maya",
-      "the back of the laptop lid facing the camera",
-      "subject making eye contact with the camera"
+      "a second man resembling David",
+      "the founders frightened or humiliated: the mood is relief",
+      "David making eye contact with the camera"
     ]
   },
-  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: MAYA is the subject, mid-stride through her studio's open door into morning sun, laptop under her arm per her signature carry, laughing at something over her shoulder. Behind her through the doorway her workroom hums without her: THREE SMALL CORAL HOLOGRAPHIC SUB-AGENTS, each WEARING ITS GLOWING WHITE SAILOR CAP, tend the desk: one stacking folders, one watering her plant, one updating a wall calendar. On that desk the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA so its glowing coral SCREEN FACE is visible to the viewer; THE BACK OF THE LID IS NOT SHOWN. She is leaving on time, and the work is carried. Her stride says spring, not winter. Lower-right: the sunlit threshold, calm. Maya's HEAD IS TURNED BACK toward the room she is leaving and her EYES ARE ON THE SUB-AGENTS she is laughing with, not on the camera. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. sub-agent rendered exactly per the supplied reference images: small blocky clay coral orange mascot; translucent holographic digital being; casts light not shadow; holographic white sailor cap white suffused with orange glow; no gold anywhere; warm rounded dot eyes with tiny catchlights; short stubby nub arms end in rounded MITTEN stubs NEVER fingers hands tubes or bars; two stubby legs; does the hands on task work; carries work as PAPERS stack or messy fan or blueprint roll interchangeably NEVER a box or parcel; finished work always flows TO the chief never directly to the human or her laptop; NEVER crosses into the real world stays inside the digital space behind the screen; never the ONLY agent in a scene a lone agent is always the chief; when shown mid journey a thin dotted glowing tether arcs from the sub agent to the chief; warm editorial register not comic. Colour is meaning: orange means Claude Code / the Chief of Agents is running on it; sage-green means Grantwell is; deep indigo means Storywell is. Never mix two agent colours on one machine. The ordinary, un-supercharged laptop stays a plain grey object; the glow is what marks the turn. TELL THEM APART, keep every face and hairstyle distinct: maya is the one with half black half white founder, sage olive blazer single button notch lapel sleeves pushed to elbow, white crew neck tee, stone khaki chinos never blue jeans, laptop under arm, warm editorial register; sub-agent is the one with small blocky clay coral orange mascot, translucent holographic digital being, casts light not shadow, holographic white sailor cap white suffused with orange glow, no gold anywhere, warm rounded dot eyes with tiny catchlights, short stubby nub arms end in rounded MITTEN stubs NEVER fingers hands tubes or bars, two stubby legs, does the hands on task work, carries work as PAPERS stack or messy fan or blueprint roll interchangeably NEVER a box or parcel, finished work always flows TO the chief never directly to the human or her laptop, NEVER crosses into the real world stays inside the digital space behind the screen, never the ONLY agent in a scene a lone agent is always the chief, when shown mid journey a thin dotted glowing tether arcs from the sub agent to the chief, warm editorial register not comic. THE ONLY CHARACTERS IN THIS IMAGE ARE: maya, sub-agent. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, Maya tired, frantic, or at the desk, robots or drones, blue jeans on Maya, the back of the laptop lid facing the camera, subject making eye contact with the camera. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: FOUR FIGURES around a sunlit brunch table, and the introduction is the subject: DAVID KOBROSKY sits at the table's head on the RIGHT, one open hand presenting a SMALL CORAL HOLOGRAPHIC SUB-AGENT in a white sailor cap who stands proudly on the tablecloth beside the jam jar, cap in hand, mid-bow to the guests. Across the table on the LEFT sit two founders leaning in with widening eyes: their nervousness just breaking into delight. Croissants, coffee cups, a folded map of notes. Sun through a cafe window, string of tiny flags overhead. The agent and the founders are BOTH fully legible: this is a formal introduction between them. Lower-right: David's side of the tablecloth, calm. DAVID'S EYES ARE ON THE TWO FOUNDERS across the table as he presents the agent to them, his face in warm three-quarter view turned toward THEM, never toward the camera. The founders' eyes are on the little agent. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. sub-agent rendered exactly per the supplied reference images: small blocky clay coral orange mascot; translucent holographic digital being; casts light not shadow; holographic white sailor cap white suffused with orange glow; no gold anywhere; warm rounded dot eyes with tiny catchlights; short stubby nub arms end in rounded MITTEN stubs NEVER fingers hands tubes or bars; two stubby legs; does the hands on task work; carries work as PAPERS stack or messy fan or blueprint roll interchangeably NEVER a box or parcel; finished work always flows TO the chief never directly to the human or her laptop; NEVER crosses into the real world stays inside the digital space behind the screen; never the ONLY agent in a scene a lone agent is always the chief; when shown mid journey a thin dotted glowing tether arcs from the sub agent to the chief; warm editorial register not comic. TELL THEM APART, keep every face and hairstyle distinct: david-kobrosky is the one with man early thirties, short dark brown curly hair tight cropped sides, short stubble beard NEVER clean shaven, green hazel eyes, thick dark eyebrows strong jaw, broad warm grin that reaches his eyes, athletic broad shouldered build, sky blue button down shirt open collar sleeves rolled to forearm, dark warm gray trousers, no necklace no lanyard no badge, recognizable likeness of the real subject, appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt; sub-agent is the one with small blocky clay coral orange mascot, translucent holographic digital being, casts light not shadow, holographic white sailor cap white suffused with orange glow, no gold anywhere, warm rounded dot eyes with tiny catchlights, short stubby nub arms end in rounded MITTEN stubs NEVER fingers hands tubes or bars, two stubby legs, does the hands on task work, carries work as PAPERS stack or messy fan or blueprint roll interchangeably NEVER a box or parcel, finished work always flows TO the chief never directly to the human or her laptop, NEVER crosses into the real world stays inside the digital space behind the screen, never the ONLY agent in a scene a lone agent is always the chief, when shown mid journey a thin dotted glowing tether arcs from the sub agent to the chief, warm editorial register not comic. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: david-kobrosky, sub-agent. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: Two founders, visibly distinct from David: a young woman with a dark bob and round glasses in a rust jumper, and a broad-shouldered man with a shaved head in a charcoal tee. Neither wears sky-blue; neither shares David's face or beard.. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second man resembling David, the founders frightened or humiliated: the mood is relief, David making eye contact with the camera. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
   "refs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
       "sha256_16": "988cef324da88dc6"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
-      "sha256_16": "979502c30ccf149f"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
+      "sha256_16": "3ac52f44ea329264"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
+      "sha256_16": "0d5dd6d6105a3ed3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "sha256_16": "848243b77c02df8c"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "sha256_16": "1bb7a4499aaf7d81"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+      "sha256_16": "338e735f16117d5a"
     },
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png",
       "sha256_16": "5beebab78e9cf0c2"
-    },
-    {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png",
-      "sha256_16": "221d960f552eb52c"
     }
   ],
   "qa": [
-    "maya: half-black-half-white-founder",
-    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
-    "maya: white-crew-neck-tee",
-    "maya: stone-khaki-chinos-never-blue-jeans",
-    "maya: laptop-under-arm",
-    "maya: warm-editorial-register",
+    "david-kobrosky: man-early-thirties",
+    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
+    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
+    "david-kobrosky: green-hazel-eyes",
+    "david-kobrosky: thick-dark-eyebrows-strong-jaw",
+    "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
+    "david-kobrosky: athletic-broad-shouldered-build",
+    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+    "david-kobrosky: dark-warm-gray-trousers",
+    "david-kobrosky: no-necklace-no-lanyard-no-badge",
+    "david-kobrosky: recognizable-likeness-of-the-real-subject",
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt",
     "sub-agent: small-blocky-clay-coral-orange-mascot",
     "sub-agent: translucent-holographic-digital-being",
     "sub-agent: casts-light-not-shadow",
@@ -79,17 +100,6 @@
     "sub-agent: NEVER-crosses-into-the-real-world-stays-inside-the-digital-space-behind-the-screen",
     "sub-agent: never-the-ONLY-agent-in-a-scene-a-lone-agent-is-always-the-chief",
     "sub-agent: when-shown-mid-journey-a-thin-dotted-glowing-tether-arcs-from-the-sub-agent-to-the-chief",
-    "sub-agent: warm-editorial-register-not-comic",
-    "supercharged-laptop: clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
-    "supercharged-laptop: the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
-    "supercharged-laptop: glow-colour-is-the-colour-of-the-agent-supercharging-it",
-    "supercharged-laptop: screen-FACE-is-visible-to-the-viewer",
-    "supercharged-laptop: never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
-    "supercharged-laptop: casts-light-not-shadow",
-    "supercharged-laptop: warm-editorial-register",
-    "supercharged-laptop: it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
-    "supercharged-laptop: the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
-    "supercharged-laptop: it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
-    "supercharged-laptop: the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide"
+    "sub-agent: warm-editorial-register-not-comic"
   ]
 }

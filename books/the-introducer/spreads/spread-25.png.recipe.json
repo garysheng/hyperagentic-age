@@ -1,0 +1,109 @@
+{
+  "asset": "spread-23.png",
+  "assetSha256_16": "8d39db9e56f0af82",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "4c0ddbdd9a0430a31b119fe7530bd6208f7c13c6",
+  "book": "the-introducer",
+  "story": "the-introducer",
+  "spread": "spread-23",
+  "descriptor": {
+    "id": "spread-23",
+    "plate": null,
+    "cast": [
+      {
+        "id": "david-kobrosky",
+        "pose": "front"
+      },
+      {
+        "id": "the-plain-door"
+      }
+    ],
+    "scene": "A QUIET PROPHECY OF A PICTURE. In a wide, calm dusk landscape, THE PLAIN DOOR stands alone and slightly AJAR in the middle distance, warm light spilling through the gap, exactly as its reference plates hold it: plain honey-brown wood, four recessed panels, round brass knob, no lettering of any kind. DAVID KOBROSKY walks toward it along a gentle path, seen in three-quarter view from behind-left so his warm profile stays visible, unhurried, hands easy, HIS EYES ON THE DOOR and the light in the gap. The evening around him is soft rolling meadow and first stars; the light through the door is the warmest thing in the frame. Nothing shows what is behind the door. Lower-right: dusk grass, calm.",
+    "_caption": "And one more thing, spoken here as prophecy. Someday, when his amazing tour at Anthropic is complete, David will go and build one of the greatest consumer intelligence platforms of all time, a place where companies finally know the people they serve. But that is a story for another day.",
+    "shot": "wide",
+    "pos": "top",
+    "negatives": [
+      "any lettering, sign, or plaque on or near the door",
+      "anything visible through the gap besides warm light",
+      "a second man resembling David",
+      "David looking at the camera",
+      "dread, storm, or ominous shadow: the mood is promise"
+    ]
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: A QUIET PROPHECY OF A PICTURE. In a wide, calm dusk landscape, THE PLAIN DOOR stands alone and slightly AJAR in the middle distance, warm light spilling through the gap, exactly as its reference plates hold it: plain honey-brown wood, four recessed panels, round brass knob, no lettering of any kind. DAVID KOBROSKY walks toward it along a gentle path, seen in three-quarter view from behind-left so his warm profile stays visible, unhurried, hands easy, HIS EYES ON THE DOOR and the light in the gap. The evening around him is soft rolling meadow and first stars; the light through the door is the warmest thing in the frame. Nothing shows what is behind the door. Lower-right: dusk grass, calm. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; flat even side profile nose straight chin never jutting; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. IN PROFILE OR THREE-QUARTER VIEW his facial profile is comparatively FLAT and even: a straight, moderate nose and a firm chin that does NOT jut forward; never an exaggerated protruding nose-and-chin profile (Gary, 2026-08-08: 'his face is flatter, chin and nose; front shot is good'). REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. THE ONLY CHARACTERS IN THIS IMAGE ARE: david-kobrosky. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, any lettering, sign, or plaque on or near the door, anything visible through the gap besides warm light, a second man resembling David, David looking at the camera, dread, storm, or ominous shadow: the mood is promise. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DOOR MECHANICS, American standard, and every clause must hold AT ONCE. A door leaf is about 3 ft wide and 80 in tall: roughly HALF an adult's standing height in width, and taller than every person near it. The knob or lever sits at WAIST HEIGHT, 36 to 40 inches off the floor, INSET about a hand's width from the leaf's edge, on the side OPPOSITE the hinges; the hinge edge is the other side, at the jamb. A person opening a door grips the handle at their own waist with a bent elbow, never stooping and never reaching below their hip. The leaf sits INSIDE its frame with the frame visible around it; a handle mounted on the frame, at thigh height, or in the middle of the leaf is a defect. Exterior and commercial doors swing on visible hinges; the swing implied by hinge side and handle side must be physically possible. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
+      "sha256_16": "3ac52f44ea329264"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
+      "sha256_16": "0d5dd6d6105a3ed3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "sha256_16": "848243b77c02df8c"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "sha256_16": "1bb7a4499aaf7d81"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+      "sha256_16": "338e735f16117d5a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-plain-door/master.png",
+      "sha256_16": "eef2441dd0777827"
+    }
+  ],
+  "qa": [
+    "david-kobrosky: man-early-thirties",
+    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
+    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
+    "david-kobrosky: green-hazel-eyes",
+    "david-kobrosky: thick-dark-eyebrows-strong-jaw",
+    "david-kobrosky: flat-even-side-profile-nose-straight-chin-never-jutting",
+    "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
+    "david-kobrosky: athletic-broad-shouldered-build",
+    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+    "david-kobrosky: dark-warm-gray-trousers",
+    "david-kobrosky: no-necklace-no-lanyard-no-badge",
+    "david-kobrosky: recognizable-likeness-of-the-real-subject",
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt",
+    "the-plain-door: single-plain-solid-wood-door-warm-honey-brown",
+    "the-plain-door: four-recessed-panels-two-small-above-two-tall",
+    "the-plain-door: leaf-roughly-twice-as-tall-as-wide-standard-door-proportions",
+    "the-plain-door: round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
+    "the-plain-door: no-lettering-no-sign-no-plaque-on-the-door-face-ever",
+    "the-plain-door: identical-door-design-in-every-state-and-every-era",
+    "the-plain-door: open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+    "the-plain-door: museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
+    "the-plain-door: nothing-ominous-through-any-gap-warm-light-never-darkness",
+    "the-plain-door: warm-editorial-register-never-photoreal",
+    "the-plain-door: four recessed panels: two small panels above two tall panels, at crop-zoom",
+    "the-plain-door: round brass knob at mid-height on the LEFT edge as viewed",
+    "the-plain-door: leaf roughly twice as tall as wide, standard door proportions",
+    "the-plain-door: NO lettering, sign, or plaque anywhere on the door face",
+    "the-plain-door: any open gap shows only warm light, never a room or scene behind",
+    "the-plain-door: museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
+    "the-plain-door: warm-editorial, never photoreal"
+  ]
+}
