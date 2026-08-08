@@ -58,13 +58,13 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
       "scene": "DAVID KOBROSKY climbs the steps of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out, his face turned back over the street with his warm grin. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
       "_caption": "David came up in New York City, where eight million people live close enough to touch and a young person can still go a whole year without being known. Striving strangers arrive every day with big plans and nobody to tell them to. David looked at that and set the table.",
       "shot": "wide",
-      "pos": "bottom-left",
+      "pos": "top-right",
       "anonymous": "Five commuters, visibly distinct from each other and from David: different builds, skin tones, ages, coats. None wears a sky-blue button-down; none looks at anyone.",
       "negatives": [
         "a second man resembling David",
@@ -79,13 +79,13 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
       "scene": "A SMALL NEW YORK APARTMENT PACKED WITH SUNDAY-MORNING PEOPLE, and DAVID KOBROSKY at the tiny stove mid-flip, a pancake in the air above his pan, laughing toward the crowded table, HIS EYES ON HIS GUESTS. Around a table that is clearly too small: SIX young professionals and founders wedged onto folding chairs and a sagging couch, mismatched mugs, a syrup bottle, somebody's laptop shut under a plate. Two guests lean into conversation with each other, eyes meeting; another pair laugh over a shared phone photo; one newcomer at the edge is being waved in by a guest sliding over to make room. Morning light through one big window, radiator under it, a hand-lettered paper banner on the wall reading exactly BRUNCH CLUB in friendly marker capitals. Warm, crowded, joyful. Lower-right: worn wooden floor with a stray tote bag, calm.",
       "_caption": "It started in his own apartment. Folding chairs, borrowed mugs, pancakes for whoever rang the bell. He called it Brunch Club, and on Sunday mornings his place filled with young professionals and founders who had been strangers on Saturday night.",
       "shot": "group",
-      "pos": "bottom-left",
+      "pos": "top-left",
       "anonymous": "Six brunch guests, all in their twenties and thirties, visibly distinct: a South Asian woman in a denim jacket, a heavyset white man in a hoodie, a Black woman with short locs, an East Asian man in a flannel, a redheaded woman, a Latino man in a tee. None resembles David; none wears sky-blue.",
       "negatives": [
         "a second man resembling David",
@@ -138,19 +138,20 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
-      "scene": "A BUSTLING MEDIA OFFICE IN FULL SWING, and DAVID KOBROSKY strides through the middle of it carrying a cardboard box stacked with a laptop and rolled posters, his grin turned toward a colleague he passes, HIS EYES ON THAT COLLEAGUE, who points him toward a doorway. Around them: desks jammed with monitors kept dark and papers kept bright, a wall calendar dense with marker scrawl, three other staffers in motion carrying tripods and garment bags, sneakers everywhere, coffee cups everywhere. The energy is loud, warm, and fast. No recognizable real person appears; the famous boss is elsewhere. Lower-right: floor with a strip of gaffer tape, calm.",
+      "scene": "A BUSTLING MEDIA OFFICE IN FULL SWING, and DAVID KOBROSKY strides through the middle of it carrying a cardboard box stacked with a laptop and rolled posters, his grin turned toward the colleague he passes, HIS EYES ON HER: a woman with a red ponytail in a dark green tee who points him toward a doorway. Around them: desks jammed with monitors kept dark and papers kept bright, a wall calendar dense with marker scrawl, three other staffers in motion carrying tripods and garment bags, sneakers everywhere, coffee cups everywhere. The energy is loud, warm, and fast. No recognizable real person appears; the famous boss is elsewhere. Lower-right: floor with a strip of gaffer tape, calm.",
       "_caption": "Before building his own thing he was Gary Vee's first crypto hire, sent to explore the strangest new corner of the internet. The job taught him how crowds gather online, and how they scatter. He kept the lesson.",
       "shot": "group",
       "pos": "bottom-right",
-      "anonymous": "Four media-office staffers in motion, visibly distinct from David and each other; none resembles any real public figure; none wears sky-blue.",
+      "anonymous": "Four media-office staffers in motion, visibly distinct from David and each other; the one he greets is a woman with a red ponytail in a dark green tee. Nobody wears any shade of blue shirt; nobody has a beard or stubble; none resembles any real public figure.",
       "negatives": [
         "a second man resembling David",
         "any recognizable real celebrity or public figure",
         "neon lighting",
-        "legible brand logos or text"
+        "legible brand logos or text",
+        "any blue button-down or blue shirt on anyone"
       ]
     },
     {
@@ -159,7 +160,7 @@
       "cast": [
         {
           "id": "david-kobrosky",
-          "pose": "front"
+          "look": "college"
         }
       ],
       "scene": "NIGHT AFTER A BRUNCH, and TWO MEN sit on the SAME side of a small kitchen table, shoulder to shoulder, both leaning toward ONE OPEN LAPTOP squarely in front of them, ITS SCREEN FACING THE TWO OF THEM, their eyes on the screen together. DAVID KOBROSKY is on the left, mid-idea, one hand gesturing at the screen; his FRIEND, a young man with wavy chestnut hair, round glasses and a maroon crewneck, types as he grins. Around the laptop: index cards with red yarn between them, a cold cup of coffee, and this morning's clean stacked plates drying by the sink behind them. On one index card, in plain marker capitals, exactly the word MEETSUNDAY. Lamplight, warm and late. Lower-right: table wood and one pencil, calm.",

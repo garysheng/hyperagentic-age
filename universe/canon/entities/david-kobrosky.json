@@ -88,6 +88,47 @@
     },
     "scale": {
       "height": "6 ft 0 in (183 cm)"
+    },
+    "altLooks": {
+      "college": {
+        "note": "COLLEGE-ERA DAVID, roughly ages 19-23: the NYC-arrival, first-brunches, first-job and MeetSunday chapters (spreads 3, 4, 7, 8 of the-introducer). Anchored on a REAL photograph of young David supplied by Gary (2026-08-08): completely CLEAN-SHAVEN, hair in a neat short college cut with a FULLER, LOWER, straighter hairline than the present era, the same wide grin and strong jaw with none of the present era's weight. Wardrobe per Gary: 'a polo or a nice T-shirt... a professional-looking college kid.' dropSheets removes every present-day plate because a reference image outranks a word and a bearded thirty-something plate simply ages him back up.",
+        "anchorPhoto": "reference/david-kobrosky/photos/06-college-bw-hires.png",
+        "sheets": {
+          "face-neutral": "reference/david-kobrosky/college/face-neutral.png",
+          "forward-fullbody": "reference/david-kobrosky/college/forward-fullbody.png"
+        },
+        "dropSheets": [
+          "face-neutral",
+          "face-3q",
+          "expressions",
+          "forward-fullbody",
+          "profile-left",
+          "profile-right",
+          "back",
+          "signature-pose"
+        ],
+        "supersedes": [
+          "man-early-thirties",
+          "short-dark-brown-curly-hair-tight-cropped-sides",
+          "short-stubble-beard-NEVER-clean-shaven",
+          "sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+          "dark-warm-gray-trousers"
+        ],
+        "invariants": [
+          "college-age-man-early-twenties",
+          "completely-clean-shaven-no-stubble",
+          "neat-short-college-haircut-fuller-lower-straight-hairline",
+          "same-wide-grin-strong-jaw-thick-eyebrows-as-default-era",
+          "navy-polo-shirt-or-plain-heather-crew-tee",
+          "light-khaki-chinos",
+          "warm-editorial-register-at-spread-time-hyper-real-at-reference-time"
+        ],
+        "negatives": [
+          "beard or stubble of any kind",
+          "a sky-blue button-down",
+          "a receding or high hairline"
+        ]
+      }
     }
   },
   "prose": {
