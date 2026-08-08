@@ -1,0 +1,127 @@
+{
+  "asset": "angel-clawd_flag_coral_3200.png",
+  "method": "generator",
+  "generator": {
+    "id": "angel-clawd-pixel",
+    "entrypoint": "generate.py",
+    "determinism": "pure"
+  },
+  "params": {
+    "longEdge": 3200,
+    "padUnits": 6,
+    "raiseK": 0.4,
+    "proofTilePx": 700,
+    "palettes": {
+      "coral": {
+        "body": "#DD775B",
+        "bodyShade": "#c05f45",
+        "bodyHi": "#ea9077",
+        "wingWhite": "#fffdf7",
+        "wingCream": "#f3ead9",
+        "wingSwoop": "#e6d9c2",
+        "heart": "#b0512e",
+        "eye": "#211d18",
+        "glint": "#fffdf7",
+        "halo": "#e6d9c2",
+        "haloHi": "#fffdf7",
+        "pole": "#211d18",
+        "flagDark": "#211d18",
+        "flagLight": "#fffdf7",
+        "leg": "#c05f45"
+      },
+      "burntorange": {
+        "mono": "#b0512e"
+      },
+      "cream": {
+        "mono": "#fffdf7"
+      }
+    },
+    "grounds": {
+      "coral": "#ffffff",
+      "burntorange": "#ffffff",
+      "cream": "#2b2723"
+    },
+    "variants": [
+      {
+        "id": "heart_coral",
+        "accessory": "heart",
+        "palette": "coral",
+        "pose": "spread"
+      },
+      {
+        "id": "halo_coral",
+        "accessory": "halo",
+        "palette": "coral",
+        "pose": "spread"
+      },
+      {
+        "id": "halo-heart_coral",
+        "accessory": "halo-heart",
+        "palette": "coral",
+        "pose": "spread"
+      },
+      {
+        "id": "flag_coral",
+        "accessory": "flag",
+        "palette": "coral",
+        "pose": "spread"
+      },
+      {
+        "id": "plain_coral",
+        "accessory": "none",
+        "palette": "coral",
+        "pose": "spread"
+      },
+      {
+        "id": "heart_coral_wingsup",
+        "accessory": "heart",
+        "palette": "coral",
+        "pose": "raised"
+      },
+      {
+        "id": "halo-heart_coral_wingsup",
+        "accessory": "halo-heart",
+        "palette": "coral",
+        "pose": "raised"
+      },
+      {
+        "id": "flag_coral_wingsup",
+        "accessory": "flag",
+        "palette": "coral",
+        "pose": "raised"
+      },
+      {
+        "id": "heart_burntorange",
+        "accessory": "heart",
+        "palette": "burntorange",
+        "pose": "spread"
+      },
+      {
+        "id": "halo_burntorange",
+        "accessory": "halo",
+        "palette": "burntorange",
+        "pose": "spread"
+      },
+      {
+        "id": "heart_cream",
+        "accessory": "heart",
+        "palette": "cream",
+        "pose": "spread"
+      },
+      {
+        "id": "halo-heart_cream",
+        "accessory": "halo-heart",
+        "palette": "cream",
+        "pose": "spread"
+      }
+    ]
+  },
+  "variant": {
+    "id": "flag_coral",
+    "accessory": "flag",
+    "palette": "coral",
+    "pose": "spread"
+  },
+  "geometrySource": "faithful port of tastefulstories/src/app/story/Clawd.tsx (rectangles-only pixel SVG; right wing derived by mirror about x=61)",
+  "sha256": "37b4c55c03f93c7b93dc7fe1e9d0b98e74fcdff1e9a3357ce9c11d1e44515518"
+}

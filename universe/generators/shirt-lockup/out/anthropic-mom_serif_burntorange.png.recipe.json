@@ -1,0 +1,246 @@
+{
+  "asset": "anthropic-mom_serif_burntorange.png",
+  "method": "generator",
+  "generator": {
+    "id": "shirt-lockup",
+    "entrypoint": "generate.py",
+    "determinism": "pure"
+  },
+  "params": {
+    "canvas": [
+      4500,
+      5400
+    ],
+    "dpi": 300,
+    "margin": 400,
+    "colors": {
+      "burntorange": "#b0512e",
+      "cream": "#fffdf7",
+      "coral": "#DD775B"
+    },
+    "fonts": {
+      "serif": {
+        "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+        "index": 5,
+        "name": "Charter Black"
+      },
+      "serifSub": {
+        "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+        "index": 3,
+        "name": "Charter Bold"
+      },
+      "display": {
+        "path": "/Users/garysheng/Library/Fonts/Anton-Regular.ttf",
+        "index": 0,
+        "name": "Anton Regular"
+      },
+      "proofLabel": {
+        "path": "/System/Library/Fonts/Menlo.ttc",
+        "index": 0,
+        "name": "Menlo Regular"
+      }
+    },
+    "mascots": {
+      "v4d": "inputs/angel-clawd-v4d-keyed.png",
+      "v4e": "inputs/angel-clawd-v4e-keyed.png",
+      "v4j": "inputs/angel-clawd-v4j-keyed.png"
+    },
+    "treatments": {
+      "anthropic-mom": {
+        "kind": "stacked",
+        "lines": [
+          "ANTHROPIC",
+          "MOM"
+        ],
+        "lineWidths": [
+          3300,
+          2450
+        ],
+        "lineGap": 140,
+        "mascotWidth": 2700,
+        "mascotGap": 300
+      },
+      "proud-mom": {
+        "kind": "headline-subline",
+        "headline": "PROUD MOM",
+        "headlineWidth": 3450,
+        "sublineWidth": 3450,
+        "sublineTrackingEm": 0.18,
+        "subGap": 190,
+        "mascotWidth": 3100,
+        "mascotGap": 340,
+        "sublineLines": [
+          "OF AN ANTHROPIC APPLIED AI EVANGELIST"
+        ]
+      },
+      "proud-mom-2line": {
+        "kind": "headline-subline",
+        "headline": "PROUD MOM",
+        "headlineWidth": 3450,
+        "sublineWidth": 3450,
+        "sublineTrackingEm": 0.18,
+        "subGap": 190,
+        "mascotWidth": 3100,
+        "mascotGap": 340,
+        "sublineLines": [
+          "OF AN ANTHROPIC",
+          "APPLIED AI EVANGELIST"
+        ],
+        "sublineLineGap": 90
+      }
+    },
+    "variants": [
+      {
+        "id": "anthropic-mom_serif_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_serif_cream",
+        "treatment": "anthropic-mom",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_display_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_display_cream",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_burntorange",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_cream",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_display_burntorange",
+        "treatment": "proud-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_display_cream",
+        "treatment": "proud-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_mixed",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "sublineColor": "coral",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom-2line_serif_burntorange",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom-2line_display_cream",
+        "treatment": "proud-mom-2line",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "v4e-blush_proud-mom_serif_burntorange",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4e"
+      },
+      {
+        "id": "v4e-blush_proud-mom_serif_cream",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4e"
+      },
+      {
+        "id": "v4j-chibi_anthropic-mom_display_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4j"
+      },
+      {
+        "id": "v4j-chibi_anthropic-mom_display_cream",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4j"
+      }
+    ],
+    "proof": {
+      "tile": [
+        460,
+        552
+      ],
+      "printWidthFrac": 0.64,
+      "printTopFrac": 0.16,
+      "labelGutter": 560,
+      "grounds": {
+        "white": "#ffffff",
+        "burnt-orange tee": "#a8502e",
+        "charcoal tee": "#2b2723"
+      }
+    }
+  },
+  "variant": {
+    "id": "anthropic-mom_serif_burntorange",
+    "treatment": "anthropic-mom",
+    "font": "serif",
+    "textColor": "burntorange",
+    "mascot": "v4d"
+  },
+  "inputs": [
+    {
+      "path": "generators/shirt-lockup/inputs/angel-clawd-v4d-keyed.png",
+      "sha256": "d22ef0f935b1d277f6cd0a15f8e098f7ebcdefacee5804869f2a23868f42f72c",
+      "note": "blessed angel-Clawd v4d, keyed; derived recipe beside it records the chain back to the gpt-image-2 greenscreen render"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+      "index": 5,
+      "name": "Charter Black",
+      "sha256": "6ab86ae2c687f80652a8afdc851b3e3234c5ae702e307c0593adfcc63079e19f"
+    },
+    {
+      "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+      "index": 3,
+      "name": "Charter Bold",
+      "sha256": "6ab86ae2c687f80652a8afdc851b3e3234c5ae702e307c0593adfcc63079e19f"
+    }
+  ],
+  "dpi": 300,
+  "printArea": "15x18in at 300 DPI",
+  "sha256": "2ce2ea40c004dbecfabab8cc30ebf5c3ef3c0df08e57f2ae3cdb15fd05f1238a"
+}

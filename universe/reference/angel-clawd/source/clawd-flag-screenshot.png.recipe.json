@@ -1,0 +1,11 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/angel-clawd/source/clawd-flag-screenshot.png",
+  "provenance": "source",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "7100c42f5d062f727ce931ab938c5f391063b82d2f21826318f8c3e0fdb10c89",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/bc23fc7d-1b83-4d24-a35c-e82c65b64c7f/scratchpad/src/clawd-flag-screenshot.png",
+  "note": "Gary's screenshot of the canonical pixel Clawd holding a checkered flag. Was the primary identity ref for round 1 (superseded mid-run 2026-08-08); kept as the SECONDARY ref on flag-accessory variants because it shows how the flag mounts."
+}

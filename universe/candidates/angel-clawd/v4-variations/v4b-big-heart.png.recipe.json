@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/v4-variations/v4b-big-heart.png",
+  "provenance": "derived",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "56ccdd63a888735993800e2def552163bcb97327ea19db04181fe68643a79d8c",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/bc23fc7d-1b83-4d24-a35c-e82c65b64c7f/scratchpad/final3/v4b-big-heart.png",
+  "note": "Round 3 (2026-08-08): v4-halo-heart variation (v4b-big-heart). Anchored FIRST on the blessed-direction candidate candidates/angel-clawd/v4-halo-heart.png (reproduce faithfully, change only the named axis), SECOND on reference/angel-clawd/source/clawd-clean-screenshot.png as identity anchor. Transparent deliverable candidate: chroma-keyed cutout of candidates/angel-clawd/v4-variations/greenscreen/v4b-big-heart.png (recipe beside it) via on-brand-image/scripts/chroma_key.py defaults, RGB zeroed where alpha=0, cropped to alpha bbox, padded 32px. Nothing locks until Gary blesses one.",
+  "derivedFrom": {
+    "repo": "hyperagentic-age",
+    "path": "universe/candidates/angel-clawd/v4-variations/greenscreen/v4b-big-heart.png",
+    "generator": "gpt-image-2 via on-brand-image/scripts/generate.py"
+  },
+  "sourcePrompt": "The FIRST reference image is the APPROVED DESIGN: an adorable angel version of the Anthropic\n\"Clawd\" pixel mascot, as a cute designed-sticker pixel-art mark \u2014 a stepped blocky coral body\n(coral #DD775B, darker #c05f45 shading low, lighter #ea9077 highlight band near the top), two\nbig dark rounded eyes each with a single small white glint, four little pixel legs dangling\nbelow as it floats, classic cream/off-white (#fffdf7 / #f3ead9) scalloped angel wings spread\none on each side growing from BEHIND the body (never held, never attached in front), a simple\ngolden-cream pixel halo floating just above its head, and a small burnt-orange pixel heart\nfloating beside its head. The SECOND reference image is the original Clawd pixel mascot, the\ncharacter identity underneath.\n\nReproduce the FIRST reference's design FAITHFULLY \u2014 same style, same proportions, same\ncolors, same plush charming sticker energy, crisp flat blocky pixel shapes, not a rigid grid\nport, not painterly, not 3D, not glossy \u2014 changing ONLY the one thing named next.\n\nCHANGE: make the burnt-orange pixel heart noticeably BIGGER and more prominent \u2014 roughly the size of the critter's head \u2014 still floating beside its head. Everything else identical.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four\nedges. ABSOLUTELY NO text, no letters, no numbers. Do NOT include any flag."
+}

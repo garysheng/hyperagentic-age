@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/v4-variations/contact-sheet.png",
+  "provenance": "derived",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "28af8042ba7bc58ce3445591bc2e5c11d93ff1c3ac5eb8d832be12bef4b0d1f3",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/bc23fc7d-1b83-4d24-a35c-e82c65b64c7f/scratchpad/contact-sheet-v4-variations.png",
+  "note": "Round-3 review contact sheet of the ten v4-halo-heart variations (v4a-v4j, anchored on the blessed-direction v4 candidate + clean Clawd screenshot), built by render-readback/scripts/contact_sheet.py from the keyed finals beside it.",
+  "derivedFrom": {
+    "repo": "hyperagentic-age",
+    "path": "universe/candidates/angel-clawd/v4-variations/"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "id": "shirt-lockup",
+  "name": "Anthropic Mom shirt lockups (angel-Clawd v4d/v4e/v4j + deterministic typesetting)",
+  "kind": "generator",
+  "entrypoint": "generate.py",
+  "determinism": "pure",
+  "note": "Print-ready T-shirt lockups: the BLESSED angel-Clawd mascots (v4d happy-eyes \u2014 Gary, 2026-08-08: 'cool do the shirt lockups thanks'; v4e blush and v4j chibi blessed mid-run via coordinator direction update) composited above deterministically TYPESET text. The mascot is the imported keyed PNG in inputs/ (derived recipe beside it) and is NEVER re-generated here; the text is NEVER produced by an image model (image models garble letterforms; deterministic graphics render in code, SPEC 4.11). Canvas is 4500x5400 px = 15x18 in at 300 DPI, the standard print-on-demand front-print area, transparent ground. Two type personalities: 'serif' = Charter Black/Bold (warm bookish Matthew Carter serif, the Anthropic-adjacent voice; Georgia/New York were the runners-up) and 'display' = Anton (heavy condensed geometric display sans). Anton is a DECLARED SUBSTITUTE: no pixel font (Press Start 2P / VT323 / Silkscreen) is installed on this machine or in any repo, and fonts are not downloaded without flagging. Text is rasterized by freetype from vector outlines AT final size (no upscaled raster); the mascot raster is upscaled LANCZOS from 1020px, which is soft-acceptable for sticker-style art but is the known quality ceiling. Every knob lives in params; generate.py reads THIS file and retypes nothing. TEXT REVISION mid-run (Gary): treatment B reads as one sentence, 'PROUD MOM' / 'OF AN ANTHROPIC APPLIED AI EVANGELIST'; the longer subline sets EITHER as one letterspaced line (treatment proud-mom) or two stacked letterspaced lines (treatment proud-mom-2line); both settings ship on v4d comparator variants so the proof sheet decides. Font picks for the new mascots (judged from the v4d matrix set in both faces): Charter serif for v4e-blush (warm bookish suits the soft blush), Anton for v4j-chibi (chunky display matches the chibi mass).",
+  "params": {
+    "canvas": [
+      4500,
+      5400
+    ],
+    "dpi": 300,
+    "margin": 400,
+    "colors": {
+      "burntorange": "#b0512e",
+      "cream": "#fffdf7",
+      "coral": "#DD775B"
+    },
+    "fonts": {
+      "serif": {
+        "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+        "index": 5,
+        "name": "Charter Black"
+      },
+      "serifSub": {
+        "path": "/System/Library/Fonts/Supplemental/Charter.ttc",
+        "index": 3,
+        "name": "Charter Bold"
+      },
+      "display": {
+        "path": "/Users/garysheng/Library/Fonts/Anton-Regular.ttf",
+        "index": 0,
+        "name": "Anton Regular"
+      },
+      "proofLabel": {
+        "path": "/System/Library/Fonts/Menlo.ttc",
+        "index": 0,
+        "name": "Menlo Regular"
+      }
+    },
+    "mascots": {
+      "v4d": "inputs/angel-clawd-v4d-keyed.png",
+      "v4e": "inputs/angel-clawd-v4e-keyed.png",
+      "v4j": "inputs/angel-clawd-v4j-keyed.png"
+    },
+    "treatments": {
+      "anthropic-mom": {
+        "kind": "stacked",
+        "lines": [
+          "ANTHROPIC",
+          "MOM"
+        ],
+        "lineWidths": [
+          3300,
+          2450
+        ],
+        "lineGap": 140,
+        "mascotWidth": 2700,
+        "mascotGap": 300
+      },
+      "proud-mom": {
+        "kind": "headline-subline",
+        "headline": "PROUD MOM",
+        "headlineWidth": 3450,
+        "sublineWidth": 3450,
+        "sublineTrackingEm": 0.18,
+        "subGap": 190,
+        "mascotWidth": 3100,
+        "mascotGap": 340,
+        "sublineLines": [
+          "OF AN ANTHROPIC APPLIED AI EVANGELIST"
+        ]
+      },
+      "proud-mom-2line": {
+        "kind": "headline-subline",
+        "headline": "PROUD MOM",
+        "headlineWidth": 3450,
+        "sublineWidth": 3450,
+        "sublineTrackingEm": 0.18,
+        "subGap": 190,
+        "mascotWidth": 3100,
+        "mascotGap": 340,
+        "sublineLines": [
+          "OF AN ANTHROPIC",
+          "APPLIED AI EVANGELIST"
+        ],
+        "sublineLineGap": 90
+      }
+    },
+    "variants": [
+      {
+        "id": "anthropic-mom_serif_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_serif_cream",
+        "treatment": "anthropic-mom",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_display_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "anthropic-mom_display_cream",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_burntorange",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_cream",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_display_burntorange",
+        "treatment": "proud-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_display_cream",
+        "treatment": "proud-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom_serif_mixed",
+        "treatment": "proud-mom",
+        "font": "serif",
+        "textColor": "burntorange",
+        "sublineColor": "coral",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom-2line_serif_burntorange",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4d"
+      },
+      {
+        "id": "proud-mom-2line_display_cream",
+        "treatment": "proud-mom-2line",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4d"
+      },
+      {
+        "id": "v4e-blush_proud-mom_serif_burntorange",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "burntorange",
+        "mascot": "v4e"
+      },
+      {
+        "id": "v4e-blush_proud-mom_serif_cream",
+        "treatment": "proud-mom-2line",
+        "font": "serif",
+        "textColor": "cream",
+        "mascot": "v4e"
+      },
+      {
+        "id": "v4j-chibi_anthropic-mom_display_burntorange",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "burntorange",
+        "mascot": "v4j"
+      },
+      {
+        "id": "v4j-chibi_anthropic-mom_display_cream",
+        "treatment": "anthropic-mom",
+        "font": "display",
+        "textColor": "cream",
+        "mascot": "v4j"
+      }
+    ],
+    "proof": {
+      "tile": [
+        460,
+        552
+      ],
+      "printWidthFrac": 0.64,
+      "printTopFrac": 0.16,
+      "labelGutter": 560,
+      "grounds": {
+        "white": "#ffffff",
+        "burnt-orange tee": "#a8502e",
+        "charcoal tee": "#2b2723"
+      }
+    }
+  },
+  "inputs": [
+    "generators/shirt-lockup/inputs/angel-clawd-v4d-keyed.png",
+    "generators/shirt-lockup/inputs/angel-clawd-v4e-keyed.png",
+    "generators/shirt-lockup/inputs/angel-clawd-v4j-keyed.png"
+  ],
+  "outputs": [
+    {
+      "path": "out/anthropic-mom_serif_burntorange.png",
+      "description": "ANTHROPIC / MOM stacked, Charter Black, burnt-orange text; for white/light shirts"
+    },
+    {
+      "path": "out/anthropic-mom_serif_cream.png",
+      "description": "ANTHROPIC / MOM stacked, Charter Black, cream text; for burnt-orange/dark shirts"
+    },
+    {
+      "path": "out/anthropic-mom_display_burntorange.png",
+      "description": "ANTHROPIC / MOM stacked, Anton, burnt-orange text; for white/light shirts"
+    },
+    {
+      "path": "out/anthropic-mom_display_cream.png",
+      "description": "ANTHROPIC / MOM stacked, Anton, cream text; for burnt-orange/dark shirts"
+    },
+    {
+      "path": "out/proud-mom_serif_burntorange.png",
+      "description": "PROUD MOM + letterspaced OF AN ANTHROPIC APPLIED AI EVANGELIST (one line), Charter, burnt-orange text"
+    },
+    {
+      "path": "out/proud-mom_serif_cream.png",
+      "description": "PROUD MOM + letterspaced subline, Charter, cream text"
+    },
+    {
+      "path": "out/proud-mom_display_burntorange.png",
+      "description": "PROUD MOM + letterspaced subline, Anton, burnt-orange text"
+    },
+    {
+      "path": "out/proud-mom_display_cream.png",
+      "description": "PROUD MOM + letterspaced subline, Anton, cream text"
+    },
+    {
+      "path": "out/proud-mom_serif_mixed.png",
+      "description": "mixed treatment: PROUD MOM burnt orange + subline coral, Charter; for white/light shirts"
+    },
+    {
+      "path": "out/proud-mom-2line_serif_burntorange.png",
+      "description": "two-line subline comparator (OF AN ANTHROPIC / APPLIED AI EVANGELIST), Charter, burnt-orange"
+    },
+    {
+      "path": "out/proud-mom-2line_display_cream.png",
+      "description": "two-line subline comparator, Anton, cream"
+    },
+    {
+      "path": "out/v4e-blush_proud-mom_serif_burntorange.png",
+      "description": "v4e blush mascot, PROUD MOM + two-line subline, Charter, burnt-orange; for white/light shirts"
+    },
+    {
+      "path": "out/v4e-blush_proud-mom_serif_cream.png",
+      "description": "v4e blush mascot, PROUD MOM + two-line subline, Charter, cream; for burnt-orange/dark shirts"
+    },
+    {
+      "path": "out/v4j-chibi_anthropic-mom_display_burntorange.png",
+      "description": "v4j chibi mascot, ANTHROPIC / MOM stacked, Anton, burnt-orange; for white/light shirts"
+    },
+    {
+      "path": "out/v4j-chibi_anthropic-mom_display_cream.png",
+      "description": "v4j chibi mascot, ANTHROPIC / MOM stacked, Anton, cream; for burnt-orange/dark shirts"
+    }
+  ],
+  "install": {},
+  "proof": {
+    "sheet": "proof/contact-sheet.png",
+    "assertions": [
+      "every tile is at shirt-print proportion: the lockup sits at print width on a garment-colored ground, top-chest placement, so Gary judges it as a shirt rather than as a poster",
+      "each lockup is proofed on ALL THREE grounds (white, burnt-orange tee, charcoal tee) including the ones where its text color deliberately vanishes, so colorway-to-garment pairing is chosen by eye, not asserted",
+      "the mascot reads identically in every lockup (it is one input PNG composited, never re-generated) and its natural colors read on both light and dark grounds",
+      "letterforms are crisp at print scale: typeset by freetype at final size, zero image-model text, zero upscaled text raster",
+      "the subline's letterspaced caps read as a quiet second voice under PROUD MOM, not as a second headline",
+      "everything sits comfortably inside the 15x18in print area with generous margins; nothing touches an edge",
+      "the one-line vs two-line subline settings sit side by side on v4d so the close call is decided by eye on garment grounds, not asserted"
+    ]
+  }
+}

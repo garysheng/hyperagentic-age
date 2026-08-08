@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/generators/shirt-lockup/inputs/angel-clawd-v4e-keyed.png",
+  "provenance": "derived",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "d7539c579dadd0ada4e296bc98bb507acbb0ab74b5c4826d4d83d02ccc17a6c3",
+  "generator": "abu import-asset",
+  "importedFrom": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/v4-variations/v4e-blush.png",
+  "note": "Byte copy of the sibling run's CANONICAL keyed final for v4e-blush (already chroma-keyed from its greenscreen render by the framework keyer; that file's own recipe records the key). Imported as the shirt-lockup generator's mascot input.",
+  "derivedFrom": {
+    "repo": "hyperagentic-age",
+    "path": "universe/candidates/angel-clawd/v4-variations/v4e-blush.png",
+    "generator": "gpt-image-2"
+  },
+  "blessedBy": "Gary Sheng, 2026-08-08 (v4d blessed with 'cool do the shirt lockups thanks'; v4e + v4j blessed mid-run via coordinator direction update)"
+}

@@ -1,0 +1,15 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Using the reference image as the exact character identity: the reference shows a small coral\npixel critter (the Anthropic \"Clawd\" pixel mascot) holding a checkered flag. Redraw THIS SAME\nCRITTER as an adorable ANGEL version of itself, in a cute designed-sticker pixel-art style:\ncrisp flat blocky pixel shapes with a soft, plush, charming energy \u2014 not a rigid grid port,\nnot mushy painterly rendering, not 3D, not glossy.\n\nTHE CRITTER: same identity as the reference \u2014 a stepped, blocky coral body (coral #DD775B,\nslightly darker #c05f45 shading low on the body, a lighter #ea9077 highlight band near the\ntop), two big dark rounded eyes each with a single small white glint, and little dangling\npixel legs hanging below the body as it floats.\n\nTHE ANGEL: classic scalloped angel wings growing from BEHIND the body, one on each side \u2014\ncream and off-white (#fffdf7 / #f3ead9) feathers in neat scalloped rows. The wings attach\nbehind the body; they are never held and never attach in front.\n\nPALETTE OVERRIDE: render the ENTIRE mascot as a ONE-COLOR sticker mark in solid warm cream #fffdf7 \u2014 body, wings, legs, halo and heart all the same single cream, with the eyes, eye glints and wing scallop separations knocked out as negative space (the green background showing through), so it prints cleanly in one ink on a dark burnt-orange shirt. ACCESSORY: halo above the head and a small floating heart beside it. No flag.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four edges.\nABSOLUTELY NO text, no letters, no numbers. Do NOT include the checkered flag from the reference image.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "reference/angel-clawd/source/clawd-flag-screenshot.png"
+    }
+  ],
+  "timestamp": "2026-08-08T19:15:44.759669+00:00",
+  "sha256": "9ec256f8618174d99fc4bf8de62e41d66c49bf9ed345e4490fb4f25d357efda1",
+  "size": "1024x1024",
+  "quality": "high"
+}

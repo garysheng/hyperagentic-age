@@ -1,0 +1,18 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "The FIRST reference image is the APPROVED DESIGN: an adorable angel version of the Anthropic\n\"Clawd\" pixel mascot, as a cute designed-sticker pixel-art mark \u2014 a stepped blocky coral body\n(coral #DD775B, darker #c05f45 shading low, lighter #ea9077 highlight band near the top), two\nbig dark rounded eyes each with a single small white glint, four little pixel legs dangling\nbelow as it floats, classic cream/off-white (#fffdf7 / #f3ead9) scalloped angel wings spread\none on each side growing from BEHIND the body (never held, never attached in front), a simple\ngolden-cream pixel halo floating just above its head, and a small burnt-orange pixel heart\nfloating beside its head. The SECOND reference image is the original Clawd pixel mascot, the\ncharacter identity underneath.\n\nReproduce the FIRST reference's design FAITHFULLY \u2014 same style, same proportions, same\ncolors, same plush charming sticker energy, crisp flat blocky pixel shapes, not a rigid grid\nport, not painterly, not 3D, not glossy \u2014 changing ONLY the one thing named next.\n\nCHANGE: add two tiny soft pixel blush marks (a warm rosy #ea9077-pink) on the face just below and outside the eyes. The eyes stay open with their glints. Everything else identical.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four\nedges. ABSOLUTELY NO text, no letters, no numbers. Do NOT include any flag.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "candidates/angel-clawd/v4-halo-heart.png"
+    },
+    {
+      "path": "reference/angel-clawd/source/clawd-clean-screenshot.png"
+    }
+  ],
+  "timestamp": "2026-08-08T19:43:05.369245+00:00",
+  "sha256": "ea4ff5d811b77acf612e846a4d3ac9fdb21a67d8be47858b47f63228daa29f0b",
+  "size": "1024x1024",
+  "quality": "high"
+}

@@ -1,0 +1,15 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Using the first reference image as the exact character identity: it shows a small coral\npixel critter (the Anthropic \"Clawd\" pixel mascot) \u2014 a front-facing stepped blocky coral\nbody with a raised head block, two black square eyes, one small stub arm on each side of the\nmid-body, and four little legs dangling below. Redraw THIS SAME CRITTER as an adorable ANGEL\nversion of itself, in a cute designed-sticker pixel-art style: crisp flat blocky pixel\nshapes with a soft, plush, charming energy \u2014 not a rigid grid port, not mushy painterly\nrendering, not 3D, not glossy.\n\nTHE CRITTER: same identity as the reference \u2014 a stepped, blocky coral body (coral #DD775B,\nslightly darker #c05f45 shading low on the body, a lighter #ea9077 highlight band near the\ntop), two big dark rounded eyes each with a single small white glint, and little dangling\npixel legs hanging below the body as it floats.\n\nTHE ANGEL: classic scalloped angel wings growing from BEHIND the body, one on each side \u2014\ncream and off-white (#fffdf7 / #f3ead9) feathers in neat scalloped rows. The wings attach\nbehind the body; they are never held and never attach in front.\n\nACCESSORY: a small burnt-orange pixel heart floating beside its head, as if it just loved something. No halo, no flag.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four edges.\nABSOLUTELY NO text, no letters, no numbers. Do NOT include any flag.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "reference/angel-clawd/source/clawd-clean-screenshot.png"
+    }
+  ],
+  "timestamp": "2026-08-08T19:21:07.458606+00:00",
+  "sha256": "699caf7c5573079db3c4f0b09ba4970de0366f4b0978c67df255d9ed312d872b",
+  "size": "1024x1024",
+  "quality": "high"
+}

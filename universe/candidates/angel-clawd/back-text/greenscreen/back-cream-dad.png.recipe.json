@@ -1,0 +1,15 @@
+{
+  "asset": "back-cream-dad.png",
+  "model": "gpt-image-2",
+  "mode": "edit",
+  "prompt": "Reproduce the first reference image as faithfully as possible: same chunky retro pixel-style block capital letters, same warm cream off-white color (#fffdf7), same stacked centered four-line layout, same letter sizes and line widths, same flat solid pure bright green #00FF00 background and nothing else. Make exactly ONE change: the fourth line must read 'DAD' instead of 'MOM'. The four lines read exactly, top to bottom: 'PROUD', 'ANTHROPIC', 'EVANGELIST', 'DAD'. Spelling must be exact: P-R-O-U-D, A-N-T-H-R-O-P-I-C, E-V-A-N-G-E-L-I-S-T, D-A-D. Text only, no characters, no mascots, no illustrations.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/back-text/greenscreen/back-cream.png"
+  ],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-08-08T20:18:13+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

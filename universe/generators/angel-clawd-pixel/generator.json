@@ -1,0 +1,72 @@
+{
+  "id": "angel-clawd-pixel",
+  "name": "Angel Clawd pixel mascot (print-scale transparent PNGs)",
+  "kind": "generator",
+  "entrypoint": "generate.py",
+  "determinism": "pure",
+  "note": "SUPERSEDED 2026-08-08: Gary reviewed the proof sheet and rejected this deterministic pixel-port look ('decent job, but I don't really like it'); the angel-clawd motif is now produced by gpt-image-2 via the framework provider adapter (see canon/entities/angel-clawd.json and canon/craft/pixel-mascot-medium-exception.json). This generator and its outputs stay on disk as history; do not install its outputs as deliverables. Original rationale follows. Pixel art prompted from an image model comes back mushy; this mascot is COMPUTED. The base rect geometry is a faithful port of the deterministic rectangles-only SVG in tastefulstories/src/app/story/Clawd.tsx (itself in the spirit of Claude Code's pixel mascot); the geometry is source material, not a knob, so it lives in code while every variation knob lives here in params. Downstream consumer: Gary's Anthropic-fan-art print-on-demand shirts ('Anthropic Mom' / 'Proud Mom - An Anthropic Evangelist'), which is why every output is transparent-ground at 3200px long edge and why the mono palettes exist (single-colour variants print cleanly on white and dark garments). Rasterized with rsvg-convert using shape-rendering=crispEdges, so rect edges are hard pixel edges with no anti-alias seams between abutting rects.",
+  "params": {
+    "longEdge": 3200,
+    "padUnits": 6,
+    "raiseK": 0.4,
+    "proofTilePx": 700,
+    "palettes": {
+      "coral": {
+        "body": "#DD775B", "bodyShade": "#c05f45", "bodyHi": "#ea9077",
+        "wingWhite": "#fffdf7", "wingCream": "#f3ead9", "wingSwoop": "#e6d9c2",
+        "heart": "#b0512e", "eye": "#211d18", "glint": "#fffdf7",
+        "halo": "#e6d9c2", "haloHi": "#fffdf7",
+        "pole": "#211d18", "flagDark": "#211d18", "flagLight": "#fffdf7",
+        "leg": "#c05f45"
+      },
+      "burntorange": { "mono": "#b0512e" },
+      "cream": { "mono": "#fffdf7" }
+    },
+    "grounds": { "coral": "#ffffff", "burntorange": "#ffffff", "cream": "#2b2723" },
+    "variants": [
+      { "id": "heart_coral",             "accessory": "heart",      "palette": "coral",       "pose": "spread" },
+      { "id": "halo_coral",              "accessory": "halo",       "palette": "coral",       "pose": "spread" },
+      { "id": "halo-heart_coral",        "accessory": "halo-heart", "palette": "coral",       "pose": "spread" },
+      { "id": "flag_coral",              "accessory": "flag",       "palette": "coral",       "pose": "spread" },
+      { "id": "plain_coral",             "accessory": "none",       "palette": "coral",       "pose": "spread" },
+      { "id": "heart_coral_wingsup",     "accessory": "heart",      "palette": "coral",       "pose": "raised" },
+      { "id": "halo-heart_coral_wingsup","accessory": "halo-heart", "palette": "coral",       "pose": "raised" },
+      { "id": "flag_coral_wingsup",      "accessory": "flag",       "palette": "coral",       "pose": "raised" },
+      { "id": "heart_burntorange",       "accessory": "heart",      "palette": "burntorange", "pose": "spread" },
+      { "id": "halo_burntorange",        "accessory": "halo",       "palette": "burntorange", "pose": "spread" },
+      { "id": "heart_cream",             "accessory": "heart",      "palette": "cream",       "pose": "spread" },
+      { "id": "halo-heart_cream",        "accessory": "halo-heart", "palette": "cream",       "pose": "spread" }
+    ]
+  },
+  "inputs": [],
+  "outputs": [
+    { "path": "out/angel-clawd_heart_coral_3200.png", "description": "canonical: coral body, cream wings, floating pixel heart, wings spread; transparent, 3200px long edge" },
+    { "path": "out/angel-clawd_halo_coral_3200.png", "description": "pixel halo above the head, coral body" },
+    { "path": "out/angel-clawd_halo-heart_coral_3200.png", "description": "halo AND floating heart together, coral body" },
+    { "path": "out/angel-clawd_flag_coral_3200.png", "description": "checkered racing flag held at the right side stub, plus wings" },
+    { "path": "out/angel-clawd_plain_coral_3200.png", "description": "no accessory, coral body, cream wings" },
+    { "path": "out/angel-clawd_heart_coral_wingsup_3200.png", "description": "wings raised higher, heart, coral body" },
+    { "path": "out/angel-clawd_halo-heart_coral_wingsup_3200.png", "description": "wings raised, halo AND heart, coral body" },
+    { "path": "out/angel-clawd_flag_coral_wingsup_3200.png", "description": "wings raised, checkered flag, coral body" },
+    { "path": "out/angel-clawd_heart_burntorange_3200.png", "description": "all-burnt-orange monochrome (#b0512e), eyes knocked out transparent with mono glints; for white shirts" },
+    { "path": "out/angel-clawd_halo_burntorange_3200.png", "description": "burnt-orange monochrome with halo" },
+    { "path": "out/angel-clawd_heart_cream_3200.png", "description": "all-cream monochrome (#fffdf7); for dark shirts" },
+    { "path": "out/angel-clawd_halo-heart_cream_3200.png", "description": "cream monochrome, halo AND heart" },
+    { "path": "out/detail.png", "description": "crop-zoom of the load-bearing detail: glinted eyes, side stubs, inner wing scallops" }
+  ],
+  "install": {
+    "out/angel-clawd_heart_coral_3200.png": ["reference/angel-clawd/hero.png"],
+    "out/detail.png": ["reference/angel-clawd/detail.png"]
+  },
+  "proof": {
+    "sheet": "proof/contact-sheet.png",
+    "assertions": [
+      "every variant reads as the SAME critter: stepped coral (or mono) body, two pairs of dangling legs, mid-body side stubs, big glinted eyes, three-row scalloped wings growing from BEHIND the body",
+      "each variant is proofed on the ground it will actually print on: coral and burnt-orange on white, cream on a dark garment ground",
+      "the mono variants' knocked-out eyes read as eyes (transparent holes with a mono glint), not as a blob",
+      "the 1:1 crop tile from the 3200px master shows hard crisp pixel edges with no anti-alias mush and no seams between abutting rects",
+      "the flag is held at the side stub; the wings are never held and stay behind the body",
+      "no cream paper ground anywhere: every deliverable PNG is fully transparent outside the figure"
+    ]
+  }
+}

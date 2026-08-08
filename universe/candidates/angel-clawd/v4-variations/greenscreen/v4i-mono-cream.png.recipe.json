@@ -1,0 +1,18 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "The FIRST reference image is the APPROVED DESIGN: an adorable angel version of the Anthropic\n\"Clawd\" pixel mascot, as a cute designed-sticker pixel-art mark \u2014 a stepped blocky coral body\n(coral #DD775B, darker #c05f45 shading low, lighter #ea9077 highlight band near the top), two\nbig dark rounded eyes each with a single small white glint, four little pixel legs dangling\nbelow as it floats, classic cream/off-white (#fffdf7 / #f3ead9) scalloped angel wings spread\none on each side growing from BEHIND the body (never held, never attached in front), a simple\ngolden-cream pixel halo floating just above its head, and a small burnt-orange pixel heart\nfloating beside its head. The SECOND reference image is the original Clawd pixel mascot, the\ncharacter identity underneath.\n\nReproduce the FIRST reference's design FAITHFULLY \u2014 same style, same proportions, same\ncolors, same plush charming sticker energy, crisp flat blocky pixel shapes, not a rigid grid\nport, not painterly, not 3D, not glossy \u2014 changing ONLY the one thing named next.\n\nCHANGE: PALETTE ONLY \u2014 render the ENTIRE mark as a ONE-COLOR sticker in solid warm cream #fffdf7: body, wings, legs, halo and heart all the same single flat cream, with the eyes, eye glints, wing scallop separations, and the gap under the halo knocked out as negative space (the green background showing through), so it prints in one ink on a dark burnt-orange shirt. Same shapes, same composition as the first reference.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four\nedges. ABSOLUTELY NO text, no letters, no numbers. Do NOT include any flag.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "candidates/angel-clawd/v4-halo-heart.png"
+    },
+    {
+      "path": "reference/angel-clawd/source/clawd-clean-screenshot.png"
+    }
+  ],
+  "timestamp": "2026-08-08T19:44:49.303864+00:00",
+  "sha256": "ee3ad9199ea028116746228ebe3e4bc3bb84fb67386109aee3029970a1b80a75",
+  "size": "1024x1024",
+  "quality": "high"
+}

@@ -1,0 +1,13 @@
+{
+  "asset": "back-twotone-accents.png",
+  "model": "gpt-image-2",
+  "mode": "generate",
+  "prompt": "T-shirt back print: bold stacked typography only, NO characters, NO mascots, NO illustrations, text only. Four lines of chunky retro pixel-style block capital letters stacked vertically, centered, tightly leaded: line 1 'PROUD' in warm burnt orange (#b0512e), line 2 'ANTHROPIC' in coral (#DD775B), line 3 'EVANGELIST' in coral (#DD775B), line 4 'MOM' in warm burnt orange (#b0512e), with one tiny burnt-orange pixel heart floating just above the word PROUD and one small golden-yellow pixel halo ring resting on top of the letter M stack \u2014 accents only, no creature. Spelling must be exact: P-R-O-U-D, A-N-T-H-R-O-P-I-C, E-V-A-N-G-E-L-I-S-T, M-O-M. Clean crisp blocky 8-bit letterforms with pixel-stepped corners, consistent stroke weight, all four lines equal width. The background is a single flat solid field of pure bright green #00FF00 and nothing else.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-08-08T20:04:40+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}

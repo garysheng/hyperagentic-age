@@ -1,0 +1,17 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/v4-halo-heart.png",
+  "provenance": "derived",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "c3db8ed08930d3bfa9ec044a80b0519416ee51cbbcacf75f24aa519e865f83cb",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/bc23fc7d-1b83-4d24-a35c-e82c65b64c7f/scratchpad/final/v4-halo-heart.png",
+  "note": "Round 2 (2026-08-08, anchored on Gary's clean canonical Clawd screenshot reference/angel-clawd/source/clawd-clean-screenshot.png; flag variants also passed source/clawd-flag-screenshot.png second for flag mounting). Transparent deliverable candidate: chroma-keyed cutout of candidates/angel-clawd/greenscreen/v4-halo-heart.png (recipe beside it) via on-brand-image/scripts/chroma_key.py defaults, RGB zeroed where alpha=0, cropped to alpha bbox, padded 32px. Round 1 (flag-ref-anchored) preserved at candidates/angel-clawd/superseded-round-1-flag-ref/. Nothing locks until Gary blesses one.",
+  "derivedFrom": {
+    "repo": "hyperagentic-age",
+    "path": "universe/candidates/angel-clawd/greenscreen/v4-halo-heart.png",
+    "generator": "gpt-image-2 via on-brand-image/scripts/generate.py"
+  },
+  "sourcePrompt": "Using the first reference image as the exact character identity: it shows a small coral\npixel critter (the Anthropic \"Clawd\" pixel mascot) \u2014 a front-facing stepped blocky coral\nbody with a raised head block, two black square eyes, one small stub arm on each side of the\nmid-body, and four little legs dangling below. Redraw THIS SAME CRITTER as an adorable ANGEL\nversion of itself, in a cute designed-sticker pixel-art style: crisp flat blocky pixel\nshapes with a soft, plush, charming energy \u2014 not a rigid grid port, not mushy painterly\nrendering, not 3D, not glossy.\n\nTHE CRITTER: same identity as the reference \u2014 a stepped, blocky coral body (coral #DD775B,\nslightly darker #c05f45 shading low on the body, a lighter #ea9077 highlight band near the\ntop), two big dark rounded eyes each with a single small white glint, and little dangling\npixel legs hanging below the body as it floats.\n\nTHE ANGEL: classic scalloped angel wings growing from BEHIND the body, one on each side \u2014\ncream and off-white (#fffdf7 / #f3ead9) feathers in neat scalloped rows. The wings attach\nbehind the body; they are never held and never attach in front.\n\nACCESSORY: a simple golden-cream pixel halo floating just above its head AND a small burnt-orange pixel heart floating beside it. No flag.\n\nCOMPOSITION: the critter floats centered, large in frame, entirely surrounded by background.\nBACKGROUND: a single flat solid field of pure bright green #00FF00 and nothing else \u2014 no\nshadow, no reflection, no surface, no gradient, no vignette; the green touches all four edges.\nABSOLUTELY NO text, no letters, no numbers. Do NOT include any flag."
+}

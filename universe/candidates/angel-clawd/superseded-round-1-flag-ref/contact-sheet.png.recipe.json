@@ -1,0 +1,15 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/angel-clawd/contact-sheet.png",
+  "provenance": "derived",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.38",
+  "sha256": "1ded1649f7a4020774fe909d16b9197ad87a9790cae51e9ea21396fb5de8b34c",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/bc23fc7d-1b83-4d24-a35c-e82c65b64c7f/scratchpad/contact-sheet.png",
+  "note": "Review contact sheet of the nine 2026-08-08 gpt-image-2 angel-clawd candidates (v1-v9), built by render-readback/scripts/contact_sheet.py from the keyed finals beside it.",
+  "derivedFrom": {
+    "repo": "hyperagentic-age",
+    "path": "universe/candidates/angel-clawd/"
+  }
+}
