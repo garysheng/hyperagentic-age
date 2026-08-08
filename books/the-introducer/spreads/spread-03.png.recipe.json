@@ -1,13 +1,13 @@
 {
   "asset": "spread-03.png",
-  "assetSha256_16": "5f1469524d3b04b4",
+  "assetSha256_16": "b8fa77c0a6776bba",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
   "size": "1536x1024",
   "generatedBy": "abu:compose-spread render_spread.py",
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
-  "universeCommit": "5a3d5c22fbace9e457cd8954af47091999cf78bd",
+  "universeCommit": "4030d8cc175fbd7a0f37e297af2623415af38198",
   "book": "the-introducer",
   "story": "the-introducer",
   "spread": "spread-03",
@@ -23,7 +23,7 @@
     "scene": "DAVID KOBROSKY climbs the steps of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out, his face turned back over the street with his warm grin. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
     "_caption": "David came up in New York City, where eight million people live close enough to touch and a young person can still go a whole year without being known. Striving strangers arrive every day with big plans and nobody to tell them to. David looked at that and set the table.",
     "shot": "wide",
-    "pos": "bottom-left",
+    "pos": "top-right",
     "anonymous": "Five commuters, visibly distinct from each other and from David: different builds, skin tones, ages, coats. None wears a sky-blue button-down; none looks at anyone.",
     "negatives": [
       "a second man resembling David",
@@ -44,11 +44,11 @@
     },
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/face-neutral.png",
-      "sha256_16": "db683acb5fe65b3c"
+      "sha256_16": "3c9d76acf43f5b9d"
     },
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/forward-fullbody.png",
-      "sha256_16": "5a7d7a22eb81936e"
+      "sha256_16": "b019bbe21424e8e8"
     }
   ],
   "qa": [

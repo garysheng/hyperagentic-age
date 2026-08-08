@@ -91,7 +91,7 @@
     },
     "altLooks": {
       "college": {
-        "note": "COLLEGE-ERA DAVID, roughly ages 19-23: the NYC-arrival, first-brunches, first-job and MeetSunday chapters (spreads 3, 4, 7, 8 of the-introducer). Anchored on a REAL photograph of young David supplied by Gary (2026-08-08): completely CLEAN-SHAVEN, hair in a neat short college cut with a FULLER, LOWER, straighter hairline than the present era, the same wide grin and strong jaw with none of the present era's weight. Wardrobe per Gary: 'a polo or a nice T-shirt... a professional-looking college kid.' dropSheets removes every present-day plate because a reference image outranks a word and a bearded thirty-something plate simply ages him back up.",
+        "note": "COLLEGE-ERA DAVID, roughly ages 19-23: the NYC-arrival, first-brunches, first-job and MeetSunday chapters (spreads 3, 4, 7, 8 of the-introducer). Anchored on a REAL photograph of young David supplied by Gary (2026-08-08): completely CLEAN-SHAVEN, hair in a neat short college cut with a FULLER, LOWER, straighter hairline than the present era, the same wide grin and strong jaw with none of the present era's weight. Wardrobe per Gary: 'a polo or a nice T-shirt... a professional-looking college kid.' dropSheets removes every present-day plate because a reference image outranks a word and a bearded thirty-something plate simply ages him back up. LOOK-OWN PHOTO STACK (2026-08-08 reroll): young-era photographs ONLY, hi-res anchor first, so the bearded present-day photos cannot average the young face toward the adult one.",
         "anchorPhoto": "reference/david-kobrosky/photos/06-college-bw-hires.png",
         "sheets": {
           "face-neutral": "reference/david-kobrosky/college/face-neutral.png",
@@ -127,6 +127,11 @@
           "beard or stubble of any kind",
           "a sky-blue button-down",
           "a receding or high hairline"
+        ],
+        "photoStack": [
+          "reference/david-kobrosky/photos/06-college-bw-hires.png",
+          "reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+          "reference/david-kobrosky/photos/05-mountain-chambray.jpg"
         ]
       }
     }

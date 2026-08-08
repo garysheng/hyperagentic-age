@@ -1,0 +1,16 @@
+{
+  "goldenDigest": "bcd97c12a137a0fe",
+  "inputs": [
+    {
+      "digest": "bc5ef0911235dfb9",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary-vee/photos/01-portrait-2015.jpg"
+    },
+    {
+      "digest": "3a5f92aad77aa6a6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary-vee/photos/02-vaynermedia-talk.jpg"
+    }
+  ],
+  "prompt": "MEDIUM, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this as hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject. This plate is REGISTER-NEUTRAL: no style anchor is passed with it and none is implied. Take likeness, geometry and markings from the references; take no stylistic treatment from anything. Hyper-realistic FULL BODY study, head to shoes, of ONE man standing facing the viewer on a soft warm neutral studio background. GARY VAYNERCHUK as in the supplied photographs, mid-2010s era: late thirties, SHORT DARK CLOSE-CROPPED HAIR slightly receding, DARK SALT-AND-PEPPER STUBBLE BEARD, strong brow, expressive dark eyes, STOCKY ENERGETIC build. MATCH HIS FACE EXACTLY to the photographs. Wardrobe: plain DARK CREW-NECK TEE, dark jeans, sneakers. Stance: energetic, mid-sentence, one hand raised in an animated gesture, warm confident grin. Painted realism at photographic fidelity, true skin texture. Single figure, single panel, no text. NOT a caricature, NOT cartoon, NOT ink-and-wash, no suit, no plastic airbrushed skin. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. IDENTITY GROUND TRUTH: the PHOTOGRAPHS among the reference images are the REAL PERSON this subject depicts. Build the likeness faithfully and exactly from those photographs: bone structure, hairline, hair colour and texture, eye shape, nose, mouth, and the way the face creases when it smiles. Where a painted reference and a photograph disagree about the face, THE PHOTOGRAPH WINS. Keep the painterly rendering of the painted references and the likeness of the photographs.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

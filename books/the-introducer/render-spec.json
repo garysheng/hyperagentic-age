@@ -64,7 +64,7 @@
       "scene": "DAVID KOBROSKY climbs the steps of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out, his face turned back over the street with his warm grin. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
       "_caption": "David came up in New York City, where eight million people live close enough to touch and a young person can still go a whole year without being known. Striving strangers arrive every day with big plans and nobody to tell them to. David looked at that and set the table.",
       "shot": "wide",
-      "pos": "top-right",
+      "pos": "bottom-left",
       "anonymous": "Five commuters, visibly distinct from each other and from David: different builds, skin tones, ages, coats. None wears a sky-blue button-down; none looks at anyone.",
       "negatives": [
         "a second man resembling David",
@@ -139,19 +139,24 @@
         {
           "id": "david-kobrosky",
           "look": "college"
+        },
+        {
+          "id": "gary-vee",
+          "pose": "front"
         }
       ],
-      "scene": "A BUSTLING MEDIA OFFICE IN FULL SWING, and DAVID KOBROSKY strides through the middle of it carrying a cardboard box stacked with a laptop and rolled posters, his grin turned toward the colleague he passes, HIS EYES ON HER: a woman with a red ponytail in a dark green tee who points him toward a doorway. Around them: desks jammed with monitors kept dark and papers kept bright, a wall calendar dense with marker scrawl, three other staffers in motion carrying tripods and garment bags, sneakers everywhere, coffee cups everywhere. The energy is loud, warm, and fast. No recognizable real person appears; the famous boss is elsewhere. Lower-right: floor with a strip of gaffer tape, calm.",
+      "scene": "A BUSTLING MID-2010s MEDIA OFFICE IN FULL SWING, and TWO MEN cross it together: DAVID KOBROSKY, college-young in his navy polo, carries a cardboard box stacked with a laptop and rolled posters, and beside him strides GARY VEE, his boss, stocky and electric in a dark crew-neck tee, mid-sentence, one arm flung toward the doorway he is steering David through. DAVID'S EYES ARE ON GARY VEE and GARY VEE'S EYES ARE ON DAVID: the boss is talking, the kid is grinning and keeping up. Around them the office churns: desks jammed with monitors kept dark and papers kept bright, a wall calendar dense with marker scrawl, two staffers in motion carrying tripods and garment bags, coffee cups everywhere. The energy is loud, warm, and fast. Lower-right: floor with a strip of gaffer tape, calm.",
       "_caption": "Before building his own thing he was Gary Vee's first crypto hire, sent to explore the strangest new corner of the internet. The job taught him how crowds gather online, and how they scatter. He kept the lesson.",
       "shot": "group",
-      "pos": "bottom-right",
-      "anonymous": "Four media-office staffers in motion, visibly distinct from David and each other; the one he greets is a woman with a red ponytail in a dark green tee. Nobody wears any shade of blue shirt; nobody has a beard or stubble; none resembles any real public figure.",
+      "pos": "bottom-left",
+      "anonymous": "Two background staffers in motion, visibly distinct from both named men: a woman with a red ponytail in a dark green tee, and a tall thin man with blond curls in a mustard sweater. Nobody else has short dark hair or a stubble beard; nobody wears navy or any blue shirt.",
       "negatives": [
         "a second man resembling David",
-        "any recognizable real celebrity or public figure",
+        "a second man resembling Gary Vee",
+        "any background figure with short dark hair and stubble",
+        "anyone looking at the camera",
         "neon lighting",
-        "legible brand logos or text",
-        "any blue button-down or blue shirt on anyone"
+        "legible brand logos or text"
       ]
     },
     {

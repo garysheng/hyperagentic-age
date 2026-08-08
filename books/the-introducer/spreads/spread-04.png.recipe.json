@@ -1,13 +1,13 @@
 {
   "asset": "spread-04.png",
-  "assetSha256_16": "21306ade06551147",
+  "assetSha256_16": "13c2428927b90e5f",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
   "size": "1536x1024",
   "generatedBy": "abu:compose-spread render_spread.py",
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
-  "universeCommit": "5a3d5c22fbace9e457cd8954af47091999cf78bd",
+  "universeCommit": "4030d8cc175fbd7a0f37e297af2623415af38198",
   "book": "the-introducer",
   "story": "the-introducer",
   "spread": "spread-04",
@@ -23,7 +23,7 @@
     "scene": "A SMALL NEW YORK APARTMENT PACKED WITH SUNDAY-MORNING PEOPLE, and DAVID KOBROSKY at the tiny stove mid-flip, a pancake in the air above his pan, laughing toward the crowded table, HIS EYES ON HIS GUESTS. Around a table that is clearly too small: SIX young professionals and founders wedged onto folding chairs and a sagging couch, mismatched mugs, a syrup bottle, somebody's laptop shut under a plate. Two guests lean into conversation with each other, eyes meeting; another pair laugh over a shared phone photo; one newcomer at the edge is being waved in by a guest sliding over to make room. Morning light through one big window, radiator under it, a hand-lettered paper banner on the wall reading exactly BRUNCH CLUB in friendly marker capitals. Warm, crowded, joyful. Lower-right: worn wooden floor with a stray tote bag, calm.",
     "_caption": "It started in his own apartment. Folding chairs, borrowed mugs, pancakes for whoever rang the bell. He called it Brunch Club, and on Sunday mornings his place filled with young professionals and founders who had been strangers on Saturday night.",
     "shot": "group",
-    "pos": "bottom-left",
+    "pos": "top-left",
     "anonymous": "Six brunch guests, all in their twenties and thirties, visibly distinct: a South Asian woman in a denim jacket, a heavyset white man in a hoodie, a Black woman with short locs, an East Asian man in a flannel, a redheaded woman, a Latino man in a tee. None resembles David; none wears sky-blue.",
     "negatives": [
       "a second man resembling David",
@@ -43,11 +43,11 @@
     },
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/face-neutral.png",
-      "sha256_16": "db683acb5fe65b3c"
+      "sha256_16": "3c9d76acf43f5b9d"
     },
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/college/forward-fullbody.png",
-      "sha256_16": "5a7d7a22eb81936e"
+      "sha256_16": "b019bbe21424e8e8"
     }
   ],
   "qa": [

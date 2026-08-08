@@ -1,0 +1,64 @@
+{
+  "id": "gary-vee",
+  "kind": "character",
+  "originStory": "the-introducer",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-08",
+    "note": "Cameo entity for one spread of the-introducer, at Gary's explicit direction ('You should literally put Gary Vee in that image'). Public figure: publishable by name and likeness, no gate, per the rule-4 supersession recorded on dario. Photo-stack-only identity (no shot matrix): a one-spread cameo renders from press photos plus the register, the Dario pattern before his master existed."
+  },
+  "realPerson": {
+    "subject": "Gary Vaynerchuk (Gary Vee)",
+    "approval": {
+      "state": "approved",
+      "by": "gary",
+      "note": "Public figure, depictable by name and likeness with no gate (Nation of Fire CANON rule 4, adopted for this universe via the dario supersession, 2026-07-25). Stylized warm-editorial at spread time, never photoreal, public professional persona only, always honoring: he appears as young David's energetic boss in the era the caption credits him for."
+    },
+    "photoStack": [
+      "reference/gary-vee/photos/01-portrait-2015.jpg",
+      "reference/gary-vee/photos/02-vaynermedia-talk.jpg"
+    ],
+    "wardrobeEras": {
+      "default": "mid-2010s VaynerMedia era to match David's first-job chapter: dark crew-neck tee or open flannel, jeans, sneakers"
+    },
+    "sensitiveList": "public professional persona only; energetic and warm, never mocking, never a caricature"
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/gary-vee/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "man-in-his-late-thirties-to-forties",
+      "short-dark-hair-cropped-close-slightly-receding",
+      "dark-salt-and-pepper-stubble-beard",
+      "strong-brow-expressive-dark-eyes",
+      "stocky-energetic-build",
+      "dark-crew-neck-tee-casual-never-a-suit",
+      "big-animated-mid-sentence-expression",
+      "recognizable-likeness-of-the-real-subject",
+      "appears-EXACTLY-ONCE-per-scene"
+    ],
+    "render": {
+      "always": "GARY VEE (canon id gary-vee), the boss in David's first-job chapter. A man in his late thirties to forties with SHORT DARK CLOSE-CROPPED HAIR, slightly receding, a DARK SALT-AND-PEPPER STUBBLE BEARD, strong brow, expressive dark eyes, STOCKY ENERGETIC build. Wardrobe: a plain DARK CREW-NECK TEE, jeans, sneakers, never a suit. His body language is high-energy and mid-sentence: leaning in, pointing, animated. Recognizable likeness of the real subject, honoring, never a caricature.",
+      "poses": {
+        "front": {
+          "sheets": [
+            "master"
+          ]
+        }
+      }
+    },
+    "registerNeutral": {
+      "medium": "hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject",
+      "why": "real-person default (SPEC v0.38): hyper-realism ports down into any register, a stylized reference cannot recover likeness"
+    }
+  },
+  "prose": {
+    "voice": "High-energy, direct, generous with attention. Appears in one spread; the caption carries the fact, the art carries the energy.",
+    "lore": "David's boss in the first-job chapter of the-introducer: 'he was Gary Vee's first crypto hire.' The media office spread shows the two of them mid-motion in that world.",
+    "rules": "Public figure rendered as stylized warm-editorial likeness from the two-photo press stack; public professional persona only; never mocked. One spread (the-introducer 7). SINGLE-INSTANCE rule applies to him as to every likeness-bearing character."
+  }
+}
