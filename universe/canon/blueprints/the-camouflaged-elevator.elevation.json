@@ -1,0 +1,38 @@
+{
+  "title": "THE CAMOUFLAGED ELEVATOR",
+  "subtitle": "ELEVATION",
+  "sheet": { "width": 1536, "height": 1024, "margin": 60 },
+  "scale": { "unit": "m", "pxPerUnit": 165, "originPx": [620, 75] },
+  "parts": [
+    { "kind": "rect", "at": [1.425, -0.4], "size": [0.15, 2.05], "fill": "#C9CDD4", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [-1.7, 0.45], "text": ["SILVER RIBBON, 0.15 m wide", "rises DEAD VERTICAL out of frame", "never a tower, never scaffolding"], "leaderTo": [1.42, 0.7], "stroke": "accent" },
+
+    { "kind": "ellipse", "center": [1.5, 1.62], "r": [0.3, 0.13], "fill": "#B08D3E", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [3.1, 1.35], "text": ["BRASS COLLAR above the car:", "the ribbon passes through it"], "leaderTo": [1.8, 1.6], "stroke": "accent" },
+
+    { "kind": "rect", "at": [0.5, 1.8], "size": [2.0, 2.6], "fill": "#EFE6D2", "stroke": "ink", "width": 4 },
+    { "kind": "note", "at": [3.1, 2.0], "text": ["ONE ROUNDED CAR, 2.6 m tall", "glass upper two-thirds in a", "brass frame; warm light inside", "when alive; corners rounded"], "leaderTo": [2.5, 2.4], "stroke": "ink" },
+
+    { "kind": "rect", "at": [1.05, 2.4], "size": [0.9, 2.0], "stroke": "ink", "width": 3, "dashed": true },
+    { "kind": "note", "at": [-1.6, 2.6], "text": ["SLIDING DOUBLE DOOR on the front,", "0.9 m opening, seam down the middle", "(dashed = opening, never a hinged leaf)"], "leaderTo": [1.05, 3.2], "stroke": "accent" },
+
+    { "kind": "rect", "at": [-0.5, 4.4], "size": [4.0, 0.3], "fill": "#9A9184", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [3.1, 4.3], "text": ["LOW ROUND STONE PLATFORM,", "4.0 m across, 0.3 m tall,", "half swallowed by the forest floor"], "leaderTo": [3.0, 4.55], "stroke": "ink" },
+
+    { "kind": "line", "from": [-1.2, 4.7], "to": [4.4, 4.7], "stroke": "dim", "width": 2 },
+    { "kind": "note", "at": [4.5, 4.65], "text": "FOREST FLOOR", "heading": false },
+
+    { "kind": "line", "from": [3.6, 4.7], "to": [3.6, 3.0], "stroke": "dim", "width": 2, "dashed": true },
+    { "kind": "note", "at": [3.7, 2.85], "text": ["HUMAN SCALE ~1.7 m:", "head level with the", "door's upper third"], "heading": false, "stroke": "dim" },
+
+    { "kind": "dim", "axis": "h", "from": [0.5, 4.4], "to": [2.5, 4.4], "offset": 55, "label": "2.0 m" },
+    { "kind": "dim", "axis": "v", "from": [0.5, 1.8], "to": [0.5, 4.4], "offset": 130, "label": "2.6 m" },
+    { "kind": "dim", "axis": "h", "from": [-0.5, 4.7], "to": [3.5, 4.7], "offset": 105, "label": "4.0 m" }
+  ],
+  "laws": [
+    "THE IDENTICAL CAR, COLLAR, RIBBON AND PLATFORM DESIGN IN EVERY STATE: only dressing (vines, moss, warm light, altitude) changes between states.",
+    "THE RIBBON IS ONE STRAIGHT VERTICAL SILVER BAND rising out of the frame; never a truss tower, never scaffolding, never a rope, never a beam of light.",
+    "ALIVE STATES GLOW WARM INSIDE THE GLASS; THE DEFUNCT STATE IS DARK, COLD AND MOSSY, never shattered, never ominous.",
+    "NO LETTERING, NO SIGN, NO NUMBER anywhere on the car, collar, ribbon or platform in any state."
+  ]
+}

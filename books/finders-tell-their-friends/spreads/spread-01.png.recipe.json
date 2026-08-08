@@ -1,0 +1,40 @@
+{
+  "asset": "spread-01.png",
+  "assetSha256_16": "0f4de273e83b5d0b",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-01",
+  "descriptor": {
+    "id": "spread-01",
+    "setting": "the-jungle",
+    "plate": "establishing",
+    "cast": [],
+    "scene": "A vast emerald jungle interior seen wide from the trail, exactly the world of the locked establishing plate: giant leaves, buttress roots, hanging lianas, warm shafts of morning light dropping through the canopy onto a narrow hand-cut trail that winds away into layered green depth. Far along the trail, three tiny anonymous travelers with packs walk away from the camera, small as beads, swallowed by the scale of the trees. The jungle is alive and generous with light, never gloomy. Keep the lower right of the frame calm: ferns and soft trail light only. The canopy is CLOSED overhead: no sky, no floating island, nothing above but leaves and light shafts. The island has not been introduced yet and must not appear.",
+    "shot": "wide",
+    "_caption": "There is a jungle where the hopeful go. It is green and loud and alive, and it does not care how good your plan is. Everyone who walks in is looking for the same thing: a way up.",
+    "anonymous": "three tiny anonymous hopeful travelers with packs, far along the trail, walking away, no faces readable",
+    "negatives": [
+      "the floating island or any floating rock visible anywhere in the sky or canopy break",
+      "any break in the canopy showing sky"
+    ]
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: A vast emerald jungle interior seen wide from the trail, exactly the world of the locked establishing plate: giant leaves, buttress roots, hanging lianas, warm shafts of morning light dropping through the canopy onto a narrow hand-cut trail that winds away into layered green depth. Far along the trail, three tiny anonymous travelers with packs walk away from the camera, small as beads, swallowed by the scale of the trees. The jungle is alive and generous with light, never gloomy. Keep the lower right of the frame calm: ferns and soft trail light only. The canopy is CLOSED overhead: no sky, no floating island, nothing above but leaves and light shafts. The island has not been introduced yet and must not appear. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. the-jungle exactly as its reference plate: A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain. Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere. Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere. The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: three tiny anonymous hopeful travelers with packs, far along the trail, walking away, no faces readable. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the floating island or any floating rock visible anywhere in the sky or canopy break, any break in the canopy showing sky. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-jungle/establishing.png",
+      "sha256_16": "b1be6e7030475eda"
+    }
+  ],
+  "qa": []
+}

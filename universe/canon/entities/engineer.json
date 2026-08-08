@@ -27,7 +27,19 @@
       "rounded-dark-glasses",
       "charcoal-grey-zip-hoodie-over-a-plain-tee-default",
       "warm-editorial-register"
-    ]
+    ],
+    "render": {
+      "always": "THE ENGINEER: a Black man with short-cropped hair and a neat short beard, rounded dark glasses, in a charcoal grey zip hoodie over a plain tee. Calm, plain-spoken, kind. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "forward-fullbody": {
+          "sheets": [
+            "forward-fullbody",
+            "face-neutral"
+          ],
+          "bake": "Identity of record; wardrobe and features exactly as the locked sheets."
+        }
+      }
+    }
   },
   "prose": {
     "voice": "Calm, plain-spoken, kind. Explains the machine in a sentence a non-technical founder can hold. Speaks both languages, hers and the machine's.",

@@ -1,0 +1,28 @@
+{
+ "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-prophet/master.png",
+ "model": "gpt-image-2",
+ "mode": "edit",
+ "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. Character reference: THE PROPHET, standing full-body on plain warm cream paper background, front three-quarter view, no scene. An older silver-haired man, hair swept back, with a short neat white beard and warm deep-set eyes. He wears a long pale cream traveling coat, road-worn at the hem, over simple undyed linen clothes and sturdy leather boots. One hand rests on a tall dark-wood walking staff crowned with a SMALL BRASS BELL. Across his chest on a leather strap hangs a polished BRASS SPEAKING-TRUMPET, an old-fashioned herald's horn. His expression is mid-proclamation warmth: theatrical, certain, generous, entirely unsinister. He is a famous guide crowds follow, drawn as a fable archetype, resembling no specific living person. Soft ink-and-wash illustration with visible brushwork and watercolor paper texture; warm cream, umber and sage palette. No text anywhere. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, resemblance to any specific living person, religious iconography of any tradition (no cross, no clerical robes, no halo, no prayer beads), sinister or villainous mood, text or lettering anywhere, photoreal rendering, neon light, 3D/CGI gloss.",
+ "inputs": [
+  "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+ ],
+ "size": "1024x1536",
+ "quality": "high",
+ "background": "auto",
+ "mask": null,
+ "generatedAt": "2026-08-08T03:48:25+00:00",
+ "generator": "chatgpt-images/scripts/generate_image.py",
+ "shot": "master",
+ "entity": "the-prophet",
+ "kind": "character",
+ "anchor": {
+  "path": "reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+  "sha256_16": "988cef324da88dc6"
+ },
+ "registerNeutral": null,
+ "photoStack": [],
+ "conditionedOn": [],
+ "crossEntityRefs": [],
+ "codeDrawnRefs": [],
+ "method": "golden-chain (sequential; each shot conditions on the blessed seed plus the most recent accepted shots, window=4)"
+}

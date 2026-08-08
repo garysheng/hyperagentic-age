@@ -1,0 +1,54 @@
+{
+  "id": "the-prophet",
+  "kind": "character",
+  "name": "The Prophet",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-07",
+    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/the-prophet/master.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "older-silver-haired-man-with-a-short-white-beard",
+      "long-pale-cream-traveling-coat-over-simple-linen-clothes",
+      "tall-dark-wood-staff-with-a-small-brass-bell-at-its-head",
+      "polished-brass-speaking-trumpet-on-a-leather-strap-across-the-chest",
+      "warm-theatrical-confidence-never-sinister-never-a-villain",
+      "no-religious-iconography-of-any-tradition",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE PROPHET: an older silver-haired man with a short white beard, in a long pale cream traveling coat over simple linen clothes, carrying a tall dark-wood staff with a small brass bell at its head, and a polished brass speaking-trumpet slung on a leather strap across his chest. Warm, theatrical, entirely confident; a famous guide people follow in crowds. He is NEVER sinister and never a villain; his failure is timing, not malice. NO religious iconography of any tradition: no cross, no robes of any faith, no halo. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "Standing full-body, front three-quarter, one hand on the staff, the brass trumpet on its strap, mid-proclamation warmth on his face."
+        }
+      },
+      "qa": [
+        "silver hair and short white beard, at crop-zoom",
+        "long pale cream traveling coat, never a religious robe",
+        "staff with a small brass bell at its head",
+        "brass speaking-trumpet on a leather strap",
+        "reads warm and theatrical, never sinister",
+        "no religious iconography of any tradition",
+        "warm-editorial, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Ringing, certain, generous in the way a stage is generous. He is not lying; he is late by construction, because a channel a million people can hear is a channel whose news is already old.",
+    "lore": "An ARCHETYPE, never a named real person: the famous herald with a million followers who announces an elevator's location to everyone at once, after the seats are already full. He exists so the book can dismiss broadcast as a channel without dismissing the man.",
+    "rules": "Depict with warmth and scale (crowds, banners without lettering, a high rock to speak from), never with menace. He must not resemble any specific living person. No religious iconography of any tradition; he is a startup-world archetype in fable dress."
+  },
+  "status": "locked"
+}

@@ -27,7 +27,19 @@
       "warm-wide-open-bright-smile",
       "relaxed-cream-or-white-blazer-over-a-simple-top-default",
       "warm-editorial-register"
-    ]
+    ],
+    "render": {
+      "always": "CHRISSY: a white woman with long wavy blonde hair worn down, center-parted, past the shoulders, a warm wide-open bright smile, in a relaxed cream or white blazer over a simple top. Quick, generous, lit up by having something to share. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "forward-fullbody": {
+          "sheets": [
+            "forward-fullbody",
+            "face-neutral"
+          ],
+          "bake": "Identity of record; wardrobe and features exactly as the locked sheets."
+        }
+      }
+    }
   },
   "prose": {
     "voice": "Warm, quick, generous. An entrepreneur who optimizes her own life for the joy of it and cannot wait to show a friend what she found.",

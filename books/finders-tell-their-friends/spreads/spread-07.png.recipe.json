@@ -1,0 +1,51 @@
+{
+  "asset": "spread-07.png",
+  "assetSha256_16": "923198c814e22c37",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-07",
+  "descriptor": {
+    "id": "spread-07",
+    "setting": "the-jungle",
+    "plate": "establishing",
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      }
+    ],
+    "scene": "Maya is the subject and fills the left half of the frame, mid-stride toward the camera-right along a dim pre-dawn trail, caught mid-swing clearing a hanging vine with a machete in her right hand, her closed silver laptop under her left arm as always, a small pack on her back. Her face is set with cheerful determination, jaw forward, eyes on the trail. The jungle around her is still night-blue and green, with the first warm light just reaching the leaves behind her. Her head reads about a third of the frame height: close enough to feel the effort. Sweat at her temple, leaves caught on her blazer sleeve. Keep the lower right calm: dim trail and ferns.",
+    "shot": "close",
+    "_caption": "Maya works harder than anyone in the jungle. She is up before the light, she carries her work everywhere, and she clears more trail in a week than most camps clear in a season. Hard work is her plan. She is sure it is enough."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Maya is the subject and fills the left half of the frame, mid-stride toward the camera-right along a dim pre-dawn trail, caught mid-swing clearing a hanging vine with a machete in her right hand, her closed silver laptop under her left arm as always, a small pack on her back. Her face is set with cheerful determination, jaw forward, eyes on the trail. The jungle around her is still night-blue and green, with the first warm light just reaching the leaves behind her. Her head reads about a third of the frame height: close enough to feel the effort. Sweat at her temple, leaves caught on her blazer sleeve. Keep the lower right calm: dim trail and ferns. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. the-jungle exactly as its reference plate: A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain. Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere. Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere. The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide. THE ONLY CHARACTERS IN THIS IMAGE ARE: maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-jungle/establishing.png",
+      "sha256_16": "b1be6e7030475eda"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register"
+  ]
+}

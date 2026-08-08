@@ -1,0 +1,55 @@
+{
+  "asset": "spread-15.png",
+  "assetSha256_16": "60df9fb712935f88",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-15",
+  "descriptor": {
+    "id": "spread-15",
+    "setting": "founder-heaven",
+    "plate": "terrace",
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      }
+    ],
+    "scene": "Maya alone at the rim: she stands at the low stone rail of the terrace, seen from three-quarters BEHIND at medium distance on the left of frame, head and torso pointed the same way, out and down toward the green sea of jungle far below. Her right hand has just opened: one crisp WHITE page slips from it into the bright air below the rail, caught by the light, its small neat writing suggested by soft fine lines that are not readable at this distance. The page is falling toward the world she came from, and it is not smudged. Her laptop rests on the rail under her left hand. The terrace behind her is quiet gold; the jungle below is soft and far. Keep the lower right calm: open sky and the falling page's empty air.",
+    "shot": "over-shoulder",
+    "_caption": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.",
+    "negatives": [
+      "readable letters, words or numbers on the page",
+      "Maya's chest or the front of her blazer visible"
+    ]
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Maya alone at the rim: she stands at the low stone rail of the terrace, seen from three-quarters BEHIND at medium distance on the left of frame, head and torso pointed the same way, out and down toward the green sea of jungle far below. Her right hand has just opened: one crisp WHITE page slips from it into the bright air below the rail, caught by the light, its small neat writing suggested by soft fine lines that are not readable at this distance. The page is falling toward the world she came from, and it is not smudged. Her laptop rests on the rail under her left hand. The terrace behind her is quiet gold; the jungle below is soft and far. Keep the lower right calm: open sky and the falling page's empty air. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, OVER-THE-SHOULDER. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance. The camera sits just behind and beside ONE person, whose near shoulder and the back of whose head are large, dark and soft at one edge of the frame, looking past them at the OTHER person, who is sharp and is the subject. BOTH KEEP THEIR OWN SEATS: the near shoulder belongs to whoever the blocking seats on that side, and the far face to whoever it seats opposite. Everything between them, the table and what is laid on it, is still there and unchanged. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. founder-heaven exactly as its reference plate: A floating protopian island in open sky above the jungle. Underneath, a gentle teardrop of pale rock trailing thin skirts of mist. On top, terraced gardens stepping up from the rim, low cream buildings with warm windows, slender brass wind-spires, small orchards and pools. It floats free: no chains, no pillars, no engines. Two fixed camera angles: ESTABLISHING (from below, over the jungle canopy) and TERRACE (standing on a rim garden terrace looking along the edge, jungle far below like a green sea). From below, the island sits high in the frame with canopy or clearing in the lower third; it is never close enough to read individual doors. On the terrace, the rim rail and the drop beyond it carry the height; buildings stay low and behind, sky stays generous. Pale terraced stone, green gardens, low cream buildings with warm windows, brass wind-spires, soft banners without lettering, drifting small clouds. Futuristic reads as graceful and quiet, never chrome, never neon, never engines or thrusters. The island reads about the size of a small hill town: whole gardens and rooftops are visible at once from below, and birds passing near it read as specks. From the terrace, the jungle below reads as a soft green sea with no individual trees. THE ONLY CHARACTERS IN THIS IMAGE ARE: maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, readable letters, words or numbers on the page, Maya's chest or the front of her blazer visible. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/founder-heaven/terrace.png",
+      "sha256_16": "b1fa43599ac84e66"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register"
+  ]
+}

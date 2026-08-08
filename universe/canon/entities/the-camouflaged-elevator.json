@@ -1,0 +1,105 @@
+{
+  "id": "the-camouflaged-elevator",
+  "kind": "visual-metaphor",
+  "name": "The Camouflaged Elevator",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-07",
+    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time. Master plate locked 2026-08-07: the model resolved the blueprint's rounded-rect car as a CYLINDRICAL glass kiosk; accepted as the identity of record (more iconic, all other invariants intact) and the glass-upper-two-thirds invariant corrected to match the locked art rather than re-rolling good art."
+  },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/the-camouflaged-elevator/master.png",
+    "emptyPlates": [
+      "reference/the-camouflaged-elevator/camouflaged.png",
+      "reference/the-camouflaged-elevator/ascending.png",
+      "reference/the-camouflaged-elevator/defunct.png"
+    ],
+    "blueprint": "reference/the-camouflaged-elevator/blueprint.png",
+    "scalePlate": null,
+    "blockingPlate": null,
+    "map": "A space elevator hidden in the jungle: one rounded brass-and-glass car standing on a low round stone platform, a brass collar above the car, and a slender silver ribbon rising dead vertical from the collar out of every frame toward the island. There are many such elevators in the jungle and every one is this same design.",
+    "blocking": "The car is 2.6 m tall by 2.0 m wide with a 0.9 m sliding double door on the front, standing on a low round stone platform 4.0 m across and 0.3 m tall. An adult reads about 1.7 m against it: head level with the door's upper third, well below the brass collar. The silver ribbon is 0.15 m wide and rises straight up out of the frame; it never bends, never sways, and is never a tower or scaffold.",
+    "dressing": "State-dependent only. Camouflaged: living vines, broad leaves and leaf-shadow wrap the car and platform so it vanishes into the green. Master (found): the vines drawn aside, doors open, warm light inside. Ascending: the car alone on the ribbon high above the canopy, no platform in frame. Defunct: moss, cold shade, dulled brass, dark glass. Nothing is ever broken, shattered or ominous.",
+    "scale": "Slightly taller than a garden shed at the base; a person boards it through a door they do not need to duck through. In the ascending state the car reads small against the sky, a bead on a silver thread.",
+    "states": [
+      "blueprint",
+      "master",
+      "camouflaged",
+      "ascending",
+      "defunct"
+    ],
+    "emptyPlatesExpected": 3
+  },
+  "structured": {
+    "sheets": {
+      "blueprint": "reference/the-camouflaged-elevator/blueprint.png",
+      "master": "reference/the-camouflaged-elevator/master.png",
+      "camouflaged": "reference/the-camouflaged-elevator/camouflaged.png",
+      "ascending": "reference/the-camouflaged-elevator/ascending.png",
+      "defunct": "reference/the-camouflaged-elevator/defunct.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "one-rounded-brass-and-glass-car-on-a-low-round-stone-platform",
+      "cylindrical-glass-car-in-a-warm-brass-frame-with-a-cream-stone-base",
+      "sliding-double-door-on-the-front-with-a-center-seam",
+      "brass-collar-above-the-car-that-the-ribbon-passes-through",
+      "silver-ribbon-rises-dead-vertical-out-of-frame-never-a-tower-or-scaffold",
+      "identical-car-collar-ribbon-and-platform-design-in-every-state",
+      "alive-states-glow-warm-inside-the-glass-never-neon",
+      "defunct-state-dark-cold-and-mossy-never-broken-never-ominous",
+      "no-lettering-sign-or-number-anywhere-in-any-state",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE CAMOUFLAGED ELEVATOR: one rounded car, a cylindrical car of tall warm glass panels in a brass frame with a brass crown, on a cream-stone base, a sliding double door on the front with a seam down the middle, standing on a low round stone platform half swallowed by the forest floor. Above the car a brass collar, and through it a slender SILVER RIBBON, about a hand's width, rising DEAD VERTICAL out of the top of the frame. The ribbon is never a truss tower, never scaffolding, never a rope, never a beam of light. The identical car, collar, ribbon and platform design in every state; only vines, moss, light and altitude change. No lettering, sign or number anywhere. Warm-editorial ink-and-wash, never photoreal, never neon.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "FOUND AND ALIVE: the vines drawn aside like a curtain, the sliding doors open, warm golden light filling the glass and spilling onto the platform. Inviting, quiet, a secret shown to a friend."
+        },
+        "camouflaged": {
+          "sheets": [
+            "camouflaged",
+            "master"
+          ],
+          "bake": "CAMOUFLAGED: the same car and platform wrapped in living vines, broad leaves and leaf-shadow so it vanishes into the green. Doors shut, glass dim, the silver ribbon lost among hanging lianas. A passerby would walk within arm's length and never know."
+        },
+        "ascending": {
+          "sheets": [
+            "ascending",
+            "master"
+          ],
+          "bake": "ASCENDING: the same car alone on its silver ribbon HIGH ABOVE the jungle canopy, warm light in the glass, the green world falling away below, open sky around it. No platform in frame; the ribbon runs straight through the frame top to bottom."
+        },
+        "defunct": {
+          "sheets": [
+            "defunct",
+            "master"
+          ],
+          "bake": "DEFUNCT: the same car and platform gone dark for good. Moss on the stone, dulled brass, dark cold glass, the ribbon above dull as pewter. Nothing broken, nothing ominous; a monument, not a ruin."
+        }
+      },
+      "qa": [
+        "one cylindrical glass car in a brass frame with a brass crown, at crop-zoom",
+        "sliding double door with a center seam, never a hinged house door",
+        "silver ribbon rises dead vertical, never a tower, scaffold or rope",
+        "brass collar present above the car",
+        "alive states glow warm inside, defunct state is dark and mossy",
+        "no lettering, sign or number anywhere",
+        "warm-editorial, never photoreal, never neon"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The spine object of Finders Tell Their Friends: the only way up to Founder Heaven. Every elevator holds power enough for a few seats, lifts its handful of founders, and then goes dark for good. They are camouflaged so well that hard work alone walks straight past them; the only reliable channel to a live one is a friend who found it and told you first.",
+    "rules": "Pass the correct state sheet as reference on every render (master for found-and-alive, camouflaged for hidden, ascending for the climb, defunct for dead), chained off the master identity, with the code-drawn blueprint as geometry conditioning. Scenes may relocate an elevator anywhere in the jungle, but the car, collar, ribbon and platform design never changes between elevators or states. The destination island never appears in this entity's own sheets; founder-heaven owns its silhouette."
+  }
+}

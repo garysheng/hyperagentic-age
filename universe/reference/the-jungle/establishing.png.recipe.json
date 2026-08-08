@@ -1,0 +1,28 @@
+{
+ "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-jungle/establishing.png",
+ "model": "gpt-image-2",
+ "mode": "edit",
+ "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. An EMPTY establishing plate of a vast emerald jungle interior, nobody in it. A narrow hand-cut trail, one person wide and marked by a few cut wooden stakes, winds away from the low camera into layered green depth. Giant broad leaves close overhead, cathedral-tall trees with buttress roots taller than a standing adult's shoulder, hanging lianas, ferns and moss. Warm shafts of morning daylight drop through the canopy and pool on the trail. The green stacks in soft layered washes, nearer leaves darker and crisper, far depth pale and warm. The mood is adventurous and alive, generous with light, never gloomy. Soft ink-and-wash illustration with visible brushwork and watercolor paper texture throughout. No people, no animals, no buildings, no text. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, people or figures of any kind (empty plate), text, signage or lettering anywhere, ruins, temples, idols, horror gloom, dead trees, fog banks, photoreal rendering, neon light, 3D/CGI gloss.",
+ "inputs": [
+  "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+ ],
+ "size": "1536x1024",
+ "quality": "high",
+ "background": "auto",
+ "mask": null,
+ "generatedAt": "2026-08-08T03:48:22+00:00",
+ "generator": "chatgpt-images/scripts/generate_image.py",
+ "shot": "establishing",
+ "entity": "the-jungle",
+ "kind": "setting",
+ "anchor": {
+  "path": "reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+  "sha256_16": "988cef324da88dc6"
+ },
+ "registerNeutral": null,
+ "photoStack": [],
+ "conditionedOn": [],
+ "crossEntityRefs": [],
+ "codeDrawnRefs": [],
+ "method": "golden-chain (sequential; each shot conditions on the blessed seed plus the most recent accepted shots, window=4)"
+}

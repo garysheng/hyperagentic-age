@@ -1,0 +1,267 @@
+{
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [],
+      "scene": "A vast emerald jungle interior seen wide from the trail, exactly the world of the locked establishing plate: giant leaves, buttress roots, hanging lianas, warm shafts of morning light dropping through the canopy onto a narrow hand-cut trail that winds away into layered green depth. Far along the trail, three tiny anonymous travelers with packs walk away from the camera, small as beads, swallowed by the scale of the trees. The jungle is alive and generous with light, never gloomy. Keep the lower right of the frame calm: ferns and soft trail light only. The canopy is CLOSED overhead: no sky, no floating island, nothing above but leaves and light shafts. The island has not been introduced yet and must not appear.",
+      "shot": "wide",
+      "_caption": "There is a jungle where the hopeful go. It is green and loud and alive, and it does not care how good your plan is. Everyone who walks in is looking for the same thing: a way up.",
+      "anonymous": "three tiny anonymous hopeful travelers with packs, far along the trail, walking away, no faces readable",
+      "negatives": [
+        "the floating island or any floating rock visible anywhere in the sky or canopy break",
+        "any break in the canopy showing sky"
+      ]
+    },
+    {
+      "id": "spread-02",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [],
+      "scene": "From a small clearing in the jungle, the view opens upward: the canopy parts like a green window, and high in the warm open sky floats the island, exactly as the locked establishing plate paints it: a gentle teardrop of pale rock trailing thin mist, terraced gardens and low cream buildings on top, slender brass wind-spires catching the light. It is far, high, and unreachable; birds near it read as specks. At the clearing's edge, low in the left of frame, two anonymous travelers stand small with their backs to the camera, looking up at it. The lower right of the frame stays calm: leaves and soft light.",
+      "shot": "wide",
+      "_caption": "Up is an island in the sky. It floats above the canopy in plain view, near enough to see its gardens and its bright machines, too far for any tree to reach. The people below call it Founder Heaven.",
+      "anonymous": "two anonymous hopeful travelers seen small and from behind at the clearing's edge, looking up"
+    },
+    {
+      "id": "spread-03",
+      "cast": [
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "camouflaged"
+        }
+      ],
+      "scene": "One anonymous traveler is the moving subject: seen from the side at mid-distance, a wiry traveler with a pack and a machete strides along a jungle trail from right to left, mid-swing through a hanging vine, eyes fixed ahead on the trail. Directly behind the traveler, an arm's length off the trail on the right half of the frame, stands the camouflaged elevator exactly as its locked camouflaged plate paints it: the cylindrical car wrapped in living vines and leaf-shadow, doors shut, glass dim, its silver ribbon lost among the lianas above. The traveler does not see it and never will. The joke and the ache of the picture is the arm's length between them. Keep the lower right calm ferns.",
+      "shot": "wide",
+      "_caption": "There is one way up. Elevators stand in the jungle, silver threads running from the forest floor to the island, and every one of them is camouflaged. You can cut a trail past one at arm's length and never know.",
+      "anonymous": "one anonymous traveler with a pack and machete, seen from the side, face not emphasized"
+    },
+    {
+      "id": "spread-04",
+      "cast": [
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "master"
+        }
+      ],
+      "scene": "A close, reverent study of the elevator found and alive, exactly as its locked master plate paints it: the cylindrical brass-and-glass car with its sliding doors OPEN, warm golden light filling the glass and spilling down the mossy stone steps of its low round platform, living vines drawn aside like a curtain on both sides, the silver ribbon rising dead vertical into the leaves above. Inside, EXACTLY THREE simple seats are visible in the warm light, and nothing else: no instruments, no screens, no people. Nobody is in this image. The empty third seat is the quiet subject. Keep the lower right of the frame calm: stone and ferns.",
+      "shot": "insert",
+      "_caption": "Each elevator holds power enough for a few seats. It lifts its handful of founders, and then it goes dark for good. The hopefuls call the little while it is alive a takeoff window. The jungle does not post it anywhere.",
+      "negatives": [
+        "people or figures anywhere in this image",
+        "more than three seats inside the car",
+        "instruments, screens or controls inside the car"
+      ]
+    },
+    {
+      "id": "spread-05",
+      "cast": [
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "defunct"
+        }
+      ],
+      "scene": "A small gathering of people is the subject: at dusk, SEVEN anonymous hopefuls of mixed ages sit and stand in a loose half-circle at the foot of the defunct elevator, lit warm by two small lanterns on the ground. One older woman stands mid-story with both arms raised wide, casting a tall shadow; the others watch her, rapt, their faces catching the lantern light. Behind and above them the defunct elevator stands exactly as its locked defunct plate paints it: dark cold glass, dulled brass, moss on the stone platform, the ribbon above dull as pewter, nothing broken. The dead machine is their fireplace and their cathedral. If the gathering is missing the image is wrong. Keep the lower right corner calmer: lantern glow on worn ground.",
+      "shot": "group",
+      "_caption": "When an elevator dies, the people who missed it gather at its feet and tell stories about the ones who made it up in time. The stories grow taller every season. That is how myths get written: by the people still on the ground.",
+      "anonymous": "seven anonymous hopefuls of mixed ages gathered at the foot of the defunct elevator, one older woman mid-story with arms raised"
+    },
+    {
+      "id": "spread-06",
+      "cast": [],
+      "scene": "The frame is the sky itself: high above the jungle canopy, which reads as a soft green sea along the bottom of the frame, dozens of white paper pages drift and tumble down through warm morning air like falling leaves. The nearest page, large in the upper left, shows its writing as SOFT SMUDGED WASHES of grey-blue ink, streaked and bled as if rained on: shapes of paragraphs with no readable letters anywhere. The pages farther down are smaller and more smudged. No people in this image, no island in this image; only the long fall and the fading words. Keep the lower right calm: open canopy.",
+      "shot": "imagined",
+      "_caption": "The founders up top tell stories too, about how they made it. They send them down. But the pages fall a long way, and by the time they land the words have smudged into advice that points at nothing. The hopefuls follow it anyway.",
+      "negatives": [
+        "readable letters, words or numbers on any page",
+        "people or figures anywhere in this image",
+        "the floating island in frame"
+      ]
+    },
+    {
+      "id": "spread-07",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        }
+      ],
+      "scene": "Maya is the subject and fills the left half of the frame, mid-stride toward the camera-right along a dim pre-dawn trail, caught mid-swing clearing a hanging vine with a machete in her right hand, her closed silver laptop under her left arm as always, a small pack on her back. Her face is set with cheerful determination, jaw forward, eyes on the trail. The jungle around her is still night-blue and green, with the first warm light just reaching the leaves behind her. Her head reads about a third of the frame height: close enough to feel the effort. Sweat at her temple, leaves caught on her blazer sleeve. Keep the lower right calm: dim trail and ferns.",
+      "shot": "close",
+      "_caption": "Maya works harder than anyone in the jungle. She is up before the light, she carries her work everywhere, and she clears more trail in a week than most camps clear in a season. Hard work is her plan. She is sure it is enough."
+    },
+    {
+      "id": "spread-08",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "defunct"
+        }
+      ],
+      "scene": "Maya stands small in the lower left, seen from three-quarters BEHIND, her head and body pointed the same way: toward the defunct elevator that rises before her in morning light, exactly as its locked defunct plate paints it: dark glass, dulled brass, mossy platform, the dull ribbon above. Her shoulders have just dropped; the machete hangs loose in her right hand; in her left hand, at her side, a worn hand-copied page whose markings are soft smudged lines, unreadable. Her chest is not visible and the front of her blazer is not visible; the camera sees her back and the dead machine she crossed the jungle for. The picture is the distance between how hard she worked and how dark the glass is.",
+      "shot": "wide",
+      "_caption": "She follows the most famous myth in the jungle to the place where a great elevator once stood. It is exactly where the story said. It is covered in moss, and it has been dark for years. The myth was true. It was just finished.",
+      "negatives": [
+        "Maya's face in more than sliver profile",
+        "readable letters on the page"
+      ]
+    },
+    {
+      "id": "spread-09",
+      "cast": [
+        {
+          "id": "the-prophet",
+          "pose": "master"
+        }
+      ],
+      "scene": "A vast crowd is the ground of the image: an enormous sea of anonymous followers fills a broad jungle clearing from edge to edge, faces small and varied, packs and hats and hopeful upturned chins, stretching back until they blur into the green. Above them, on a tall grey rock outcrop rising at the left of frame, stands THE PROPHET exactly as his locked sheet paints him: silver hair, short white beard, long pale cream traveling coat, staff with its small brass bell in one hand, his polished brass speaking-trumpet raised to his lips with the other, mid-announcement, warm and certain. His figure reads about a quarter of the frame height. The crowd is already turning to run in the direction he points. Nobody in this image is lying and everybody is too late.",
+      "shot": "wide",
+      "_caption": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.",
+      "anonymous": "an enormous crowd of anonymous followers of all kinds filling the clearing below the rock, faces small and varied, some already turning to run",
+      "pos": "top"
+    },
+    {
+      "id": "spread-10",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        }
+      ],
+      "scene": "Night. Maya sits small in the lower left at a tiny camp: a low fire, a bedroll, her closed laptop on her knees under her folded hands, firelight warm on her thinking face. Above and to the right, filling most of the frame, floats one large SOFT PAINTED THOUGHT BUBBLE with a gently scalloped edge, its interior a warm cream vignette: inside it, two anonymous founders stand close together in painterly softness, one leaning to the other's ear, hand cupped, whispering, while pointing toward a tiny warm glow between distant painted trees. The bubble's content is the answer she is arriving at: not a myth, not a stage, a friend leaning close. The fire keeps the lower left warm; the lower right stays calm dark ferns.",
+      "shot": "thought-bubble",
+      "_caption": "That night Maya counts every founder she has ever known who made it up. Not one of them found their elevator in a myth or an announcement. Each one had a friend who found it and told them first, quietly, the same hour. Finders tell their friends.",
+      "anonymous": "inside the thought bubble only: two anonymous founders, one whispering close to the other's ear and pointing toward a tiny warm glow"
+    },
+    {
+      "id": "spread-11",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "chrissy",
+          "pose": "forward-fullbody"
+        },
+        {
+          "id": "engineer",
+          "pose": "forward-fullbody"
+        }
+      ],
+      "scene": "Three friends close around a map, seen CLOSE: the camera sits just over the ENGINEER's near shoulder in the lower right foreground, his charcoal-hooded back and shoulder softly out of focus and cropped by the frame, his lap and legs outside the picture. Across from him, sharp and warmly lit by a lantern set on a crate, MAYA leans in on the left pointing at the map, and CHRISSY, mid-laugh in the middle, presses a small pencil cross onto it. The map between them is hand-drawn: trail lines, small crosses for dead ends, a few pencil circles, NO readable words. Evening jungle behind them is soft dark green bokeh. Three people, one lantern, one honest map.",
+      "shot": "close",
+      "_caption": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all, and they keep one rule: whoever finds it tells the others first.",
+      "negatives": [
+        "readable letters, words or numbers on the map",
+        "the engineer's face or chest visible in the near foreground"
+      ]
+    },
+    {
+      "id": "spread-12",
+      "cast": [
+        {
+          "id": "chrissy",
+          "pose": "forward-fullbody"
+        },
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "master"
+        }
+      ],
+      "scene": "Chrissy is the subject, caught in the exact second of the find: she stands at the right of frame with one arm still holding back a heavy curtain of vines, and behind the parted green the elevator stands found and alive exactly as its locked master plate paints it: doors open, warm golden light spilling out onto the mossy platform, silver ribbon rising into the leaves. But Chrissy's body is already TURNING AWAY from it, toward camera-left, her weight on her back foot, her bright wide smile thrown over her shoulder toward the trail her friends are down: torso and head both beginning the turn, the first step of going to get them. The light from the doors catches her cream blazer and blonde hair. She does not step in. That is the picture.",
+      "shot": "close",
+      "_caption": "It is Chrissy who finds it, on an ordinary morning, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends."
+    },
+    {
+      "id": "spread-13",
+      "cast": [
+        {
+          "id": "the-camouflaged-elevator",
+          "plate": "ascending"
+        },
+        {
+          "id": "founder-heaven",
+          "plate": "establishing"
+        }
+      ],
+      "scene": "High morning sky. The elevator car climbs its silver ribbon exactly as the locked ascending plate paints it: the cylindrical brass-and-glass car warm with inner light, the ribbon running dead vertical through the whole frame, the jungle canopy far below reading as a soft green sea. The car rides in the lower left third of the frame. Inside the glass, three small founder figures stand together, tiny and warm, no faces readable. Up in the upper right, still distant but nearer than it has ever been, floats the island exactly as its locked establishing plate paints it: teardrop rock, terraced gardens, brass spires, catching the sunrise like a promise being kept. The ribbon points at it. Keep the lower right calm: open canopy and morning haze.",
+      "shot": "wide",
+      "_caption": "The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
+      "anonymous": "three small founder figures inside the glass car, seen tiny through the glass, no faces readable"
+    },
+    {
+      "id": "spread-14",
+      "setting": "founder-heaven",
+      "plate": "terrace",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "chrissy",
+          "pose": "forward-fullbody"
+        },
+        {
+          "id": "engineer",
+          "pose": "forward-fullbody"
+        }
+      ],
+      "scene": "Three friends arrive: MAYA, CHRISSY and the ENGINEER walk away from the camera along the rim garden terrace of the island, exactly the terrace the locked plate paints: pale stone underfoot, the low rim rail on the right with open sky and the green sea of jungle far below, terraced gardens and low cream buildings rising on the left, a brass wind-spire against the warm sky. They are seen from BEHIND at mid-distance, heads and bodies pointed the same way, walking into their arrival; Maya's laptop is under her left arm even here. Coming the other way, two anonymous residents pause to welcome them, each holding a small folded hand-drawn map, marks visible as soft pencil lines only. The picture is warm, quiet and slightly smaller than a myth. Keep the lower right calm: rail and sky.",
+      "shot": "wide",
+      "_caption": "Founder Heaven is smaller than the myths and kinder than the smudged advice. And nearly everyone who stands there arrived the same way: holding a map a friend drew.",
+      "anonymous": "two anonymous resident founders pausing to welcome the arrivals, each holding a small folded hand-drawn map with unreadable pencil marks"
+    },
+    {
+      "id": "spread-15",
+      "setting": "founder-heaven",
+      "plate": "terrace",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        }
+      ],
+      "scene": "Maya alone at the rim: she stands at the low stone rail of the terrace, seen from three-quarters BEHIND at medium distance on the left of frame, head and torso pointed the same way, out and down toward the green sea of jungle far below. Her right hand has just opened: one crisp WHITE page slips from it into the bright air below the rail, caught by the light, its small neat writing suggested by soft fine lines that are not readable at this distance. The page is falling toward the world she came from, and it is not smudged. Her laptop rests on the rail under her left hand. The terrace behind her is quiet gold; the jungle below is soft and far. Keep the lower right calm: open sky and the falling page's empty air. CRITICAL GEOGRAPHY: Maya is STANDING ON the one floating island; therefore NO island, rock or city may appear in the sky. The sky beyond the rail is empty warm air and soft cloud, and far below lies only the flat green sea of jungle.",
+      "shot": "over-shoulder",
+      "_caption": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.",
+      "negatives": [
+        "readable letters, words or numbers on the page",
+        "Maya's chest or the front of her blazer visible",
+        "a floating island, floating rock or city anywhere in the sky",
+        "any landmass in the sky"
+      ]
+    },
+    {
+      "id": "spread-16",
+      "setting": "the-jungle",
+      "plate": "establishing",
+      "cast": [],
+      "scene": "One young hopeful is the subject: in the first warm light of morning on a jungle trail, an anonymous young traveler with a pack stands still, holding a crisp WHITE unsmudged page in both hands, reading it, then caught mid-glance UPWARD toward a small break in the canopy where plain warm sky shows through. The page's writing reads as small neat suggested lines, not readable letters. Around the traveler the jungle is green and loud and alive, exactly the world of the locked establishing plate. The traveler's face is lifted, lit, and just beginning to smile. If the traveler is missing the image is wrong. Keep the lower right calm: trail and ferns.",
+      "shot": "close",
+      "_caption": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Then make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
+      "anonymous": "one anonymous young hopeful traveler with a pack, holding a white page, face lifted toward the canopy break",
+      "negatives": [
+        "readable letters, words or numbers on the page",
+        "the floating island visible through the canopy break"
+      ]
+    }
+  ]
+}

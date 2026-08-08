@@ -1,0 +1,53 @@
+{
+  "id": "founder-heaven",
+  "kind": "setting",
+  "name": "Founder Heaven",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-07",
+    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time."
+  },
+  "status": "locked",
+  "partOf": null,
+  "contract": {
+    "turnaround": "reference/founder-heaven/establishing.png",
+    "emptyPlates": [
+      "reference/founder-heaven/establishing.png",
+      "reference/founder-heaven/terrace.png"
+    ],
+    "blueprint": "reference/founder-heaven/blueprint.png",
+    "scalePlate": "reference/founder-heaven/establishing.png",
+    "blockingPlate": null,
+    "map": "A floating protopian island in open sky above the jungle. Underneath, a gentle teardrop of pale rock trailing thin skirts of mist. On top, terraced gardens stepping up from the rim, low cream buildings with warm windows, slender brass wind-spires, small orchards and pools. It floats free: no chains, no pillars, no engines. Two fixed camera angles: ESTABLISHING (from below, over the jungle canopy) and TERRACE (standing on a rim garden terrace looking along the edge, jungle far below like a green sea).",
+    "blocking": "From below, the island sits high in the frame with canopy or clearing in the lower third; it is never close enough to read individual doors. On the terrace, the rim rail and the drop beyond it carry the height; buildings stay low and behind, sky stays generous.",
+    "dressing": "Pale terraced stone, green gardens, low cream buildings with warm windows, brass wind-spires, soft banners without lettering, drifting small clouds. Futuristic reads as graceful and quiet, never chrome, never neon, never engines or thrusters.",
+    "scale": "The island reads about the size of a small hill town: whole gardens and rooftops are visible at once from below, and birds passing near it read as specks. From the terrace, the jungle below reads as a soft green sea with no individual trees."
+  },
+  "structured": {
+    "sheets": {
+      "establishing": "reference/founder-heaven/establishing.png",
+      "terrace": "reference/founder-heaven/terrace.png",
+      "blueprint": "reference/founder-heaven/blueprint.png"
+    },
+    "requiredForRender": [
+      "establishing"
+    ],
+    "houseRules": {
+      "invariants": [
+        "gentle-teardrop-of-pale-rock-underside-trailing-mist",
+        "terraced-gardens-stepping-up-from-the-rim",
+        "low-cream-buildings-with-warm-windows",
+        "slender-brass-wind-spires",
+        "floats-free-no-chains-no-pillars-no-engines",
+        "graceful-protopian-never-chrome-never-neon",
+        "no-signage-no-lettering-anywhere",
+        "warm-editorial-register-never-photoreal"
+      ],
+      "dressing": "Pale stone terraces, gardens, orchards, pools, brass wind-spires, unlettered banners, small drifting clouds."
+    }
+  },
+  "prose": {
+    "rules": "Protopian, not utopian kitsch: a real place people live and work, rendered warm and quiet. Its silhouette is owned by the establishing plate and must stay recognizable in every appearance: teardrop rock below, terraces and spires above. The silver elevator ribbons are too thin to see from the jungle floor; a scene that wants a ribbon meeting the island must ask for it by name."
+  }
+}

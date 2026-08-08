@@ -1,0 +1,42 @@
+{
+ "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/defunct.png",
+ "model": "gpt-image-2",
+ "mode": "edit",
+ "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. THE SAME CAR AND PLATFORM as the master reference, identical geometry, DEFUNCT: dark for good. The glass cold and unlit, the brass frame dulled to old penny, thick moss on the stone platform and creeping up the car's lower body, the silver ribbon above gone dull as pewter and slightly slack against the leaves. The sliding doors rest shut. Around its feet, small flat stones placed by visitors, unmarked, and worn ground where people have stood. NOTHING is broken: no shattered glass, no rust holes, no vandalism. It is a monument, not a ruin, and the jungle light on it stays warm. Soft ink-and-wash illustration with visible brushwork and watercolor paper texture. The elevation drawing is layout reference only: never paint its lines, dashes, dimensions or labels into the image. No text anywhere. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, a truss tower, pylon, scaffold, crane or rope in place of the ribbon, a hinged house door on the car, lettering, signage or numbers anywhere, broken or shattered glass in any state, ominous mood or horror gloom, neon light, chrome gloss, photoreal rendering, 3D/CGI gloss.",
+ "inputs": [
+  "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+  "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/blueprint.png",
+  "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/master.png"
+ ],
+ "size": "1024x1536",
+ "quality": "high",
+ "background": "auto",
+ "mask": null,
+ "generatedAt": "2026-08-08T03:53:50+00:00",
+ "generator": "chatgpt-images/scripts/generate_image.py",
+ "shot": "defunct",
+ "entity": "the-camouflaged-elevator",
+ "kind": "visual-metaphor",
+ "anchor": {
+  "path": "reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+  "sha256_16": "988cef324da88dc6"
+ },
+ "registerNeutral": null,
+ "photoStack": [],
+ "conditionedOn": [
+  {
+   "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/master.png",
+   "sha256_16": "1a3b8f72fbda2677"
+  }
+ ],
+ "crossEntityRefs": [],
+ "codeDrawnRefs": [
+  {
+   "shot": "blueprint",
+   "generator": "agenticstory.elevation",
+   "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/blueprint.png",
+   "sha256_16": "8929378d6954410f"
+  }
+ ],
+ "method": "star-chain (every non-seed shot conditions on the blessed seed and on NO sibling state, so one state's lighting cannot walk into the next)"
+}

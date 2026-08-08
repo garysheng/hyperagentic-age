@@ -1,0 +1,30 @@
+{
+  "title": "FOUNDER HEAVEN",
+  "subtitle": "SILHOUETTE ELEVATION",
+  "sheet": { "width": 1536, "height": 1024, "margin": 60 },
+  "scale": { "unit": "m", "pxPerUnit": 1.05, "originPx": [300, 260] },
+  "parts": [
+    { "kind": "ellipse", "center": [450, 30], "r": [450, 60], "fill": "#DDE7D4", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [180, -150], "text": ["TOP PLATEAU ~900 m ACROSS: terraced gardens", "step up from the rim; low cream buildings,", "orchards, pools; a few slender brass wind-spires"], "leaderTo": [430, -20], "stroke": "ink" },
+
+    { "kind": "rect", "at": [330, -90], "size": [18, 70], "fill": "#B08D3E", "stroke": "ink", "width": 2 },
+    { "kind": "rect", "at": [560, -70], "size": [14, 55], "fill": "#B08D3E", "stroke": "ink", "width": 2 },
+    { "kind": "note", "at": [700, -130], "text": ["BRASS WIND-SPIRES ~60 m,", "always slender, never towers"], "leaderTo": [575, -60], "stroke": "accent" },
+
+    { "kind": "ellipse", "center": [450, 210], "r": [340, 170], "fill": "#E8E2D4", "stroke": "ink", "width": 4 },
+    { "kind": "ellipse", "center": [450, 420], "r": [110, 90], "fill": "#E8E2D4", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [-140, 300], "text": ["UNDERSIDE: a gentle TEARDROP of pale rock", "tapering downward, trailing thin skirts of mist;", "NOTHING holds it up: no chains, no pillars,", "no engines, no thrusters"], "leaderTo": [200, 300], "stroke": "accent" },
+
+    { "kind": "line", "from": [-180, 620], "to": [1080, 620], "stroke": "dim", "width": 2, "dashed": true },
+    { "kind": "note", "at": [1090, 600], "text": ["JUNGLE CANOPY LINE,", "far below in open sky"], "heading": false, "stroke": "dim" },
+
+    { "kind": "dim", "axis": "h", "from": [0, 30], "to": [900, 30], "offset": -180, "label": "~900 m (a small hill town)" },
+    { "kind": "dim", "axis": "v", "from": [900, -60], "to": [900, 510], "offset": 130, "label": "~570 m rock to rim" }
+  ],
+  "laws": [
+    "THE SILHOUETTE IS THE IDENTITY: teardrop rock below, one green terraced plateau above, a few slender brass spires. Every appearance keeps this outline.",
+    "IT FLOATS FREE IN OPEN SKY. Nothing visible holds it up, ever.",
+    "FROM THE JUNGLE FLOOR IT READS SMALL AND HIGH; individual doors and people are never readable from below.",
+    "GRACEFUL PROTOPIA: pale stone, cream, green, brass. Never chrome, never neon, never engines."
+  ]
+}

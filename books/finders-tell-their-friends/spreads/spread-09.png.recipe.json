@@ -1,0 +1,55 @@
+{
+  "asset": "spread-09.png",
+  "assetSha256_16": "645ca17458408de6",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-09",
+  "descriptor": {
+    "id": "spread-09",
+    "cast": [
+      {
+        "id": "the-prophet",
+        "pose": "master"
+      }
+    ],
+    "scene": "A vast crowd is the ground of the image: an enormous sea of anonymous followers fills a broad jungle clearing from edge to edge, faces small and varied, packs and hats and hopeful upturned chins, stretching back until they blur into the green. Above them, on a tall grey rock outcrop rising at the left of frame, stands THE PROPHET exactly as his locked sheet paints him: silver hair, short white beard, long pale cream traveling coat, staff with its small brass bell in one hand, his polished brass speaking-trumpet raised to his lips with the other, mid-announcement, warm and certain. His figure reads about a quarter of the frame height. The crowd is already turning to run in the direction he points. Nobody in this image is lying and everybody is too late.",
+    "shot": "wide",
+    "_caption": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.",
+    "anonymous": "an enormous crowd of anonymous followers of all kinds filling the clearing below the rock, faces small and varied, some already turning to run",
+    "pos": "top"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: A vast crowd is the ground of the image: an enormous sea of anonymous followers fills a broad jungle clearing from edge to edge, faces small and varied, packs and hats and hopeful upturned chins, stretching back until they blur into the green. Above them, on a tall grey rock outcrop rising at the left of frame, stands THE PROPHET exactly as his locked sheet paints him: silver hair, short white beard, long pale cream traveling coat, staff with its small brass bell in one hand, his polished brass speaking-trumpet raised to his lips with the other, mid-announcement, warm and certain. His figure reads about a quarter of the frame height. The crowd is already turning to run in the direction he points. Nobody in this image is lying and everybody is too late. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. the-prophet rendered exactly per the supplied reference images: older silver haired man with a short white beard; long pale cream traveling coat over simple linen clothes; tall dark wood staff with a small brass bell at its head; polished brass speaking trumpet on a leather strap across the chest; warm theatrical confidence never sinister never a villain; no religious iconography of any tradition; warm editorial register never photoreal. THE PROPHET: an older silver-haired man with a short white beard, in a long pale cream traveling coat over simple linen clothes, carrying a tall dark-wood staff with a small brass bell at its head, and a polished brass speaking-trumpet slung on a leather strap across his chest. Warm, theatrical, entirely confident; a famous guide people follow in crowds. He is NEVER sinister and never a villain; his failure is timing, not malice. NO religious iconography of any tradition: no cross, no robes of any faith, no halo. Warm-editorial ink-and-wash, never photoreal. Standing full-body, front three-quarter, one hand on the staff, the brass trumpet on its strap, mid-proclamation warmth on his face. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: the-prophet. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: an enormous crowd of anonymous followers of all kinds filling the clearing below the rock, faces small and varied, some already turning to run. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. SPEAKER AND AUDIENCE GEOMETRY. Someone addressing a group FACES that group, and the group FACES THEM BACK. The two are on OPPOSITE sides of one another, never on the same side. So there are exactly TWO legal cameras and you must pick one of them. EITHER the camera is BEHIND OR AMONG THE AUDIENCE, in which case the audience fills the near foreground SEEN FROM BEHIND (backs of heads and shoulders) and the speaker stands beyond them FACING THE CAMERA. OR the camera is AT THE SPEAKER, in which case we see the speaker from behind or in three-quarter rear view and the audience beyond them is TURNED TOWARD THE CAMERA with their FACES VISIBLE. THE AUDIENCE IS NEVER ARRAYED BEHIND THE SPEAKER, never scattered around them, and never seated facing the same direction the speaker faces. A speaker with listeners behind their shoulders has their back turned on the people they are talking to, which is not what the scene means. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-prophet/master.png",
+      "sha256_16": "bc3a216d9ed6fbb1"
+    }
+  ],
+  "qa": [
+    "the-prophet: silver hair and short white beard, at crop-zoom",
+    "the-prophet: long pale cream traveling coat, never a religious robe",
+    "the-prophet: staff with a small brass bell at its head",
+    "the-prophet: brass speaking-trumpet on a leather strap",
+    "the-prophet: reads warm and theatrical, never sinister",
+    "the-prophet: no religious iconography of any tradition",
+    "the-prophet: warm-editorial, never photoreal",
+    "the-prophet: older-silver-haired-man-with-a-short-white-beard",
+    "the-prophet: long-pale-cream-traveling-coat-over-simple-linen-clothes",
+    "the-prophet: tall-dark-wood-staff-with-a-small-brass-bell-at-its-head",
+    "the-prophet: polished-brass-speaking-trumpet-on-a-leather-strap-across-the-chest",
+    "the-prophet: warm-theatrical-confidence-never-sinister-never-a-villain",
+    "the-prophet: no-religious-iconography-of-any-tradition",
+    "the-prophet: warm-editorial-register-never-photoreal"
+  ]
+}

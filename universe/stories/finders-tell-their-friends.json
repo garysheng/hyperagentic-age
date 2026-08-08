@@ -1,0 +1,203 @@
+{
+  "id": "finders-tell-their-friends",
+  "title": "Finders Tell Their Friends",
+  "logline": "A jungle of entrepreneurial opportunity sits under a floating protopian island called Founder Heaven. The only way up is camouflaged space elevators that carry a few founders each before going dark forever. Maya works harder than anyone, misses an elevator by following a myth, watches a prophet's broadcast arrive too late, and learns the one thing the myths and the smudged advice never say: the seekers who make it are the ones whose friends clue them in the moment they find one. She joins a small circle that shares maps honestly, rides up on the next elevator, and tells it straight from above.",
+  "spine": "thesis",
+  "spineNote": "The argued object is WHY HARD WORK ALONE DOES NOT FIND THIS SEASON'S ELEVATOR. Three false channels are examined and dismissed in order (myth from below, mistranslated stories from above, broadcast from a prophet), and the true channel is demonstrated rather than asserted: a small circle whose rule is that whoever finds it tells the others first. The coda closes the loop the false channels opened: the ones who ride up owe the ground a story told straight.",
+  "refrain": "Finders tell their friends.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "maya",
+    "chrissy",
+    "engineer",
+    "the-prophet",
+    "the-jungle",
+    "founder-heaven",
+    "the-camouflaged-elevator"
+  ],
+  "castingSweep": {
+    "sweptOn": "2026-08-07",
+    "decisions": [
+      {
+        "role": "the seeker who works harder than everyone",
+        "cast": "maya",
+        "why": "REUSE. Canon voice: earnest capable founder; laptop-under-arm invariant reads natively as carrying her work everywhere. Crossover receipt: she is the visitor who walked through the door at the end of nobody-labeled-the-door, and this book is what she found on the other side."
+      },
+      {
+        "role": "the finder who tells her friends first",
+        "cast": "chrissy",
+        "why": "REUSE. Canon voice literally reads 'cannot wait to show a friend what she found'. The title is her locked character."
+      },
+      {
+        "role": "the plain-spoken circle member",
+        "cast": "engineer",
+        "why": "REUSE. Canon voice: says plainly what he knows and what he does not, which is the honest-maps rule embodied."
+      },
+      {
+        "role": "the prophet with a million followers",
+        "cast": "NEW the-prophet",
+        "why": "Archetype required by the brief; no canon entity carries broadcast-scale following. Never a named real person."
+      },
+      {
+        "role": "the jungle of opportunity",
+        "cast": "NEW the-jungle",
+        "why": "No canon setting is a wilderness."
+      },
+      {
+        "role": "the aerial protopian island",
+        "cast": "NEW founder-heaven",
+        "why": "No canon setting floats."
+      },
+      {
+        "role": "the camouflaged space elevator",
+        "cast": "NEW the-camouflaged-elevator",
+        "why": "The spine-object, argued across states (camouflaged, open, ascending, defunct); visual-metaphor kind per SPEC 12."
+      }
+    ]
+  },
+  "beats": [
+    {
+      "n": 1,
+      "text": "There is a jungle where the hopeful go. It is green and loud and alive, and it does not care how good your plan is. Everyone who walks in is looking for the same thing: a way up.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Gary's commission brief, 2026-08-07: 'a wild jungle of entrepreneurial opportunity, full of dangers, where hopefuls search for a way up'."
+    },
+    {
+      "n": 2,
+      "text": "Up is an island in the sky. It floats above the canopy in plain view, near enough to see its gardens and its bright machines, too far for any tree to reach. The people below call it Founder Heaven.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief: 'FOUNDER HEAVEN, an aerial floating futuristic protopian island'."
+    },
+    {
+      "n": 3,
+      "text": "There is one way up. Elevators stand in the jungle, silver threads running from the forest floor to the island, and every one of them is camouflaged. You can cut a trail past one at arm's length and never know.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief: 'the only way up is space elevators, and they are completely camouflaged'."
+    },
+    {
+      "n": 4,
+      "text": "Each elevator holds power enough for a few seats. It lifts its handful of founders, and then it goes dark for good. The hopefuls call the little while it is alive a takeoff window. The jungle does not post it anywhere.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief: 'each elevator has only enough power to carry a few founders up before it goes defunct forever'. 'Takeoff window' is the campaign's coined term, folded in as the hopefuls' own name for the rule (coordinator note, 2026-08-08)."
+    },
+    {
+      "n": 5,
+      "text": "When an elevator dies, the people who missed it gather at its feet and tell stories about the ones who made it up in time. The stories grow taller every season. That is how myths get written: by the people still on the ground.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief: 'after an elevator dies, the people below write myths about the founders who made it up in time'."
+    },
+    {
+      "n": 6,
+      "text": "The founders up top tell stories too, about how they made it. They send them down. But the pages fall a long way, and by the time they land the words have smudged into advice that points at nothing. The hopefuls follow it anyway.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief: 'the founders who reached Founder Heaven tell stories of how they made it, but the stories arrive below mistranslated, misleading the hopefuls'."
+    },
+    {
+      "n": 7,
+      "text": "Maya works harder than anyone in the jungle. She is up before the light, she carries her work everywhere, and she clears more trail in a week than most camps clear in a season. Hard work is her plan. She is sure it is enough.",
+      "location": "the-jungle",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Brief arc: 'one seeker who works harder than everyone'."
+    },
+    {
+      "n": 8,
+      "text": "She follows the most famous myth in the jungle to the place where a great elevator once stood. It is exactly where the story said. It is covered in moss, and it has been dark for years. The myth was true. It was just finished.",
+      "location": "the-jungle",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Brief arc: 'misses an elevator by following a myth'."
+    },
+    {
+      "n": 9,
+      "text": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.",
+      "location": "the-jungle",
+      "characters": [
+        "the-prophet"
+      ],
+      "provenance": "Brief required beat: 'a famous prophet with a million followers announces the elevator's location to everyone; by the time he announces it, the seats are already full; broadcast means too late'. Archetype, never a named real person."
+    },
+    {
+      "n": 10,
+      "text": "That night Maya counts every founder she has ever known who made it up. Not one of them found their elevator in a myth or an announcement. Each one had a friend who found it and told them first, quietly, the same hour. Finders tell their friends.",
+      "location": "the-jungle",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Brief moral: 'the seekers who make it are the ones whose friends clue them in the moment they find one'."
+    },
+    {
+      "n": 11,
+      "text": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all, and they keep one rule: whoever finds it tells the others first.",
+      "location": "the-jungle",
+      "characters": [
+        "maya",
+        "chrissy",
+        "engineer"
+      ],
+      "provenance": "Brief arc: 'becomes part of a small circle that shares maps honestly'."
+    },
+    {
+      "n": 12,
+      "text": "It is Chrissy who finds it, on an ordinary morning, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends.",
+      "location": "the-jungle",
+      "characters": [
+        "chrissy"
+      ],
+      "provenance": "Brief moral: finders tell their friends the moment they find one; the anti-prophet beat."
+    },
+    {
+      "n": 13,
+      "text": "The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
+      "location": "the-jungle",
+      "characters": [
+        "maya",
+        "chrissy",
+        "engineer"
+      ],
+      "provenance": "Brief arc: 'ascends on the next elevator'."
+    },
+    {
+      "n": 14,
+      "text": "Founder Heaven is smaller than the myths and kinder than the smudged advice. And nearly everyone who stands there arrived the same way: holding a map a friend drew.",
+      "location": "founder-heaven",
+      "characters": [
+        "maya",
+        "chrissy",
+        "engineer"
+      ],
+      "provenance": "Brief: protopian island, plus the moral generalized from the arrival side."
+    },
+    {
+      "n": 15,
+      "text": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.",
+      "location": "founder-heaven",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Brief arc: 'tells it straight from above (breaking the mistranslation cycle)'; moral verbatim in spirit: 'work hard, but hard work alone is not sufficient'."
+    },
+    {
+      "n": 16,
+      "text": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Then make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
+      "location": "the-jungle",
+      "characters": [],
+      "provenance": "Brief moral, both halves: friends who clue you in, and the ascended telling it straight."
+    }
+  ],
+  "writesBack": []
+}

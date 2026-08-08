@@ -1,0 +1,11 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/founder-heaven/blueprint.png",
+  "generator": "agenticstory.elevation",
+  "mode": "deterministic-2d-elevation",
+  "spec": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/canon/blueprints/founder-heaven.elevation.json",
+  "inputs": [],
+  "model": null,
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "specVersion": "0.37",
+  "entity": "founder-heaven"
+}

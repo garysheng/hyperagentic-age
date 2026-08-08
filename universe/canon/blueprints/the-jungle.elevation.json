@@ -1,0 +1,32 @@
+{
+  "title": "THE JUNGLE",
+  "subtitle": "SCALE SECTION",
+  "sheet": { "width": 1536, "height": 1024, "margin": 60 },
+  "scale": { "unit": "m", "pxPerUnit": 24, "originPx": [240, 130] },
+  "parts": [
+    { "kind": "rect", "at": [4, 0], "size": [1.4, 30], "fill": "#8A8B6C", "stroke": "ink", "width": 3 },
+    { "kind": "rect", "at": [22, 3], "size": [1.2, 27], "fill": "#8A8B6C", "stroke": "ink", "width": 3 },
+    { "kind": "rect", "at": [36, 1], "size": [1.6, 29], "fill": "#8A8B6C", "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [42, 2], "text": ["CATHEDRAL-TALL TRUNKS ~30 m;", "the canopy closes far overhead"], "leaderTo": [37.6, 3], "stroke": "ink" },
+
+    { "kind": "ellipse", "center": [21, 1.5], "r": [22, 3.5], "fill": "#C9D6B8", "stroke": "ink", "width": 2 },
+    { "kind": "note", "at": [-6.5, 5.5], "text": ["CANOPY BAND: giant leaves,", "warm light shafts drop through"], "leaderTo": [6, 3.5], "stroke": "ink" },
+
+    { "kind": "rect", "at": [2.6, 27.5], "size": [4.2, 2.5], "fill": "#9A9184", "stroke": "ink", "width": 2 },
+    { "kind": "note", "at": [-6.5, 26.0], "text": ["BUTTRESS ROOTS to ~2.5 m:", "shoulder-high to an adult"], "leaderTo": [3.2, 28], "stroke": "accent" },
+
+    { "kind": "line", "from": [-6, 30], "to": [58, 30], "stroke": "ink", "width": 3 },
+    { "kind": "note", "at": [52, 30.7], "text": "FOREST FLOOR", "heading": false },
+
+    { "kind": "line", "from": [30, 30], "to": [30, 28.3], "stroke": "dim", "width": 2, "dashed": true },
+    { "kind": "note", "at": [28.7, 26.6], "text": ["HUMAN ~1.7 m"], "heading": false, "stroke": "dim" },
+
+    { "kind": "dim", "axis": "h", "from": [26.8, 30], "to": [27.8, 30], "offset": 28, "label": "trail ~0.8 m, one person wide" },
+    { "kind": "dim", "axis": "v", "from": [4, 0], "to": [4, 30], "offset": -70, "label": "~30 m" }
+  ],
+  "laws": [
+    "THE JUNGLE IS VAST AND VERTICAL: trunks ~30 m, an adult reaches a buttress root's shoulder, trails are one person wide.",
+    "DANGER READS AS STEEPNESS, THICKNESS AND DISTANCE, never as gloom; light is warm and generous.",
+    "NO SIGNAGE, NO LETTERING, NO RUINS, NO TEMPLES anywhere."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "the-jungle",
+  "kind": "setting",
+  "name": "The Jungle",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-07",
+    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time."
+  },
+  "status": "locked",
+  "partOf": null,
+  "contract": {
+    "turnaround": "reference/the-jungle/establishing.png",
+    "emptyPlates": [
+      "reference/the-jungle/establishing.png"
+    ],
+    "blueprint": "reference/the-jungle/blueprint.png",
+    "scalePlate": null,
+    "blockingPlate": null,
+    "map": "A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain.",
+    "blocking": "Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere.",
+    "dressing": "Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere.",
+    "scale": "The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide."
+  },
+  "structured": {
+    "sheets": {
+      "establishing": "reference/the-jungle/establishing.png",
+      "blueprint": "reference/the-jungle/blueprint.png"
+    },
+    "requiredForRender": [
+      "establishing"
+    ],
+    "houseRules": {
+      "invariants": [
+        "emerald-green-depth-in-soft-layered-washes",
+        "giant-leaves-buttress-roots-and-hanging-lianas",
+        "narrow-hand-cut-trails-one-person-wide",
+        "warm-shafts-of-daylight-through-the-canopy",
+        "adventurous-never-horror-never-dark-dread",
+        "no-signage-no-lettering-anywhere",
+        "warm-editorial-register-never-photoreal"
+      ],
+      "dressing": "Giant leaves, buttress roots, lianas, ferns, moss, trail stakes, distant canvas camps with warm lanterns. Nothing lettered, nothing ruined, nothing ominous."
+    }
+  },
+  "prose": {
+    "rules": "The jungle is the world of the hopefuls: alive, generous with light, and genuinely difficult. Keep it warm and painterly with layered green washes; danger reads as steepness, thickness and distance, never as gloom. The floating island may appear through a canopy break when a scene calls for it by name; otherwise sky is glimpsed, not featured."
+  }
+}

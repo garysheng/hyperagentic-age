@@ -1,0 +1,52 @@
+{
+  "asset": "spread-10.png",
+  "assetSha256_16": "ce748d166d25ba63",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
+  "book": "finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-10",
+  "descriptor": {
+    "id": "spread-10",
+    "setting": "the-jungle",
+    "plate": "establishing",
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      }
+    ],
+    "scene": "Night. Maya sits small in the lower left at a tiny camp: a low fire, a bedroll, her closed laptop on her knees under her folded hands, firelight warm on her thinking face. Above and to the right, filling most of the frame, floats one large SOFT PAINTED THOUGHT BUBBLE with a gently scalloped edge, its interior a warm cream vignette: inside it, two anonymous founders stand close together in painterly softness, one leaning to the other's ear, hand cupped, whispering, while pointing toward a tiny warm glow between distant painted trees. The bubble's content is the answer she is arriving at: not a myth, not a stage, a friend leaning close. The fire keeps the lower left warm; the lower right stays calm dark ferns.",
+    "shot": "thought-bubble",
+    "_caption": "That night Maya counts every founder she has ever known who made it up. Not one of them found their elevator in a myth or an announcement. Each one had a friend who found it and told them first, quietly, the same hour. Finders tell their friends.",
+    "anonymous": "inside the thought bubble only: two anonymous founders, one whispering close to the other's ear and pointing toward a tiny warm glow"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Night. Maya sits small in the lower left at a tiny camp: a low fire, a bedroll, her closed laptop on her knees under her folded hands, firelight warm on her thinking face. Above and to the right, filling most of the frame, floats one large SOFT PAINTED THOUGHT BUBBLE with a gently scalloped edge, its interior a warm cream vignette: inside it, two anonymous founders stand close together in painterly softness, one leaning to the other's ear, hand cupped, whispering, while pointing toward a tiny warm glow between distant painted trees. The bubble's content is the answer she is arriving at: not a myth, not a stage, a friend leaning close. The fire keeps the lower left warm; the lower right stays calm dark ferns. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, THOUGHT BUBBLE. The picture has TWO parts. SMALL, at ONE EDGE of the frame and occupying no more than a quarter of it, the speaker is drawn in their real place, mid-sentence. FILLING THE REST OF THE FRAME, a single large BUBBLE holds the thing they are describing, painted as its own little scene. THE BUBBLE IS PAINTED, NOT DRAWN: its edge is a soft feathered cloud-like border of the same paint as the rest of the picture, with a few small round bubbles trailing from the speaker up to it. THE SPEAKER STAYS IN THEIR OWN SEAT on their own side of the room, and anyone sitting with them is still sitting with them. It is NEVER a hard black comic-book outline, NEVER a speech balloon with a pointed tail, NEVER a flat white shape, and it carries NO lettering of any kind. This is ONE continuous painted image containing a bubble, and it is NOT a grid, NOT split panels and NOT a comic strip. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. the-jungle exactly as its reference plate: A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain. Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere. Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere. The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: maya. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: inside the thought bubble only: two anonymous founders, one whispering close to the other's ear and pointing toward a tiny warm glow. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-jungle/establishing.png",
+      "sha256_16": "b1be6e7030475eda"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register"
+  ]
+}

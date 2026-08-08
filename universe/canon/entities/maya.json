@@ -26,6 +26,17 @@
     "contextual": {
       "lanyard": "A CONFERENCE only. Not part of her identity of record. Sheet: conference.",
       "rust-scarf": "Gained at the moment she stops building her own machinery and gets onto Managed Agents, and worn for every scene after. Sheet: rust."
+    },
+    "render": {
+      "always": "MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "Identity of record; wardrobe and features exactly as the locked sheets."
+        }
+      }
     }
   },
   "prose": {
