@@ -61,9 +61,131 @@
           "pose": "front"
         }
       ],
+      "scene": "DAVID KOBROSKY climbs the steps of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out, his face turned back over the street with his warm grin. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
+      "_caption": "David came up in New York City, where eight million people live close enough to touch and a young person can still go a whole year without being known. Striving strangers arrive every day with big plans and nobody to tell them to. David looked at that and set the table.",
+      "shot": "wide",
+      "pos": "bottom-left",
+      "anonymous": "Five commuters, visibly distinct from each other and from David: different builds, skin tones, ages, coats. None wears a sky-blue button-down; none looks at anyone.",
+      "negatives": [
+        "a second man resembling David",
+        "passersby making eye contact with anyone",
+        "neon signage",
+        "glass skyscrapers"
+      ]
+    },
+    {
+      "id": "spread-04",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "A SMALL NEW YORK APARTMENT PACKED WITH SUNDAY-MORNING PEOPLE, and DAVID KOBROSKY at the tiny stove mid-flip, a pancake in the air above his pan, laughing toward the crowded table, HIS EYES ON HIS GUESTS. Around a table that is clearly too small: SIX young professionals and founders wedged onto folding chairs and a sagging couch, mismatched mugs, a syrup bottle, somebody's laptop shut under a plate. Two guests lean into conversation with each other, eyes meeting; another pair laugh over a shared phone photo; one newcomer at the edge is being waved in by a guest sliding over to make room. Morning light through one big window, radiator under it, a hand-lettered paper banner on the wall reading exactly BRUNCH CLUB in friendly marker capitals. Warm, crowded, joyful. Lower-right: worn wooden floor with a stray tote bag, calm.",
+      "_caption": "It started in his own apartment. Folding chairs, borrowed mugs, pancakes for whoever rang the bell. He called it Brunch Club, and on Sunday mornings his place filled with young professionals and founders who had been strangers on Saturday night.",
+      "shot": "group",
+      "pos": "bottom-left",
+      "anonymous": "Six brunch guests, all in their twenties and thirties, visibly distinct: a South Asian woman in a denim jacket, a heavyset white man in a hoodie, a Black woman with short locs, an East Asian man in a flannel, a redheaded woman, a Latino man in a tee. None resembles David; none wears sky-blue.",
+      "negatives": [
+        "a second man resembling David",
+        "anyone looking at the camera",
+        "any text besides the exact BRUNCH CLUB banner"
+      ]
+    },
+    {
+      "id": "spread-05",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "DAVID KOBROSKY, chest-up at his crowded kitchen counter, hands a tall fruit smoothie across to a guest whose hands are just receiving it, HIS EYES LOCKED ON THE GUEST'S EYES, both mid-laugh. The blender jug sits beside him with three more filled glasses lined up, each a different sunrise color. Behind him, slightly soft, a wall crowded with dozens of small pinned photographs of past brunches, years of them, and a small glass jar of wooden tokens on the shelf. The guest is seen from behind over their shoulder, softly out of focus. Warm morning light. Lower-right: countertop with a folded dish towel, calm.",
+      "_caption": "He ran Brunch Club for years, more than a hundred brunches in all, and he made the smoothies himself. Ask anyone who came. The room stayed small on purpose, the door stayed open anyway, and table by table he became the center of a certain kind of gravity in New York.",
+      "shot": "close",
+      "pos": "bottom-left",
+      "anonymous": "One guest receiving the smoothie, seen mostly from behind: a young woman with a dark ponytail in a green cardigan, visibly distinct from David.",
+      "negatives": [
+        "a second man resembling David",
+        "David looking at the camera",
+        "legible text on the photographs or tokens"
+      ]
+    },
+    {
+      "id": "spread-06",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "A close INSERT of the apartment wall: two strong forearms with rolled sky-blue sleeves, DAVID's hands, pinning one more small photograph onto a corkboard already crowded with dozens of little photographs of brunches, faces around tables, pancakes held up like trophies, mismatched mugs raised. Among the photos, a small hand-lettered card reads exactly thebrunchguy in lowercase marker letters, and below the board a glass jar spills a few small plain wooden tokens onto the shelf. Desk-lamp warmth. The faces in the photographs are tiny and soft, no larger than a thumbnail, none of them a recognizable canon character. Lower-right: bare shelf wood, calm.",
+      "_caption": "The internet gave him a name for it. Online he is thebrunchguy, and regulars collected little brunch tokens for showing up, the way kids collect arcade tickets. When your nickname is a meal you share with strangers, you are doing something right.",
+      "shot": "insert",
+      "pos": "bottom-right",
+      "negatives": [
+        "any legible text besides the exact card thebrunchguy",
+        "a visible face of David (hands and forearms only)",
+        "photorealistic photographs: the pinned photos are tiny warm ink-and-wash vignettes"
+      ]
+    },
+    {
+      "id": "spread-07",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "A BUSTLING MEDIA OFFICE IN FULL SWING, and DAVID KOBROSKY strides through the middle of it carrying a cardboard box stacked with a laptop and rolled posters, his grin turned toward a colleague he passes, HIS EYES ON THAT COLLEAGUE, who points him toward a doorway. Around them: desks jammed with monitors kept dark and papers kept bright, a wall calendar dense with marker scrawl, three other staffers in motion carrying tripods and garment bags, sneakers everywhere, coffee cups everywhere. The energy is loud, warm, and fast. No recognizable real person appears; the famous boss is elsewhere. Lower-right: floor with a strip of gaffer tape, calm.",
+      "_caption": "Before building his own thing he was Gary Vee's first crypto hire, sent to explore the strangest new corner of the internet. The job taught him how crowds gather online, and how they scatter. He kept the lesson.",
+      "shot": "group",
+      "pos": "bottom-right",
+      "anonymous": "Four media-office staffers in motion, visibly distinct from David and each other; none resembles any real public figure; none wears sky-blue.",
+      "negatives": [
+        "a second man resembling David",
+        "any recognizable real celebrity or public figure",
+        "neon lighting",
+        "legible brand logos or text"
+      ]
+    },
+    {
+      "id": "spread-08",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "NIGHT AFTER A BRUNCH, and TWO MEN sit on the SAME side of a small kitchen table, shoulder to shoulder, both leaning toward ONE OPEN LAPTOP squarely in front of them, ITS SCREEN FACING THE TWO OF THEM, their eyes on the screen together. DAVID KOBROSKY is on the left, mid-idea, one hand gesturing at the screen; his FRIEND, a young man with wavy chestnut hair, round glasses and a maroon crewneck, types as he grins. Around the laptop: index cards with red yarn between them, a cold cup of coffee, and this morning's clean stacked plates drying by the sink behind them. On one index card, in plain marker capitals, exactly the word MEETSUNDAY. Lamplight, warm and late. Lower-right: table wood and one pencil, calm.",
+      "_caption": "Then he tried to bottle it. With a friend he built software that did what he did at brunch, notice which two strangers ought to meet, and they named the first version MeetSunday, after the morning the magic kept happening on.",
+      "shot": "two-shot",
+      "pos": "bottom-right",
+      "anonymous": "The friend and cofounder figure: wavy chestnut hair, round glasses, maroon crewneck, clean-shaven, visibly distinct from David; he is an anonymous companion, no real likeness.",
+      "negatives": [
+        "a second man resembling David",
+        "the laptop screen facing the camera",
+        "either man looking at the camera",
+        "any legible text besides the exact card MEETSUNDAY"
+      ]
+    },
+    {
+      "id": "spread-09",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
       "scene": "A close overhead INSERT: two strong forearms with rolled sky-blue sleeves, DAVID's hands, pinning a length of red yarn between two index cards on a big cork board that fills the frame. The board carries a couple dozen index cards, each with a hand-drawn stick-figure face and a first name in plain handwriting, many already joined by yarn lines, a warm constellation of people. One card at the edge, not yet connected, sits slightly apart. Desk lamp light rakes across the cork. No screens, no computers: the software idea rendered as the corkboard it was born from. The card names are short common first names (AVA, SAM, LEO, NOOR, JUNE) in casual handwriting.",
       "shot": "insert",
-      "_caption": "He believed a room could be built to catch people, so he taught software his own instinct. His company learned to notice which two strangers ought to meet, then made the introduction for him, a thousand times a night. It was called Intros. Of course it was.",
+      "_caption": "The software worked the way his table worked. It learned which two strangers ought to meet, then made the introduction for him, a thousand times a night. When it grew up they gave it the only name that fit. It was called Intros. Of course it was.",
       "pos": "bottom-left",
       "negatives": [
         "computer screens or UI",
@@ -72,7 +194,27 @@
       ]
     },
     {
-      "id": "spread-04",
+      "id": "spread-10",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "A VAST EMPTY EVENT HALL in pale early light, rows of empty folding chairs stretching away, and DAVID KOBROSKY small near the center aisle, sleeves rolled, setting a small box of blank name tags onto the first chair, his face calm and certain, EYES ON THE ROOM he is about to warm. A rolling cart beside him holds stacked mugs and a coffee urn. The hall reads cold in its emptiness, all pale wall and long shadow, while David and his little cart are the one pool of warm color. The picture's argument is a cold room meeting the person who knows how to warm one. Lower-right: bare floorboards and chair legs in soft shadow, calm.",
+      "_caption": "Investors wired real money so that more strangers could meet. The pitch was simple. Every new community starts cold, a room where nobody knows anybody yet, and David had spent years learning exactly how to warm one up.",
+      "shot": "wide",
+      "pos": "bottom-right",
+      "negatives": [
+        "a second man resembling David",
+        "other people anywhere in the hall",
+        "neon or corporate-expo dressing",
+        "David looking at the camera"
+      ]
+    },
+    {
+      "id": "spread-11",
       "plate": null,
       "cast": [
         {
@@ -93,7 +235,7 @@
       ]
     },
     {
-      "id": "spread-05",
+      "id": "spread-12",
       "plate": null,
       "cast": [
         {
@@ -123,7 +265,7 @@
       ]
     },
     {
-      "id": "spread-06",
+      "id": "spread-13",
       "plate": null,
       "cast": [
         {
@@ -146,7 +288,7 @@
       ]
     },
     {
-      "id": "spread-07",
+      "id": "spread-14",
       "plate": null,
       "cast": [
         {
@@ -169,7 +311,7 @@
       ]
     },
     {
-      "id": "spread-08",
+      "id": "spread-15",
       "plate": null,
       "cast": [
         {
@@ -198,7 +340,7 @@
       ]
     },
     {
-      "id": "spread-09",
+      "id": "spread-16",
       "plate": null,
       "cast": [
         {
@@ -221,7 +363,7 @@
       ]
     },
     {
-      "id": "spread-10",
+      "id": "spread-17",
       "plate": null,
       "cast": [
         {
@@ -249,7 +391,7 @@
       ]
     },
     {
-      "id": "spread-11",
+      "id": "spread-18",
       "plate": null,
       "cast": [
         {
@@ -268,7 +410,7 @@
       ]
     },
     {
-      "id": "spread-12",
+      "id": "spread-19",
       "plate": null,
       "cast": [
         {
@@ -290,7 +432,7 @@
       ]
     },
     {
-      "id": "spread-13",
+      "id": "spread-20",
       "plate": null,
       "cast": [
         {
@@ -310,7 +452,7 @@
       ]
     },
     {
-      "id": "spread-14",
+      "id": "spread-21",
       "plate": null,
       "cast": [
         {
@@ -329,7 +471,7 @@
       ]
     },
     {
-      "id": "spread-15",
+      "id": "spread-22",
       "plate": null,
       "cast": [
         {
