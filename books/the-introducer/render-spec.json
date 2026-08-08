@@ -61,16 +61,19 @@
           "look": "college"
         }
       ],
-      "scene": "DAVID KOBROSKY climbs the steps of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out, his face turned back over the street with his warm grin. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
+      "scene": "DAVID KOBROSKY, college-young in his navy polo, has PAUSED on the second step of a Brooklyn brownstone stoop in early golden morning, two paper grocery bags in his arms with a baguette and a bunch of bananas poking out. His WHOLE UPPER BODY is rotated toward the street: chest, shoulders and face all turned the same comfortable three-quarter direction, chin near his right shoulder, as he grins a hello at the block, feet still planted on the steps mid-climb. The pose is easy and natural, a neighbor pausing to take in the morning. Around him New York wakes: water towers on rooflines, fire escapes, steam from a corner cart, and on the sidewalk FIVE ANONYMOUS PASSERSBY walk in different directions, each looking at their own feet or phone, NONE of them looking at each other. The picture's quiet argument is that David is the only person in frame paying attention to people. Warm brick and cream sky, no neon, no skyline glamour shot. Lower-right: empty sidewalk, calm.",
       "_caption": "David came up in New York City, where eight million people live close enough to touch and a young person can still go a whole year without being known. Striving strangers arrive every day with big plans and nobody to tell them to. David looked at that and set the table.",
       "shot": "wide",
-      "pos": "bottom-left",
+      "pos": "top-left",
       "anonymous": "Five commuters, visibly distinct from each other and from David: different builds, skin tones, ages, coats. None wears a sky-blue button-down; none looks at anyone.",
       "negatives": [
         "a second man resembling David",
         "passersby making eye contact with anyone",
         "neon signage",
-        "glass skyscrapers"
+        "glass skyscrapers",
+        "his head rotated further than his shoulders",
+        "chin past the shoulder line",
+        "torso and face pointing opposite directions"
       ]
     },
     {
