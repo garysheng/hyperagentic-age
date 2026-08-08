@@ -1,23 +1,23 @@
 {
-  "id": "founder-heaven",
+  "id": "founder-paradise",
   "kind": "setting",
-  "name": "Founder Heaven",
+  "name": "Founder Paradise",
   "originStory": "finders-tell-their-friends",
   "authority": {
     "lockedBy": "gary",
     "lockedOn": "2026-08-07",
-    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time."
+    "note": "locked in commissioned run 2026-08-07; design per Gary's brief (jungle / Founder Heaven allegory). Read back against declared invariants at lock time. RENAMED 2026-08-08 (Gary's portal reconstruction): Founder Heaven became Founder Paradise, in place; same locked plates, same silhouette, same invariants. New lore: nobody steers the island, not even the founders who made it up; it drifts, and the winners ride along."
   },
   "status": "locked",
   "partOf": null,
   "contract": {
-    "turnaround": "reference/founder-heaven/establishing.png",
+    "turnaround": "reference/founder-paradise/establishing.png",
     "emptyPlates": [
-      "reference/founder-heaven/establishing.png",
-      "reference/founder-heaven/terrace.png"
+      "reference/founder-paradise/establishing.png",
+      "reference/founder-paradise/terrace.png"
     ],
-    "blueprint": "reference/founder-heaven/blueprint.png",
-    "scalePlate": "reference/founder-heaven/establishing.png",
+    "blueprint": "reference/founder-paradise/blueprint.png",
+    "scalePlate": "reference/founder-paradise/establishing.png",
     "blockingPlate": null,
     "map": "A floating protopian island in open sky above the jungle. Underneath, a gentle teardrop of pale rock trailing thin skirts of mist. On top, terraced gardens stepping up from the rim, low cream buildings with warm windows, slender brass wind-spires, small orchards and pools. It floats free: no chains, no pillars, no engines. Two fixed camera angles: ESTABLISHING (from below, over the jungle canopy) and TERRACE (standing on a rim garden terrace looking along the edge, jungle far below like a green sea).",
     "blocking": "From below, the island sits high in the frame with canopy or clearing in the lower third; it is never close enough to read individual doors. On the terrace, the rim rail and the drop beyond it carry the height; buildings stay low and behind, sky stays generous.",
@@ -26,9 +26,9 @@
   },
   "structured": {
     "sheets": {
-      "establishing": "reference/founder-heaven/establishing.png",
-      "terrace": "reference/founder-heaven/terrace.png",
-      "blueprint": "reference/founder-heaven/blueprint.png"
+      "establishing": "reference/founder-paradise/establishing.png",
+      "terrace": "reference/founder-paradise/terrace.png",
+      "blueprint": "reference/founder-paradise/blueprint.png"
     },
     "requiredForRender": [
       "establishing"
@@ -48,6 +48,7 @@
     }
   },
   "prose": {
-    "rules": "Protopian, not utopian kitsch: a real place people live and work, rendered warm and quiet. Its silhouette is owned by the establishing plate and must stay recognizable in every appearance: teardrop rock below, terraces and spires above. The silver elevator ribbons are too thin to see from the jungle floor; a scene that wants a ribbon meeting the island must ask for it by name."
+    "rules": "Protopian, not utopian kitsch: a real place people live and work, rendered warm and quiet. Its silhouette is owned by the establishing plate and must stay recognizable in every appearance: teardrop rock below, terraces and spires above. It floats free and UNSTEERED: no chains, no pillars, no engines, no rudders, no sails; the drift is lore, never hardware. A scene that wants the portal's light or the island together must ask for each by name; the island never renders the portal in its own plates.",
+    "lore": "The island above the jungle in Finders Tell Their Friends, called Founder Paradise by the people below. The founders who make it up do not control where it floats: it drifts where it drifts, and even the winners are passengers. Its keepers (never depicted, never named) are the hand that parachutes the sky-compasses into the green. Renamed from Founder Heaven 2026-08-08 (Gary)."
   }
 }

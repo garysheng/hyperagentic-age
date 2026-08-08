@@ -1,0 +1,83 @@
+{
+  "asset": "spread-16.png",
+  "assetSha256_16": "9eab26d10f192a45",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "4525bc9874d7c17200469ac5a799be17c5d90b84",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends",
+  "story": "finders-tell-their-friends",
+  "spread": "spread-16",
+  "descriptor": {
+    "id": "spread-16",
+    "setting": "the-jungle",
+    "plate": "establishing",
+    "cast": [
+      {
+        "id": "the-orange-compass"
+      },
+      {
+        "id": "the-portal",
+        "plate": "hidden"
+      }
+    ],
+    "scene": "One young hopeful is the subject: in the first warm light of morning on a jungle trail, an anonymous young traveler with a pack stands mid-stride at the left of frame, a crisp WHITE unsmudged page held loosely in one hand at her side (its writing soft suggested lines, never readable), her other hand raised chest-high holding the orange compass on its short cream cord, its dark clay-tipped needle swinging DECISIVELY toward camera-right. Her face is turned the same way the needle points: alert, hopeful, mid-search, already moving. Deep in the green at the far right of frame, at mid-height and mostly veiled, the portal shows exactly as its locked hidden plate paints it: a few thin warm slivers of gold light behind hanging vines and leaf-shadow, far off but unmistakably alive. Dawn mist low on the trail, first sun catching the leaves; the mood is urgency with warmth, real hope, never dread: she is going to find it. The lower right corner above the caption card stays calm mist and ferns; the warm slivers sit above that band.",
+    "negatives": [
+      "a second portal, second oval of light or second blossom ring anywhere in the image",
+      "the portal fully visible or unveiled (thin warm slivers far off only)",
+      "readable letters on the page",
+      "an antique compass-rose, tick marks, letters or numbers on the compass face",
+      "gloom, dusk or dread (this is dawn and hope)"
+    ],
+    "shot": "wide",
+    "_caption": "Somewhere below, a hopeful reads a page that finally says what happened, and the needle of her sky-compass swings. This era's portal is open right now. Rumor says it opened wider than any portal before it. Rumor says it is closing faster than any portal has closed. So work hard. Hold your compass. Find the friends who would tell you first, and be one back. And from above, tell it straight. The light is standing somewhere in the green. Keep looking.",
+    "anonymous": "one anonymous young hopeful with a pack, mid-stride, holding the page and the compass"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: One young hopeful is the subject: in the first warm light of morning on a jungle trail, an anonymous young traveler with a pack stands mid-stride at the left of frame, a crisp WHITE unsmudged page held loosely in one hand at her side (its writing soft suggested lines, never readable), her other hand raised chest-high holding the orange compass on its short cream cord, its dark clay-tipped needle swinging DECISIVELY toward camera-right. Her face is turned the same way the needle points: alert, hopeful, mid-search, already moving. Deep in the green at the far right of frame, at mid-height and mostly veiled, the portal shows exactly as its locked hidden plate paints it: a few thin warm slivers of gold light behind hanging vines and leaf-shadow, far off but unmistakably alive. Dawn mist low on the trail, first sun catching the leaves; the mood is urgency with warmth, real hope, never dread: she is going to find it. The lower right corner above the caption card stays calm mist and ferns; the warm slivers sit above that band. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. An unbranded object inside the fable: never a company name, never a logo, never lettering on the face, the crate or the parachute. The shell's orange is the universe's existing clay/orange family (the same family as Maya's rust scarf), matte and warm, never neon and never safety-vest orange. Small in frame almost everywhere: a palm-sized object held, hung from a pack strap, or resting on a map. 'Smart' is shown only by the needle: it always swings toward the live portal, decisively, and may glow very faintly warm in dim scenes, never like a screen. No buttons, dials, antennas or lights are ever added. the-portal exactly as its reference plate: A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size. This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher. State-dependent only. Hidden: hanging vines, broad leaves and leaf-shadow curtain the light so only warm slivers show through; a passerby would walk within arm's length and never know. Master (found): the vines drawn aside, the oval open and generous, warm gold light with a few small drifting motes, soft warm glow on the nearest leaves. Waning: the same portal small and low, light gentler, the green closing in around it. Closed: no light at all, a quiet flat ring of pale gold blossoms in the green, moss and ferns grown back inside it. Nothing is ever scorched, broken or ominous. At its opening, about twice a person's height and wider than a garden gate; a closed ring reads about as wide as a person is tall lying down. In a wide shot the live portal is a tall warm almond of light against the green, unmistakably person-scaled, never building-scaled and never coin-scaled. the-jungle exactly as its reference plate: A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain. Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere. Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere. The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: one anonymous young hopeful with a pack, mid-stride, holding the page and the compass. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second portal, second oval of light or second blossom ring anywhere in the image, the portal fully visible or unveiled (thin warm slivers far off only), readable letters on the page, an antique compass-rose, tick marks, letters or numbers on the compass face, gloom, dusk or dread (this is dawn and hope). ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-orange-compass/hero.png",
+      "sha256_16": "f72113fbe1a7aae1"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-portal/hidden.png",
+      "sha256_16": "da001d58d412e3c6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-jungle/establishing.png",
+      "sha256_16": "b1be6e7030475eda"
+    }
+  ],
+  "qa": [
+    "the-orange-compass: palm-sized-round-pocket-compass-on-a-short-braided-cream-cord",
+    "the-orange-compass: burnt-clay-orange-enamel-shell-with-a-thin-brass-rim",
+    "the-orange-compass: plain-warm-cream-face-with-no-letters-numbers-or-degree-marks",
+    "the-orange-compass: single-dark-needle-tipped-in-the-same-clay-orange",
+    "the-orange-compass: no-logo-or-brand-mark-anywhere",
+    "the-orange-compass: warm-editorial-register-never-photoreal",
+    "the-portal: one-upright-pointed-oval-doorway-of-warm-golden-light",
+    "the-portal: soft-inkwash-edge-with-a-thin-brighter-rim-never-hard-neon",
+    "the-portal: lower-tip-floats-a-hands-width-above-the-forest-floor",
+    "the-portal: pure-light-no-frame-ring-stones-or-machinery-ever",
+    "the-portal: through-the-opening-warm-light-and-sky-never-darkness-never-a-void",
+    "the-portal: a-few-small-gold-motes-drift-near-the-light",
+    "the-portal: same-shape-at-every-size-only-size-veiling-and-light-change",
+    "the-portal: closed-state-is-a-flat-ring-of-pale-gold-blossoms-no-light-nothing-ominous",
+    "the-portal: no-lettering-sign-or-number-anywhere-in-any-state",
+    "the-portal: warm-editorial-register-never-photoreal",
+    "the-portal: one upright pointed-oval of warm golden light, at crop-zoom",
+    "the-portal: soft ink-wash edge with a thin brighter rim, never a hard vector edge, never neon, never a lens flare",
+    "the-portal: no frame, ring, arch, stones, machinery or doorsill anywhere near the light",
+    "the-portal: lower tip floats just above the forest floor, never touching",
+    "the-portal: closed state shows a flat blossom ring and NO light",
+    "the-portal: no lettering, sign or number anywhere",
+    "the-portal: warm-editorial, never photoreal"
+  ]
+}

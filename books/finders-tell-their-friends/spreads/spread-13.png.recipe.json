@@ -1,65 +1,134 @@
 {
   "asset": "spread-13.png",
-  "assetSha256_16": "3f60451e67591f35",
+  "assetSha256_16": "7a187dac2800d057",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
   "size": "1536x1024",
   "generatedBy": "abu:compose-spread render_spread.py",
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
-  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
-  "book": "finders-tell-their-friends",
+  "universeCommit": "4525bc9874d7c17200469ac5a799be17c5d90b84",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends",
   "story": "finders-tell-their-friends",
   "spread": "spread-13",
   "descriptor": {
     "id": "spread-13",
     "cast": [
       {
-        "id": "the-camouflaged-elevator",
-        "plate": "ascending"
+        "id": "maya",
+        "pose": "master"
       },
       {
-        "id": "founder-heaven",
+        "id": "chrissy",
+        "pose": "forward-fullbody"
+      },
+      {
+        "id": "engineer",
+        "pose": "forward-fullbody"
+      },
+      {
+        "id": "the-portal",
+        "plate": "master"
+      },
+      {
+        "id": "founder-paradise",
         "plate": "establishing"
       }
     ],
-    "scene": "High morning sky. The elevator car climbs its silver ribbon exactly as the locked ascending plate paints it: the cylindrical brass-and-glass car warm with inner light, the ribbon running dead vertical through the whole frame, the jungle canopy far below reading as a soft green sea. The car rides in the lower left third of the frame. Inside the glass, three small founder figures stand together, tiny and warm, no faces readable. Up in the upper right, still distant but nearer than it has ever been, floats the island exactly as its locked establishing plate paints it: teardrop rock, terraced gardens, brass spires, catching the sunrise like a promise being kept. The ribbon points at it. Keep the lower right calm: open canopy and morning haze.",
-    "shot": "wide",
-    "_caption": "The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
-    "anonymous": "three small founder figures inside the glass car, seen tiny through the glass, no faces readable"
+    "scene": "The portal stands open in the green, left-of-center and clear of the exact middle of the frame, exactly as its locked master plate paints it: the tall pointed-oval of warm golden light, vines drawn aside, lower tip floating above the ferns. THROUGH its opening, asked for by name: open morning sky and FOUNDER PARADISE, small and far and sunlit, exactly the silhouette of its locked establishing plate (teardrop of pale rock below, terraced gardens, low cream buildings, slender brass wind-spires), rising into view like a sunrise seen through a window. The island appears ONLY inside the portal's opening, never in the jungle sky. From the right, MAYA, CHRISSY and the ENGINEER walk together toward the light, seen from three-quarters BEHIND, Chrissy a half-step ahead with the warm gold already on her shoulders, Maya with her laptop under her arm, the engineer last with his steady stride; the portal is comfortably taller and wider than all three, room to spare. Warm gold spills over the trail toward them. The lower right corner above the caption card stays calm ferns and warm-lit trail.",
+    "shot": "close",
+    "_caption": "The portal is warm as a doorway at dusk, and it is still wide enough for every friend who comes. They step through together, out of the green and into the sky, and Founder Paradise comes up like a sunrise.",
+    "negatives": [
+      "a second portal, second oval of light or second blossom ring anywhere in the image",
+      "the island anywhere OUTSIDE the portal's opening",
+      "a silver ribbon, thread, cable or elevator anywhere",
+      "the characters' faces in more than three-quarter-behind profile"
+    ]
   },
-  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: High morning sky. The elevator car climbs its silver ribbon exactly as the locked ascending plate paints it: the cylindrical brass-and-glass car warm with inner light, the ribbon running dead vertical through the whole frame, the jungle canopy far below reading as a soft green sea. The car rides in the lower left third of the frame. Inside the glass, three small founder figures stand together, tiny and warm, no faces readable. Up in the upper right, still distant but nearer than it has ever been, floats the island exactly as its locked establishing plate paints it: teardrop rock, terraced gardens, brass spires, catching the sunrise like a promise being kept. The ribbon points at it. Keep the lower right calm: open canopy and morning haze. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. the-camouflaged-elevator exactly as its reference plate: A space elevator hidden in the jungle: one rounded brass-and-glass car standing on a low round stone platform, a brass collar above the car, and a slender silver ribbon rising dead vertical from the collar out of every frame toward the island. There are many such elevators in the jungle and every one is this same design. The car is 2.6 m tall by 2.0 m wide with a 0.9 m sliding double door on the front, standing on a low round stone platform 4.0 m across and 0.3 m tall. An adult reads about 1.7 m against it: head level with the door's upper third, well below the brass collar. The silver ribbon is 0.15 m wide and rises straight up out of the frame; it never bends, never sways, and is never a tower or scaffold. State-dependent only. Camouflaged: living vines, broad leaves and leaf-shadow wrap the car and platform so it vanishes into the green. Master (found): the vines drawn aside, doors open, warm light inside. Ascending: the car alone on the ribbon high above the canopy, no platform in frame. Defunct: moss, cold shade, dulled brass, dark glass. Nothing is ever broken, shattered or ominous. Slightly taller than a garden shed at the base; a person boards it through a door they do not need to duck through. In the ascending state the car reads small against the sky, a bead on a silver thread. founder-heaven exactly as its reference plate: A floating protopian island in open sky above the jungle. Underneath, a gentle teardrop of pale rock trailing thin skirts of mist. On top, terraced gardens stepping up from the rim, low cream buildings with warm windows, slender brass wind-spires, small orchards and pools. It floats free: no chains, no pillars, no engines. Two fixed camera angles: ESTABLISHING (from below, over the jungle canopy) and TERRACE (standing on a rim garden terrace looking along the edge, jungle far below like a green sea). From below, the island sits high in the frame with canopy or clearing in the lower third; it is never close enough to read individual doors. On the terrace, the rim rail and the drop beyond it carry the height; buildings stay low and behind, sky stays generous. Pale terraced stone, green gardens, low cream buildings with warm windows, brass wind-spires, soft banners without lettering, drifting small clouds. Futuristic reads as graceful and quiet, never chrome, never neon, never engines or thrusters. The island reads about the size of a small hill town: whole gardens and rooftops are visible at once from below, and birds passing near it read as specks. From the terrace, the jungle below reads as a soft green sea with no individual trees. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: three small founder figures inside the glass car, seen tiny through the glass, no faces readable. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: The portal stands open in the green, left-of-center and clear of the exact middle of the frame, exactly as its locked master plate paints it: the tall pointed-oval of warm golden light, vines drawn aside, lower tip floating above the ferns. THROUGH its opening, asked for by name: open morning sky and FOUNDER PARADISE, small and far and sunlit, exactly the silhouette of its locked establishing plate (teardrop of pale rock below, terraced gardens, low cream buildings, slender brass wind-spires), rising into view like a sunrise seen through a window. The island appears ONLY inside the portal's opening, never in the jungle sky. From the right, MAYA, CHRISSY and the ENGINEER walk together toward the light, seen from three-quarters BEHIND, Chrissy a half-step ahead with the warm gold already on her shoulders, Maya with her laptop under her arm, the engineer last with his steady stride; the portal is comfortably taller and wider than all three, room to spare. Warm gold spills over the trail toward them. The lower right corner above the caption card stays calm ferns and warm-lit trail. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. chrissy rendered exactly per the supplied reference images: white woman; long wavy blonde hair worn down center parted past the shoulders; warm wide open bright smile; relaxed cream or white blazer over a simple top default; warm editorial register. CHRISSY: a white woman with long wavy blonde hair worn down, center-parted, past the shoulders, a warm wide-open bright smile, in a relaxed cream or white blazer over a simple top. Quick, generous, lit up by having something to share. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. engineer rendered exactly per the supplied reference images: black man; short cropped hair and a neat short beard; rounded dark glasses; charcoal grey zip hoodie over a plain tee default; warm editorial register. THE ENGINEER: a Black man with short-cropped hair and a neat short beard, rounded dark glasses, in a charcoal grey zip hoodie over a plain tee. Calm, plain-spoken, kind. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. the-portal exactly as its reference plate: A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size. This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher. State-dependent only. Hidden: hanging vines, broad leaves and leaf-shadow curtain the light so only warm slivers show through; a passerby would walk within arm's length and never know. Master (found): the vines drawn aside, the oval open and generous, warm gold light with a few small drifting motes, soft warm glow on the nearest leaves. Waning: the same portal small and low, light gentler, the green closing in around it. Closed: no light at all, a quiet flat ring of pale gold blossoms in the green, moss and ferns grown back inside it. Nothing is ever scorched, broken or ominous. At its opening, about twice a person's height and wider than a garden gate; a closed ring reads about as wide as a person is tall lying down. In a wide shot the live portal is a tall warm almond of light against the green, unmistakably person-scaled, never building-scaled and never coin-scaled. founder-paradise exactly as its reference plate: A floating protopian island in open sky above the jungle. Underneath, a gentle teardrop of pale rock trailing thin skirts of mist. On top, terraced gardens stepping up from the rim, low cream buildings with warm windows, slender brass wind-spires, small orchards and pools. It floats free: no chains, no pillars, no engines. Two fixed camera angles: ESTABLISHING (from below, over the jungle canopy) and TERRACE (standing on a rim garden terrace looking along the edge, jungle far below like a green sea). From below, the island sits high in the frame with canopy or clearing in the lower third; it is never close enough to read individual doors. On the terrace, the rim rail and the drop beyond it carry the height; buildings stay low and behind, sky stays generous. Pale terraced stone, green gardens, low cream buildings with warm windows, brass wind-spires, soft banners without lettering, drifting small clouds. Futuristic reads as graceful and quiet, never chrome, never neon, never engines or thrusters. The island reads about the size of a small hill town: whole gardens and rooftops are visible at once from below, and birds passing near it read as specks. From the terrace, the jungle below reads as a soft green sea with no individual trees. TELL THEM APART, keep every face and hairstyle distinct: maya is the one with half black half white founder, sage olive blazer single button notch lapel sleeves pushed to elbow, white crew neck tee, stone khaki chinos never blue jeans, laptop under arm; chrissy is the one with white woman, long wavy blonde hair worn down center parted past the shoulders, warm wide open bright smile, relaxed cream or white blazer over a simple top default; engineer is the one with black man, short cropped hair and a neat short beard, rounded dark glasses, charcoal grey zip hoodie over a plain tee default. THE ONLY CHARACTERS IN THIS IMAGE ARE: chrissy, engineer, maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second portal, second oval of light or second blossom ring anywhere in the image, the island anywhere OUTSIDE the portal's opening, a silver ribbon, thread, cable or elevator anywhere, the characters' faces in more than three-quarter-behind profile. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
   "refs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
       "sha256_16": "988cef324da88dc6"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/ascending.png",
-      "sha256_16": "8ea4c940f1dd2b3e"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/founder-heaven/establishing.png",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/forward-fullbody.png",
+      "sha256_16": "8fdc7ead0ead67f2"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/face-neutral.png",
+      "sha256_16": "3b75451d4e5759da"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/photos/01.jpg",
+      "sha256_16": "a5e8c718b3216755"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/photos/02.jpg",
+      "sha256_16": "79ac318ab08c5125"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/photos/03.jpg",
+      "sha256_16": "62e5943d3d61d7b4"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/photos/04.jpg",
+      "sha256_16": "610201e49297e194"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/engineer/forward-fullbody.png",
+      "sha256_16": "33b41a5927f3e2c9"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/engineer/face-neutral.png",
+      "sha256_16": "f5d2aeef7d18722a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-portal/master.png",
+      "sha256_16": "9938dcce54983082"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/founder-paradise/establishing.png",
       "sha256_16": "fb1e20d9007880c0"
     }
   ],
   "qa": [
-    "the-camouflaged-elevator: one-rounded-brass-and-glass-car-on-a-low-round-stone-platform",
-    "the-camouflaged-elevator: cylindrical-glass-car-in-a-warm-brass-frame-with-a-cream-stone-base",
-    "the-camouflaged-elevator: sliding-double-door-on-the-front-with-a-center-seam",
-    "the-camouflaged-elevator: brass-collar-above-the-car-that-the-ribbon-passes-through",
-    "the-camouflaged-elevator: silver-ribbon-rises-dead-vertical-out-of-frame-never-a-tower-or-scaffold",
-    "the-camouflaged-elevator: identical-car-collar-ribbon-and-platform-design-in-every-state",
-    "the-camouflaged-elevator: alive-states-glow-warm-inside-the-glass-never-neon",
-    "the-camouflaged-elevator: defunct-state-dark-cold-and-mossy-never-broken-never-ominous",
-    "the-camouflaged-elevator: no-lettering-sign-or-number-anywhere-in-any-state",
-    "the-camouflaged-elevator: warm-editorial-register-never-photoreal",
-    "the-camouflaged-elevator: one cylindrical glass car in a brass frame with a brass crown, at crop-zoom",
-    "the-camouflaged-elevator: sliding double door with a center seam, never a hinged house door",
-    "the-camouflaged-elevator: silver ribbon rises dead vertical, never a tower, scaffold or rope",
-    "the-camouflaged-elevator: brass collar present above the car",
-    "the-camouflaged-elevator: alive states glow warm inside, defunct state is dark and mossy",
-    "the-camouflaged-elevator: no lettering, sign or number anywhere",
-    "the-camouflaged-elevator: warm-editorial, never photoreal, never neon"
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register",
+    "chrissy: white-woman",
+    "chrissy: long-wavy-blonde-hair-worn-down-center-parted-past-the-shoulders",
+    "chrissy: warm-wide-open-bright-smile",
+    "chrissy: relaxed-cream-or-white-blazer-over-a-simple-top-default",
+    "chrissy: warm-editorial-register",
+    "engineer: black-man",
+    "engineer: short-cropped-hair-and-a-neat-short-beard",
+    "engineer: rounded-dark-glasses",
+    "engineer: charcoal-grey-zip-hoodie-over-a-plain-tee-default",
+    "engineer: warm-editorial-register",
+    "the-portal: one-upright-pointed-oval-doorway-of-warm-golden-light",
+    "the-portal: soft-inkwash-edge-with-a-thin-brighter-rim-never-hard-neon",
+    "the-portal: lower-tip-floats-a-hands-width-above-the-forest-floor",
+    "the-portal: pure-light-no-frame-ring-stones-or-machinery-ever",
+    "the-portal: through-the-opening-warm-light-and-sky-never-darkness-never-a-void",
+    "the-portal: a-few-small-gold-motes-drift-near-the-light",
+    "the-portal: same-shape-at-every-size-only-size-veiling-and-light-change",
+    "the-portal: closed-state-is-a-flat-ring-of-pale-gold-blossoms-no-light-nothing-ominous",
+    "the-portal: no-lettering-sign-or-number-anywhere-in-any-state",
+    "the-portal: warm-editorial-register-never-photoreal",
+    "the-portal: one upright pointed-oval of warm golden light, at crop-zoom",
+    "the-portal: soft ink-wash edge with a thin brighter rim, never a hard vector edge, never neon, never a lens flare",
+    "the-portal: no frame, ring, arch, stones, machinery or doorsill anywhere near the light",
+    "the-portal: lower tip floats just above the forest floor, never touching",
+    "the-portal: closed state shows a flat blossom ring and NO light",
+    "the-portal: no lettering, sign or number anywhere",
+    "the-portal: warm-editorial, never photoreal"
   ]
 }

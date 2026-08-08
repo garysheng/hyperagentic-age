@@ -1,0 +1,105 @@
+{
+  "id": "the-portal",
+  "kind": "visual-metaphor",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-08",
+    "note": "Shot and read back in the commissioned portal-reconstruction run 2026-08-08 (Gary's written direction: the space elevator is gone; the way up is a portal, camouflaged in the green, that shrinks as founders pass through and as it stands open, one portal per era; this era's opened wider than any before and is closing faster than any has closed). Blueprint-seeded chain, states shot STAR off the master. Seed and state plates blessed in-run by the steward against the declared invariants; flag in run report for Gary's eyes. The closed state's blossom-ring design (the drawable trace the myths gather around) is this run's design decision, also flagged."
+  },
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/the-portal/master.png",
+    "emptyPlates": [
+      "reference/the-portal/hidden.png",
+      "reference/the-portal/waning.png",
+      "reference/the-portal/closed.png"
+    ],
+    "blueprint": "reference/the-portal/blueprint.png",
+    "scalePlate": null,
+    "blockingPlate": null,
+    "map": "A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size.",
+    "blocking": "This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher.",
+    "dressing": "State-dependent only. Hidden: hanging vines, broad leaves and leaf-shadow curtain the light so only warm slivers show through; a passerby would walk within arm's length and never know. Master (found): the vines drawn aside, the oval open and generous, warm gold light with a few small drifting motes, soft warm glow on the nearest leaves. Waning: the same portal small and low, light gentler, the green closing in around it. Closed: no light at all, a quiet flat ring of pale gold blossoms in the green, moss and ferns grown back inside it. Nothing is ever scorched, broken or ominous.",
+    "scale": "At its opening, about twice a person's height and wider than a garden gate; a closed ring reads about as wide as a person is tall lying down. In a wide shot the live portal is a tall warm almond of light against the green, unmistakably person-scaled, never building-scaled and never coin-scaled.",
+    "states": [
+      "blueprint",
+      "master",
+      "hidden",
+      "waning",
+      "closed"
+    ],
+    "emptyPlatesExpected": 3
+  },
+  "structured": {
+    "sheets": {
+      "blueprint": "reference/the-portal/blueprint.png",
+      "master": "reference/the-portal/master.png",
+      "hidden": "reference/the-portal/hidden.png",
+      "waning": "reference/the-portal/waning.png",
+      "closed": "reference/the-portal/closed.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "one-upright-pointed-oval-doorway-of-warm-golden-light",
+      "soft-inkwash-edge-with-a-thin-brighter-rim-never-hard-neon",
+      "lower-tip-floats-a-hands-width-above-the-forest-floor",
+      "pure-light-no-frame-ring-stones-or-machinery-ever",
+      "through-the-opening-warm-light-and-sky-never-darkness-never-a-void",
+      "a-few-small-gold-motes-drift-near-the-light",
+      "same-shape-at-every-size-only-size-veiling-and-light-change",
+      "closed-state-is-a-flat-ring-of-pale-gold-blossoms-no-light-nothing-ominous",
+      "no-lettering-sign-or-number-anywhere-in-any-state",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE PORTAL: one upright pointed-oval doorway of pure warm golden light standing in the green, soft-edged like wet ink-wash with a thin brighter rim, a few small gold motes drifting near it, its lower tip floating a hand's width above the forest floor. It is light and nothing else: NO frame, NO ring, NO arch, NO standing stones, NO machinery, NO doorsill. Through the opening, warm light and open sky, never darkness. The same pointed-oval shape at every size; only size, veiling and light change between states. No lettering, sign or number anywhere. Warm-editorial ink-and-wash, never photoreal, never neon, never a lens flare.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "FOUND AND OPEN: this era's portal at its full size, about twice a person's height, the vines drawn aside like a curtain, the oval generous and warm, gold light spilling softly onto the nearest leaves and the forest floor. Inviting, quiet, a secret shown to a friend."
+        },
+        "hidden": {
+          "sheets": [
+            "hidden",
+            "master"
+          ],
+          "bake": "HIDDEN: the same portal veiled behind hanging vines, broad leaves and leaf-shadow, so only thin warm slivers of its light show through the green. Its glow lies low and reaches barely past the nearest leaves. A passerby would walk within arm's length and never know."
+        },
+        "waning": {
+          "sheets": [
+            "waning",
+            "master"
+          ],
+          "bake": "WANING: the same portal shrunk small, about knee-to-waist high on an adult, the same pointed-oval shape, the light gentler, the green leaning in around it. Late, quiet, still warm; never ominous."
+        },
+        "closed": {
+          "sheets": [
+            "closed",
+            "master"
+          ],
+          "bake": "CLOSED: no light at all. Where the portal stood, a flat quiet ring of pale gold blossoms about as wide as a person is tall lies on the forest floor, moss and ferns grown back inside it. A monument, not a ruin; kind, never ominous."
+        }
+      },
+      "qa": [
+        "one upright pointed-oval of warm golden light, at crop-zoom",
+        "soft ink-wash edge with a thin brighter rim, never a hard vector edge, never neon, never a lens flare",
+        "no frame, ring, arch, stones, machinery or doorsill anywhere near the light",
+        "lower tip floats just above the forest floor, never touching",
+        "closed state shows a flat blossom ring and NO light",
+        "no lettering, sign or number anywhere",
+        "warm-editorial, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The spine object of Finders Tell Their Friends after Gary's 2026-08-08 portal reconstruction: the only way up to Founder Paradise. Each era gets one portal, hidden in the green. It opens at some size and shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a ring of pale gold blossoms for the myths to grow around. Rumor says the windows close faster every time. This era's portal opened wider than any before it and is closing faster than any has closed. The keepers' smart orange compasses point at it; finders tell their friends about it. Supersedes the-camouflaged-elevator.",
+    "rules": "Pass the correct state sheet as reference on every render (master for found-and-open, hidden for camouflaged, waning for shrunk, closed for the blossom ring), with the code-drawn blueprint as geometry conditioning. Scenes may place the portal anywhere in the jungle, but the pointed-oval light design never changes between eras or states. Through the opening the default is warm light and open sky; Founder Paradise may appear through it ONLY when a scene asks by name. The island never appears in this entity's own sheets; founder-paradise owns its silhouette. A live portal at any distance reads as warm gold in the green, and its glow deliberately carries only a leaf or two beyond the opening, which is why it hides so well."
+  },
+  "name": "The Portal"
+}

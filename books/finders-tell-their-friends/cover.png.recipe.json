@@ -11,15 +11,15 @@
   "inputs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends/cover-raw.png",
-      "sha256_16": "a6811e3eed740cd8",
+      "sha256_16": "150545dbaf7c4a4b",
       "role": "conformed cover"
     }
   ],
-  "sha256_16": "a6811e3eed740cd8",
+  "sha256_16": "150545dbaf7c4a4b",
   "derivedFrom": {
     "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends/cover-raw.png",
     "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends/cover-raw.png.recipe.json",
-    "sha256_16": "a6811e3eed740cd8"
+    "sha256_16": "150545dbaf7c4a4b"
   },
   "note": "DERIVATIVE, not a generation. This is the platform-facing name for the conformed cover: byte-identical to the file in derivedFrom, which carries the recipe of the render that made the art. Published by render_cover.py so that the copy and its provenance can never be done by hand, or half-done."
 }

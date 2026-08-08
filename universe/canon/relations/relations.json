@@ -1,10 +1,64 @@
 [
-  { "from": "chief-of-agents", "rel": "appears-in", "to": "anthropic-evangelism-wiki", "note": "the anchor character / lead comms layer" },
-  { "from": "maya", "rel": "appears-in", "to": "anthropic-evangelism-wiki", "note": "the founder at the human end of the crossing" },
-  { "from": "sub-agent", "rel": "appears-in", "to": "anthropic-evangelism-wiki", "note": "the worker that does the hands-on task work" },
-  { "from": "gary", "rel": "appears-in", "to": "anthropic-evangelism-wiki", "note": "the everyman-teacher / narrator-protagonist of the thesis" },
-  { "from": "gary", "rel": "guides", "to": "maya", "note": "Gary helps Maya wield agents (as in the get-what-you-deserve book)" },
-  { "from": "chief-of-agents", "rel": "commands", "to": "sub-agent", "note": "the Chief oversees many sub-agents; they do the work and hand it back up" },
-  { "from": "chief-of-agents", "rel": "embodies", "to": "delivery-is-the-one-crossing", "note": "the crossing is literalized as the Chief peeking out of a MacBook" },
-  { "from": "chief-of-agents", "rel": "embodies", "to": "rank-by-naval-hats", "note": "the grand gold admiral hat is what makes it the Chief" }
+  {
+    "from": "chief-of-agents",
+    "rel": "appears-in",
+    "to": "anthropic-evangelism-wiki",
+    "note": "the anchor character / lead comms layer"
+  },
+  {
+    "from": "maya",
+    "rel": "appears-in",
+    "to": "anthropic-evangelism-wiki",
+    "note": "the founder at the human end of the crossing"
+  },
+  {
+    "from": "sub-agent",
+    "rel": "appears-in",
+    "to": "anthropic-evangelism-wiki",
+    "note": "the worker that does the hands-on task work"
+  },
+  {
+    "from": "gary",
+    "rel": "appears-in",
+    "to": "anthropic-evangelism-wiki",
+    "note": "the everyman-teacher / narrator-protagonist of the thesis"
+  },
+  {
+    "from": "gary",
+    "rel": "guides",
+    "to": "maya",
+    "note": "Gary helps Maya wield agents (as in the get-what-you-deserve book)"
+  },
+  {
+    "from": "chief-of-agents",
+    "rel": "commands",
+    "to": "sub-agent",
+    "note": "the Chief oversees many sub-agents; they do the work and hand it back up"
+  },
+  {
+    "from": "chief-of-agents",
+    "rel": "embodies",
+    "to": "delivery-is-the-one-crossing",
+    "note": "the crossing is literalized as the Chief peeking out of a MacBook"
+  },
+  {
+    "from": "chief-of-agents",
+    "rel": "embodies",
+    "to": "rank-by-naval-hats",
+    "note": "the grand gold admiral hat is what makes it the Chief"
+  },
+  {
+    "from": "the-portal",
+    "rel": "supersedes",
+    "to": "the-camouflaged-elevator",
+    "story": "finders-tell-their-friends",
+    "note": "Gary's portal reconstruction 2026-08-08: the way up to Founder Paradise is a shrinking portal (one per era), not a space elevator. The elevator is archived; already-shipped history keeps rendering; all new work casts the-portal."
+  },
+  {
+    "from": "the-portal",
+    "rel": "appears-in",
+    "to": "finders-tell-their-friends",
+    "story": "finders-tell-their-friends",
+    "note": "the spine object: hidden, open master, waning, and closed blossom-ring states argued across the book"
+  }
 ]

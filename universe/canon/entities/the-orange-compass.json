@@ -5,12 +5,13 @@
   "authority": {
     "lockedBy": "gary",
     "lockedOn": "2026-08-08",
-    "note": "Shot and read back in the commissioned mechanics-revision run 2026-08-08 (Gary's written brief: small orange compasses, unbranded, clay/orange family). Seed blessed in-run by the steward against the declared invariants; flag in run report for Gary's eyes."
+    "note": "Shot and read back in the commissioned mechanics-revision run 2026-08-08 (Gary's written brief: small orange compasses, unbranded, clay/orange family). Seed blessed in-run by the steward against the declared invariants; flag in run report for Gary's eyes. EXTENDED 2026-08-08 (portal reconstruction, Gary's direction): the compass is a SMART device the keepers parachute down in small crates; its needle always swings to the live portal. Same locked plates, same unbranded face; the extension is lore, a 'crated' render pose, and the needle's new target."
   },
   "structured": {
     "sheets": {
       "hero": "reference/the-orange-compass/hero.png",
-      "detail": "reference/the-orange-compass/detail.png"
+      "detail": "reference/the-orange-compass/detail.png",
+      "crated": "reference/the-orange-compass/crated.png"
     },
     "requiredForRender": [
       "hero"
@@ -32,8 +33,8 @@
   },
   "prose": {
     "voice": "",
-    "lore": "The keepers' answer to the smudged pages: the island's keepers want the cars full before the dark comes, so they drop these small compasses into the jungle by the armful, and every needle swings toward the live elevator. A compass in hand plus a friend who tells you first is how a seeker makes it in time. First appears in Finders Tell Their Friends (spreads 6, 11, 15, 16).",
-    "rules": "An unbranded object inside the fable: never a company name, never a logo, never lettering on the face. The shell's orange is the universe's existing clay/orange family (the same family as Maya's rust scarf), matte and warm, never neon and never safety-vest orange. Small in frame almost everywhere: a palm-sized object held, hung from a pack strap, or resting on a map. The needle may glow very faintly warm in dim scenes, never like a screen."
+    "lore": "The keepers' answer to the smudged pages: the island's keepers want as many founders through as they can get before the portal closes, so they parachute small crates into the green, and inside each is a smart orange compass whose needle always swings toward the live portal. Rumor says the ones holding a sky-compass find the portal long before anyone else. A compass in hand plus a friend who tells you first is how a seeker makes it in time. First appears in Finders Tell Their Friends (spreads 6, 11, 15, 16). (Mechanics revised by Gary 2026-08-08: the needle's target is the portal; delivery is by parachuted crate.)",
+    "rules": "An unbranded object inside the fable: never a company name, never a logo, never lettering on the face, the crate or the parachute. The shell's orange is the universe's existing clay/orange family (the same family as Maya's rust scarf), matte and warm, never neon and never safety-vest orange. Small in frame almost everywhere: a palm-sized object held, hung from a pack strap, or resting on a map. 'Smart' is shown only by the needle: it always swings toward the live portal, decisively, and may glow very faintly warm in dim scenes, never like a screen. No buttons, dials, antennas or lights are ever added."
   },
   "name": "The Orange Compass"
 }

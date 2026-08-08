@@ -32,3 +32,19 @@ and under the glass a plain warm cream face carrying ONLY a single dark needle
 tipped in clay orange. Absolutely NO letters, numbers, degree marks, tick marks,
 logos or brand marks on the face; the face is plain cream with the one needle.
 Soft warm light across the glass. 
+## crated -> `reference/the-orange-compass/crated.png` (1024x1024)
+
+Warm editorial ink-and-wash illustration in the style of the FIRST reference
+image, matching the compass reference exactly. IN THE DROP: the same palm-sized
+orange compass resting in a small pale-wood crate packed with straw, the lid
+loose and just pried open, seen from a low three-quarter angle on the ferny
+forest floor. Above and beside the crate, a small round cream parachute of
+plain cloth lies collapsed on its thin cords, softly draped over a fern. The
+compass reads as the ONE bright coin of burnt-clay orange in the image: orange
+enamel shell, thin brass rim, plain warm cream face with a single dark needle
+tipped in clay orange, its short braided cream cord spilling over the crate's
+edge. Absolutely NO letters, numbers, degree marks, stencils, logos or brand
+marks anywhere: not on the compass face, not on the crate boards, not on the
+parachute cloth. The wood is plain and unstamped, the cloth is plain cream.
+Soft morning jungle light. Warm-editorial ink-and-wash, never photoreal, never
+neon. No text anywhere.

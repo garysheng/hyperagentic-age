@@ -1,57 +1,61 @@
 {
   "asset": "spread-03.png",
-  "assetSha256_16": "e3eb1e8789755c94",
+  "assetSha256_16": "f9f44008b92f2bb3",
   "provider": "openai",
   "model": "gpt-image-2",
   "quality": "high",
   "size": "1536x1024",
   "generatedBy": "abu:compose-spread render_spread.py",
   "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
-  "universeCommit": "984828d32d1f12c1efc5d74782aef9a6fde018b8",
-  "book": "finders-tell-their-friends",
+  "universeCommit": "4525bc9874d7c17200469ac5a799be17c5d90b84",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/finders-tell-their-friends",
   "story": "finders-tell-their-friends",
   "spread": "spread-03",
   "descriptor": {
     "id": "spread-03",
     "cast": [
       {
-        "id": "the-camouflaged-elevator",
-        "plate": "camouflaged"
+        "id": "the-portal",
+        "plate": "hidden"
       }
     ],
-    "scene": "One anonymous traveler is the moving subject: seen from the side at mid-distance, a wiry traveler with a pack and a machete strides along a jungle trail from right to left, mid-swing through a hanging vine, eyes fixed ahead on the trail. Directly behind the traveler, an arm's length off the trail on the right half of the frame, stands the camouflaged elevator exactly as its locked camouflaged plate paints it: the cylindrical car wrapped in living vines and leaf-shadow, doors shut, glass dim, its silver ribbon lost among the lianas above. The traveler does not see it and never will. The joke and the ache of the picture is the arm's length between them. Keep the lower right calm ferns.",
-    "shot": "wide",
-    "_caption": "There is one way up. Elevators stand in the jungle, silver threads running from the forest floor to the island, and every one of them is camouflaged. You can cut a trail past one at arm's length and never know.",
-    "anonymous": "one anonymous traveler with a pack and machete, seen from the side, face not emphasized"
+    "scene": "One anonymous traveler is the moving subject: seen from the side at mid-distance, a wiry traveler with a pack and a machete strides from camera-right toward camera-left along a green trail, eyes fixed ahead on the trail, mid-swing clearing a frond. Directly behind and beside the trail, at arm's length from the traveler, the portal stands HIDDEN exactly as its locked hidden plate paints it: the tall pointed-oval only barely present as thin warm slivers of gold light behind hanging vines, broad leaves and leaf-shadow, its glow reaching no farther than the nearest leaves. The traveler does not see it and is walking past it. Ordinary jungle daylight everywhere else; the hiding is done by leaves, not gloom. Composition: the veiled portal stands left-of-center in the vine wall, the traveler passing through the right half, and the lower right corner stays calm ferns and trail for the caption card.",
+    "shot": "close",
+    "_caption": "There is one way up. Each era, one portal opens somewhere in the jungle: a tall door of warm light standing in the green. The jungle hides it the way it hides everything. You can cut a trail past it at arm's length and never know.",
+    "anonymous": "one wiry anonymous traveler with a pack and a machete, passing without seeing",
+    "negatives": [
+      "a second portal, second oval of light or second blossom ring anywhere in the image",
+      "the portal fully visible or unveiled (only thin warm slivers show through the leaves)"
+    ]
   },
-  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: One anonymous traveler is the moving subject: seen from the side at mid-distance, a wiry traveler with a pack and a machete strides along a jungle trail from right to left, mid-swing through a hanging vine, eyes fixed ahead on the trail. Directly behind the traveler, an arm's length off the trail on the right half of the frame, stands the camouflaged elevator exactly as its locked camouflaged plate paints it: the cylindrical car wrapped in living vines and leaf-shadow, doors shut, glass dim, its silver ribbon lost among the lianas above. The traveler does not see it and never will. The joke and the ache of the picture is the arm's length between them. Keep the lower right calm ferns. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. the-camouflaged-elevator exactly as its reference plate: A space elevator hidden in the jungle: one rounded brass-and-glass car standing on a low round stone platform, a brass collar above the car, and a slender silver ribbon rising dead vertical from the collar out of every frame toward the island. There are many such elevators in the jungle and every one is this same design. The car is 2.6 m tall by 2.0 m wide with a 0.9 m sliding double door on the front, standing on a low round stone platform 4.0 m across and 0.3 m tall. An adult reads about 1.7 m against it: head level with the door's upper third, well below the brass collar. The silver ribbon is 0.15 m wide and rises straight up out of the frame; it never bends, never sways, and is never a tower or scaffold. State-dependent only. Camouflaged: living vines, broad leaves and leaf-shadow wrap the car and platform so it vanishes into the green. Master (found): the vines drawn aside, doors open, warm light inside. Ascending: the car alone on the ribbon high above the canopy, no platform in frame. Defunct: moss, cold shade, dulled brass, dark glass. Nothing is ever broken, shattered or ominous. Slightly taller than a garden shed at the base; a person boards it through a door they do not need to duck through. In the ascending state the car reads small against the sky, a bead on a silver thread. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: one anonymous traveler with a pack and machete, seen from the side, face not emphasized. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: One anonymous traveler is the moving subject: seen from the side at mid-distance, a wiry traveler with a pack and a machete strides from camera-right toward camera-left along a green trail, eyes fixed ahead on the trail, mid-swing clearing a frond. Directly behind and beside the trail, at arm's length from the traveler, the portal stands HIDDEN exactly as its locked hidden plate paints it: the tall pointed-oval only barely present as thin warm slivers of gold light behind hanging vines, broad leaves and leaf-shadow, its glow reaching no farther than the nearest leaves. The traveler does not see it and is walking past it. Ordinary jungle daylight everywhere else; the hiding is done by leaves, not gloom. Composition: the veiled portal stands left-of-center in the vine wall, the traveler passing through the right half, and the lower right corner stays calm ferns and trail for the caption card. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. the-portal exactly as its reference plate: A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size. This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher. State-dependent only. Hidden: hanging vines, broad leaves and leaf-shadow curtain the light so only warm slivers show through; a passerby would walk within arm's length and never know. Master (found): the vines drawn aside, the oval open and generous, warm gold light with a few small drifting motes, soft warm glow on the nearest leaves. Waning: the same portal small and low, light gentler, the green closing in around it. Closed: no light at all, a quiet flat ring of pale gold blossoms in the green, moss and ferns grown back inside it. Nothing is ever scorched, broken or ominous. At its opening, about twice a person's height and wider than a garden gate; a closed ring reads about as wide as a person is tall lying down. In a wide shot the live portal is a tall warm almond of light against the green, unmistakably person-scaled, never building-scaled and never coin-scaled. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: one wiry anonymous traveler with a pack and a machete, passing without seeing. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second portal, second oval of light or second blossom ring anywhere in the image, the portal fully visible or unveiled (only thin warm slivers show through the leaves). ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
   "refs": [
     {
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
       "sha256_16": "988cef324da88dc6"
     },
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-camouflaged-elevator/camouflaged.png",
-      "sha256_16": "4b97f6f5c1617517"
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-portal/hidden.png",
+      "sha256_16": "da001d58d412e3c6"
     }
   ],
   "qa": [
-    "the-camouflaged-elevator: one-rounded-brass-and-glass-car-on-a-low-round-stone-platform",
-    "the-camouflaged-elevator: cylindrical-glass-car-in-a-warm-brass-frame-with-a-cream-stone-base",
-    "the-camouflaged-elevator: sliding-double-door-on-the-front-with-a-center-seam",
-    "the-camouflaged-elevator: brass-collar-above-the-car-that-the-ribbon-passes-through",
-    "the-camouflaged-elevator: silver-ribbon-rises-dead-vertical-out-of-frame-never-a-tower-or-scaffold",
-    "the-camouflaged-elevator: identical-car-collar-ribbon-and-platform-design-in-every-state",
-    "the-camouflaged-elevator: alive-states-glow-warm-inside-the-glass-never-neon",
-    "the-camouflaged-elevator: defunct-state-dark-cold-and-mossy-never-broken-never-ominous",
-    "the-camouflaged-elevator: no-lettering-sign-or-number-anywhere-in-any-state",
-    "the-camouflaged-elevator: warm-editorial-register-never-photoreal",
-    "the-camouflaged-elevator: one cylindrical glass car in a brass frame with a brass crown, at crop-zoom",
-    "the-camouflaged-elevator: sliding double door with a center seam, never a hinged house door",
-    "the-camouflaged-elevator: silver ribbon rises dead vertical, never a tower, scaffold or rope",
-    "the-camouflaged-elevator: brass collar present above the car",
-    "the-camouflaged-elevator: alive states glow warm inside, defunct state is dark and mossy",
-    "the-camouflaged-elevator: no lettering, sign or number anywhere",
-    "the-camouflaged-elevator: warm-editorial, never photoreal, never neon"
+    "the-portal: one-upright-pointed-oval-doorway-of-warm-golden-light",
+    "the-portal: soft-inkwash-edge-with-a-thin-brighter-rim-never-hard-neon",
+    "the-portal: lower-tip-floats-a-hands-width-above-the-forest-floor",
+    "the-portal: pure-light-no-frame-ring-stones-or-machinery-ever",
+    "the-portal: through-the-opening-warm-light-and-sky-never-darkness-never-a-void",
+    "the-portal: a-few-small-gold-motes-drift-near-the-light",
+    "the-portal: same-shape-at-every-size-only-size-veiling-and-light-change",
+    "the-portal: closed-state-is-a-flat-ring-of-pale-gold-blossoms-no-light-nothing-ominous",
+    "the-portal: no-lettering-sign-or-number-anywhere-in-any-state",
+    "the-portal: warm-editorial-register-never-photoreal",
+    "the-portal: one upright pointed-oval of warm golden light, at crop-zoom",
+    "the-portal: soft ink-wash edge with a thin brighter rim, never a hard vector edge, never neon, never a lens flare",
+    "the-portal: no frame, ring, arch, stones, machinery or doorsill anywhere near the light",
+    "the-portal: lower tip floats just above the forest floor, never touching",
+    "the-portal: closed state shows a flat blossom ring and NO light",
+    "the-portal: no lettering, sign or number anywhere",
+    "the-portal: warm-editorial, never photoreal"
   ]
 }

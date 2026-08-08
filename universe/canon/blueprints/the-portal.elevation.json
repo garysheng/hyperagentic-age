@@ -1,0 +1,249 @@
+{
+  "title": "THE PORTAL",
+  "subtitle": "ELEVATION",
+  "sheet": {
+    "width": 1536,
+    "height": 1024,
+    "margin": 60
+  },
+  "scale": {
+    "unit": "m",
+    "pxPerUnit": 150,
+    "originPx": [
+      560,
+      70
+    ]
+  },
+  "parts": [
+    {
+      "kind": "ellipse",
+      "center": [
+        0.8,
+        2.65
+      ],
+      "r": [
+        1.0,
+        1.9
+      ],
+      "fill": "#F2D9A4",
+      "stroke": "ink",
+      "width": 4
+    },
+    {
+      "kind": "note",
+      "at": [
+        -2.3,
+        1.2
+      ],
+      "text": [
+        "ONE UPRIGHT POINTED-OVAL DOORWAY",
+        "OF WARM GOLDEN LIGHT, this era's",
+        "portal at its opening: 3.8 m tall,",
+        "2.0 m wide, soft ink-wash edge with",
+        "a thin brighter rim, NO frame, NO",
+        "ring, NO stones, NO machinery"
+      ],
+      "leaderTo": [
+        -0.2,
+        2.2
+      ],
+      "stroke": "ink"
+    },
+    {
+      "kind": "line",
+      "from": [
+        -2.4,
+        4.7
+      ],
+      "to": [
+        6.6,
+        4.7
+      ],
+      "stroke": "dim",
+      "width": 2
+    },
+    {
+      "kind": "note",
+      "at": [
+        -2.3,
+        4.45
+      ],
+      "text": "FOREST FLOOR",
+      "heading": false
+    },
+    {
+      "kind": "line",
+      "from": [
+        0.8,
+        4.55
+      ],
+      "to": [
+        0.8,
+        4.7
+      ],
+      "stroke": "accent",
+      "width": 2,
+      "dashed": true
+    },
+    {
+      "kind": "note",
+      "at": [
+        -2.3,
+        4.15
+      ],
+      "text": [
+        "the lower tip floats a hand's",
+        "width (0.15 m) above the floor,",
+        "never touching, never a doorsill"
+      ],
+      "leaderTo": [
+        0.75,
+        4.62
+      ],
+      "stroke": "accent"
+    },
+    {
+      "kind": "line",
+      "from": [
+        2.6,
+        4.7
+      ],
+      "to": [
+        2.6,
+        3.0
+      ],
+      "stroke": "dim",
+      "width": 2,
+      "dashed": true
+    },
+    {
+      "kind": "note",
+      "at": [
+        -1.0,
+        0.05
+      ],
+      "text": [
+        "HUMAN SCALE ~1.7 m: the open",
+        "portal stands about TWICE a",
+        "person's height; a founder walks",
+        "in without ducking"
+      ],
+      "heading": false,
+      "stroke": "dim"
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        4.6,
+        4.05
+      ],
+      "r": [
+        0.3,
+        0.5
+      ],
+      "fill": "#F2D9A4",
+      "stroke": "ink",
+      "width": 3
+    },
+    {
+      "kind": "note",
+      "at": [
+        3.05,
+        1.3
+      ],
+      "text": [
+        "WANING: the same shape shrunk",
+        "to about 1.0 m, knee-to-waist",
+        "high, light gentler, tip still",
+        "a hand's width off the floor"
+      ],
+      "leaderTo": [
+        4.45,
+        3.7
+      ],
+      "stroke": "accent"
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        5.5,
+        4.66
+      ],
+      "r": [
+        0.8,
+        0.09
+      ],
+      "stroke": "ink",
+      "width": 3,
+      "dashed": true
+    },
+    {
+      "kind": "note",
+      "at": [
+        3.05,
+        2.55
+      ],
+      "text": [
+        "CLOSED: no light at all; a flat ring",
+        "of pale gold blossoms about 2.0 m",
+        "across on the forest floor where",
+        "the portal stood"
+      ],
+      "leaderTo": [
+        4.75,
+        4.62
+      ],
+      "stroke": "ink"
+    },
+    {
+      "kind": "dim",
+      "axis": "v",
+      "from": [
+        -0.2,
+        0.75
+      ],
+      "to": [
+        -0.2,
+        4.55
+      ],
+      "offset": 60,
+      "label": "3.8 m"
+    },
+    {
+      "kind": "dim",
+      "axis": "h",
+      "from": [
+        -0.2,
+        4.7
+      ],
+      "to": [
+        1.8,
+        4.7
+      ],
+      "offset": 70,
+      "label": "2.0 m"
+    },
+    {
+      "kind": "dim",
+      "axis": "v",
+      "from": [
+        4.3,
+        3.55
+      ],
+      "to": [
+        4.3,
+        4.55
+      ],
+      "offset": 45,
+      "label": "1.0 m"
+    }
+  ],
+  "laws": [
+    "THE SAME POINTED-OVAL SHAPE AT EVERY SIZE: a portal only shrinks, it never changes form; only size, veiling and light change between states.",
+    "PURE LIGHT, NO HARDWARE: never a frame, ring, arch, standing stones, machine or doorsill; the lower tip always floats a hand's width above the forest floor.",
+    "THE LIGHT IS WARM GOLD AND SOFT-EDGED like wet ink-wash with a thin brighter rim and a few small drifting gold motes; NEVER neon, NEVER a hard vector edge, NEVER a lens flare.",
+    "THROUGH THE OPENING: warm light and open sky, never darkness, never a void; the island appears through it only when a scene asks by name.",
+    "CLOSED IS A FLAT RING OF PALE GOLD BLOSSOMS on the forest floor, quiet and kind; no light, no scorch, nothing ominous.",
+    "NO LETTERING, NO SIGN, NO NUMBER anywhere in any state."
+  ]
+}
