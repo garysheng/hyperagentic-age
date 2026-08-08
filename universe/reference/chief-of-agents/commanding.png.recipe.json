@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/commanding.png",
+  "provenance": "attested",
+  "unrecorded": true,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "84debf5ff5d48abcb3730eb48c71ec9d4c24352ab3f9e5bdc9a87cd3a9c62961",
+  "generator": "abu backfill-provenance",
+  "note": "This asset predates the provenance-writing adapter. Nothing about the generating call survives. Recorded here are the facts that do: its hash and when it entered canon."
+}

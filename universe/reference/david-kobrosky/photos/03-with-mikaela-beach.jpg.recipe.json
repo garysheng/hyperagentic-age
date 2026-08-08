@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+  "provenance": "source",
+  "unrecorded": false,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "1d2de165730bae67ff76fdc9b2e4c9d2f8c45720c24abe26d5cb77a1934fab95",
+  "generator": "abu backfill-provenance",
+  "note": "Source input (a photo-stack reference), not generated output. There is no generating call to record."
+}

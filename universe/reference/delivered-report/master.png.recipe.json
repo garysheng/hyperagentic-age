@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/delivered-report/master.png",
+  "provenance": "attested",
+  "unrecorded": true,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "4913ed26987dc5eae03aa6a2f621ee4d5d149d6a59007a6146c6d776aba8e6c4",
+  "generator": "abu backfill-provenance",
+  "note": "This asset predates the provenance-writing adapter. Nothing about the generating call survives. Recorded here are the facts that do: its hash and when it entered canon."
+}

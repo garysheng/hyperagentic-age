@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/fly-with-claude/blueprint.png",
+  "provenance": "deterministic",
+  "unrecorded": true,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "7752cd05c1155840a9ab4c86fae000ea17a79591a17512faeea6f89e6b378e58",
+  "generator": "abu backfill-provenance",
+  "note": "Code-built output (blueprint/massing/elevation). Re-run the generator from its spec to replace this with a TRUE recipe at no cost and with identical pixels."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "real-person-likeness",
+ "kind": "register-rule",
+ "name": "Real People: Hyper-Real References, Stylized Spreads, Exactly Once",
+ "summary": "A real person's reference matrix is hyper-real register-neutral (SPEC v0.38); their spreads render as stylized warm-editorial likeness, never photoreal; and they appear exactly once per scene.",
+ "rules": "Reference layer: realPerson + photoStack shoots hyper-real register-neutral by default, because hyper-realism ports down into any register and a stylized reference cannot recover likeness (Gary, 2026-08-08). Spread layer: the person renders as recognizable stylized editorial likeness in the house register, never photoreal, honoring only the public professional persona plus whatever joy the commission included. SINGLE-INSTANCE: because their sheets are passed as reference, crowd scenes must describe every other figure as visibly distinct, and a second look-alike is a re-roll defect. Private persons ship private-by-default (unlisted); public figures are publishable by name and likeness with no gate.",
+ "origin": "gary (2026-07-16 single-instance rule), dario (public-figure supersession 2026-07-25), david-kobrosky + mikaela (hyper-real default, 2026-08-08)."
+}

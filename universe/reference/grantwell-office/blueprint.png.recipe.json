@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/grantwell-office/blueprint.png",
+  "provenance": "deterministic",
+  "unrecorded": true,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "65dfac10ae375a9d690e1ff68f74296f46173ca91ad5691e7b3405345cb88b5e",
+  "generator": "abu backfill-provenance",
+  "note": "Code-built output (blueprint/massing/elevation). Re-run the generator from its spec to replace this with a TRUE recipe at no cost and with identical pixels."
+}

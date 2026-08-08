@@ -16,7 +16,7 @@
       "reference/the-portal/closed.png"
     ],
     "blueprint": "reference/the-portal/blueprint.png",
-    "scalePlate": null,
+    "scalePlate": "reference/the-portal/blueprint.png",
     "blockingPlate": null,
     "map": "A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size.",
     "blocking": "This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher.",
@@ -29,7 +29,8 @@
       "waning",
       "closed"
     ],
-    "emptyPlatesExpected": 3
+    "emptyPlatesExpected": 3,
+    "scalePlateNote": "Pointer set 2026-08-08 (universe-doctor A push): code-drawn elevation with explicit dimensions (3.8 m open, 1.0 m waning, human-scale note). Existing plate; no re-render."
   },
   "structured": {
     "sheets": {

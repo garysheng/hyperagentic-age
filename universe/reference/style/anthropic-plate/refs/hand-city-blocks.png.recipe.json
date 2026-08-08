@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-city-blocks.png",
+  "provenance": "attested",
+  "unrecorded": true,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "13660ff9f64e34c6b0ddcb1d4628a273f12176d21f4f1bb9e41e64017e5a60b1",
+  "generator": "abu backfill-provenance",
+  "note": "This asset predates the provenance-writing adapter. Nothing about the generating call survives. Recorded here are the facts that do: its hash and when it entered canon."
+}

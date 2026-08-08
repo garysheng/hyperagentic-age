@@ -1,0 +1,8 @@
+{
+ "id": "content-neutral-anchor",
+ "kind": "register-rule",
+ "name": "The Register Anchor Is Content-Neutral",
+ "summary": "The style anchor passed first on every render is a swatch that depicts nobody, because a character-portrait anchor leaks its subject into every frame.",
+ "rules": "This universe's register anchor is reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png, a content-neutral texture swatch. A character portrait must never be promoted to anchor: when one was, that person's face and denim jacket bled across an entire book's renders that never cast him. If a book has no recurring human, pass only the neutral anchor plus the entity masters it actually needs.",
+ "origin": "The Gary-face bleed incident, recorded in the make-a-hyperagent-book cartridge; anchor swapped to the neutral swatch."
+}

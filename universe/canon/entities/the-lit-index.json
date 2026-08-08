@@ -18,12 +18,13 @@
       "reference/the-lit-index/master.png"
     ],
     "blueprint": "reference/the-lit-index/blueprint.png",
-    "scalePlate": null,
+    "scalePlate": "reference/the-lit-index/master.png",
     "blockingPlate": null,
     "map": "A standing wall of small upright panels on the DIGITAL side of the threshold, in a regular grid, seven across and five high. Every panel is the same tall rounded rectangle at the same size with even gutters, and the grid is complete: no gaps, no missing cells, no panel larger or nearer than another. One panel is one person. The panels are translucent and their STATE is set per spread by the plate that spread selects, never here: a lit panel is Anthropic clay-coral (#D97757) and casts LIGHT rather than shadow, an unlit panel is ash grey and inert and emits nothing. It stands against the wall of marcus-study, the family living room, and that room is fixed: same sofa, lamp, bookshelf, valley window and toy-strewn rug in every state. It sits a little back from the threshold line, so the real room and its warm gold light are always in front of it.",
     "blocking": "The wall faces the viewer straight on and is seen slightly from the LEFT, so the grid reads as a flat plane in space rather than a diagram. The threshold line runs horizontally across the lower third of the frame: everything below and in front of it is REAL (solid, warm gold, casting shadow), everything above and behind it is DIGITAL (translucent coral, glowing, casting light). Marcus, when he is in frame, is ALWAYS on the real side, in front of the line, never inside the wall and never between panels. In the answering state exactly ONE panel leaves the grid and comes forward across the threshold; the gap it left stays visible in the wall.",
     "dressing": "Nothing decorates it. No frame, no housing, no cabling, no pedestal, no floor markings, no interface furniture of any kind. The wall is the only object on the digital side of the frame.",
-    "scale": "Human-scale and domestic: the full grid stands about the height and width of an ordinary bookcase in a house, roughly two metres wide and one and a half high, so a standing man reaches the middle rows without stretching. It is never architectural, never a hall, never larger than the room it is in."
+    "scale": "Human-scale and domestic: the full grid stands about the height and width of an ordinary bookcase in a house, roughly two metres wide and one and a half high, so a standing man reaches the middle rows without stretching. It is never architectural, never a hall, never larger than the room it is in.",
+    "scalePlateNote": "Pointer set 2026-08-08 (universe-doctor A push): sofa, lamp and window beside the index wall fix its size. Existing plate; no re-render."
   },
   "structured": {
     "invariants": [

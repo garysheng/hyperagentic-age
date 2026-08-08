@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+  "provenance": "source",
+  "unrecorded": false,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "1bb7a4499aaf7d81d21ceeb188cb22fc764928a35a5188b1d7b2d8ab6a8a49f8",
+  "generator": "abu backfill-provenance",
+  "note": "Source input (a photo-stack reference), not generated output. There is no generating call to record."
+}

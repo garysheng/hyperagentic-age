@@ -1,48 +1,49 @@
 {
- "id": "the-room",
- "kind": "setting",
- "originStory": "the-room-it-was-made-in",
- "authority": {
-  "lockedBy": "gary",
-  "lockedOn": "2026-07-28",
-  "note": "THE SPINE OBJECT of The Room It Was Made In. Its whole job is to be ORDINARY and SPECIFIC: the book's argument is that a made thing comes out like the room it was made in, which only lands if the room looks like a real place people work rather than a temple or a set. Chain `night` off `wide` so it is unmistakably the same room. BOTH PLATES FIRST ROLL 2026-07-28; the chain held (same windows, shelf, layout, and the same jacket over the same chair in both states). DRESSING REWRITTEN 2026-07-28 after the first render batch: it previously enumerated 'TWO STATES. wide: ... night: ...', and because resolve_setting() feeds contract.dressing directly into the prompt, that read as a spec for two pictures. Twelve of twenty-eight spreads came back as stacked day/night diptychs. Same class as the multi-state visual-metaphor bug, but on a SETTING via contract.dressing rather than prose.rules. Per-state light now lives in each spread's scene text, and the dressing carries an explicit one-moment-in-time instruction."
- },
- "status": "locked",
- "contract": {
-  "turnaround": "reference/the-room/wide.png",
-  "emptyPlates": [
-   "reference/the-room/wide.png",
-   "reference/the-room/night.png"
-  ],
-  "blueprint": "reference/the-room/blueprint.png",
-  "scalePlate": null,
-  "map": "THE ROOM: one long working room in an ordinary building, the kind a small company grows into rather than commissions. Plain desks pushed together in irregular clusters, mismatched chairs, monitors, laptops, a whiteboard with half-erased diagrams, printouts taped to a wall, mugs, a shelf of well-used books, cables. Big plain windows down one side. No open-plan tech-campus gloss, no branding, no slogans on the walls, no neon, no glass conference boxes.",
-  "blocking": "The camera is INSIDE the room at standing or seated eye height, never a lobby shot and never an architectural exterior. The clusters of desks give it depth. People are ordinary in scale and are never arranged to face a leader; if anyone is speaking, the group is loose around them rather than seated in rows.",
-  "dressing": "The room is LIVED-IN and a little untidy, with evidence of people everywhere whether or not anyone is in frame: a jacket over a chair back, an open notebook, a half-drunk mug, printouts curling where they are taped up, mismatched chairs pushed at angles. It is NEVER sterile, NEVER a showroom, and NEVER lit dramatically; the light is only ever whatever the room actually has at that hour. RENDER EXACTLY ONE MOMENT IN TIME: one single continuous scene at one time of day, filling the whole frame. Do NOT divide the image, do NOT stack a daytime version above a night version, do NOT show the room twice, and do NOT produce a before-and-after or side-by-side comparison of any kind.",
-  "scale": "One long room, human-scaled, low ceiling rather than an atrium. It should feel like somewhere about a hundred people could work, not a headquarters."
- },
- "prose": {
-  "rules": "The room is the argument, so it must never be aspirational. Every temptation to make it impressive is a temptation to break the book: no soaring ceilings, no branded wall, no dramatic lighting, no rows of identical monitors. It is a good ordinary room where careful people work, and the whole thesis is that THAT is where a character comes from."
- },
- "structured": {
-  "sheets": {
-   "wide": "reference/the-room/wide.png",
-   "night": "reference/the-room/night.png",
-   "master": "reference/the-room/wide.png",
-   "blueprint": "reference/the-room/blueprint.png"
+  "id": "the-room",
+  "kind": "setting",
+  "originStory": "the-room-it-was-made-in",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-07-28",
+    "note": "THE SPINE OBJECT of The Room It Was Made In. Its whole job is to be ORDINARY and SPECIFIC: the book's argument is that a made thing comes out like the room it was made in, which only lands if the room looks like a real place people work rather than a temple or a set. Chain `night` off `wide` so it is unmistakably the same room. BOTH PLATES FIRST ROLL 2026-07-28; the chain held (same windows, shelf, layout, and the same jacket over the same chair in both states). DRESSING REWRITTEN 2026-07-28 after the first render batch: it previously enumerated 'TWO STATES. wide: ... night: ...', and because resolve_setting() feeds contract.dressing directly into the prompt, that read as a spec for two pictures. Twelve of twenty-eight spreads came back as stacked day/night diptychs. Same class as the multi-state visual-metaphor bug, but on a SETTING via contract.dressing rather than prose.rules. Per-state light now lives in each spread's scene text, and the dressing carries an explicit one-moment-in-time instruction."
   },
-  "requiredForRender": [
-   "master"
-  ],
-  "invariants": [
-   "an-ordinary-long-working-room-never-a-showroom-or-atrium",
-   "plain-desks-in-irregular-clusters-with-mismatched-chairs",
-   "whiteboard-with-half-erased-diagrams-and-taped-up-printouts",
-   "lived-in-and-slightly-untidy-evidence-of-people-everywhere",
-   "no-branding-no-slogans-on-walls-no-neon-no-glass-conference-boxes",
-   "camera-inside-the-room-at-eye-height-never-a-lobby-or-exterior",
-   "same-room-in-both-states-only-the-light-changes",
-   "warm-editorial-register-never-photoreal"
-  ]
- }
+  "status": "locked",
+  "contract": {
+    "turnaround": "reference/the-room/wide.png",
+    "emptyPlates": [
+      "reference/the-room/wide.png",
+      "reference/the-room/night.png"
+    ],
+    "blueprint": "reference/the-room/blueprint.png",
+    "scalePlate": "reference/the-room/wide.png",
+    "map": "THE ROOM: one long working room in an ordinary building, the kind a small company grows into rather than commissions. Plain desks pushed together in irregular clusters, mismatched chairs, monitors, laptops, a whiteboard with half-erased diagrams, printouts taped to a wall, mugs, a shelf of well-used books, cables. Big plain windows down one side. No open-plan tech-campus gloss, no branding, no slogans on the walls, no neon, no glass conference boxes.",
+    "blocking": "The camera is INSIDE the room at standing or seated eye height, never a lobby shot and never an architectural exterior. The clusters of desks give it depth. People are ordinary in scale and are never arranged to face a leader; if anyone is speaking, the group is loose around them rather than seated in rows.",
+    "dressing": "The room is LIVED-IN and a little untidy, with evidence of people everywhere whether or not anyone is in frame: a jacket over a chair back, an open notebook, a half-drunk mug, printouts curling where they are taped up, mismatched chairs pushed at angles. It is NEVER sterile, NEVER a showroom, and NEVER lit dramatically; the light is only ever whatever the room actually has at that hour. RENDER EXACTLY ONE MOMENT IN TIME: one single continuous scene at one time of day, filling the whole frame. Do NOT divide the image, do NOT stack a daytime version above a night version, do NOT show the room twice, and do NOT produce a before-and-after or side-by-side comparison of any kind.",
+    "scale": "One long room, human-scaled, low ceiling rather than an atrium. It should feel like somewhere about a hundred people could work, not a headquarters.",
+    "scalePlateNote": "Pointer set 2026-08-08 (universe-doctor A push): desks, chairs and laptops fix the room size. Existing plate; no re-render."
+  },
+  "prose": {
+    "rules": "The room is the argument, so it must never be aspirational. Every temptation to make it impressive is a temptation to break the book: no soaring ceilings, no branded wall, no dramatic lighting, no rows of identical monitors. It is a good ordinary room where careful people work, and the whole thesis is that THAT is where a character comes from."
+  },
+  "structured": {
+    "sheets": {
+      "wide": "reference/the-room/wide.png",
+      "night": "reference/the-room/night.png",
+      "master": "reference/the-room/wide.png",
+      "blueprint": "reference/the-room/blueprint.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "invariants": [
+      "an-ordinary-long-working-room-never-a-showroom-or-atrium",
+      "plain-desks-in-irregular-clusters-with-mismatched-chairs",
+      "whiteboard-with-half-erased-diagrams-and-taped-up-printouts",
+      "lived-in-and-slightly-untidy-evidence-of-people-everywhere",
+      "no-branding-no-slogans-on-walls-no-neon-no-glass-conference-boxes",
+      "camera-inside-the-room-at-eye-height-never-a-lobby-or-exterior",
+      "same-room-in-both-states-only-the-light-changes",
+      "warm-editorial-register-never-photoreal"
+    ]
+  }
 }

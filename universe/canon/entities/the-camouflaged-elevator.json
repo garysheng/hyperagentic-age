@@ -17,7 +17,7 @@
       "reference/the-camouflaged-elevator/defunct.png"
     ],
     "blueprint": "reference/the-camouflaged-elevator/blueprint.png",
-    "scalePlate": null,
+    "scalePlate": "reference/the-camouflaged-elevator/master.png",
     "blockingPlate": null,
     "map": "A space elevator hidden in the jungle: one rounded brass-and-glass car standing on a low round stone platform, a brass collar above the car, and a slender silver ribbon rising dead vertical from the collar out of every frame toward the island. There are many such elevators in the jungle and every one is this same design.",
     "blocking": "The car is 2.6 m tall by 2.0 m wide with a 0.9 m sliding double door on the front, standing on a low round stone platform 4.0 m across and 0.3 m tall. An adult reads about 1.7 m against it: head level with the door's upper third, well below the brass collar. The silver ribbon is 0.15 m wide and rises straight up out of the frame; it never bends, never sways, and is never a tower or scaffold.",
@@ -30,7 +30,8 @@
       "ascending",
       "defunct"
     ],
-    "emptyPlatesExpected": 3
+    "emptyPlatesExpected": 3,
+    "scalePlateNote": "Pointer set 2026-08-08 (universe-doctor A push): the cab is a door-height glass cylinder; its entry proportions fix the size. Existing plate; no re-render."
   },
   "structured": {
     "sheets": {

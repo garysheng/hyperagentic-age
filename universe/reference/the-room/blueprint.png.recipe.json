@@ -1,0 +1,13 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/blueprint.png",
+  "provenance": "reconstructed",
+  "unrecorded": false,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "8c5f6eb34e59060f38b6e2e401b1e5940d8c4cc180fe7ebdf762ec14693cd63c",
+  "generator": "abu backfill-provenance",
+  "note": "Prompt recovered from prompts.md beside the asset. The references, size and quality of the original call were not recorded and are NOT guessed here.",
+  "prompt": "TODO(author): the prompt for this shot.",
+  "inputs": null,
+  "model": null
+}

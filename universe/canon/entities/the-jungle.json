@@ -16,12 +16,13 @@
       "reference/the-jungle/establishing.png"
     ],
     "blueprint": "reference/the-jungle/blueprint.png",
-    "scalePlate": null,
+    "scalePlate": "reference/the-jungle/blueprint.png",
     "blockingPlate": null,
     "map": "A vast emerald wilderness of giant-leafed trees, buttress roots, hanging lianas and layered green depth, crossed by narrow hand-cut trails. Warm shafts of daylight drop through the canopy. Above the canopy, in open sky, floats the island the hopefuls are trying to reach; from most of the jungle floor it is hidden by leaves. The jungle is dangerous in an adventurous way, never a horror way: steep gullies, thorn walls, false trails, sudden rain.",
     "blocking": "Interior scenes hold the camera low among the leaves, close to the trail, with green depth stacking behind the subject in soft layers. To show the island from inside the jungle, break the canopy open above a clearing rather than thinning the trees everywhere.",
     "dressing": "Giant leaves, buttress roots, lianas, ferns, moss, cut stakes marking trails, an occasional canvas camp with warm lanterns far off. No ruins, no temples, no animals with screen presence, no signage, no lettering anywhere.",
-    "scale": "The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide."
+    "scale": "The trees are cathedral-tall: a standing adult reaches roughly the height of a buttress root's shoulder, and the canopy closes far overhead. Trails are one person wide.",
+    "scalePlateNote": "Pointer set 2026-08-08 (universe-doctor A push): code-drawn massing blueprint with explicit dimensions. Existing plate; no re-render."
   },
   "structured": {
     "sheets": {

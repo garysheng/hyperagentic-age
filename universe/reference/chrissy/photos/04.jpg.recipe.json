@@ -1,0 +1,10 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chrissy/photos/04.jpg",
+  "provenance": "source",
+  "unrecorded": false,
+  "backfilled": true,
+  "specVersion": "0.38",
+  "sha256": "610201e49297e194fe77c8d3c280469085f2f77f380488ffcdfb36f24c11524d",
+  "generator": "abu backfill-provenance",
+  "note": "Source input (a photo-stack reference), not generated output. There is no generating call to record."
+}

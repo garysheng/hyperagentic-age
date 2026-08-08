@@ -1,0 +1,8 @@
+{
+ "id": "testimony",
+ "kind": "spine",
+ "name": "The Testimony",
+ "summary": "A recounting spine: the book tells what actually happened to a real person or real work, and its authority is that it is true.",
+ "rules": "A testimony recounts real events in order and does not argue; the receipts ARE the story. Used by the-man-who-remembered-everyone and what-a-book-is-made-of. Every beat must trace to a documented fact (a transcript, a commit, a conversation), and the provenance field carries the citation. Invented composite scenes are a defect in this spine even when they would be legal elsewhere: the moment a reader doubts one beat, the whole spine loses its authority.",
+ "origin": "Backfilled 2026-08-08 from the two shipped testimony books."
+}

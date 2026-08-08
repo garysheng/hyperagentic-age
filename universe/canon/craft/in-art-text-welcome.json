@@ -1,0 +1,8 @@
+{
+ "id": "in-art-text-welcome",
+ "kind": "register-rule",
+ "name": "In-Art Text Is Welcome, and the Constitution Is the Exception",
+ "summary": "Baked, readable lettering is a first-class design element here; only the-constitution's pages stay abstract.",
+ "rules": "There is no universe-wide no-text law and there must not be one. A promise on a door, a posted notice, a plaque, a nameplate: quote the exact string in the prompt, spell-check it at crop-zoom on read-back, regenerate from scratch on any error. A repeated exact string across two spreads is how a STANDARD is shown spreading. The one exception: the-constitution's pages carry abstract principle-marks and never readable text, because the internal principles stay unreadable while the thing a lab PUBLISHES is legible on purpose (legibility is what makes it copyable). Never write a blanket no-text negative; forbid only stray or invented text.",
+ "origin": "Gary, 2026-07-28 ('you can put text in the images'); the-best-news-ever's posted promise; ANTHROPIC nameplate in the-introducer."
+}

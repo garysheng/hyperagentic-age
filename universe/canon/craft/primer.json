@@ -1,0 +1,8 @@
+{
+ "id": "primer",
+ "kind": "spine",
+ "name": "The Primer",
+ "summary": "An explaining spine: the book teaches a reader what a thing IS, patiently, with no antagonist and no argument to win.",
+ "rules": "A primer explains: it defines, illustrates, and re-states, and its beats are ordered from familiar to new. Nothing is argued and nobody is wrong; the tension is only the gap between not-knowing and knowing. Used by a-book-to-live-by (how a helper learns to check itself) and machines-of-loving-grace (what a careful power is for). A primer's captions must survive being read alone as a definition sequence, and its art shows the THING being explained, not people talking about it.",
+ "origin": "Backfilled 2026-08-08 from a-book-to-live-by and machines-of-loving-grace."
+}
