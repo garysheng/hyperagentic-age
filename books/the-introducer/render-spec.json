@@ -14,12 +14,14 @@
           "pose": "signature"
         }
       ],
-      "scene": "TWO PEOPLE MEETING is the subject. DAVID KOBROSKY has just arrived in front of a young woman with box-braids and a mustard cardigan beside the snack table at frame LEFT, and they are greeting each other. They stand FACING EACH OTHER, close, each seen in warm three-quarter view: his open right hand is extended TO HER, and her free hand is already rising to take it, her paper cup in the other. HIS EYES ARE LOCKED ON HER EYES AND HERS ON HIS, both mid-smile, hers just breaking into relief. His feet, hips, shoulders and gaze all point AT HER, nobody walks anywhere, and the handshake is about to happen. Behind them at frame RIGHT three other guests chat in a loose knot, faces angled away. The room is a warm rented hall dressed like a friend's dinner: string lights sagging overhead, a snack table with pretzel bowls and a lemonade jug, folding chairs, name tags, golden lamp light. The lower-right quarter of the frame stays calm: empty wooden floor with soft light. If the two of them do not read as meeting each other's eyes, the image is wrong.",
+      "scene": "TWO PEOPLE MEETING is the subject, and there is NO handshake. DAVID KOBROSKY has just arrived in front of a young woman with box-braids and a mustard cardigan beside the snack table at frame LEFT, and he is welcoming her: his signature gesture, one open palm turned warmly UPWARD at waist height and the other arm sweeping gently toward the room behind him, as if to say the whole party was waiting for her. Her hands stay on her own paper cup, held close, her shoulders just unknotting. They stand FACING EACH OTHER, close, each in warm three-quarter view, HIS EYES LOCKED ON HER EYES AND HERS ON HIS, both mid-smile, hers just breaking into relief. His feet, hips, shoulders and gaze all point AT HER; nobody walks anywhere and nobody reaches for anybody. Behind them at frame RIGHT three other guests chat in a loose knot, faces angled away. The room is a warm rented hall dressed like a friend's dinner: string lights sagging overhead, a snack table with pretzel bowls and a lemonade jug, folding chairs, name tags, golden lamp light. The lower-right quarter of the frame stays calm: empty wooden floor with soft light. If the two of them do not read as meeting each other's eyes, the image is wrong.",
       "shot": "wide",
       "_caption": "Every room has someone standing near the snack table who knows nobody. David finds them first. He crosses the room with his hand already out and says the four words he was born to say. Let me introduce you.",
       "pos": "bottom-right",
       "anonymous": "Four party guests: the braided woman in the mustard cardigan, a heavyset South Asian man in a green polo, an older white woman with silver hair, a slim Black man in a denim shirt. All visibly distinct from David; none wears a sky-blue button-down; none shares his face, hair, or beard.",
       "negatives": [
+        "a handshake, offered or taken",
+        "either of them reaching for the other's hand",
         "David walking, striding, or moving past her",
         "David's gaze aimed anywhere but her eyes",
         "either of them looking at the camera",
@@ -152,14 +154,18 @@
           "pose": "front"
         }
       ],
-      "scene": "DAVID KOBROSKY, full of purpose, walks toward a plain warm terracotta door set in a cream wall, seen in three-quarter view from his front-left so his face and grin stay visible, one hand reaching for the round brass handle. Beside the door, a small plain nameplate carries the single word ANTHROPIC in simple capital letters, spelled exactly A-N-T-H-R-O-P-I-C. Morning light falls across the wall. The street behind him is soft and ordinary: a bike rack, a planter of rosemary. No campus, no glass tower, no logo anywhere else. The door is humble and the man is glad. Lower-right: warm pavement, calm.",
+      "scene": "DAVID KOBROSKY, full of purpose, walks toward a plain warm terracotta door set in a cream wall, seen in three-quarter view from his front-left so his face and grin stay visible. THE DOOR IS A STANDARD AMERICAN DOOR, drawn correctly: a full-size leaf about three feet wide and eighty inches tall, taller than David, sitting inside a visible painted frame. Its round brass knob is at WAIST HEIGHT, thirty-six to forty inches off the ground, inset a hand's width from the leaf's right edge, with the hinges on the left edge at the jamb. David's hand reaches for the knob AT HIS OWN WAIST, elbow bent, back straight. Beside the door, a small plain nameplate carries the single word ANTHROPIC in simple capital letters, spelled exactly A-N-T-H-R-O-P-I-C, mounted at eye level. Morning light falls across the wall. The street behind him is soft and ordinary: a bike rack, a planter of rosemary. No campus, no glass tower, no logo anywhere else. The door is humble and the man is glad. Lower-right: warm pavement, calm.",
       "shot": "close",
       "_caption": "So when an AI lab came calling, David did the math out loud. Of the companies that could do something about the risks of AI, Anthropic sits front and center. He chose the place where his effort would count the most, and he got to work.",
       "pos": "top-right",
       "negatives": [
         "glass skyscraper or corporate campus",
         "any logo or text besides the single ANTHROPIC nameplate",
-        "a second man resembling David"
+        "a second man resembling David",
+        "a knob below waist height",
+        "a knob mounted on or against the door frame",
+        "a narrow or undersized door leaf",
+        "David stooping or reaching downward"
       ]
     },
     {
