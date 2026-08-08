@@ -1,0 +1,35 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts/conform_cover.py",
+  "args": {
+    "aspect": "3:4",
+    "mode": "pad",
+    "inset": 1.0,
+    "blur": 40,
+    "keyline": null
+  },
+  "prompt": null,
+  "sourceRender": {
+    "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. Two empty wooden folding chairs angled gently toward each other in a warm hall after the party, string lights still glowing above, a snack table softly blurred in the background, one paper name tag resting on the nearer chair's seat, blank. The whole LOWER HALF of the frame is calm warm floorboards and soft light, open and uncluttered. Quiet, warm, expectant: the room is ready for the next two people to meet. CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. ART ONLY: absolutely NO text, NO lettering, NO title, NO byline, NO numbers and NO signature anywhere in the frame. The title is typeset separately afterwards, so keep the upper third of the frame calm, uncluttered background with nothing that must be read. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges, any person, any human figure, anyone standing in the room.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nTWO-HANDER STAGING, NON-NEGOTIABLE: two people at one table are NEVER staged as two equal whole figures at the same distance, flat and side-on to the lens. That is a line-up, not a camera position. ONE OF THEM IS NEAR AND ONE IS FAR. The NEAR figure sits at the OUTER EDGE of their seat closest to the camera, is LARGE in the frame, is CROPPED by the frame edge, is softly OUT OF FOCUS, and is very often seen FROM BEHIND; their lap, legs and feet fall outside the picture and are not drawn. The FAR figure is the SHARP SUBJECT, seen from the waist up. AND THE TORSO FOLLOWS THE HEAD: each person is turned toward the other, so a near figure whose HEAD is turned across the table has their CHEST turned across the table too, away from the lens. The camera behind them therefore sees the BACK AND OUTER SIDE of one shoulder, the back of the head, and at most a sliver of cheek; that person's CHEST AND SHIRT FRONT ARE NOT IN FRAME. NEVER rotate a head ninety degrees on a chest that is still square to the camera. No relaxed person holds that posture and it reads as wrong instantly.\n\nSEATED ANATOMY AT A TABLE, NON-NEGOTIABLE: a seated person is a WHOLE BODY resting ON a seat, and the table passes IN FRONT OF them, never THROUGH them. Their SHOULDERS AND CHEST are ABOVE the tabletop, their WAIST, LAP AND THIGHS are BELOW it and IN FRONT of the seat, and the trunk continues DOWN BEHIND the near edge of the table to that seat. There is a VISIBLE GAP between the front edge of the table and the person's chest and stomach. NEVER paint a torso emerging directly out of a tabletop with no waist, no lap and no seat beneath it. NEVER let the table's edge, apron or slab cut across a body as though the body were part of the furniture, and never let a thigh, hip or knee merge into the table. If the camera cannot see the seat itself, the body must still read as supported by one. Every seated figure has somewhere to sit and that seat is under them.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high"
+  },
+  "transform": "1024x1536 -> 1152x1536",
+  "inputs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png",
+      "sha256_16": "d502236bbff3d2a0",
+      "role": "source render"
+    }
+  ],
+  "sha256_16": "d502236bbff3d2a0",
+  "derivedFrom": {
+    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png",
+    "recipe": null,
+    "sha256_16": "d502236bbff3d2a0"
+  },
+  "note": "DERIVATIVE, not a generation. The cover was conformed to the reader platform's page aspect by conform_cover.py. No image model was called and no pixels of the sharp art were repainted; see derivedFrom for the recipe of the render this came from."
+}

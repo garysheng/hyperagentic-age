@@ -1,0 +1,108 @@
+{
+  "asset": "spread-12.png",
+  "assetSha256_16": "bc2326c1b169ef3f",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "4c2653ee38889f086517575f91ec7d44c94bc552",
+  "book": "the-introducer",
+  "story": "the-introducer",
+  "spread": "spread-12",
+  "descriptor": {
+    "id": "spread-12",
+    "plate": null,
+    "cast": [
+      {
+        "id": "david-kobrosky",
+        "pose": "front"
+      },
+      {
+        "id": "mikaela",
+        "pose": "front"
+      }
+    ],
+    "scene": "TWO PEOPLE fill this frame with one laugh: DAVID KOBROSKY and MIKAELA side by side on a wooden porch swing in late golden light, turned half toward each other. Mikaela is mid-laugh, curls loose, leaning into David's shoulder; David grins down at her, one arm along the swing's back behind her, his other hand holding hers. String lights just coming on above, jasmine on the porch rail, two lemonade glasses on the rail. Both faces fully legible and joyful. Nothing else asks for attention. Lower-right: the porch floorboards in warm shadow, calm.",
+    "shot": "two-shot",
+    "_caption": "For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.",
+    "pos": "bottom",
+    "negatives": [
+      "anyone besides the two of them",
+      "posed stiffness: this is a caught laugh, not a portrait"
+    ]
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: TWO PEOPLE fill this frame with one laugh: DAVID KOBROSKY and MIKAELA side by side on a wooden porch swing in late golden light, turned half toward each other. Mikaela is mid-laugh, curls loose, leaning into David's shoulder; David grins down at her, one arm along the swing's back behind her, his other hand holding hers. String lights just coming on above, jasmine on the porch rail, two lemonade glasses on the rail. Both faces fully legible and joyful. Nothing else asks for attention. Lower-right: the porch floorboards in warm shadow, calm. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, TWO-SHOT: TWO figures fill the middle of the frame from the waist up and are the subject of the picture. The camera is closer than an establishing view. Behind them the place falls away softly and out of focus, present but never competing with them. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. mikaela rendered exactly per the supplied reference images: woman late twenties; long dark brown curly hair; wide bright smile; softly rounded warm features; olive or earth toned simple summer dress; no heavy jewelry; recognizable likeness of the real subject. MIKAELA (canon id mikaela), David's wife. A woman in her LATE TWENTIES with LONG DARK-BROWN CURLY HAIR worn loose, warm fair skin, a WIDE BRIGHT SMILE, and softly rounded warm features. Default wardrobe: a simple OLIVE or earth-toned summer dress, no heavy jewelry. She reads as joyful and at ease, usually laughing with or leaning toward David. Recognizable stylized editorial likeness of the real subject, NEVER photoreal. REFERENCE ROLES, obey exactly: - reference/mikaela/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/mikaela/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: mikaela's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render mikaela fully in this image's declared style. TELL THEM APART, keep every face and hairstyle distinct: david-kobrosky is the one with man early thirties, short dark brown curly hair tight cropped sides, short stubble beard NEVER clean shaven, green hazel eyes, thick dark eyebrows strong jaw, broad warm grin that reaches his eyes, athletic broad shouldered build, sky blue button down shirt open collar sleeves rolled to forearm, dark warm gray trousers, no necklace no lanyard no badge, appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt; mikaela is the one with woman late twenties, long dark brown curly hair, wide bright smile, softly rounded warm features, olive or earth toned simple summer dress, no heavy jewelry. THE ONLY CHARACTERS IN THIS IMAGE ARE: david-kobrosky, mikaela. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, anyone besides the two of them, posed stiffness: this is a caught laugh, not a portrait. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
+      "sha256_16": "3ac52f44ea329264"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
+      "sha256_16": "0d5dd6d6105a3ed3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "sha256_16": "848243b77c02df8c"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "sha256_16": "1bb7a4499aaf7d81"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+      "sha256_16": "338e735f16117d5a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/forward-fullbody.png",
+      "sha256_16": "a61337d4209007b7"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/face-neutral.png",
+      "sha256_16": "a4cfc41c93cedf55"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/photos/01-beach-swing.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/photos/02-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    }
+  ],
+  "qa": [
+    "david-kobrosky: man-early-thirties",
+    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
+    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
+    "david-kobrosky: green-hazel-eyes",
+    "david-kobrosky: thick-dark-eyebrows-strong-jaw",
+    "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
+    "david-kobrosky: athletic-broad-shouldered-build",
+    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+    "david-kobrosky: dark-warm-gray-trousers",
+    "david-kobrosky: no-necklace-no-lanyard-no-badge",
+    "david-kobrosky: recognizable-likeness-of-the-real-subject",
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt",
+    "mikaela: woman-late-twenties",
+    "mikaela: long-dark-brown-curly-hair",
+    "mikaela: wide-bright-smile",
+    "mikaela: softly-rounded-warm-features",
+    "mikaela: olive-or-earth-toned-simple-summer-dress",
+    "mikaela: no-heavy-jewelry",
+    "mikaela: recognizable-likeness-of-the-real-subject"
+  ]
+}

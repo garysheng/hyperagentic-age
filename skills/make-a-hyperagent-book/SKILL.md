@@ -57,6 +57,15 @@ is unchanged, and the standing rule stays: **stylized, never photoreal, public p
 persona only, nothing private.** Check the entity's own `realPerson.approval.note` before
 inventing a hold.
 
+**Reference matrices for real people are HYPER-REAL by default (Gary, 2026-08-08, SPEC v0.38).**
+"Stylized, never photoreal" governs the RENDERED SPREADS, not the reference layer. A realPerson
+entity with a photoStack now shoots register-neutral hyper-real automatically (chain_matrix
+records `structured.registerNeutral` into canon), because hyper-realism ports down into any
+register while a stylized reference cannot recover likeness. Spreads still render warm-editorial;
+the neutral plates carry likeness only (compose-spread emits the REGISTER-NEUTRAL MASTER line).
+Earned on `david-kobrosky`: his first matrix was shot in-register ink-and-wash and Gary rerolled
+it by hand.
+
 **A `realPerson` block needs a `photoStack` that is a NON-EMPTY LIST** of on-disk paths under the
 asset root, and an `approval.state` of `gated` or `approved`. A string photoStack gets iterated
 character by character and produces dozens of bogus validation errors. Do not add the block until

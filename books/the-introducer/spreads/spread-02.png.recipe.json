@@ -1,0 +1,82 @@
+{
+  "asset": "spread-02.png",
+  "assetSha256_16": "8a76e422d6b14b22",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "4c2653ee38889f086517575f91ec7d44c94bc552",
+  "book": "the-introducer",
+  "story": "the-introducer",
+  "spread": "spread-02",
+  "descriptor": {
+    "id": "spread-02",
+    "plate": null,
+    "cast": [
+      {
+        "id": "david-kobrosky",
+        "pose": "front"
+      }
+    ],
+    "scene": "DAVID KOBROSKY chest-up, large in the frame at the viewer's RIGHT third, leaning one shoulder against a doorframe with a coffee mug, his head turned to scan the room beyond, expression warm and attentive rather than amused: the look of a host counting who has been left out. Past him, softly out of focus at frame LEFT, a small gathering: two people deep in conversation, and further back, half in lamplight near the window, one man standing alone looking at his phone. The sharp subject is David's watching face. Bottom-right of frame is the plain doorframe, calm.",
+    "shot": "close",
+    "_caption": "Running communities taught David what most builders never learn. Nothing is obvious to a newcomer, and if you make people feel stupid you lose them. So he watches the edges of every room and asks one question. Who is falling through the cracks?",
+    "pos": "bottom",
+    "anonymous": "Background guests, all soft-focus and visibly distinct from David: no sky-blue shirt on any of them. The man alone by the window is slight, red-haired, in a gray hoodie.",
+    "negatives": [
+      "a second man resembling David",
+      "smug or salesman expression on David"
+    ]
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: DAVID KOBROSKY chest-up, large in the frame at the viewer's RIGHT third, leaning one shoulder against a doorframe with a coffee mug, his head turned to scan the room beyond, expression warm and attentive rather than amused: the look of a host counting who has been left out. Past him, softly out of focus at frame LEFT, a small gathering: two people deep in conversation, and further back, half in lamplight near the window, one man standing alone looking at his phone. The sharp subject is David's watching face. Bottom-right of frame is the plain doorframe, calm. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: david-kobrosky. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: Background guests, all soft-focus and visibly distinct from David: no sky-blue shirt on any of them. The man alone by the window is slight, red-haired, in a gray hoodie.. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second man resembling David, smug or salesman expression on David. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
+      "sha256_16": "3ac52f44ea329264"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
+      "sha256_16": "0d5dd6d6105a3ed3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "sha256_16": "848243b77c02df8c"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "sha256_16": "1bb7a4499aaf7d81"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+      "sha256_16": "338e735f16117d5a"
+    }
+  ],
+  "qa": [
+    "david-kobrosky: man-early-thirties",
+    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
+    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
+    "david-kobrosky: green-hazel-eyes",
+    "david-kobrosky: thick-dark-eyebrows-strong-jaw",
+    "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
+    "david-kobrosky: athletic-broad-shouldered-build",
+    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+    "david-kobrosky: dark-warm-gray-trousers",
+    "david-kobrosky: no-necklace-no-lanyard-no-badge",
+    "david-kobrosky: recognizable-likeness-of-the-real-subject",
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt"
+  ]
+}

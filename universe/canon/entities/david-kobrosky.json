@@ -1,0 +1,97 @@
+{
+  "id": "david-kobrosky",
+  "kind": "character",
+  "originStory": "the-introducer",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-08",
+    "note": "Hyper-real register-neutral matrix (SPEC v0.38 real-person default) approved in-session against the photo stack; Gary designated photo 02 as David's face anchor of record and directed the hyper-real reroll."
+  },
+  "realPerson": {
+    "subject": "David Kobrosky",
+    "approval": {
+      "state": "approved",
+      "by": "gary",
+      "note": "Gary commissioned this book as an ode to David (2026-08-08), supplied the five reference photos in the commission itself, and the universe's subject-approval gate stands in via the author. Stylized warm-editorial likeness, never photoreal; warm public-professional persona plus the married-life joy Gary explicitly included; nothing private beyond what the commission contains. PRIVATE PERSON: the book ships private-by-default on the platform per universe law. | SUPERSEDED IN PART 2026-08-08 (Gary): 'stylized never photoreal' governs the rendered SPREADS only; the REFERENCE matrix is hyper-real register-neutral per SPEC v0.38 ('reroll and more hyper realistic', 'Abu should default to entity creation with hyper realism'). Photo 02 designated the face anchor of record."
+    },
+    "photoStack": [
+      "reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "reference/david-kobrosky/photos/01-young-bw-smile.jpg"
+    ],
+    "wardrobeEras": {
+      "default": "FACE ANCHOR OF RECORD is photo 02 (studio portrait, dark background, blue shirt; Gary, 2026-08-08: 'this is the right real face anchor'): short-stubble beard, green-hazel eyes. Photos 03-04 confirm the current era; 05 and 01 are younger clean-shaven eras for facial structure only; never render clean-shaven."
+    },
+    "sensitiveList": "depict only the warm public-professional persona and the married joy Gary supplied; nothing private, never mocking, never salesman-slick"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": {
+        "path": "reference/david-kobrosky/face-neutral.png",
+        "role": "identity"
+      },
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": {
+        "path": "reference/david-kobrosky/forward-fullbody.png",
+        "role": "identity"
+      },
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": {
+        "path": "reference/david-kobrosky/signature-pose.png",
+        "role": "identity"
+      }
+    },
+    "requiredForRender": [
+      "forward-fullbody",
+      "face-neutral"
+    ],
+    "invariants": [
+      "man-early-thirties",
+      "short-dark-brown-curly-hair-tight-cropped-sides",
+      "short-stubble-beard-NEVER-clean-shaven",
+      "green-hazel-eyes",
+      "thick-dark-eyebrows-strong-jaw",
+      "broad-warm-grin-that-reaches-his-eyes",
+      "athletic-broad-shouldered-build",
+      "sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+      "dark-warm-gray-trousers",
+      "no-necklace-no-lanyard-no-badge",
+      "recognizable-likeness-of-the-real-subject",
+      "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt"
+    ],
+    "render": {
+      "always": "DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject.",
+      "poses": {
+        "front": {
+          "sheets": [
+            "forward-fullbody",
+            "face-neutral"
+          ]
+        },
+        "signature": {
+          "sheets": [
+            "signature-pose",
+            "face-neutral"
+          ]
+        }
+      }
+    },
+    "registerNeutral": {
+      "medium": "hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject",
+      "why": "real-person default (SPEC v0.38): hyper-realism ports down into any register, a stylized reference cannot recover likeness"
+    },
+    "scale": {
+      "height": "6 ft 0 in (183 cm)"
+    }
+  },
+  "prose": {
+    "voice": "Warm, unhurried, zero condescension. The friend who makes a nervous person feel like the room was waiting for them. Speaks plainly about big things ('Agents. I couldn't have done this before.') and deflects praise by pointing at other people.",
+    "lore": "Gary's real friend, rendered as this universe's flagship worked example of a hyperagent. Founded Intros.AI (software that learned his own instinct for who should meet whom), sold it to Bevy, then joined Anthropic's Applied AI Startups team, where agents let him look after roughly ninety startups at once. Believes one of the finest human qualities is the ability to consciously choose our own evolution. Married to Mikaela.",
+    "rules": "Identity of record is the photoStack; photo 02 (studio portrait) is the FACE ANCHOR OF RECORD (Gary, 2026-08-08). Reference matrix is REGISTER-NEUTRAL HYPER-REAL (SPEC v0.38 real-person default): the plates carry likeness only, and spreads render him in the universe's warm-editorial register via the REGISTER-NEUTRAL MASTER consumption line. He is never smug, never salesman-slick, never mocked: this is an ode. SINGLE-INSTANCE RULE: crowd scenes must describe other people as visibly distinct (different builds, hair, skin tones, nobody else in a sky-blue button-down); a second David-like figure is a re-roll defect."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "the-introducer",
+  "title": "The Introducer",
+  "logline": "David Kobrosky has one craft and he has never changed it: he notices who is standing alone at the edge of a room and connects them to where they belong. He taught software the same instinct and sold the company. Then the tools changed, a new kind of person became possible, and David became one of the clearest living examples of it: a hyperagent on Anthropic's Applied AI team, looking after ninety startups at once, waking founders up to the opportunity of the age. An ode to a friend, and an explanation of what a hyperagent is, and a forecast of what people like him will do next.",
+  "spine": "ode",
+  "spineNote": "An ODE, not a hero-journey: David does not transform, struggle, or learn a lesson. The book praises ONE unchanging craft (the introduction) by showing it land on ever-larger objects: a stranger at a party, two members of a community, founders and their agents, intention and evolution, humanity and its next chapter, and finally the reader and David himself. The hyperagent DEFINITION (movements 5-6) sits inside the ode as the thing David's rise makes legible: the person is the source, the agents are the hours. Praise must stay concrete and receipt-backed, never grandiose.",
+  "refrain": "Let me introduce you.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "david-kobrosky",
+    "mikaela",
+    "maya",
+    "sub-agent",
+    "supercharged-laptop"
+  ],
+  "aimDiscipline": [
+    "THE REFRAIN CHANGES OBJECTS AND THAT IS THE BOOK. 'Let me introduce you' joins a stranger to a room (1), founders to agents (9), intention to evolution (11), and the reader to David himself (15). Every refrain spread must make BOTH parties of the introduction legible in the art.",
+    "DAVID IS A REAL PERSON RENDERED AS STYLIZED EDITORIAL LIKENESS, NEVER PHOTOREAL, AND NEVER DISHONORED. He is warm, grinning, athletic, mid-motion toward someone. Any render that makes him smug, salesman-slick, or ridiculous is arguing against the ode. Same law for Mikaela in her one spread.",
+    "GATHERINGS LOOK LIKE BRUNCH, NOT LIKE CONFERENCES. Folding chairs, name tags, coffee cups, string lights, snack tables. No glass towers, no lanyard-and-lectern keynote vocabulary, no blue-lit expo halls. David's superpower is making tech feel like brunch, so the rooms must feel like brunch.",
+    "THE DEFINITION SPREADS SHOW THE PERSON AS SOURCE. In movements 5-6 and 8, David (or Maya) is the small warm human center and the agents are many small glowing coral helpers carrying the load outward. Never armor, never a HUD, never the person dwarfed into irrelevance. The claim is 'the person supplies the call, the agents supply the hours', and the composition must say it.",
+    "AGENTS ARE THE UNIVERSE'S CORAL HOLOGRAPHIC MASCOTS, casting light not shadow, per their locked sheets. No robots, no androids, no drones.",
+    "ANTHROPIC IS NAMED WITH RESPECT AND RENDERED LIGHTLY: a plain warm door, a simple wordmark at most. No lab-campus worship, no logo spam. The argument for it is David's own sentence about risk and effort, carried in the caption, never a corporate tableau.",
+    "DAVID APPEARS EXACTLY ONCE PER SCENE. His likeness is passed as reference on every spread he is in, so crowd scenes must describe other people as visibly distinct (different builds, hair, skin tones, no sky-blue button-down on anyone else) and a second David-like figure is a re-roll defect."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "Every room has someone standing near the snack table who knows nobody. David finds them first. He crosses the room with his hand already out and says the four words he was born to say. Let me introduce you.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "Gary's commission: 'one of the best community builders in the freaking world.' PRM: the Geraldine's event (suits of armor, string lights) where David connected Gary and Russ Ballard. The refrain in its first, literal mouth."
+    },
+    {
+      "n": 2,
+      "text": "Running communities taught David what most builders never learn. Nothing is obvious to a newcomer, and if you make people feel stupid you lose them. So he watches the edges of every room and asks one question. Who is falling through the cracks?",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "David verbatim (2026-06-27 transcript): 'one of the biggest things I've learned through building AI community is that nothing's obvious... if you make people feel stupid, that's not good.' His service-area doctrine (2026-07-15): '15-20% of a community is there to network and isn't being served... who's falling through the cracks.'"
+    },
+    {
+      "n": 3,
+      "text": "He believed a room could be built to catch people, so he taught software his own instinct. His company learned to notice which two strangers ought to meet, then made the introduction for him, a thousand times a night. It was called Intros. Of course it was.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "Intros.AI, David's community-matchmaking company (PRM transcripts 2025-04-10, 2025-06-01). The company name is the ode's best receipt: his craft was so much his own that he named a company after it."
+    },
+    {
+      "n": 4,
+      "text": "The company worked, and a bigger one bought it. The sale proved a thing David had known for years. Bringing people together is real work, as real as steel or code, and it is worth real money.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "Intros.AI acquired by Bevy; David's 'post-acquisition life at Bevy' (2025-06-01 transcript summary). Gary's commission: 'as evidenced by selling a freaking community-building AI company.'"
+    },
+    {
+      "n": 5,
+      "text": "Then the tools changed, and a new kind of person appeared. A hyperagent is a person whose judgment runs through a team of tireless AI agents. The person supplies the taste, the values, and the call. The agents supply the hours.",
+      "characters": [
+        "david-kobrosky",
+        "sub-agent",
+        "supercharged-laptop"
+      ],
+      "provenance": "hyperagency.wiki/start-here/what-is-hyperagency: 'a state of operation in which a person's output... has been compounded by an agentic system'; 'The person remains the source.' Gary's commission: 'we want to explain what a hyperagent is inside this book.'"
+    },
+    {
+      "n": 6,
+      "text": "Here is the secret about all those agents. Idle, they do nothing. Every one of them is waiting on a human who knows what should exist and why it matters. The person is the source. The agents are the speed.",
+      "characters": [
+        "sub-agent",
+        "supercharged-laptop"
+      ],
+      "provenance": "hyperagency.wiki, the Iron Man model: 'Remove Tony Stark from the suit and the suit is inert. The person is still the reason.' Restated without the armor vocabulary this universe rejects."
+    },
+    {
+      "n": 7,
+      "text": "So when an AI lab came calling, David did the math out loud. Of the companies that could do something about the risks of AI, Anthropic sits front and center. He chose the place where his effort would count the most, and he got to work.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "David verbatim (PRM): 'Of the companies that could do something about [AI risks], Anthropic is pretty front and center. So my effort towards them being ahead and relevant in this world is probably important.' Signed 2026-05-05; his first traditional company role."
+    },
+    {
+      "n": 8,
+      "text": "A few years ago one person could look after a handful of startups. On Anthropic's Applied AI team, David looks after about ninety at once. Ask him how and he grins. Agents, he says. I could not have done this before.",
+      "characters": [
+        "david-kobrosky",
+        "sub-agent",
+        "supercharged-laptop"
+      ],
+      "provenance": "PRM 2026-07-15: growth tier of Applied AI Startups covering ~88-90 companies, 'Agents. Internal systems that are built out... I couldn't have done it before.' David as the living proof of the movement-5 definition."
+    },
+    {
+      "n": 9,
+      "text": "His old craft came with him. Founders arrive nervous, certain that everyone else already understands this stuff. David makes it feel like brunch. Nothing is obvious, nobody is stupid, the door is propped open. Founders, meet your agents. Let me introduce you.",
+      "characters": [
+        "david-kobrosky",
+        "sub-agent"
+      ],
+      "provenance": "David (2026-06-27): 'very helpful to have someone dedicated to simplifying things and making it not feel scary and creating a good vibe and energy around the ecosystem.' The refrain's second object: founders and agents."
+    },
+    {
+      "n": 10,
+      "text": "Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.",
+      "characters": [
+        "maya",
+        "sub-agent",
+        "supercharged-laptop"
+      ],
+      "provenance": "Gary's commission: 'helping awaken so many, so many people to just the opportunity that we have today.' Maya is this universe's canonical founder-learner, reused as the awakened founder. The before-and-after is the wiki's compounding-loop claim made visible."
+    },
+    {
+      "n": 11,
+      "text": "Underneath the career sits the thing David actually believes. One of the finest human qualities is that we do not have to wait for our evolution. We can look at what we are, decide what we would rather become, and build the bridge on purpose. Intention, meet evolution. Let me introduce you.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "Gary's commission, David's stated belief: 'one of the greatest qualities that humans have is our ability to consciously use our evolution.' The refrain's third object, and the book's thesis-inside-the-ode."
+    },
+    {
+      "n": 12,
+      "text": "For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.",
+      "characters": [
+        "david-kobrosky",
+        "mikaela"
+      ],
+      "provenance": "PRM: engaged to Mikaela (engagement shoot June 2026); Gary confirmed in the commission session that she is now his wife. The couple photos Gary supplied are the likeness source."
+    },
+    {
+      "n": 13,
+      "text": "What works in a room works in the world. A society is a community of communities, and it has edges too, crowded with people slipping through cracks. Hyperagents can build the systems that notice them, welcome them in, and waste nobody. That is the world worth building toward.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "Gary's commission: 'how communities can be improved, how society can be improved.' David's falling-through-the-cracks doctrine (movement 2) scaled from the room to the society, which is the ode's honest way to make the big claim."
+    },
+    {
+      "n": 14,
+      "text": "The coming years belong to people like this. Teachers with a thousand patient helpers. Doctors whose agents read every new paper overnight. Neighbors who can organize a block as easily as a group chat. People who choose their evolution on purpose, and choose it for the rest of us too.",
+      "characters": [
+        "sub-agent"
+      ],
+      "provenance": "Gary's commission: 'forecast some of the amazing things we're going to do in the coming years.' Kept as a crowd of ordinary vocations rather than sci-fi spectacle, per the universe's warm-editorial register."
+    },
+    {
+      "n": 15,
+      "text": "So this book is an introduction too, the kind David never thinks to make for himself. Reader, here is a man who spends his days connecting people to people, founders to the future, and humanity to its own next chapter. David, meet everyone. Everyone, meet David. Let me introduce you.",
+      "characters": [
+        "david-kobrosky"
+      ],
+      "provenance": "The ode's closing move: the introducer finally introduced. Refrain's final object: the reader and David. Gary's commission: 'a really fun ode to one of my favorite hyperagents.'"
+    }
+  ]
+}

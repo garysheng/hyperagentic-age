@@ -1,0 +1,20 @@
+{
+ "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate.png",
+ "model": "none (deterministic image transform, no model call)",
+ "mode": "derive",
+ "tool": "cp (platform-facing copy of the conformed closing plate)",
+ "prompt": null,
+ "transform": "copy (byte-identical; no resample, no crop, no repaint)",
+ "inputs": [
+  {
+   "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-raw.png",
+   "sha256_16": "d502236bbff3d2a0",
+   "role": "conformed closing plate"
+  }
+ ],
+ "sha256_16": "d502236bbff3d2a0",
+ "derivedFrom": {
+  "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-raw.png",
+  "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-raw.png.recipe.json"
+ }
+}

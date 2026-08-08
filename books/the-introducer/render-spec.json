@@ -1,0 +1,334 @@
+{
+  "book": "the-introducer",
+  "story": "the-introducer",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "signature"
+        }
+      ],
+      "scene": "FIVE PEOPLE fill this warm evening party room, and DAVID KOBROSKY is the subject: he strides across the middle of the frame toward the viewer's LEFT, caught mid-step in his signature welcome gesture, one open hand extended toward a young woman with box-braids and a mustard cardigan who stands alone by the snack table at frame LEFT, holding a paper cup and just beginning to smile with relief. Behind David at frame RIGHT, three other guests chat in a loose knot, faces angled away. The room is a warm rented hall dressed like a friend's dinner: string lights sagging overhead, a long snack table with pretzel bowls and a lemonade jug, folding chairs, name tags. Golden lamp light. The lower-right quarter of the frame stays calm: just empty wooden floor with soft light. If the room reads as a corporate conference, the image is wrong.",
+      "shot": "wide",
+      "_caption": "Every room has someone standing near the snack table who knows nobody. David finds them first. He crosses the room with his hand already out and says the four words he was born to say. Let me introduce you.",
+      "pos": "bottom",
+      "anonymous": "Four party guests: the braided woman in the mustard cardigan, a heavyset South Asian man in a green polo, an older white woman with silver hair, a slim Black man in a denim shirt. All visibly distinct from David; none wears a sky-blue button-down; none shares his face, hair, or beard.",
+      "negatives": [
+        "a second man resembling David",
+        "corporate lanyards or lecterns",
+        "neon lighting"
+      ]
+    },
+    {
+      "id": "spread-02",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "DAVID KOBROSKY chest-up, large in the frame at the viewer's RIGHT third, leaning one shoulder against a doorframe with a coffee mug, his head turned to scan the room beyond, expression warm and attentive rather than amused: the look of a host counting who has been left out. Past him, softly out of focus at frame LEFT, a small gathering: two people deep in conversation, and further back, half in lamplight near the window, one man standing alone looking at his phone. The sharp subject is David's watching face. Bottom-right of frame is the plain doorframe, calm.",
+      "shot": "close",
+      "_caption": "Running communities taught David what most builders never learn. Nothing is obvious to a newcomer, and if you make people feel stupid you lose them. So he watches the edges of every room and asks one question. Who is falling through the cracks?",
+      "pos": "bottom",
+      "anonymous": "Background guests, all soft-focus and visibly distinct from David: no sky-blue shirt on any of them. The man alone by the window is slight, red-haired, in a gray hoodie.",
+      "negatives": [
+        "a second man resembling David",
+        "smug or salesman expression on David"
+      ]
+    },
+    {
+      "id": "spread-03",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "A close overhead INSERT: two strong forearms with rolled sky-blue sleeves, DAVID's hands, pinning a length of red yarn between two index cards on a big cork board that fills the frame. The board carries a couple dozen index cards, each with a hand-drawn stick-figure face and a first name in plain handwriting, many already joined by yarn lines, a warm constellation of people. One card at the edge, not yet connected, sits slightly apart. Desk lamp light rakes across the cork. No screens, no computers: the software idea rendered as the corkboard it was born from. The card names are short common first names (AVA, SAM, LEO, NOOR, JUNE) in casual handwriting.",
+      "shot": "insert",
+      "_caption": "He believed a room could be built to catch people, so he taught software his own instinct. His company learned to notice which two strangers ought to meet, then made the introduction for him, a thousand times a night. It was called Intros. Of course it was.",
+      "pos": "top",
+      "negatives": [
+        "computer screens or UI",
+        "legible text other than short first names on the cards",
+        "a visible face of David (hands and forearms only)"
+      ]
+    },
+    {
+      "id": "spread-04",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "FOUR PEOPLE mid-toast in a small startup office, and DAVID KOBROSKY is the center of them: he stands behind a cluttered desk, grinning wide, raising a paper coffee cup, while his three teammates lean in from the sides raising mugs and a water bottle, all mid-laugh. On the desk a cardboard box of donuts is open, and a laptop lid is closed under a slap of celebratory sticky notes. Late-afternoon sun through the window. It reads as a scrappy team that just got the phone call, not a gala. Lower-right: the warm blur of a chair back, calm.",
+      "shot": "group",
+      "_caption": "The company worked, and a bigger one bought it. The sale proved a thing David had known for years. Bringing people together is real work, as real as steel or code, and it is worth real money.",
+      "pos": "bottom",
+      "anonymous": "Three teammates, visibly distinct from David: a petite East Asian woman in a black tee, a tall Black man in an orange sweater, a curly-haired Latina woman in overalls. No sky-blue button-down on any of them.",
+      "negatives": [
+        "a second man resembling David",
+        "champagne flutes or black-tie celebration"
+      ]
+    },
+    {
+      "id": "spread-05",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "sub-agent"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "DAVID KOBROSKY sits at a wide desk in a dim, cozy study, placed at the desk's RIGHT end and turned three-quarter toward the viewer so his warm grinning face is clearly visible. Beside him on the desk, the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA exactly like a product hero shot: its GLOWING CORAL SCREEN FACE and its keyboard are BOTH plainly visible to the viewer, and the screen face carries a soft schematic glow. THE BACK OF THE LID IS NOT SHOWN. From the laptop, a fan of SIX SMALL CORAL HOLOGRAPHIC SUB-AGENTS streams outward to both edges of the frame, each blocky mascot WEARING ITS GLOWING WHITE SAILOR CAP ON ITS HEAD and carrying something away: a wrapped parcel, a paper airplane of pages, a rolled blueprint, a ledger, a letter, a lantern. They cast light, not shadow. David's posture is relaxed command, one hand resting near the keys, eyes up, mid-decision. One calm person at the center, many small helpers carrying the hours outward. Keep the far lower-right corner in soft shadow, calm. David's EYES ARE ON THE GLOWING SCREEN FACE of the laptop, not on the camera: he is reading it mid-decision, face in warm three-quarter view.",
+      "shot": "wide",
+      "_caption": "Then the tools changed, and a new kind of person appeared. A hyperagent is a person whose judgment runs through a team of tireless AI agents. The person supplies the taste, the values, and the call. The agents supply the hours.",
+      "pos": "bottom",
+      "negatives": [
+        "armor or HUD elements",
+        "robots or drones",
+        "David dwarfed or dominated by the machines",
+        "a second man resembling David",
+        "the back of the laptop lid facing the camera",
+        "subject making eye contact with the camera"
+      ]
+    },
+    {
+      "id": "spread-06",
+      "plate": null,
+      "cast": [
+        {
+          "id": "sub-agent"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "An empty wooden chair is the subject, pulled back from a small desk in a pool of early-morning light, and nobody sits in it. On the desk the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA so its GLOWING SCREEN FACE is plainly visible to the viewer: the WHOLE laptop, lid, keyboard and body, glows as one translucent coral object with a patient dim idle shimmer on the screen face. THE BACK OF THE LID IS NOT SHOWN. Beside it, ONE SMALL CORAL HOLOGRAPHIC SUB-AGENT WEARING ITS GLOWING WHITE SAILOR CAP stands on the desktop looking toward the empty chair, hands folded, waiting: poised, willing, and doing nothing. The room is otherwise still: a mug, a plant, dust motes in the light shaft. The picture's whole argument is the empty chair. Lower-right corner: bare floor, calm.",
+      "shot": "imagined",
+      "_caption": "Here is the secret about all those agents. Idle, they do nothing. Every one of them is waiting on a human who knows what should exist and why it matters. The person is the source. The agents are the speed.",
+      "pos": "bottom",
+      "negatives": [
+        "any human figure",
+        "the agents working or carrying anything",
+        "gloom or menace: the mood is patient, not sad",
+        "the back of the laptop lid facing the camera"
+      ]
+    },
+    {
+      "id": "spread-07",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "DAVID KOBROSKY, full of purpose, walks toward a plain warm terracotta door set in a cream wall, seen in three-quarter view from his front-left so his face and grin stay visible, one hand reaching for the round brass handle. Beside the door, a small plain nameplate carries the single word ANTHROPIC in simple capital letters, spelled exactly A-N-T-H-R-O-P-I-C. Morning light falls across the wall. The street behind him is soft and ordinary: a bike rack, a planter of rosemary. No campus, no glass tower, no logo anywhere else. The door is humble and the man is glad. Lower-right: warm pavement, calm.",
+      "shot": "close",
+      "_caption": "So when an AI lab came calling, David did the math out loud. Of the companies that could do something about the risks of AI, Anthropic sits front and center. He chose the place where his effort would count the most, and he got to work.",
+      "pos": "bottom",
+      "negatives": [
+        "glass skyscraper or corporate campus",
+        "any logo or text besides the single ANTHROPIC nameplate",
+        "a second man resembling David"
+      ]
+    },
+    {
+      "id": "spread-08",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "sub-agent"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "DAVID KOBROSKY stands at a long worktable in the center-left of a bright loft, and behind and above him a whole wall rises covered in SEVERAL DOZEN small warm pennants and index cards, each a different color, each carrying a tiny meaningless doodle-mark (never legible text): the ninety startups in his care. FIVE CORAL HOLOGRAPHIC SUB-AGENTS, each WEARING ITS GLOWING WHITE SAILOR CAP, ferry between the wall and his table: one climbing a ladder to pin a card, one carrying a rolled chart, two conferring over a clipboard, one saluting David for a new instruction. On the table the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA so its GLOWING CORAL SCREEN FACE and keyboard are plainly visible to the viewer; THE BACK OF THE LID IS NOT SHOWN. David is mid-grin, gesturing at the wall with a pencil, clearly the source of all this motion. Keep the table's near lower-right edge simple and calm. David's EYES ARE ON THE WALL OF PENNANTS he is gesturing at, not on the camera: he is looking where he points, face in warm three-quarter view.",
+      "shot": "wide",
+      "_caption": "A few years ago one person could look after a handful of startups. On Anthropic's Applied AI team, David looks after about ninety at once. Ask him how and he grins. Agents, he says. I could not have done this before.",
+      "pos": "top",
+      "negatives": [
+        "legible company names or text on the pennants",
+        "robots or drones",
+        "a second man resembling David",
+        "David overwhelmed or frantic: he is at ease",
+        "the back of the laptop lid facing the camera",
+        "subject making eye contact with the camera"
+      ]
+    },
+    {
+      "id": "spread-09",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "sub-agent"
+        }
+      ],
+      "scene": "FOUR FIGURES around a sunlit brunch table, and the introduction is the subject: DAVID KOBROSKY sits at the table's head on the RIGHT, one open hand presenting a SMALL CORAL HOLOGRAPHIC SUB-AGENT in a white sailor cap who stands proudly on the tablecloth beside the jam jar, cap in hand, mid-bow to the guests. Across the table on the LEFT sit two founders leaning in with widening eyes: their nervousness just breaking into delight. Croissants, coffee cups, a folded map of notes. Sun through a cafe window, string of tiny flags overhead. The agent and the founders are BOTH fully legible: this is a formal introduction between them. Lower-right: David's side of the tablecloth, calm. DAVID'S EYES ARE ON THE TWO FOUNDERS across the table as he presents the agent to them, his face in warm three-quarter view turned toward THEM, never toward the camera. The founders' eyes are on the little agent.",
+      "shot": "group",
+      "_caption": "His old craft came with him. Founders arrive nervous, certain that everyone else already understands this stuff. David makes it feel like brunch. Nothing is obvious, nobody is stupid, the door is propped open. Founders, meet your agents. Let me introduce you.",
+      "pos": "bottom",
+      "anonymous": "Two founders, visibly distinct from David: a young woman with a dark bob and round glasses in a rust jumper, and a broad-shouldered man with a shaved head in a charcoal tee. Neither wears sky-blue; neither shares David's face or beard.",
+      "negatives": [
+        "a second man resembling David",
+        "the founders frightened or humiliated: the mood is relief",
+        "David making eye contact with the camera"
+      ]
+    },
+    {
+      "id": "spread-10",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "sub-agent"
+        },
+        {
+          "id": "supercharged-laptop",
+          "plate": "orange"
+        }
+      ],
+      "scene": "MAYA is the subject, mid-stride through her studio's open door into morning sun, laptop under her arm per her signature carry, laughing at something over her shoulder. Behind her through the doorway her workroom hums without her: THREE SMALL CORAL HOLOGRAPHIC SUB-AGENTS, each WEARING ITS GLOWING WHITE SAILOR CAP, tend the desk: one stacking folders, one watering her plant, one updating a wall calendar. On that desk the SUPERCHARGED LAPTOP stands OPEN and ANGLED TOWARD THE CAMERA so its glowing coral SCREEN FACE is visible to the viewer; THE BACK OF THE LID IS NOT SHOWN. She is leaving on time, and the work is carried. Her stride says spring, not winter. Lower-right: the sunlit threshold, calm. Maya's HEAD IS TURNED BACK toward the room she is leaving and her EYES ARE ON THE SUB-AGENTS she is laughing with, not on the camera.",
+      "shot": "group",
+      "_caption": "Watch what happens when a founder wakes up to it. In the winter she is buried in work only she can do. By spring her agents carry that load, and she spends her days on the part that needs her heart. Multiply her by ninety companies and you can feel the ground move.",
+      "pos": "bottom",
+      "negatives": [
+        "Maya tired, frantic, or at the desk",
+        "robots or drones",
+        "blue jeans on Maya",
+        "the back of the laptop lid facing the camera",
+        "subject making eye contact with the camera"
+      ]
+    },
+    {
+      "id": "spread-11",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "DAVID KOBROSKY kneels mid-span on a small handmade wooden footbridge over a creek at golden hour, fitting the NEXT PLANK into place with both hands: the bridge is complete behind him from the near bank, and ahead of him the remaining gap is spanned only by the beam he is building along, leading toward a far bank that is brighter, greener, morning-lit. A canvas tool bag and a few waiting planks rest behind him. He looks toward the far bank as he works, grinning like a man who can already see the other side. Rolling meadow, long light, swallows. The image argues one thing: the crossing is being CHOSEN and BUILT, plank by plank, on purpose. Keep the water at lower-right smooth and calm.",
+      "shot": "wide",
+      "_caption": "Underneath the career sits the thing David actually believes. One of the finest human qualities is that we do not have to wait for our evolution. We can look at what we are, decide what we would rather become, and build the bridge on purpose. Intention, meet evolution. Let me introduce you.",
+      "pos": "top",
+      "negatives": [
+        "the bridge already finished",
+        "storm or peril",
+        "a second man resembling David"
+      ]
+    },
+    {
+      "id": "spread-12",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        },
+        {
+          "id": "mikaela",
+          "pose": "front"
+        }
+      ],
+      "scene": "TWO PEOPLE fill this frame with one laugh: DAVID KOBROSKY and MIKAELA side by side on a wooden porch swing in late golden light, turned half toward each other. Mikaela is mid-laugh, curls loose, leaning into David's shoulder; David grins down at her, one arm along the swing's back behind her, his other hand holding hers. String lights just coming on above, jasmine on the porch rail, two lemonade glasses on the rail. Both faces fully legible and joyful. Nothing else asks for attention. Lower-right: the porch floorboards in warm shadow, calm.",
+      "shot": "two-shot",
+      "_caption": "For the record, the introducer's own best chapter began the ordinary way, with two people meeting. David married Mikaela, and anyone who has watched them laugh together knows the theory holds. Good rooms, good companies, good lives. Each one starts with the right introduction.",
+      "pos": "bottom",
+      "negatives": [
+        "anyone besides the two of them",
+        "posed stiffness: this is a caught laugh, not a portrait"
+      ]
+    },
+    {
+      "id": "spread-13",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front"
+        }
+      ],
+      "scene": "DAVID KOBROSKY stands at a rooftop garden rail at dusk, back three-quarter to the viewer's LEFT edge with his face in warm profile-adjacent three-quarter view looking out, one hand open toward the view as if introducing it. Below and beyond spreads a warm neighborhood: a dozen pools of gathering light: a backyard dinner, a lit church hall, a rooftop movie, a garage workshop, porches with neighbors, each a small circle of tiny distant figures. Between the circles run strings of festival lights like the yarn on his old corkboard, visually joining circle to circle. First stars. The city reads as a community of communities, catching everyone. Lower-right: deep calm dusk sky.",
+      "shot": "wide",
+      "_caption": "What works in a room works in the world. A society is a community of communities, and it has edges too, crowded with people slipping through cracks. Hyperagents can build the systems that notice them, welcome them in, and waste nobody. That is the world worth building toward.",
+      "pos": "top",
+      "anonymous": "Distant tiny neighborhood figures in the light circles, too small for faces; none distinct, none resembling David.",
+      "negatives": [
+        "a second man resembling David near the camera",
+        "cold blue cityscape: every light is warm"
+      ]
+    },
+    {
+      "id": "spread-14",
+      "plate": null,
+      "cast": [
+        {
+          "id": "sub-agent"
+        }
+      ],
+      "scene": "A warm evening block party fills the frame with ORDINARY PEOPLE AND THEIR SMALL HELPERS: at LEFT a silver-haired teacher sits on a folding chair reading to children while TWO CORAL HOLOGRAPHIC SUB-AGENTS in white sailor caps hold her picture books in a patient stack; at CENTER a doctor in scrubs laughs with a neighbor while a sub-agent at her elbow holds up a small stack of paper for her morning; at RIGHT neighbors string festival lights between porches while a sub-agent steadies the ladder and another carries the bulb bucket. Long tables, casseroles, kids chalking the pavement. Every agent is helping hands, never the hero. Dusk gold. Lower-right: chalk drawings on pavement, calm, no figures.",
+      "shot": "imagined",
+      "_caption": "The coming years belong to people like this. Teachers with a thousand patient helpers. Doctors whose agents read every new paper overnight. Neighbors who can organize a block as easily as a group chat. People who choose their evolution on purpose, and choose it for the rest of us too.",
+      "pos": "bottom",
+      "anonymous": "The whole block: teacher, doctor, neighbors, children, all visibly distinct from one another; nobody resembles David and nobody wears a sky-blue button-down.",
+      "negatives": [
+        "robots or drones",
+        "sci-fi spectacle, flying vehicles, chrome",
+        "any figure resembling David"
+      ]
+    },
+    {
+      "id": "spread-15",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "signature"
+        }
+      ],
+      "scene": "DAVID KOBROSKY alone, waist-up, warm and large just left of center, facing the VIEWER directly: the reader is the person he is meeting. His open hand reaches toward the camera in his signature welcome, close enough that the hand is gently soft-focus, his grinning face the sharp subject. Behind him, out of focus, the warm suggestion of the whole book: string lights, a corkboard of yarn, a faint coral glow at the edge. His expression is the one he saves for the person standing alone by the snack table: you, specifically, were exactly who this room was waiting for. Lower-right: soft warm bokeh, calm.",
+      "shot": "close",
+      "_caption": "So this book is an introduction too, the kind David never thinks to make for himself. Reader, here is a man who spends his days connecting people to people, founders to the future, and humanity to its own next chapter. David, meet everyone. Everyone, meet David. Let me introduce you.",
+      "pos": "bottom",
+      "negatives": [
+        "anyone else in frame",
+        "salesman slickness: the warmth is personal, not performed"
+      ]
+    }
+  ]
+}

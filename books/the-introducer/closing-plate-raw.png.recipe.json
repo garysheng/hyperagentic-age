@@ -1,0 +1,29 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-raw.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts/conform_cover.py",
+  "args": {
+    "aspect": "3:4",
+    "mode": "pad",
+    "inset": 1.0,
+    "blur": 40,
+    "keyline": null
+  },
+  "prompt": null,
+  "transform": "1152x1536 -> 1152x1536",
+  "inputs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png",
+      "sha256_16": "d502236bbff3d2a0",
+      "role": "source render"
+    }
+  ],
+  "sha256_16": "d502236bbff3d2a0",
+  "derivedFrom": {
+    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png",
+    "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-introducer/closing-plate-gen.png.recipe.json",
+    "sha256_16": "d502236bbff3d2a0"
+  },
+  "note": "DERIVATIVE, not a generation. The cover was conformed to the reader platform's page aspect by conform_cover.py. No image model was called and no pixels of the sharp art were repainted; see derivedFrom for the recipe of the render this came from."
+}

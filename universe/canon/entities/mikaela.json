@@ -1,0 +1,80 @@
+{
+  "id": "mikaela",
+  "kind": "character",
+  "originStory": "the-introducer",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-08",
+    "note": "Hyper-real register-neutral matrix (SPEC v0.38 real-person default) approved in-session against the photo stack; Gary designated photo 02 as David's face anchor of record and directed the hyper-real reroll."
+  },
+  "realPerson": {
+    "subject": "Mikaela (David Kobrosky's wife)",
+    "approval": {
+      "state": "approved",
+      "by": "gary",
+      "note": "Gary supplied the two couple photos inside the commission for the-introducer and confirmed mid-session 'that woman is his wife'. She appears in exactly one spread, beside David, joyful. Stylized warm-editorial likeness, never photoreal; nothing beyond shared public joy. PRIVATE PERSON: the book ships private-by-default per universe law."
+    },
+    "photoStack": [
+      "reference/mikaela/photos/01-beach-swing.jpg",
+      "reference/mikaela/photos/02-boat.jpg"
+    ],
+    "wardrobeEras": {
+      "default": "warm earth-toned summer wear per the supplied photos (olive halter dress on the beach swing; casual brown crew top on the boat)"
+    },
+    "sensitiveList": "depict only shared public joy beside David; nothing private, never objectified, one spread only"
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": {
+        "path": "reference/mikaela/face-neutral.png",
+        "role": "identity"
+      },
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": {
+        "path": "reference/mikaela/forward-fullbody.png",
+        "role": "identity"
+      },
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [
+      "forward-fullbody",
+      "face-neutral"
+    ],
+    "invariants": [
+      "woman-late-twenties",
+      "long-dark-brown-curly-hair",
+      "wide-bright-smile",
+      "softly-rounded-warm-features",
+      "olive-or-earth-toned-simple-summer-dress",
+      "no-heavy-jewelry",
+      "recognizable-likeness-of-the-real-subject"
+    ],
+    "render": {
+      "always": "MIKAELA (canon id mikaela), David's wife. A woman in her LATE TWENTIES with LONG DARK-BROWN CURLY HAIR worn loose, warm fair skin, a WIDE BRIGHT SMILE, and softly rounded warm features. Default wardrobe: a simple OLIVE or earth-toned summer dress, no heavy jewelry. She reads as joyful and at ease, usually laughing with or leaning toward David. Recognizable stylized editorial likeness of the real subject, NEVER photoreal.",
+      "poses": {
+        "front": {
+          "sheets": [
+            "forward-fullbody",
+            "face-neutral"
+          ]
+        }
+      }
+    },
+    "registerNeutral": {
+      "medium": "hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject",
+      "why": "real-person default (SPEC v0.38): hyper-realism ports down into any register, a stylized reference cannot recover likeness"
+    },
+    "scale": {
+      "height": "5 ft 6 in (168 cm)"
+    }
+  },
+  "prose": {
+    "voice": "Appears in one spread and speaks no lines; her presence is the argument.",
+    "lore": "David's wife. In the ode she is the receipt for movement 12: the introducer's own best chapter began the ordinary way, with two people meeting.",
+    "rules": "Identity of record is the two-photo stack. Reference matrix is REGISTER-NEUTRAL HYPER-REAL (SPEC v0.38 real-person default): plates carry likeness only; spreads render her in the universe's warm-editorial register. One spread only (movement 12), always beside David, always joyful. Never objectified, never rendered without David."
+  }
+}

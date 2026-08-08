@@ -1,0 +1,20 @@
+{
+  "goldenDigest": "a4cfc41c93cedf55",
+  "inputs": [
+    {
+      "digest": "1d2de165730bae67",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/photos/01-beach-swing.jpg"
+    },
+    {
+      "digest": "f4396611c663cd2d",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/photos/02-boat.jpg"
+    },
+    {
+      "digest": "a61337d4209007b7",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/mikaela/forward-fullbody.png"
+    }
+  ],
+  "prompt": "MEDIUM, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this as hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject. This plate is REGISTER-NEUTRAL: no style anchor is passed with it and none is implied. Take likeness, geometry and markings from the references; take no stylistic treatment from anything. Hyper-realistic head-and-shoulders portrait of ONE woman facing the viewer, on a soft warm neutral studio background. MIKAELA, a woman in her LATE TWENTIES. She is the WOMAN in the supplied photographs (the one beside the bearded man): MATCH HER FACE EXACTLY: LONG DARK-BROWN CURLY HAIR worn loose past her shoulders, warm fair skin with natural freckle-light texture, a WIDE BRIGHT SMILE with visible teeth, softly rounded warm features, dark warm eyes; light natural makeup, small simple earrings at most, no heavy jewelry. She wears a simple olive top. Painted realism at photographic fidelity, true skin texture, natural specular light in the eyes. Single figure, single panel, no text, no labels. NOT a stylized illustration, NOT cartoon, NOT ink-and-wash, NOT anime, no plastic airbrushed skin, no beauty-filter smoothing. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. IDENTITY GROUND TRUTH: the PHOTOGRAPHS among the reference images are the REAL PERSON this subject depicts. Build the likeness faithfully and exactly from those photographs: bone structure, hairline, hair colour and texture, eye shape, nose, mouth, and the way the face creases when it smiles. Where a painted reference and a photograph disagree about the face, THE PHOTOGRAPH WINS. Keep the painterly rendering of the painted references and the likeness of the photographs.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}
