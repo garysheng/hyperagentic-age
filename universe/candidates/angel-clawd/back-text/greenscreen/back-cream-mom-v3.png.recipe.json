@@ -1,0 +1,13 @@
+{
+  "asset": "back-cream-mom-v3.png",
+  "model": "gpt-image-2",
+  "mode": "generate",
+  "prompt": "T-shirt back print: bold stacked typography only, NO characters, NO mascots, NO illustrations, text only. Four lines of chunky retro pixel-style block capital letters stacked vertically, centered, tightly leaded, all in warm cream off-white (#fffdf7): line 1 'MOM OF YOUR', line 2 'FAVORITE', line 3 'ANTHROPIC', line 4 'EVANGELIST'. Spelling must be exact: M-O-M space O-F space Y-O-U-R, F-A-V-O-R-I-T-E, A-N-T-H-R-O-P-I-C, E-V-A-N-G-E-L-I-S-T. CRITICAL LAYOUT RULE: all four lines are justified to EXACTLY THE SAME WIDTH \u2014 every line's left edge aligns and every line's right edge aligns, forming a perfect solid rectangle of text. Shorter words get larger letters and longer words get smaller letters so each line fills the identical width. Clean crisp blocky 8-bit letterforms with pixel-stepped corners, consistent stroke weight. The background is a single flat solid field of pure bright green #00FF00 and nothing else.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "inputs": [],
+  "size": "1024x1536",
+  "quality": "high",
+  "background": "auto",
+  "mask": null,
+  "generatedAt": "2026-08-08T23:27:07+00:00",
+  "generator": "chatgpt-images/scripts/generate_image.py"
+}
