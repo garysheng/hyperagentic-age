@@ -56,6 +56,7 @@
       "short-stubble-beard-NEVER-clean-shaven",
       "green-hazel-eyes",
       "thick-dark-eyebrows-strong-jaw",
+      "flat-even-side-profile-nose-straight-chin-never-jutting",
       "broad-warm-grin-that-reaches-his-eyes",
       "athletic-broad-shouldered-build",
       "sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
@@ -65,7 +66,7 @@
       "appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt"
     ],
     "render": {
-      "always": "DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject.",
+      "always": "DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. IN PROFILE OR THREE-QUARTER VIEW his facial profile is comparatively FLAT and even: a straight, moderate nose and a firm chin that does NOT jut forward; never an exaggerated protruding nose-and-chin profile (Gary, 2026-08-08: 'his face is flatter, chin and nose; front shot is good').",
       "poses": {
         "front": {
           "sheets": [
