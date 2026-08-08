@@ -50,12 +50,12 @@
           "plate": "master"
         }
       ],
-      "scene": "A close, reverent study of the elevator found and alive, exactly as its locked master plate paints it: the cylindrical brass-and-glass car with its sliding doors OPEN, warm golden light filling the glass and spilling down the mossy stone steps of its low round platform, living vines drawn aside like a curtain on both sides, the silver ribbon rising dead vertical into the leaves above. Inside, EXACTLY THREE simple seats are visible in the warm light, and nothing else: no instruments, no screens, no people. Nobody is in this image. The empty third seat is the quiet subject. Keep the lower right of the frame calm: stone and ferns.",
+      "scene": "A close, reverent study of the elevator found and alive, exactly as its locked master plate paints it: the cylindrical brass-and-glass car with its sliding doors OPEN, warm golden light filling the glass and spilling down the mossy stone steps of its low round platform, living vines drawn aside like a curtain on both sides, the silver ribbon rising dead vertical into the leaves above. Inside, the car is simple, open and generous: a plain warm bench curving around the glass wall, room enough that nobody would be turned away, and nothing else: no instruments, no screens, no people. The open doors and the waiting warm room are the quiet subject. Keep the lower right of the frame calm: stone and ferns.",
       "shot": "insert",
-      "_caption": "Each elevator holds power enough for a few seats. It lifts its handful of founders, and then it goes dark for good. The hopefuls call the little while it is alive a takeoff window. The jungle does not post it anywhere.",
+      "_caption": "An elevator carries everyone who reaches it. The doors open for a crowd and for the one who comes alone. But one day, for reasons nobody below understands, an elevator goes dark, forever. Nobody knows which day. The hopefuls call the time it is alive a takeoff window. The jungle does not post it anywhere.",
       "negatives": [
         "people or figures anywhere in this image",
-        "more than three seats inside the car",
+        "rows of numbered or ticketed seats, or any seat-count emphasis",
         "instruments, screens or controls inside the car"
       ]
     },
@@ -74,14 +74,20 @@
     },
     {
       "id": "spread-06",
-      "cast": [],
-      "scene": "The frame is the sky itself: high above the jungle canopy, which reads as a soft green sea along the bottom of the frame, dozens of white paper pages drift and tumble down through warm morning air like falling leaves. The nearest page, large in the upper left, shows its writing as SOFT SMUDGED WASHES of grey-blue ink, streaked and bled as if rained on: shapes of paragraphs with no readable letters anywhere. The pages farther down are smaller and more smudged. No people in this image, no island in this image; only the long fall and the fading words. Keep the lower right calm: open canopy.",
+      "cast": [
+        {
+          "id": "the-orange-compass"
+        }
+      ],
+      "scene": "The frame is the sky itself: high above the jungle canopy, which reads as a soft green sea along the bottom of the frame, dozens of white paper pages drift and tumble down through warm morning air like falling leaves. The nearest page, large in the upper left, shows its writing as SOFT SMUDGED WASHES of grey-blue ink, streaked and bled as if rained on: shapes of paragraphs with no readable letters anywhere. The pages farther down are smaller and more smudged. Falling among the pages, fewer and brighter, drift a scattering of SMALL round pocket compasses exactly as the locked prop paints them: burnt-clay orange enamel shells with thin brass rims on short braided cream cords, plain cream faces with a single dark orange-tipped needle, no letters or marks on them anywhere. The nearest compass, mid-fall in the upper right, catches the light; the pages smudge and the compasses do not. No people in this image, no island in this image; only the long fall and the fading words. Keep the lower right calm: open canopy.",
       "shot": "imagined",
-      "_caption": "The founders up top tell stories too, about how they made it. They send them down. But the pages fall a long way, and by the time they land the words have smudged into advice that points at nothing. The hopefuls follow it anyway.",
+      "_caption": "The founders up top tell stories too, and send them down. The pages fall a long way, and they land smudged into advice that points at nothing. So the island's keepers send something surer. They drop small orange compasses into the green, and every needle swings toward the live elevator. The keepers want the cars full before the dark comes.",
       "negatives": [
         "readable letters, words or numbers on any page",
         "people or figures anywhere in this image",
-        "the floating island in frame"
+        "the floating island in frame",
+        "an antique compass-rose, star, tick marks, letters or numbers on any compass face (each face is plain cream with ONE dark orange-tipped needle only)",
+        "brass-only or gold-only compass shells (every compass shell is burnt-clay ORANGE enamel with only a thin brass rim)"
       ]
     },
     {
@@ -128,7 +134,7 @@
       ],
       "scene": "A vast crowd is the ground of the image: an enormous sea of anonymous followers fills a broad jungle clearing from edge to edge, faces small and varied, packs and hats and hopeful upturned chins, stretching back until they blur into the green. Above them, on a tall grey rock outcrop rising at the left of frame, stands THE PROPHET exactly as his locked sheet paints him: silver hair, short white beard, long pale cream traveling coat, staff with its small brass bell in one hand, his polished brass speaking-trumpet raised to his lips with the other, mid-announcement, warm and certain. His figure reads about a quarter of the frame height. The crowd is already turning to run in the direction he points. Nobody in this image is lying and everybody is too late.",
       "shot": "wide",
-      "_caption": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.",
+      "_caption": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But nobody knows how long any elevator will stay lit, and by the time anything can be announced to a million people, this one has gone dark, or the dark is too close. Broadcast means too late.",
       "anonymous": "an enormous crowd of anonymous followers of all kinds filling the clearing below the rock, faces small and varied, some already turning to run",
       "pos": "top"
     },
@@ -163,11 +169,14 @@
         {
           "id": "engineer",
           "pose": "forward-fullbody"
+        },
+        {
+          "id": "the-orange-compass"
         }
       ],
-      "scene": "Three friends close around a map, seen CLOSE: the camera sits just over the ENGINEER's near shoulder in the lower right foreground, his charcoal-hooded back and shoulder softly out of focus and cropped by the frame, his lap and legs outside the picture. Across from him, sharp and warmly lit by a lantern set on a crate, MAYA leans in on the left pointing at the map, and CHRISSY, mid-laugh in the middle, presses a small pencil cross onto it. The map between them is hand-drawn: trail lines, small crosses for dead ends, a few pencil circles, NO readable words. Evening jungle behind them is soft dark green bokeh. Three people, one lantern, one honest map.",
+      "scene": "Three friends close around a map, seen CLOSE: the camera sits just over the ENGINEER's near shoulder in the lower right foreground, his charcoal-hooded back and shoulder softly out of focus and cropped by the frame, his lap and legs outside the picture. Across from him, sharp and warmly lit by a lantern set on a crate, MAYA leans in on the left pointing at the map, and CHRISSY, mid-laugh in the middle, presses a small pencil cross onto it. The map between them is hand-drawn: trail lines, small crosses for dead ends, a few pencil circles, NO readable words. Resting on the map near Maya's pointing hand sits one SMALL round pocket compass exactly as the locked prop paints it: burnt-clay orange enamel shell, thin brass rim, short braided cream cord, plain cream face with a single dark orange-tipped needle, no letters or marks on it. Evening jungle behind them is soft dark green bokeh. Three people, one lantern, one honest map.",
       "shot": "close",
-      "_caption": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all, and they keep one rule: whoever finds it tells the others first.",
+      "_caption": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all. A compass from the sky sits on the map where all three can read it, and they keep one rule: whoever finds it tells the others first.",
       "negatives": [
         "readable letters, words or numbers on the map",
         "the engineer's face or chest visible in the near foreground"
@@ -187,7 +196,7 @@
       ],
       "scene": "Chrissy is the subject, caught in the exact second of the find: she stands at the right of frame with one arm still holding back a heavy curtain of vines, and behind the parted green the elevator stands found and alive exactly as its locked master plate paints it: doors open, warm golden light spilling out onto the mossy platform, silver ribbon rising into the leaves. But Chrissy's body is already TURNING AWAY from it, toward camera-left, her weight on her back foot, her bright wide smile thrown over her shoulder toward the trail her friends are down: torso and head both beginning the turn, the first step of going to get them. The light from the doors catches her cream blazer and blonde hair. She does not step in. That is the picture.",
       "shot": "close",
-      "_caption": "It is Chrissy who finds it, on an ordinary morning, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends."
+      "_caption": "It is Chrissy who finds it, on an ordinary morning, where the needle pointed, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends."
     },
     {
       "id": "spread-13",
@@ -203,7 +212,7 @@
       ],
       "scene": "High morning sky. The elevator car climbs its silver ribbon exactly as the locked ascending plate paints it: the cylindrical brass-and-glass car warm with inner light, the ribbon running dead vertical through the whole frame, the jungle canopy far below reading as a soft green sea. The car rides in the lower left third of the frame. Inside the glass, three small founder figures stand together, tiny and warm, no faces readable. Up in the upper right, still distant but nearer than it has ever been, floats the island exactly as its locked establishing plate paints it: teardrop rock, terraced gardens, brass spires, catching the sunrise like a promise being kept. The ribbon points at it. Keep the lower right calm: open canopy and morning haze.",
       "shot": "wide",
-      "_caption": "The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
+      "_caption": "The doors are open and the light inside is warm, and there is room for every friend who comes. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
       "anonymous": "three small founder figures inside the glass car, seen tiny through the glass, no faces readable"
     },
     {
@@ -237,11 +246,14 @@
         {
           "id": "maya",
           "pose": "master"
+        },
+        {
+          "id": "the-orange-compass"
         }
       ],
-      "scene": "Maya alone at the rim: she stands at the low stone rail of the terrace, seen from three-quarters BEHIND at medium distance on the left of frame, head and torso pointed the same way, out and down toward the green sea of jungle far below. Her right hand has just opened: one crisp WHITE page slips from it into the bright air below the rail, caught by the light, its small neat writing suggested by soft fine lines that are not readable at this distance. The page is falling toward the world she came from, and it is not smudged. Her laptop rests on the rail under her left hand. The terrace behind her is quiet gold; the jungle below is soft and far. Keep the lower right calm: open sky and the falling page's empty air. CRITICAL GEOGRAPHY: Maya is STANDING ON the one floating island; therefore NO island, rock or city may appear in the sky. The sky beyond the rail is empty warm air and soft cloud, and far below lies only the flat green sea of jungle.",
+      "scene": "Maya alone at the rim: she stands at the low stone rail of the terrace, seen from three-quarters BEHIND at medium distance on the left of frame, head and torso pointed the same way, out and down toward the green sea of jungle far below. Her right hand has just opened: one crisp WHITE page slips from it into the bright air below the rail, caught by the light, its small neat writing suggested by soft fine lines that are not readable at this distance. The page is falling toward the world she came from, and it is not smudged. Her laptop rests on the rail under her left hand, and held gently against the laptop's lid by that same left hand sits her SMALL round pocket compass exactly as the locked prop paints it: burnt-clay orange enamel shell, thin brass rim, short braided cream cord trailing over the rail, plain cream face, single dark orange-tipped needle, no letters or marks on it. The terrace behind her is quiet gold; the jungle below is soft and far. Keep the lower right calm: open sky and the falling page's empty air. CRITICAL GEOGRAPHY: Maya is STANDING ON the one floating island; therefore NO island, rock or city may appear in the sky. The sky beyond the rail is empty warm air and soft cloud, and far below lies only the flat green sea of jungle.",
       "shot": "over-shoulder",
-      "_caption": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.",
+      "_caption": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. I held a compass from the sky, and a friend found the way and told me first. Work hard. Hold your compass. Find the friends who would tell you. Be one back.",
       "negatives": [
         "readable letters, words or numbers on the page",
         "Maya's chest or the front of her blazer visible",
@@ -253,14 +265,19 @@
       "id": "spread-16",
       "setting": "the-jungle",
       "plate": "establishing",
-      "cast": [],
-      "scene": "One young hopeful is the subject: in the first warm light of morning on a jungle trail, an anonymous young traveler with a pack stands still, holding a crisp WHITE unsmudged page in both hands, reading it, then caught mid-glance UPWARD toward a small break in the canopy where plain warm sky shows through. The page's writing reads as small neat suggested lines, not readable letters. Around the traveler the jungle is green and loud and alive, exactly the world of the locked establishing plate. The traveler's face is lifted, lit, and just beginning to smile. If the traveler is missing the image is wrong. Keep the lower right calm: trail and ferns.",
+      "cast": [
+        {
+          "id": "the-orange-compass"
+        }
+      ],
+      "scene": "One young hopeful is the subject: in the first warm light of morning on a jungle trail, an anonymous young traveler with a pack stands still, holding a crisp WHITE unsmudged page in both hands, reading it, then caught mid-glance UPWARD toward a small break in the canopy where plain warm sky shows through. The page's writing reads as small neat suggested lines, not readable letters. From the traveler's pack strap hangs a SMALL round pocket compass exactly as the locked prop paints it: burnt-clay orange enamel shell, thin brass rim, short braided cream cord, plain cream face with a single dark orange-tipped needle, no letters or marks on it. Around the traveler the jungle is green and loud and alive, exactly the world of the locked establishing plate. The traveler's face is lifted, lit, and just beginning to smile. If the traveler is missing the image is wrong. Keep the lower right calm: trail and ferns.",
       "shot": "close",
-      "_caption": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Then make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
+      "_caption": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Keep a compass where you can reach it. Make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
       "anonymous": "one anonymous young hopeful traveler with a pack, holding a white page, face lifted toward the canopy break",
       "negatives": [
         "readable letters, words or numbers on the page",
-        "the floating island visible through the canopy break"
+        "the floating island visible through the canopy break",
+        "an antique compass-rose, star, tick marks, letters or numbers on any compass face (each face is plain cream with ONE dark orange-tipped needle only)"
       ]
     }
   ]

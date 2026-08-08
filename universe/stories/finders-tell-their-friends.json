@@ -1,9 +1,9 @@
 {
   "id": "finders-tell-their-friends",
   "title": "Finders Tell Their Friends",
-  "logline": "A jungle of entrepreneurial opportunity sits under a floating protopian island called Founder Heaven. The only way up is camouflaged space elevators that carry a few founders each before going dark forever. Maya works harder than anyone, misses an elevator by following a myth, watches a prophet's broadcast arrive too late, and learns the one thing the myths and the smudged advice never say: the seekers who make it are the ones whose friends clue them in the moment they find one. She joins a small circle that shares maps honestly, rides up on the next elevator, and tells it straight from above.",
+  "logline": "A jungle of entrepreneurial opportunity sits under a floating protopian island called Founder Heaven. The only way up is camouflaged space elevators that carry everyone who reaches them, until the day each one goes dark forever, and nobody below knows when or why. The island's keepers want the cars full before the dark comes, so they drop small orange compasses into the jungle that point toward the live elevator. Maya works harder than anyone, misses an elevator by following a myth, watches a prophet's broadcast arrive after the dark, and learns the one thing the myths and the smudged advice never say: the seekers who make it in time hold a compass and have friends who clue them in the moment they find one. She joins a small circle that shares maps honestly, rides up with her friends, and tells it straight from above.",
   "spine": "thesis",
-  "spineNote": "The argued object is WHY HARD WORK ALONE DOES NOT FIND THIS SEASON'S ELEVATOR. Three false channels are examined and dismissed in order (myth from below, mistranslated stories from above, broadcast from a prophet), and the true channel is demonstrated rather than asserted: a small circle whose rule is that whoever finds it tells the others first. The coda closes the loop the false channels opened: the ones who ride up owe the ground a story told straight.",
+  "spineNote": "The argued object is WHY HARD WORK ALONE DOES NOT BEAT THE DARK. Three false channels are examined and dismissed in order (myth from below, mistranslated stories from above, broadcast from a prophet), and the true channel is demonstrated rather than asserted: a compass from the keepers in hand and a small circle whose rule is that whoever finds it tells the others first. The coda closes the loop the false channels opened: the ones who ride up owe the ground a story told straight. REVISED 2026-08-08 (Gary): capacity is never scarce (an elevator carries everyone who reaches it); the urgency is the unexplained dark; the keepers' orange compasses are the true help from above, paired against the smudged pages.",
   "refrain": "Finders tell their friends.",
   "status": "full",
   "register": {
@@ -19,7 +19,8 @@
     "the-prophet",
     "the-jungle",
     "founder-heaven",
-    "the-camouflaged-elevator"
+    "the-camouflaged-elevator",
+    "the-orange-compass"
   ],
   "castingSweep": {
     "sweptOn": "2026-08-07",
@@ -58,8 +59,19 @@
         "role": "the camouflaged space elevator",
         "cast": "NEW the-camouflaged-elevator",
         "why": "The spine-object, argued across states (camouflaged, open, ascending, defunct); visual-metaphor kind per SPEC 12."
+      },
+      {
+        "role": "the small orange compass the keepers drop (revision sweep 2026-08-08)",
+        "cast": "NEW the-orange-compass",
+        "why": "No canon prop is a compass or navigation object (swept canon/entities 2026-08-08). Recurring across spreads 6, 11, 15, 16 and future universe properties, so it is a typed prop with locked references rather than prose. Unbranded: clay-orange shell in the universe's existing palette, plain unlettered face."
+      },
+      {
+        "role": "the island's keepers, the benefactor above (revision sweep 2026-08-08)",
+        "cast": "NONE (off-page)",
+        "why": "Never depicted, never named; they exist only as the hand that drops the compasses. No entity: an off-page force needs no reference matrix, and naming them would invite depicting them."
       }
-    ]
+    ],
+    "note": "Original sweep 2026-08-07; two decisions appended by the 2026-08-08 mechanics revision (marked in their role lines). sweptOn kept as the original date."
   },
   "beats": [
     {
@@ -85,10 +97,10 @@
     },
     {
       "n": 4,
-      "text": "Each elevator holds power enough for a few seats. It lifts its handful of founders, and then it goes dark for good. The hopefuls call the little while it is alive a takeoff window. The jungle does not post it anywhere.",
+      "text": "An elevator carries everyone who reaches it. The doors open for a crowd and for the one who comes alone. But one day, for reasons nobody below understands, an elevator goes dark, forever. Nobody knows which day. The hopefuls call the time it is alive a takeoff window. The jungle does not post it anywhere.",
       "location": "the-jungle",
       "characters": [],
-      "provenance": "Brief: 'each elevator has only enough power to carry a few founders up before it goes defunct forever'. 'Takeoff window' is the campaign's coined term, folded in as the hopefuls' own name for the rule (coordinator note, 2026-08-08)."
+      "provenance": "Gary's revision, 2026-08-08: capacity is NOT scarce; the elevator carries everyone who reaches it. The urgency is that an elevator goes dark, forever, for reasons nobody below understands, on a day nobody knows. 'Takeoff window' kept as the hopefuls' name for the time it is alive. (Prior text and provenance: see git history.)"
     },
     {
       "n": 5,
@@ -99,10 +111,10 @@
     },
     {
       "n": 6,
-      "text": "The founders up top tell stories too, about how they made it. They send them down. But the pages fall a long way, and by the time they land the words have smudged into advice that points at nothing. The hopefuls follow it anyway.",
+      "text": "The founders up top tell stories too, and send them down. The pages fall a long way, and they land smudged into advice that points at nothing. So the island's keepers send something surer. They drop small orange compasses into the green, and every needle swings toward the live elevator. The keepers want the cars full before the dark comes.",
       "location": "the-jungle",
       "characters": [],
-      "provenance": "Brief: 'the founders who reached Founder Heaven tell stories of how they made it, but the stories arrive below mistranslated, misleading the hopefuls'."
+      "provenance": "Gary's revision, 2026-08-08: the compass beat. The island's keepers (never named as any real company) want as many seekers as possible to ride up before the dark comes, and airdrop small orange compasses that point toward the live elevator. Paired against the smudged pages: false help and true help fall from the same sky. (Prior text and provenance: see git history.)"
     },
     {
       "n": 7,
@@ -124,12 +136,12 @@
     },
     {
       "n": 9,
-      "text": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.",
+      "text": "One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But nobody knows how long any elevator will stay lit, and by the time anything can be announced to a million people, this one has gone dark, or the dark is too close. Broadcast means too late.",
       "location": "the-jungle",
       "characters": [
         "the-prophet"
       ],
-      "provenance": "Brief required beat: 'a famous prophet with a million followers announces the elevator's location to everyone; by the time he announces it, the seats are already full; broadcast means too late'. Archetype, never a named real person."
+      "provenance": "Gary's revision, 2026-08-08: the prophet still is not lying; his broadcast now arrives after this elevator has gone dark or too close to it, because nobody knows how long any elevator stays lit. Broadcast means too late. (Prior text and provenance: see git history.)"
     },
     {
       "n": 10,
@@ -142,34 +154,34 @@
     },
     {
       "n": 11,
-      "text": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all, and they keep one rule: whoever finds it tells the others first.",
+      "text": "So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all. A compass from the sky sits on the map where all three can read it, and they keep one rule: whoever finds it tells the others first.",
       "location": "the-jungle",
       "characters": [
         "maya",
         "chrissy",
         "engineer"
       ],
-      "provenance": "Brief arc: 'becomes part of a small circle that shares maps honestly'."
+      "provenance": "Gary's revision, 2026-08-08: the circle now holds a compass from the sky beside the honest maps; a compass in hand plus a friend who tells you first is how you make it in time. (Prior text and provenance: see git history.)"
     },
     {
       "n": 12,
-      "text": "It is Chrissy who finds it, on an ordinary morning, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends.",
+      "text": "It is Chrissy who finds it, on an ordinary morning, where the needle pointed, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends.",
       "location": "the-jungle",
       "characters": [
         "chrissy"
       ],
-      "provenance": "Brief moral: finders tell their friends the moment they find one; the anti-prophet beat."
+      "provenance": "Gary's revision, 2026-08-08: one clause added ('where the needle pointed') so the find follows the compass the circle keeps; the vines still nearly hide it, which is the camouflage's power. (Prior text and provenance: see git history.)"
     },
     {
       "n": 13,
-      "text": "The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
+      "text": "The doors are open and the light inside is warm, and there is room for every friend who comes. The jungle lets go of them trail by trail, and the island comes up like a sunrise.",
       "location": "the-jungle",
       "characters": [
         "maya",
         "chrissy",
         "engineer"
       ],
-      "provenance": "Brief arc: 'ascends on the next elevator'."
+      "provenance": "Gary's revision, 2026-08-08: seat scarcity removed; there is room for every friend who comes. (Prior text and provenance: see git history.)"
     },
     {
       "n": 14,
@@ -184,19 +196,19 @@
     },
     {
       "n": 15,
-      "text": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.",
+      "text": "Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. I held a compass from the sky, and a friend found the way and told me first. Work hard. Hold your compass. Find the friends who would tell you. Be one back.",
       "location": "founder-heaven",
       "characters": [
         "maya"
       ],
-      "provenance": "Brief arc: 'tells it straight from above (breaking the mistranslation cycle)'; moral verbatim in spirit: 'work hard, but hard work alone is not sufficient'."
+      "provenance": "Gary's revision, 2026-08-08: the moral gains the compass: work hard, hold your compass, find the friends who would tell you, be one back. (Prior text and provenance: see git history.)"
     },
     {
       "n": 16,
-      "text": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Then make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
+      "text": "Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Keep a compass where you can reach it. Make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.",
       "location": "the-jungle",
       "characters": [],
-      "provenance": "Brief moral, both halves: friends who clue you in, and the ascended telling it straight."
+      "provenance": "Gary's revision, 2026-08-08: the coda gains the compass: keep a compass where you can reach it; finders tell their friends; the ones who ride up tell it straight. (Prior text and provenance: see git history.)"
     }
   ],
   "writesBack": []

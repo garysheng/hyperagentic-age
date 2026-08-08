@@ -99,7 +99,7 @@
   },
   "prose": {
     "voice": "",
-    "lore": "The spine object of Finders Tell Their Friends: the only way up to Founder Heaven. Every elevator holds power enough for a few seats, lifts its handful of founders, and then goes dark for good. They are camouflaged so well that hard work alone walks straight past them; the only reliable channel to a live one is a friend who found it and told you first.",
+    "lore": "The spine object of Finders Tell Their Friends: the only way up to Founder Heaven. An elevator carries everyone who reaches it; then one day, for reasons nobody below understands, it goes dark for good, and nobody knows which day. They are camouflaged so well that hard work alone walks straight past them; the reliable way to reach one in time is a keepers' orange compass in hand and a friend who found it and told you first. (Mechanics revised by Gary 2026-08-08: capacity was never the scarcity; the unexplained dark is.)",
     "rules": "Pass the correct state sheet as reference on every render (master for found-and-alive, camouflaged for hidden, ascending for the climb, defunct for dead), chained off the master identity, with the code-drawn blueprint as geometry conditioning. Scenes may relocate an elevator anywhere in the jungle, but the car, collar, ribbon and platform design never changes between elevators or states. The destination island never appears in this entity's own sheets; founder-heaven owns its silhouette."
   }
 }

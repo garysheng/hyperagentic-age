@@ -14,7 +14,7 @@ There is one way up. Elevators stand in the jungle, silver threads running from 
 
 ## Spread 4
 
-Each elevator holds power enough for a few seats. It lifts its handful of founders, and then it goes dark for good. The hopefuls call the little while it is alive a takeoff window. The jungle does not post it anywhere.
+An elevator carries everyone who reaches it. The doors open for a crowd and for the one who comes alone. But one day, for reasons nobody below understands, an elevator goes dark, forever. Nobody knows which day. The hopefuls call the time it is alive a takeoff window. The jungle does not post it anywhere.
 
 ## Spread 5
 
@@ -22,7 +22,7 @@ When an elevator dies, the people who missed it gather at its feet and tell stor
 
 ## Spread 6
 
-The founders up top tell stories too, about how they made it. They send them down. But the pages fall a long way, and by the time they land the words have smudged into advice that points at nothing. The hopefuls follow it anyway.
+The founders up top tell stories too, and send them down. The pages fall a long way, and they land smudged into advice that points at nothing. So the island's keepers send something surer. They drop small orange compasses into the green, and every needle swings toward the live elevator. The keepers want the cars full before the dark comes.
 
 ## Spread 7
 
@@ -34,7 +34,7 @@ She follows the most famous myth in the jungle to the place where a great elevat
 
 ## Spread 9
 
-One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But by the time anything can be announced to a million people, the seats are already full. Broadcast means too late.
+One day a famous prophet arrives, and a million followers arrive behind him. He climbs the tallest rock and announces the location of a live elevator to everyone at once. He is not lying. But nobody knows how long any elevator will stay lit, and by the time anything can be announced to a million people, this one has gone dark, or the dark is too close. Broadcast means too late.
 
 ## Spread 10
 
@@ -42,15 +42,15 @@ That night Maya counts every founder she has ever known who made it up. Not one 
 
 ## Spread 11
 
-So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all, and they keep one rule: whoever finds it tells the others first.
+So she stops searching alone. She finds Chrissy, who lights up when she has something to share, and the engineer, who says plainly what he knows and what he does not. They draw their maps honestly, dead ends and all. A compass from the sky sits on the map where all three can read it, and they keep one rule: whoever finds it tells the others first.
 
 ## Spread 12
 
-It is Chrissy who finds it, on an ordinary morning, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends.
+It is Chrissy who finds it, on an ordinary morning, where the needle pointed, behind a curtain of vines she almost did not pull back. She does not climb a rock. She does not gather a crowd. She turns around and goes to get her friends.
 
 ## Spread 13
 
-The doors are open and the light inside is warm, and there are seats enough for three. The jungle lets go of them trail by trail, and the island comes up like a sunrise.
+The doors are open and the light inside is warm, and there is room for every friend who comes. The jungle lets go of them trail by trail, and the island comes up like a sunrise.
 
 ## Spread 14
 
@@ -58,8 +58,8 @@ Founder Heaven is smaller than the myths and kinder than the smudged advice. And
 
 ## Spread 15
 
-Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. A friend found the way and told me first. Find the friends who would tell you. Be one back.
+Maya remembers the pages that fall and smudge. So she writes her story plainly and checks every word before she sends it down. I worked hard, and hard work was not enough. I held a compass from the sky, and a friend found the way and told me first. Work hard. Hold your compass. Find the friends who would tell you. Be one back.
 
 ## Spread 16
 
-Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Then make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.
+Somewhere below, a hopeful reads a page that finally says what happened. So work hard. Keep a compass where you can reach it. Make sure the right people know your name when they find a silver thread in the green. Finders tell their friends. And the ones who ride up tell it straight.

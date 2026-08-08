@@ -1,0 +1,39 @@
+{
+  "id": "the-orange-compass",
+  "kind": "prop",
+  "originStory": "finders-tell-their-friends",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-08",
+    "note": "Shot and read back in the commissioned mechanics-revision run 2026-08-08 (Gary's written brief: small orange compasses, unbranded, clay/orange family). Seed blessed in-run by the steward against the declared invariants; flag in run report for Gary's eyes."
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-orange-compass/hero.png",
+      "detail": "reference/the-orange-compass/detail.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "palm-sized-round-pocket-compass-on-a-short-braided-cream-cord",
+      "burnt-clay-orange-enamel-shell-with-a-thin-brass-rim",
+      "plain-warm-cream-face-with-no-letters-numbers-or-degree-marks",
+      "single-dark-needle-tipped-in-the-same-clay-orange",
+      "no-logo-or-brand-mark-anywhere",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE ORANGE COMPASS: a palm-sized round pocket compass in a burnt-clay orange enamel shell with a thin brass rim, hung on a short braided cream cord. Its face is plain warm cream with a single dark needle tipped in the same clay orange. NO letters, numbers, degree marks, logos or brand marks anywhere on it. The orange sits in this universe's own clay family, warm and matte, never neon. Warm-editorial ink-and-wash, never photoreal."
+    },
+    "scale": {
+      "size": "about 45 mm across, palm-sized; hangs at the collarbone or a pack strap on its short cord, and reads as a small bright coin of clay orange at any distance"
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The keepers' answer to the smudged pages: the island's keepers want the cars full before the dark comes, so they drop these small compasses into the jungle by the armful, and every needle swings toward the live elevator. A compass in hand plus a friend who tells you first is how a seeker makes it in time. First appears in Finders Tell Their Friends (spreads 6, 11, 15, 16).",
+    "rules": "An unbranded object inside the fable: never a company name, never a logo, never lettering on the face. The shell's orange is the universe's existing clay/orange family (the same family as Maya's rust scarf), matte and warm, never neon and never safety-vest orange. Small in frame almost everywhere: a palm-sized object held, hung from a pack strap, or resting on a map. The needle may glow very faintly warm in dim scenes, never like a screen."
+  },
+  "name": "The Orange Compass"
+}
