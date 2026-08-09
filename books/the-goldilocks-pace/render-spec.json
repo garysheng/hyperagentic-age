@@ -39,7 +39,8 @@
         "jungle or dense forest (this is the open plain side of the door)",
         "her blazer sleeves reaching her wrists (they are pushed UP to the elbow, forearms bare)"
       ],
-      "_caption": "On the other side of the portal is open ground. Every founder who makes it through arrives at the same place: a green plain with room to build, and a machine waiting with their name on it. The machine is an engine that can run at any speed. Any speed at all."
+      "_caption": "On the other side of the portal is open ground. Every founder who makes it through arrives at the same place: a green plain with room to build, and a machine waiting with their name on it. The machine is an engine that can run at any speed. Any speed at all.",
+      "pos": "top-right"
     },
     {
       "id": "spread-02",
@@ -59,7 +60,8 @@
         "any founder close enough to have a readable face",
         "panel borders or a grid layout"
       ],
-      "_caption": "The engines are identical. The plots are identical. On day one, the only thing that separates one founder from another is the dial on top of the engine. Nobody tells you where to set it."
+      "_caption": "The engines are identical. The plots are identical. On day one, the only thing that separates one founder from another is the dial on top of the engine. Nobody tells you where to set it.",
+      "pos": "top-right"
     },
     {
       "id": "spread-03",
@@ -79,7 +81,8 @@
         "fire, smoke or destruction (heat reads as glow and blur, never disaster)",
         "more than one engine"
       ],
-      "_caption": "One founder pushes his dial as far as it goes. The engine roars. Towers rise overnight, whole floors at a time. From a distance it looks like winning."
+      "_caption": "One founder pushes his dial as far as it goes. The engine roars. Towers rise overnight, whole floors at a time. From a distance it looks like winning.",
+      "pos": "top-right"
     },
     {
       "id": "spread-04",
@@ -88,7 +91,7 @@
       "anonymous": "the hot founder, one tiny distant figure at the tower's base, face unreadable",
       "scene": "The hollow architecture is the subject: a tall, hastily raised tower seen up close, filling most of the frame, and up close it is wrong. Doors on its upper floors open onto empty air with no balcony and no floor beyond the threshold. An exterior stair climbs the facade and simply ends halfway, hanging. Through the large unfinished window openings the floors read as thin shells: rooms with no backs, walls with nothing behind them, like stage scenery seen from the wrong side. The craftsmanship is fast, not evil: pale fresh materials, joints unfinished, edges never closed. At the tower's base, tiny against it, the hot founder stands looking up, face unreadable. Warm daylight, and the wrongness is quiet: nothing is collapsing, it is simply hollow. Composition: the tower rises through the left and center of the frame; the upper right sky stays calm and open.",
       "shot": "imagined",
-      "pos": "top",
+      "pos": "bottom-right",
       "negatives": [
         "the engine in frame",
         "collapse, rubble, fire or catastrophe",
@@ -110,7 +113,8 @@
         "the engine in frame",
         "rain, storm or melodrama"
       ],
-      "_caption": "The people who moved in move out. They leave the way trust leaves: quietly, no slam, just a door that does not open again. A floor can be rebuilt in a night. A tenant cannot."
+      "_caption": "The people who moved in move out. They leave the way trust leaves: quietly, no slam, just a door that does not open again. A floor can be rebuilt in a night. A tenant cannot.",
+      "pos": "top-right"
     },
     {
       "id": "spread-06",
@@ -130,7 +134,8 @@
         "any glow, hum lines or output from the engine",
         "more than one engine"
       ],
-      "_caption": "Another founder barely starts her engine. She circles it. She reads about it. She waits for it to be safer, cheaper, more proven. The plain around her fills with lights, and her plot stays dark, and the era does not wait with her."
+      "_caption": "Another founder barely starts her engine. She circles it. She reads about it. She waits for it to be safer, cheaper, more proven. The plain around her fills with lights, and her plot stays dark, and the era does not wait with her.",
+      "pos": "bottom-right"
     },
     {
       "id": "spread-07",
@@ -149,7 +154,8 @@
         "the needle leaning left or right (it stands exactly upright)",
         "a second dial or gauge"
       ],
-      "_caption": "Too hot burns the trust down. Too cold never builds it. Somewhere between the roar and the silence there is a third setting. The old story had it right: you are looking for just right."
+      "_caption": "Too hot burns the trust down. Too cold never builds it. Somewhere between the roar and the silence there is a third setting. The old story had it right: you are looking for just right.",
+      "pos": "top-right"
     },
     {
       "id": "spread-08",
@@ -168,7 +174,8 @@
         "the pit ragged, collapsing or muddy (its walls are clean and true)",
         "other people on her plot"
       ],
-      "_caption": "Maya walks her plot before she builds anything. Then she digs. To carry a tall building, the ground has to be opened deep first. The tallest towers on the plain start as the deepest holes."
+      "_caption": "Maya walks her plot before she builds anything. Then she digs. To carry a tall building, the ground has to be opened deep first. The tallest towers on the plain start as the deepest holes.",
+      "pos": "top-left"
     },
     {
       "id": "spread-09",
@@ -176,7 +183,7 @@
       "cast": [],
       "scene": "NOBODY IS IN THIS PICTURE: no people, no figures anywhere, above ground or below. This is ONE continuous cutaway landscape in a single unbroken frame, never panels: one shared ground plane runs straight across the middle of the image, carrying two young skylines, and the earth below it is cut open to show what each city buried. Under the LEFT skyline, a clean subway line: one elegant tunnel drawn straight and true, evenly spaced arches, tidy track, and clearly ROOM left beside it for more lines to be added, with a gracefully capped stub where the next extension will join. Under the RIGHT skyline, a tangled one: tunnels crossing and doubling back, patched with mismatched braces, pipes rerouted around pipes, dead-end spurs, no room to add anything. The contrast reads left to right as order and margin against knot and patch. Above ground both cities are similar young pale towers in warm daylight; the difference is ALL underground. The sky along the top of the frame stays calm and open.",
       "shot": "imagined",
-      "pos": "top",
+      "pos": "top-left",
       "allowMultiPanel": false,
       "negatives": [
         "panel borders, split panels, a dividing line or a comic grid (one continuous cutaway image)",
@@ -209,7 +216,8 @@
         "a second hand or second person",
         "her turning the dial violently (the hand rests, the setting is made)"
       ],
-      "_caption": "Then she sets the dial. She picks the fastest speed her foundations can carry, and she leaves it there. The engine hums. It hums in week nine the way it hummed in week one. Steady is a speed too."
+      "_caption": "Then she sets the dial. She picks the fastest speed her foundations can carry, and she leaves it there. The engine hums. It hums in week nine the way it hummed in week one. Steady is a speed too.",
+      "pos": "bottom-right"
     },
     {
       "id": "spread-11",
@@ -233,7 +241,8 @@
         "the scaffolding collapsed, thrown down or scattered (removed struts are stacked neatly)",
         "lettering or stencils on the crate or parachute"
       ],
-      "_caption": "Every season, the keepers send down a better engine. Maya's first job on delivery day is deletion. Half her scaffolding existed to steady the old engine, and the new one does not need it. Guardrails are built for the machine you had. She takes them down on purpose, the day the new machine arrives."
+      "_caption": "Every season, the keepers send down a better engine. Maya's first job on delivery day is deletion. Half her scaffolding existed to steady the old engine, and the new one does not need it. Guardrails are built for the machine you had. She takes them down on purpose, the day the new machine arrives.",
+      "pos": "top-right"
     },
     {
       "id": "spread-12",
@@ -253,7 +262,8 @@
         "any figure close enough to have a readable face (all figures including Maya are tiny at this distance)",
         "gloating, caricature or comic exaggeration"
       ],
-      "_caption": "A year passes. The tower of the founder who sprinted stands wrapped in repairs he can no longer afford. The plot of the founder who waited is still dark. And Maya's tower is rising faster than either of them ever moved, floor after solid floor."
+      "_caption": "A year passes. The tower of the founder who sprinted stands wrapped in repairs he can no longer afford. The plot of the founder who waited is still dark. And Maya's tower is rising faster than either of them ever moved, floor after solid floor.",
+      "pos": "top-left"
     },
     {
       "id": "spread-13",
@@ -278,7 +288,8 @@
         "more than one engine",
         "a crowd (two visitors only)"
       ],
-      "_caption": "Visitors ask Maya where she got her engine. She shows them: the same engine everyone has. What they are looking for is the dial she can defend, the deep hole under her ground floor, and the deletion day she keeps every season. Her secret is a pace she can hold."
+      "_caption": "Visitors ask Maya where she got her engine. She shows them: the same engine everyone has. What they are looking for is the dial she can defend, the deep hole under her ground floor, and the deletion day she keeps every season. Her secret is a pace she can hold.",
+      "pos": "top-left"
     },
     {
       "id": "spread-14",
@@ -298,7 +309,8 @@
         "more than one engine",
         "darkness or gloom (dusk is warm gold, never cold)"
       ],
-      "_caption": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds."
+      "_caption": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds.",
+      "pos": "top-left"
     }
   ]
 }
