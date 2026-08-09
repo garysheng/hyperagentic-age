@@ -60,5 +60,11 @@
     "to": "finders-tell-their-friends",
     "story": "finders-tell-their-friends",
     "note": "the spine object: hidden, open master, waning, and closed blossom-ring states argued across the book"
+  },
+  {
+    "from": "takeoff-thursdays",
+    "rel": "contradicts",
+    "to": "the-plain-door",
+    "note": "spread-19's scene positively demanded a soft warm room sliver through the ajar gap while the door's invariant then read 'open states show only warm light, never what is behind'. The operator saw and accepted the shipped render (2026-08). Adjudicated 2026-08-09 by narrowing the invariant: warm-light-only stays the default, a scene-named soft warm sliver is legal, darkness/ominous stays banned. Framework gap filed as ABU docs/GAPS.md G31 (nothing gates prose-vs-invariant contradictions at assemble time)."
   }
 ]

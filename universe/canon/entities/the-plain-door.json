@@ -29,7 +29,7 @@
       "round-brass-knob-at-mid-height-on-the-LEFT-edge-as-viewed",
       "no-lettering-no-sign-no-plaque-on-the-door-face-ever",
       "identical-door-design-in-every-state-and-every-era",
-      "open-states-show-only-warm-light-through-the-gap-never-what-is-behind",
+      "open-states-default-to-warm-light-only-a-soft-warm-room-sliver-only-when-the-scene-names-it",
       "museum-state-frame-plaque-spotlight-rope-sit-beside-or-below-never-on-the-door",
       "nothing-ominous-through-any-gap-warm-light-never-darkness",
       "warm-editorial-register-never-photoreal"
@@ -48,7 +48,7 @@
             "ajar",
             "master"
           ],
-          "bake": "The same door open a little toward the viewer, warm golden light spilling through the gap. NOTHING is visible behind the door: no room, no landscape, no object, only warm light. Never darkness, never anything ominous through the gap."
+          "bake": "The same door open a little toward the viewer, warm golden light spilling through the gap. By DEFAULT nothing is visible behind the door: no room, no landscape, no object, only warm light. A soft, warm, low-detail sliver of the room behind may appear ONLY when this spread's scene names it explicitly. Never darkness, never anything ominous through the gap."
         },
         "museum": {
           "sheets": [
@@ -63,7 +63,7 @@
         "round brass knob at mid-height on the LEFT edge as viewed",
         "leaf roughly twice as tall as wide, standard door proportions",
         "NO lettering, sign, or plaque anywhere on the door face",
-        "any open gap shows only warm light, never a room or scene behind",
+        "any open gap shows warm light; a soft warm room sliver appears ONLY when the spread's scene names it, and never darkness or anything ominous",
         "museum furniture (frame, plaque, spotlight, rope) sits beside or below, never on the door",
         "warm-editorial, never photoreal"
       ]
@@ -72,7 +72,7 @@
   "prose": {
     "voice": "",
     "lore": "The identical plain unlabeled door through which every era's founders walked. The book's argument is that it looked like nothing at the time and got its plaque only in hindsight: the same door in a dorm hallway, a city street, and a museum hall, and the repetition IS the thesis.",
-    "rules": "Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state."
+    "rules": "Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall — a dorm hallway, a city street, a museum — but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. EARNED CHANGE 2026-08-09: the open-gap law was narrowed from 'never what is behind' to 'a soft warm scene-named sliver is legal' after takeoff-thursdays spread-19 (a warm desk/mug/whiteboard sliver through the ajar gap) was seen and accepted by the operator; warm-light-only remains the default, and darkness or ominous content through any gap remains banned outright."
   },
   "status": "locked"
 }
