@@ -1,0 +1,142 @@
+{
+  "id": "boarding-pass",
+  "name": "READY FOR TAKEOFF boarding-pass back print",
+  "kind": "generator",
+  "entrypoint": "generate.py",
+  "determinism": "pure",
+  "note": "A surprise design for the Takeoff merch line, fusing the line's two existing jokes into one object: the PROUD/'your favorite Anthropic evangelist' relational line becomes the PASSENGER field, and READY FOR TAKEOFF becomes the ticket's STATUS. The FROM and TO fields carry the campaign thesis in four words each. Drawn, never prompted: a boarding pass is dense small text plus ruled geometry, the exact failure mode of an image model and the exact strength of code (SPEC 4.11). The TYPE AND RULES are one ink, cream #fffdf7 on transparency; the mascot on the stub keeps its canon coral colours, which is the one deliberate accent and is fine on the DTG print-on-demand path this line already uses (canon also permits an all-cream mono rendition if a true single-screen version is ever wanted); the header bar and its lettering are KNOCKOUT (filled cream with the letters punched to transparency) so the shirt shows through rather than needing a second screen. The only raster input is the locked angel-clawd wings-raised sheet, composited on the tear-off stub and never re-generated here. Canvas is 4500x5400 = 15x18in at 300 DPI, the line's standard print area.",
+  "params": {
+    "canvas": [
+      4500,
+      5400
+    ],
+    "dpi": 300,
+    "ink": "#fffdf7",
+    "margin": 260,
+    "ticketTop": 300,
+    "ticketBottomMargin": 300,
+    "corner": 90,
+    "stroke": 18,
+    "innerPad": 150,
+    "headerBarHeight": 380,
+    "rowGap": 120,
+    "labelSize": 78,
+    "labelGap": 34,
+    "stripValueSize": 150,
+    "dash": [
+      70,
+      50
+    ],
+    "perfWidth": 12,
+    "notchRadius": 70,
+    "mascotWidthFrac": 0.3,
+    "stubGap": 150,
+    "statusLabelOffset": 90,
+    "barcodeHeight": 200,
+    "barcodePattern": [
+      22,
+      18,
+      46,
+      20,
+      14,
+      26,
+      62,
+      18,
+      22,
+      40,
+      16,
+      20,
+      54,
+      24,
+      18,
+      30,
+      44,
+      16,
+      26,
+      22,
+      58,
+      20,
+      14,
+      34,
+      48,
+      18,
+      22,
+      26,
+      40,
+      20,
+      16,
+      44,
+      30,
+      18,
+      52,
+      22,
+      14,
+      28,
+      60,
+      20
+    ],
+    "header": "BOARDING PASS",
+    "flight": "CLAUDE 001",
+    "rows": {
+      "passengerLabel": "PASSENGER",
+      "passenger": "YOUR FAVORITE ANTHROPIC EVANGELIST",
+      "fromLabel": "FROM",
+      "from": "DOING IT ALL YOURSELF",
+      "toLabel": "TO",
+      "to": "ESCAPE VELOCITY"
+    },
+    "strip": [
+      [
+        "GATE",
+        "NOW"
+      ],
+      [
+        "SEAT",
+        "1A"
+      ],
+      [
+        "BOARDING",
+        "OPEN"
+      ]
+    ],
+    "statusLabel": "STATUS",
+    "status": "READY FOR TAKEOFF",
+    "mascot": "../../reference/angel-clawd/wings-raised/hero.png",
+    "out": "out/boarding-pass-back.png",
+    "fonts": {
+      "display": {
+        "path": "/Users/garysheng/Library/Fonts/Anton-Regular.ttf",
+        "index": 0,
+        "name": "Anton Regular"
+      },
+      "label": {
+        "path": "/System/Library/Fonts/Supplemental/Courier New Bold.ttf",
+        "index": 0,
+        "name": "Courier New Bold"
+      }
+    },
+    "ticketBottomPad": 220
+  },
+  "inputs": [
+    "reference/angel-clawd/wings-raised/hero.png"
+  ],
+  "outputs": [
+    {
+      "path": "out/boarding-pass-back.png",
+      "description": "single-ink cream boarding-pass back print, 4500x5400 @300 DPI, transparent ground"
+    }
+  ],
+  "install": {},
+  "proof": {
+    "sheet": "proof/tee-proof.png",
+    "assertions": [
+      "every field is legible at shirt scale on a dark garment ground, including the smallest label row",
+      "all TYPE and rules are the single cream ink; the only other colours in the file belong to the mascot",
+      "the header bar reads as knockout, with the garment showing through the letters rather than a second colour behind them",
+      "the perforation and its two edge notches read as a tear-off stub, not as a stray dashed line",
+      "the mascot on the stub is the locked wings-raised sheet, pixel-identical to canon, not a re-render",
+      "the ticket outline hugs its content: no dead band under the stub",
+      "nothing touches the edge of the 15x18in print area"
+    ]
+  }
+}
