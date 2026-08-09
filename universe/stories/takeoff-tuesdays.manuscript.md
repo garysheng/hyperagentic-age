@@ -1,8 +1,8 @@
-# Takeoff Thursdays
+# Takeoff Tuesdays
 
 ## Spread 1
 
-There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Thursdays the door is open. Come on Thursday. Leave flying.
+There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Tuesdays the door is open. Come on Tuesday. Leave flying.
 
 ## Spread 2
 
@@ -18,7 +18,7 @@ David's job is older than software. He notices who is standing alone at the edge
 
 ## Spread 5
 
-Every Thursday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.
+Every Tuesday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.
 
 ## Spread 6
 
@@ -38,7 +38,7 @@ Underneath every one of them hums the same foundation. Because they all build on
 
 ## Spread 10
 
-Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Thursday. Leave flying.
+Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Tuesday. Leave flying.
 
 ## Spread 11
 
@@ -50,11 +50,11 @@ The ones who flew keep coming back. They stand where they once sat, and they han
 
 ## Spread 13
 
-Some Thursdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.
+Some Tuesdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.
 
 ## Spread 14
 
-The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Thursday. Leave flying.
+The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Tuesday. Leave flying.
 
 ## Spread 15
 
@@ -78,4 +78,4 @@ So bring the thing you are building. Bring the voice memo and the hunch. The doo
 
 ## Spread 20
 
-Come on Thursday. Leave flying.
+Come on Tuesday. Leave flying.

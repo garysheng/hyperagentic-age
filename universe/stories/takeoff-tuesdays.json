@@ -1,10 +1,10 @@
 {
-  "id": "takeoff-thursdays",
-  "title": "Takeoff Thursdays",
-  "logline": "Anthropic builds the most valuable community in the world for agentic startups, and it starts as one ordinary Thursday in one good ordinary room. Gary names what the founders are looking at. David introduces everyone in it. The startups leave flying.",
+  "id": "takeoff-tuesdays",
+  "title": "Takeoff Tuesdays",
+  "logline": "Anthropic builds the most valuable community in the world for agentic startups, and it starts as one ordinary Tuesday in one good ordinary room. Gary names what the founders are looking at. David introduces everyone in it. The startups leave flying.",
   "spine": "vision-thesis",
   "spineNote": "A VISION-THESIS, not a hero-journey: nobody arcs. The book argues one claim, that the most valuable community in the world for agentic startups forms at Anthropic, by showing the mechanisms that compound it: the weekly ritual, the introductions, the paved playbooks, the shared foundation. Gary and David never change; the community grows around their two unchanging crafts. The imagined beats are labeled as imagination in their provenance; the mechanism beats trace to real receipts.",
-  "refrain": "Come on Thursday. Leave flying.",
+  "refrain": "Come on Tuesday. Leave flying.",
   "status": "full",
   "register": {
     "id": null,
@@ -26,7 +26,7 @@
     "founder-paradise"
   ],
   "aimDiscipline": [
-    "THE REFRAIN CHANGES OBJECTS. 'Come on Thursday. Leave flying.' is spoken to a founder (1), to a batch (10), to other cities (14), and finally to the reader (20). Each refrain spread must show WHO is being invited and what flying looks like for them.",
+    "THE REFRAIN CHANGES OBJECTS. 'Come on Tuesday. Leave flying.' is spoken to a founder (1), to a batch (10), to other cities (14), and finally to the reader (20). Each refrain spread must show WHO is being invited and what flying looks like for them.",
     "GARY AND DAVID ARE REAL PEOPLE: stylized editorial likeness, never photoreal, public professional persona only. Gary's locked invariants include the yellow smiley patch (left chest) and orange pixel-mascot patch (right chest) on the light-wash denim jacket; name both in every prompt that dresses him.",
     "THE ROOM IS THE ARGUMENT AND MUST STAY ORDINARY: no soaring ceilings, no branded wall, no dramatic lighting. The thesis is that the most valuable community in the world meets in a good ordinary room.",
     "TWO CRAFTS, KEPT DISTINCT: Gary names things (maps, plates, the window, the stack); David joins people (his hand already out, two strangers becoming colleagues). A spread should never blur which craft is on stage.",
@@ -35,13 +35,13 @@
   "beats": [
     {
       "n": 1,
-      "text": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Thursdays the door is open. Come on Thursday. Leave flying.",
+      "text": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Tuesdays the door is open. Come on Tuesday. Leave flying.",
       "characters": [
         "gary",
         "david-kobrosky"
       ],
       "location": "the-room",
-      "provenance": "Gary's commission (2026-08-09): Anthropic creating the most valuable community in the world for agentic startups. The Takeoff program and its Thursday ritual are real: the YC deck, script.md section 23, 'Jerry is in our San Francisco office every Thursday for Takeoff Thursdays.' The room's ordinariness is the-room's own locked law."
+      "provenance": "Gary's commission (2026-08-09): Anthropic creating the most valuable community in the world for agentic startups. The Takeoff program and its Tuesday ritual are real: the YC deck, script.md section 23, 'Jerry is in our San Francisco office every Tuesday for Takeoff Tuesdays.' The room's ordinariness is the-room's own locked law."
     },
     {
       "n": 2,
@@ -74,7 +74,7 @@
     },
     {
       "n": 5,
-      "text": "Every Thursday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
+      "text": "Every Tuesday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
       "characters": [
         "maya",
         "chrissy",
@@ -82,7 +82,7 @@
         "gary"
       ],
       "location": "the-room",
-      "provenance": "Takeoff Thursdays as practiced: deck section 23, Jerry in the SF office weekly. The show-what-you-built culture is the deck's warp-speed iteration doctrine made communal."
+      "provenance": "Takeoff Tuesdays as practiced: deck section 23, Jerry in the SF office weekly. The show-what-you-built culture is the deck's warp-speed iteration doctrine made communal."
     },
     {
       "n": 6,
@@ -127,7 +127,7 @@
     },
     {
       "n": 10,
-      "text": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Thursday. Leave flying.",
+      "text": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Tuesday. Leave flying.",
       "characters": [
         "maya",
         "winged-startup"
@@ -154,11 +154,11 @@
         "gary"
       ],
       "location": "the-room",
-      "provenance": "Imagined norm, seeded by the real one: Jerry returns every Thursday and his practices are shared with new founders (deck section 23). Alumni-teach-the-batch is the vision-thesis extrapolation."
+      "provenance": "Imagined norm, seeded by the real one: Jerry returns every Tuesday and his practices are shared with new founders (deck section 23). Alumni-teach-the-batch is the vision-thesis extrapolation."
     },
     {
       "n": 13,
-      "text": "Some Thursdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
+      "text": "Some Tuesdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
       "characters": [
         "dario"
       ],
@@ -167,7 +167,7 @@
     },
     {
       "n": 14,
-      "text": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Thursday. Leave flying.",
+      "text": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Tuesday. Leave flying.",
       "characters": [
         "david-kobrosky",
         "the-plain-door"
@@ -227,7 +227,7 @@
     },
     {
       "n": 20,
-      "text": "Come on Thursday. Leave flying.",
+      "text": "Come on Tuesday. Leave flying.",
       "characters": [
         "winged-startup",
         "the-plain-door"

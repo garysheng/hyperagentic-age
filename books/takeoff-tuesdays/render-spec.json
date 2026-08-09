@@ -1,6 +1,6 @@
 {
-  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays",
-  "story": "takeoff-thursdays",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-tuesdays",
+  "story": "takeoff-tuesdays",
   "provider": "gpt-image-2",
   "size": "1536x1024",
   "preamble": {},
@@ -24,7 +24,7 @@
       ],
       "scene": "A ROOMFUL OF PEOPLE is the subject. In a good ordinary working room, six young founders stand and sit in loose knots, mid-conversation, laptops and mugs among them. GARY stands at frame LEFT in his light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest, listening to a founder, head tilted. DAVID KOBROSKY stands at frame RIGHT near the plain door, greeting an arriving founder. Warm evening lamp light, big plain windows showing dusk. The room stays ordinary: mismatched chairs, a whiteboard with half-erased diagrams, printouts taped to the wall. Keep the bottom-right quarter calm, plain floor and soft light. If the room is empty of people the image is wrong.",
       "shot": "wide",
-      "_caption": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Thursdays the door is open. Come on Thursday. Leave flying.",
+      "_caption": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Tuesdays the door is open. Come on Tuesday. Leave flying.",
       "anonymous": "six founders in their twenties and thirties, varied builds and skin tones, casual clothes, mid-conversation in loose knots",
       "pos": "top-left"
     },
@@ -125,7 +125,7 @@
       ],
       "scene": "A CIRCLE OF BUILDERS AROUND A TABLE is the subject, eight people filling the frame. Desks have been pushed into a rough ring under warm lamps, night behind the windows. MAYA in her sage-olive blazer sets a small device on the table. CHRISSY, blonde hair down, cream blazer, leans forward on her elbows grinning. The ENGINEER in his charcoal zip hoodie and rounded dark glasses turns a laptop to face the others. GARY sits among them, denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest, listening. Four more founders fill out the circle, seated and perched on desk edges. Mugs, cables, pizza boxes at the edge. Everything on the table is mid-demonstration, nothing staged. Keep the lower-right corner calm.",
       "shot": "wide",
-      "_caption": "Every Thursday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
+      "_caption": "Every Tuesday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
       "anonymous": "four more founders of varied builds and skin tones filling out the circle, seated and perched on desk edges",
       "pos": "bottom-left"
     },
@@ -257,7 +257,7 @@
       ],
       "scene": "A FOUNDER WATCHING HER STARTUP LIFT is the subject. MAYA stands at frame LEFT in her sage-olive blazer, seen in warm three-quarter from behind-left, face turned up and away from camera in profile, laughing. Rising through the RIGHT half of the frame, the winged block-tower startup climbs into warm evening sky above the room's open window, wings spread, small and gaining height, trailing two or three soft paper-warm motion strokes. IGNORE THE SIZE AND PLACEMENT OF THE FIGURE IN THE SUPPLIED WINGED-STARTUP PLATE: here it is airborne, tilted into a climb, one-quarter the height of the frame. The room's window frame anchors the lower edge. Keep the top of the frame open sky.",
       "shot": "two-shot",
-      "_caption": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Thursday. Leave flying.",
+      "_caption": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Tuesday. Leave flying.",
       "pos": "top-right"
     },
     {
@@ -331,7 +331,7 @@
       ],
       "scene": "A QUIET LISTENER AT THE BACK OF A WORKING ROOM is the subject. At the far end of the room a half-circle of founders is deep in discussion around a table, faces toward each other, gesturing at a laptop. In the near LEFT foreground, DARIO stands just inside the plain door, hands folded, leaning one shoulder against the wall, listening with visible delight, making no move toward the group. He is closer to the lens, cropped at the thigh by the frame's lower edge. Nobody in the discussion has turned toward him. Warm evening light. The distance between him and the group is the picture's subject: keep clear floor between them.",
       "shot": "wide",
-      "_caption": "Some Thursdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
+      "_caption": "Some Tuesdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
       "anonymous": "a half-circle of founders mid-discussion at the far end of the room, faces toward each other",
       "pos": "top-left"
     },
@@ -354,7 +354,7 @@
       ],
       "scene": "AN IMAGINED PANORAMA OF FOUR WALLS is the subject, painted as one continuous warm frieze, DAVID KOBROSKY standing small at the far left edge with his hand resting on the first door's frame, seen from behind at one-eighth frame height. Across the frame, four different walls stand side by side in one dreamlike row: a brick Austin storefront wall, a London stone terrace wall, a Bangalore concrete wall with a ceiling fan visible through a window, a Tokyo timber-and-plaster wall. Set into EACH wall is the IDENTICAL plain door leaf, exactly the same unbranded design, same handle height, all four shut. Render each door exactly one state: the master shut state. Warm evening light unifies the frieze. No lettering, no flags, no signs naming the cities.",
       "shot": "imagined",
-      "_caption": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Thursday. Leave flying.",
+      "_caption": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Tuesday. Leave flying.",
       "pos": "bottom-left"
     },
     {
@@ -487,7 +487,7 @@
       ],
       "scene": "A CLIMB INTO MORNING SKY is the subject. Vast warm dawn sky fills the frame. The winged block-tower startup climbs through its upper LEFT third, wings wide, tilted into ascent, trailing two soft paper-warm strokes; IGNORE THE SIZE AND PLACEMENT IN THE SUPPLIED PLATE, here it is airborne and one-fifth the frame's height. Far below at the bottom edge, tiny, the plain shut door stands alone in a low ordinary wall on a rooftop, rendered exactly one state, the master shut leaf, a small warm light glowing along its bottom crack. Ninety percent of the frame is sky. Keep the lower right calm for the caption card.",
       "shot": "wide",
-      "_caption": "Come on Thursday. Leave flying.",
+      "_caption": "Come on Tuesday. Leave flying.",
       "pos": "top-right"
     }
   ]

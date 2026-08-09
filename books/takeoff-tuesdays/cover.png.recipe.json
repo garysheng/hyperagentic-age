@@ -1,5 +1,5 @@
 {
-  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/cover.png",
+  "asset": "hyperagentic-age/books/takeoff-tuesdays/cover.png",
   "model": "none (deterministic image transform, no model call)",
   "mode": "derive",
   "tool": "abu:cover/scripts/render_cover.py",
@@ -10,16 +10,16 @@
   "transform": "copy (byte-identical; no resample, no crop, no repaint)",
   "inputs": [
     {
-      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/cover-raw.png",
-      "sha256_16": "cfadfd5adbf22988",
+      "path": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png",
+      "sha256_16": "b2c1b8dae4c8a01e",
       "role": "conformed cover"
     }
   ],
-  "sha256_16": "cfadfd5adbf22988",
+  "sha256_16": "b2c1b8dae4c8a01e",
   "derivedFrom": {
-    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/cover-raw.png",
-    "recipe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/cover-raw.png.recipe.json",
-    "sha256_16": "cfadfd5adbf22988"
+    "path": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png",
+    "recipe": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png.recipe.json",
+    "sha256_16": "b2c1b8dae4c8a01e"
   },
   "note": "DERIVATIVE, not a generation. This is the platform-facing name for the conformed cover: byte-identical to the file in derivedFrom, which carries the recipe of the render that made the art. Published by render_cover.py so that the copy and its provenance can never be done by hand, or half-done."
 }

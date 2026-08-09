@@ -1,0 +1,35 @@
+{
+  "asset": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts/conform_cover.py",
+  "args": {
+    "aspect": "3:4",
+    "mode": "pad",
+    "inset": 1.0,
+    "blur": 40,
+    "keyline": null
+  },
+  "prompt": null,
+  "sourceRender": {
+    "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. gary exactly as its reference sheets: east-asian-man; clean-shaven-no-mustache; double-eyelid-crease; black-hair; light-wash-denim-jacket; claude-mascot-patch-right-chest; yellow-smiley-patch-left-chest; white-crew-neck-tee; white-high-top-sneakers; no-necklace; jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text; appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket; religious-iconography-only-where-the-story-calls-for-it-never-decorative; warm-editorial-register. the-plain-door exactly as its reference sheets. Pass the correct state sheet as reference on every render (master for shut, ajar for open, museum for the hall treatment), chained off the master identity. Per-spread scenes may relocate the door into any era's wall \u2014 a dorm hallway, a city street, a museum \u2014 but the leaf design never changes: same four panels, same honey-brown wood, same brass knob on the LEFT edge as viewed. Museum plaques carry per-spread exact quoted strings baked at render time; the locked museum sheet keeps its plaque EMPTY so no string leaks across spreads. The door face itself never carries lettering in any era or state. EARNED CHANGE 2026-08-09: the open-gap law was narrowed from 'never what is behind' to 'a soft warm scene-named sliver is legal' after takeoff-thursdays spread-19 (a warm desk/mug/whiteboard sliver through the ajar gap) was seen and accepted by the operator; warm-light-only remains the default, and darkness or ominous content through any gap remains banned outright. winged-startup exactly as its reference sheets. Master-first: the hero is the canonical calm, centered, face-on winged block-tower on plain terracotta. Every other use (the tilted climbing favicon, the hand-released cover, the soaring close) is derived as its own render with the locked hero passed as the first input image, never re-invented from prose. A render whose block-tower or wings disagree with the hero is a defect: regenerate from the master. A PLAIN DOOR IN A LOW WALL UNDER A VAST DAWN SKY is the subject. Centered in the lower half, THE PLAIN DOOR stands shut in a low ordinary cream stucco wall, rendered exactly one state, the master SHUT leaf exactly as its reference plate: the SAME FOUR RECESSED RECTANGULAR PANELS (two short above, two tall below) in honey-brown wood, a round brass knob on the LEFT edge as viewed, a warm light glowing along its bottom crack. It is a panelled door and NEVER a plank or board-and-batten door. Tufts of soft grass at the wall's base. Beyond and above the wall, layered blue-grey mountain ridges recede into a wide warm sunrise sky filling the upper half of the frame. High in the sky, small, the winged block-tower startup climbs exactly as its reference plate, wings wide, tilted into ascent, trailing two soft paper-warm strokes. THERE ARE NO PEOPLE AND NO CHARACTERS OF ANY KIND IN THIS IMAGE. Keep the upper third calm and open behind the title lettering, and the very bottom calm for the mark. CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. THIS COVER CARRIES 3 LINE(S) OF HAND-LETTERED TEXT AND EVERY ONE IS REQUIRED. Bake them spelled EXACTLY, and NO other text anywhere: \"Takeoff Tuesdays\" | \"The most valuable room in the world\" | \"A HYPERAGENTIC AGE story\". COMPOSE THE ART SO THERE IS ROOM FOR THEM: keep an uncluttered, quiet, low-detail area behind every line so each one reads clearly, with the first line(s) toward the top of the frame and the last line small along the bottom. Busy detail, faces, bright highlights and hard edges must not sit under any line of lettering. IF ANY OF THESE LINES IS MISSING FROM THE FINISHED IMAGE THE IMAGE IS WRONG, however good the art is. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high"
+  },
+  "transform": "1024x1536 -> 1152x1536",
+  "inputs": [
+    {
+      "path": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png",
+      "sha256_16": "b2c1b8dae4c8a01e",
+      "role": "source render"
+    }
+  ],
+  "sha256_16": "b2c1b8dae4c8a01e",
+  "derivedFrom": {
+    "path": "hyperagentic-age/books/takeoff-tuesdays/cover-raw.png",
+    "recipe": null,
+    "sha256_16": "b2c1b8dae4c8a01e"
+  },
+  "note": "DERIVATIVE, not a generation. The cover was conformed to the reader platform's page aspect by conform_cover.py. No image model was called and no pixels of the sharp art were repainted; see derivedFrom for the recipe of the render this came from."
+}
