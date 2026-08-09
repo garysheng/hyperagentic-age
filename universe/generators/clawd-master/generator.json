@@ -40,18 +40,86 @@
       ]
     },
     "eyeStyles": {
+      "pupil": {
+        "comment": "THE DEFAULT. Square eye with a single square white pupil block, high and inner. Cells: 0 empty, 1 eye, 2 pupil. Right eye mirrors so the glints face each other.",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ]
+        ]
+      },
       "square": {
-        "w": 1.0,
-        "h": 1.0
+        "comment": "Solid square eye (reference B).",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ]
+        ]
       },
       "bar": {
-        "w": 0.34,
-        "h": 1.16
+        "comment": "Tall thin vertical bar (reference A).",
+        "pattern": [
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ],
+          [
+            1
+          ]
+        ]
       },
       "scrunch": {
-        "w": 1.25,
-        "h": 1.15,
-        "comment": "Pixel chevron on a 4x5 sub-grid. Each step is TWO cells wide so consecutive rows overlap by one cell and the stroke reads as a solid connected chevron instead of corner-touching dots. 1 = filled block. LEFT eye draws this as '>', right eye mirrors it to '<'.",
+        "comment": "Delighted >< chevron (reference C). Two-cell steps so rows overlap into a solid stroke.",
         "pattern": [
           [
             1,
@@ -84,13 +152,256 @@
             0
           ]
         ]
+      },
+      "happy": {
+        "comment": "Contented closed ^ arc.",
+        "pattern": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        ]
+      },
+      "sleepy": {
+        "comment": "Half-lidded: a flat bar sitting high, empty below.",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "surprised": {
+        "comment": "Wide awake: an oversized square eye with a pupil.",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        ]
+      },
+      "determined": {
+        "comment": "Brow slanting down toward the middle of the face. Left is a backslash, right mirrors.",
+        "pattern": [
+          [
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "dizzy": {
+        "comment": "X eyes.",
+        "pattern": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      },
+      "wink": {
+        "comment": "Asymmetric: left eye open with a pupil, right eye a closed ^ arc.",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1
+          ]
+        ],
+        "patternRight": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        ]
+      },
+      "glance": {
+        "comment": "Both eyes looking the SAME way (mirror off), so he glances sideways instead of cross-eyed.",
+        "mirror": false,
+        "pattern": [
+          [
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
       }
     },
     "colors": {
       "body": "#CD7C5F",
-      "eye": "#141414"
+      "eye": "#141414",
+      "pupil": "#FFFFFF"
     },
-    "pad": 0
+    "pad": 0,
+    "default": "pupil",
+    "eyePixel": 0.25
   },
   "inputs": [
     "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
@@ -99,28 +410,92 @@
   ],
   "outputs": [
     {
-      "path": "out/clawd-bar.svg",
-      "description": "Master, vertical-bar eyes (ref A)"
+      "path": "out/clawd-pupil.svg",
+      "description": "Master, pupil eyes"
+    },
+    {
+      "path": "out/clawd-pupil.png",
+      "description": "Raster proof, pupil eyes"
     },
     {
       "path": "out/clawd-square.svg",
-      "description": "Master, square eyes (ref B)"
-    },
-    {
-      "path": "out/clawd-scrunch.svg",
-      "description": "Master, scrunched chevron eyes (ref C)"
-    },
-    {
-      "path": "out/clawd-bar.png",
-      "description": "Raster proof of the bar master"
+      "description": "Master, square eyes"
     },
     {
       "path": "out/clawd-square.png",
-      "description": "Raster proof of the square master"
+      "description": "Raster proof, square eyes"
+    },
+    {
+      "path": "out/clawd-bar.svg",
+      "description": "Master, bar eyes"
+    },
+    {
+      "path": "out/clawd-bar.png",
+      "description": "Raster proof, bar eyes"
+    },
+    {
+      "path": "out/clawd-scrunch.svg",
+      "description": "Master, scrunch eyes"
     },
     {
       "path": "out/clawd-scrunch.png",
-      "description": "Raster proof of the scrunch master"
+      "description": "Raster proof, scrunch eyes"
+    },
+    {
+      "path": "out/clawd-happy.svg",
+      "description": "Master, happy eyes"
+    },
+    {
+      "path": "out/clawd-happy.png",
+      "description": "Raster proof, happy eyes"
+    },
+    {
+      "path": "out/clawd-sleepy.svg",
+      "description": "Master, sleepy eyes"
+    },
+    {
+      "path": "out/clawd-sleepy.png",
+      "description": "Raster proof, sleepy eyes"
+    },
+    {
+      "path": "out/clawd-surprised.svg",
+      "description": "Master, surprised eyes"
+    },
+    {
+      "path": "out/clawd-surprised.png",
+      "description": "Raster proof, surprised eyes"
+    },
+    {
+      "path": "out/clawd-determined.svg",
+      "description": "Master, determined eyes"
+    },
+    {
+      "path": "out/clawd-determined.png",
+      "description": "Raster proof, determined eyes"
+    },
+    {
+      "path": "out/clawd-dizzy.svg",
+      "description": "Master, dizzy eyes"
+    },
+    {
+      "path": "out/clawd-dizzy.png",
+      "description": "Raster proof, dizzy eyes"
+    },
+    {
+      "path": "out/clawd-wink.svg",
+      "description": "Master, wink eyes"
+    },
+    {
+      "path": "out/clawd-wink.png",
+      "description": "Raster proof, wink eyes"
+    },
+    {
+      "path": "out/clawd-glance.svg",
+      "description": "Master, glance eyes"
+    },
+    {
+      "path": "out/clawd-glance.png",
+      "description": "Raster proof, glance eyes"
     }
   ],
   "proof": {
@@ -129,7 +504,8 @@
       "grid matches the measured reference: 8x6 torso, 2x2 stubs at rows 2-3, four 1x2 legs at torso cols 0/2/5/7, eyes at torso cols 1/6 row 1",
       "figure is left-right symmetric",
       "reads correctly at favicon size (16px) and at sticker size",
-      "flat single body fill, no gradient, no outline stroke"
+      "flat single body fill, no gradient, no outline stroke",
+      "every eye block is SQUARE: block size derives from the single eyePixel param, never from per-style width/height"
     ]
   }
 }

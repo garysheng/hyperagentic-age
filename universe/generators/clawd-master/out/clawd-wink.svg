@@ -11,7 +11,7 @@
   <rect x="112" y="32" width="8" height="8" fill="#141414"/>
   <rect x="120" y="32" width="8" height="8" fill="#141414"/>
   <rect x="96" y="40" width="8" height="8" fill="#141414"/>
-  <rect x="104" y="40" width="8" height="8" fill="#141414"/>
+  <rect x="104" y="40" width="8" height="8" fill="#FFFFFF"/>
   <rect x="112" y="40" width="8" height="8" fill="#141414"/>
   <rect x="120" y="40" width="8" height="8" fill="#141414"/>
   <rect x="96" y="48" width="8" height="8" fill="#141414"/>
@@ -22,20 +22,12 @@
   <rect x="104" y="56" width="8" height="8" fill="#141414"/>
   <rect x="112" y="56" width="8" height="8" fill="#141414"/>
   <rect x="120" y="56" width="8" height="8" fill="#141414"/>
-  <rect x="256" y="32" width="8" height="8" fill="#141414"/>
-  <rect x="264" y="32" width="8" height="8" fill="#141414"/>
-  <rect x="272" y="32" width="8" height="8" fill="#141414"/>
-  <rect x="280" y="32" width="8" height="8" fill="#141414"/>
-  <rect x="256" y="40" width="8" height="8" fill="#141414"/>
-  <rect x="264" y="40" width="8" height="8" fill="#141414"/>
-  <rect x="272" y="40" width="8" height="8" fill="#141414"/>
-  <rect x="280" y="40" width="8" height="8" fill="#141414"/>
-  <rect x="256" y="48" width="8" height="8" fill="#141414"/>
-  <rect x="264" y="48" width="8" height="8" fill="#141414"/>
-  <rect x="272" y="48" width="8" height="8" fill="#141414"/>
-  <rect x="280" y="48" width="8" height="8" fill="#141414"/>
-  <rect x="256" y="56" width="8" height="8" fill="#141414"/>
-  <rect x="264" y="56" width="8" height="8" fill="#141414"/>
-  <rect x="272" y="56" width="8" height="8" fill="#141414"/>
-  <rect x="280" y="56" width="8" height="8" fill="#141414"/>
+  <rect x="268" y="36" width="8" height="8" fill="#141414"/>
+  <rect x="260" y="44" width="8" height="8" fill="#141414"/>
+  <rect x="268" y="44" width="8" height="8" fill="#141414"/>
+  <rect x="276" y="44" width="8" height="8" fill="#141414"/>
+  <rect x="252" y="52" width="8" height="8" fill="#141414"/>
+  <rect x="260" y="52" width="8" height="8" fill="#141414"/>
+  <rect x="276" y="52" width="8" height="8" fill="#141414"/>
+  <rect x="284" y="52" width="8" height="8" fill="#141414"/>
 </svg>

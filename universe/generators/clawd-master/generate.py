@@ -46,22 +46,24 @@ def shapes(style):
     for col in eyes["torsoCols"]:
         cx = (t["x"] + col + 0.5) * u
         cy = (eyes["row"] + 0.5) * u
-        if style == "scrunch":
-            # chevron drawn from the pattern matrix in params; left eye ">", right eye mirrored "<"
-            pat = spec["pattern"]
-            rows, cols = len(pat), len(pat[0])
-            bw, bh = spec["w"] * u / cols, spec["h"] * u / rows
-            mirror = col != eyes["torsoCols"][0]
-            for r, row in enumerate(pat):
-                for cc, on in enumerate(row):
-                    if not on:
-                        continue
-                    ccx = (cols - 1 - cc) if mirror else cc
-                    out.append((cx - spec["w"] * u / 2 + ccx * bw,
-                                cy - spec["h"] * u / 2 + r * bh, bw, bh, eye_color))
-        else:
-            w, h = spec["w"] * u, spec["h"] * u
-            out.append((cx - w / 2, cy - h / 2, w, h, eye_color))
+        # Every eye is a pattern of SQUARE blocks. Block size derives from the one
+        # `eyePixel` param, so a per-style width/height can never make it a rectangle.
+        px = P["eyePixel"] * u
+        is_left = col == eyes["torsoCols"][0]
+        pat = spec["pattern"]
+        if not is_left:
+            if "patternRight" in spec:
+                pat = spec["patternRight"]
+            elif spec.get("mirror", True):
+                pat = [row[::-1] for row in pat]
+        rows, cols = len(pat), len(pat[0])
+        x0, y0 = cx - cols * px / 2, cy - rows * px / 2
+        for r, row in enumerate(pat):
+            for cc, on in enumerate(row):
+                if not on:
+                    continue
+                fill = eye_color if on == 1 else P["colors"]["pupil"]
+                out.append((x0 + cc * px, y0 + r * px, px, px, fill))
     return out
 
 

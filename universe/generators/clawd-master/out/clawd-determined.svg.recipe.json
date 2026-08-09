@@ -400,12 +400,12 @@
     "default": "pupil",
     "eyePixel": 0.25
   },
-  "style": "scrunch",
+  "style": "determined",
   "inputs": [
     "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
     "reference/clawd/source/clawd-true-ref-b-square-eyes.png",
     "reference/clawd/source/clawd-true-ref-c-scrunched.png"
   ],
   "note": "Deterministic SVG/PNG from a measured grid. Re-running reproduces byte-identical output.",
-  "sha256": "8acaec572d25e421255df1a257e511f2eb09d078f02977a59736cbfdd2422733"
+  "sha256": "e89b2ec8eaf4fa20364da0d228ade4629a0f48a1cf703d634f091cc635dfb943"
 }
