@@ -1,0 +1,22 @@
+{
+  "waived": [
+    {
+      "rule": "filler",
+      "match": "just right",
+      "line": "Too hot burns the trust down. Too cold never builds it. Somewhere between the roar and the silence there is a third setting. The old story had it right: you are looking for just right.",
+      "reason": "'Just right' is the book's argued object, the Goldilocks term itself, never filler: the removal test fails by design because cutting it deletes the thesis and the refrain ('Just right compounds.'). Concrete, load-bearing use."
+    },
+    {
+      "rule": "filler",
+      "match": "just right",
+      "line": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds.",
+      "reason": "'Just right' is the book's argued object, the Goldilocks term itself, never filler: the removal test fails by design because cutting it deletes the thesis and the refrain ('Just right compounds.'). Concrete, load-bearing use."
+    },
+    {
+      "rule": "filler",
+      "match": "Just right",
+      "line": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds.",
+      "reason": "'Just right' is the book's argued object, the Goldilocks term itself, never filler: the removal test fails by design because cutting it deletes the thesis and the refrain ('Just right compounds.'). Concrete, load-bearing use."
+    }
+  ]
+}

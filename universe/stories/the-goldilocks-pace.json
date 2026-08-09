@@ -1,0 +1,155 @@
+{
+  "id": "the-goldilocks-pace",
+  "title": "The Goldilocks Pace",
+  "logline": "On the far side of the portal, every founder receives the same engine, one that can run at any speed. One founder runs it too hot and ships hollow floors that empty out. One runs it too cold and her plot stays dark while the era fills with lights. Maya digs first, lays lines she can extend, sets the dial to the fastest speed her foundations can carry, and keeps a deletion day every time a better engine arrives. A year later she is the fastest builder on the plain.",
+  "spine": "thesis",
+  "spineNote": "The argued object is THE PACE, never the engine: with identical engines and identical plots, outcomes diverge on dial-setting alone. Two false settings are examined and dismissed in order (too hot: slop ships, trust leaves quietly; too cold: the era does not wait), then the third setting is demonstrated through Maya rather than asserted: foundations first, extendable infrastructure, a defended steady dial, and a seasonal deletion day. The coda states the compounding claim plainly.",
+  "refrain": "Just right compounds.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "maya",
+    "the-portal"
+  ],
+  "castingSweep": {
+    "sweptOn": "2026-08-09",
+    "decisions": [
+      {
+        "role": "the founder who finds the pace",
+        "cast": "maya",
+        "why": "REUSE. Direct continuation: she steps through the portal at the end of finders-tell-their-friends, and this book opens on the other side of that same door. Her canon voice (earnest, capable, does the unglamorous work) is the just-right archetype natively. Crossover receipt across the takeoff arc: nobody-labeled-the-door -> finders-tell-their-friends -> this."
+      },
+      {
+        "role": "the founder who runs too hot",
+        "cast": null,
+        "why": "ANONYMOUS by design (per-spread anonymous field). A cautionary archetype must stay unnamed: naming or reusing a canon character in a failure role dishonors them for no argumentative gain, and anonymity IS the point, any founder could be him. No new entity."
+      },
+      {
+        "role": "the founder who runs too cold",
+        "cast": null,
+        "why": "ANONYMOUS by design, same reasoning as the hot founder."
+      },
+      {
+        "role": "the portal (spread 1 continuity)",
+        "cast": "the-portal",
+        "why": "REUSE. The book opens on the far side of the exact door finders-tell-their-friends argues toward; passing its locked master keeps the light consistent."
+      },
+      {
+        "role": "the engine with the dial",
+        "cast": null,
+        "why": "NEW visual-metaphor candidate (the-pace-engine): a spine-object argued across states (roaring, dark, steady hum), which is the visual-metaphor shape exactly. To scaffold via add-visual-metaphor at cast phase, after the manuscript is blessed."
+      },
+      {
+        "role": "the open plain / the young city",
+        "cast": null,
+        "why": "NEW setting candidate (the-open-plain): recurring ground across most spreads. Decide at cast phase whether it needs a locked setting with empty plates or stays per-spread prose with imagined-frame shots carrying the metaphor beats (hole, subway, towers)."
+      }
+    ]
+  },
+  "beats": [
+    {
+      "n": 1,
+      "text": "On the other side of the portal is open ground. Every founder who makes it through arrives at the same place: a green plain with room to build, and a machine waiting with their name on it. The machine is an engine that can run at any speed. Any speed at all.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): 'models can go a million miles per hour.' Continuity: the portal crossing that closes finders-tell-their-friends."
+    },
+    {
+      "n": 2,
+      "text": "The engines are identical. The plots are identical. On day one, the only thing that separates one founder from another is the dial on top of the engine. Nobody tells you where to set it.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven's 'safe velocity' problem statement, since every founder rents the same frontier intelligence, pace is the differentiating choice."
+    },
+    {
+      "n": 3,
+      "text": "One founder pushes his dial as far as it goes. The engine roars. Towers rise overnight, whole floors at a time. From a distance it looks like winning.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): 'a lot of businesses are going a million miles per hour, and then they're getting all the side effects.'"
+    },
+    {
+      "n": 4,
+      "text": "Up close, the floors are hollow. Doors open onto air. Stairs end halfway. He ships whatever the engine produces, because his neighbors are loud and he is afraid of falling behind.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Gary: shipping slop 'under the rationale of I gotta keep up with my competitors.' Steven's digital-skyscraper image."
+    },
+    {
+      "n": 5,
+      "text": "The people who moved in move out. They leave the way trust leaves: quietly, no slam, just a door that does not open again. A floor can be rebuilt in a night. A tenant cannot.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Gary: 'ways to self-own and destroy trust on the path to takeoff.'"
+    },
+    {
+      "n": 6,
+      "text": "Another founder barely starts her engine. She circles it. She reads about it. She waits for it to be safer, cheaper, more proven. The plain around her fills with lights, and her plot stays dark, and the era does not wait with her.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven: 'or they're going too slow and they're not even utilizing the technology effectively.'"
+    },
+    {
+      "n": 7,
+      "text": "Too hot burns the trust down. Too cold never builds it. Somewhere between the roar and the silence there is a third setting. The old story had it right: you are looking for just right.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): the live coinage, Steven's 'safe velocity' met Gary's 'it's like Goldilocks velocity... exactly.'"
+    },
+    {
+      "n": 8,
+      "text": "Maya walks her plot before she builds anything. Then she digs. To carry a tall building, the ground has to be opened deep first. The tallest towers on the plain start as the deepest holes.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven: 'to make a skyscraper you need to dig a big hole... make sure the foundation is sound.'"
+    },
+    {
+      "n": 9,
+      "text": "There are two ways to lay a subway under a young city. Tokyo laid lines it could extend, and extends them still. New York laid lines it can barely repair. What you bury badly, you live over forever. Maya lays the kind you can extend.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven's Tokyo-vs-New-York subway comparison, 'infrastructure that's really hard to rip out.'"
+    },
+    {
+      "n": 10,
+      "text": "Then she sets the dial. She picks the fastest speed her foundations can carry, and she leaves it there. The engine hums. It hums in week nine the way it hummed in week one. Steady is a speed too.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven: returns maximized, risk bounded, 'consistently, over time... you want that predictability.' Also takeoffwithclaude.com/deck slide 30 (Find your Goldilocks pace), shipped 2026-08-09."
+    },
+    {
+      "n": 11,
+      "text": "Every season, the keepers send down a better engine. Maya's first job on delivery day is deletion. Half her scaffolding existed to steady the old engine, and the new one does not need it. Guardrails are built for the machine you had. She takes them down on purpose, the day the new machine arrives.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): 'every new model is a new car'; Gary's when-Images-3-lands deletion plan. First-party receipt: Boris Cherny, YC interview 2026-07-28, deleted over 80% of Claude Code's system prompt at Opus 5. Keepers continuity: finders-tell-their-friends spread 6."
+    },
+    {
+      "n": 12,
+      "text": "A year passes. The tower of the founder who sprinted stands wrapped in repairs he can no longer afford. The plot of the founder who waited is still dark. And Maya's tower is rising faster than either of them ever moved, floor after solid floor.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): Steven: 'going slow is actually beneficial now... you can move really quickly later on, while your competitors are dealing with all the scaling issues they didn't consider.'"
+    },
+    {
+      "n": 13,
+      "text": "Visitors ask Maya where she got her engine. She shows them: the same engine everyone has. What they are looking for is the dial she can defend, the deep hole under her ground floor, and the deletion day she keeps every season. Her secret is a pace she can hold.",
+      "characters": [
+        "maya"
+      ],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): the marathon image, 'they sprint the first couple miles and get burnt out on the last leg'; the pace held is the answer."
+    },
+    {
+      "n": 14,
+      "text": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds.",
+      "characters": [],
+      "provenance": "Steven Tran prep call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md): the coda states the refrain; takeoffwithclaude.com/deck slide 30 (Find your Goldilocks pace), shipped 2026-08-09 carries the one-line version live."
+    }
+  ],
+  "writesBack": []
+}
