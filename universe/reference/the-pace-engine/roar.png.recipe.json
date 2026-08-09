@@ -1,0 +1,20 @@
+{
+  "goldenDigest": "6e56db23c4512caf",
+  "inputs": [
+    {
+      "digest": "988cef324da88dc6",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "digest": "c404b6ec5a682dc7",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/blueprint.png"
+    },
+    {
+      "digest": "5074824735fe6d6e",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/master.png"
+    }
+  ],
+  "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. A single visual-metaphor reference plate for a picture-book universe. ONE image only, no panels.  Rendered in the style of the FIRST reference image, which is a STYLE ANCHOR ONLY and whose contents must never be drawn.  WHAT THIS IS: THE PACE ENGINE: the identical machine every founder receives, a waist-high rounded machine body in flat cream on a low base, with ONE large circular dial on top, its diameter roughly half the body width, carrying a single bold ink needle. A small snail mark sits at the dial's left end and a small winged-block mark at the dial's right end; the dial carries NO lettering, numbers or scale markings, only those two glyphs. Ink outlines, flat cream fills, terracotta-compatible palette. The machine is the same machine in every state: only the needle's position, the glow and the output change. Warm-editorial ink-and-wash, never photoreal, never neo-comic, never HUD, never neon, never 3D/CGI/Pixar, never glossy plastic.  THIS PLATE: ROAR: the same engine with the needle hard RIGHT, at the winged-block end of the dial, a hot glow around the body and motion blur in the output streaming from it. Overdriven, too fast to be held; the machine itself unchanged.  FRAMING (identical to the master plate): the same machine on the same open green ground, same gentle three-quarter view, centered, filling about two-thirds of the frame height, dial face fully legible. Same proportions as the master: waist-high body (0.95 m on its low base), 1.0 m wide, dial 0.5 m across, HALF the body width. ONLY the needle position (hard right), the hot glow and the blurred output differ from the master; the machine and the framing are identical.  THESE RULES ARE BINDING AND EVERY ONE MUST HOLD: - waist-high-rounded-flat-cream-machine-body-on-a-low-base - one-large-circular-dial-on-top-with-a-single-bold-needle - dial-diameter-roughly-half-the-body-width - small-snail-mark-at-the-dial-left-end - small-winged-block-mark-at-the-dial-right-end - same-machine-in-every-state-only-needle-glow-and-output-change - ink-outlines-flat-cream-fills-terracotta-compatible - no-lettering-numbers-or-scale-markings-on-the-dial-only-the-two-glyphs - warm-editorial-register-never-photoreal-never-neo-comic  ONE single continuous image of ONE scene: no panels, no grid, no contact sheet, no multiple views, no before-and-after. No stray or invented lettering anywhere. The elevation drawing is layout reference only: never paint its lines, dashes, dimensions or labels into the image. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "provider": "gpt-image-2",
+  "specVersion": null
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/blueprint.png",
+  "generator": "agenticstory.elevation",
+  "mode": "deterministic-2d-elevation",
+  "spec": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/canon/blueprints/the-pace-engine.elevation.json",
+  "inputs": [],
+  "model": null,
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "specVersion": "0.39",
+  "entity": "the-pace-engine"
+}

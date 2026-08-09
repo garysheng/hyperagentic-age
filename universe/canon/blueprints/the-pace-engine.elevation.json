@@ -1,0 +1,297 @@
+{
+  "title": "THE PACE ENGINE",
+  "subtitle": "FRONT ELEVATION",
+  "sheet": {
+    "width": 1536,
+    "height": 1024,
+    "margin": 60
+  },
+  "scale": {
+    "unit": "m",
+    "pxPerUnit": 280,
+    "originPx": [
+      500,
+      100
+    ]
+  },
+  "parts": [
+    {
+      "kind": "rect",
+      "at": [
+        -0.05,
+        2.5
+      ],
+      "size": [
+        1.1,
+        0.1
+      ],
+      "fill": "#E4D6BC",
+      "stroke": "ink",
+      "width": 4
+    },
+    {
+      "kind": "rect",
+      "at": [
+        0.0,
+        1.55
+      ],
+      "size": [
+        1.0,
+        0.95
+      ],
+      "fill": "#F2EADA",
+      "stroke": "ink",
+      "width": 4
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        0.5,
+        1.3
+      ],
+      "r": [
+        0.25,
+        0.25
+      ],
+      "fill": "#F5F1E9",
+      "stroke": "ink",
+      "width": 4
+    },
+    {
+      "kind": "line",
+      "from": [
+        0.5,
+        1.3
+      ],
+      "to": [
+        0.5,
+        1.09
+      ],
+      "stroke": "accent",
+      "width": 4
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        0.29,
+        1.41
+      ],
+      "r": [
+        0.03,
+        0.03
+      ],
+      "stroke": "ink",
+      "width": 3
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        0.71,
+        1.41
+      ],
+      "r": [
+        0.03,
+        0.03
+      ],
+      "stroke": "ink",
+      "width": 3
+    },
+    {
+      "kind": "note",
+      "at": [
+        -1.5,
+        1.05
+      ],
+      "text": [
+        "ONE LARGE CIRCULAR DIAL on top,",
+        "diameter 0.5 m: roughly HALF the",
+        "body width. A single bold needle",
+        "pivots from its center. NO lettering,",
+        "numbers or scale markings on the dial."
+      ],
+      "leaderTo": [
+        0.27,
+        1.22
+      ],
+      "stroke": "ink"
+    },
+    {
+      "kind": "note",
+      "at": [
+        -1.5,
+        1.75
+      ],
+      "text": [
+        "SNAIL MARK at the dial's LEFT end",
+        "(too slow); small, about 1/8 of",
+        "the dial's diameter"
+      ],
+      "leaderTo": [
+        0.27,
+        1.42
+      ],
+      "stroke": "accent"
+    },
+    {
+      "kind": "note",
+      "at": [
+        1.35,
+        1.75
+      ],
+      "text": [
+        "WINGED-BLOCK MARK at the dial's",
+        "RIGHT end (too fast); same size",
+        "as the snail mark"
+      ],
+      "leaderTo": [
+        0.73,
+        1.42
+      ],
+      "stroke": "accent"
+    },
+    {
+      "kind": "note",
+      "at": [
+        -1.5,
+        2.25
+      ],
+      "text": [
+        "Waist-high ROUNDED machine body,",
+        "flat cream, ink outline, on a",
+        "low base; corners soft, no seams,",
+        "no vents, no other controls"
+      ],
+      "leaderTo": [
+        0.02,
+        2.1
+      ],
+      "stroke": "ink"
+    },
+    {
+      "kind": "line",
+      "from": [
+        -1.6,
+        2.6
+      ],
+      "to": [
+        2.6,
+        2.6
+      ],
+      "stroke": "dim",
+      "width": 2
+    },
+    {
+      "kind": "note",
+      "at": [
+        -1.5,
+        2.68
+      ],
+      "text": "GROUND",
+      "heading": false
+    },
+    {
+      "kind": "ellipse",
+      "center": [
+        2.0,
+        0.99
+      ],
+      "r": [
+        0.09,
+        0.09
+      ],
+      "stroke": "dim",
+      "width": 3
+    },
+    {
+      "kind": "line",
+      "from": [
+        2.0,
+        1.08
+      ],
+      "to": [
+        2.0,
+        2.6
+      ],
+      "stroke": "dim",
+      "width": 3
+    },
+    {
+      "kind": "note",
+      "at": [
+        1.35,
+        0.6
+      ],
+      "text": [
+        "ADULT ~1.7 m: the machine body",
+        "tops out at the adult's WAIST;",
+        "the dial face sits hip-to-navel"
+      ],
+      "heading": false,
+      "stroke": "dim"
+    },
+    {
+      "kind": "dim",
+      "axis": "v",
+      "from": [
+        -0.05,
+        1.55
+      ],
+      "to": [
+        -0.05,
+        2.5
+      ],
+      "offset": 60,
+      "label": "0.95 m"
+    },
+    {
+      "kind": "dim",
+      "axis": "h",
+      "from": [
+        0.0,
+        2.6
+      ],
+      "to": [
+        1.0,
+        2.6
+      ],
+      "offset": 70,
+      "label": "1.0 m"
+    },
+    {
+      "kind": "dim",
+      "axis": "h",
+      "from": [
+        0.25,
+        1.05
+      ],
+      "to": [
+        0.75,
+        1.05
+      ],
+      "offset": 45,
+      "label": "0.5 m"
+    },
+    {
+      "kind": "dim",
+      "axis": "v",
+      "from": [
+        2.35,
+        0.9
+      ],
+      "to": [
+        2.35,
+        2.6
+      ],
+      "offset": 45,
+      "label": "1.7 m"
+    }
+  ],
+  "laws": [
+    "THE SAME MACHINE IN EVERY STATE: body, base, dial, needle and both glyphs never change between states or between founders; only needle position, glow and output change.",
+    "NEEDLE POSITIONS: STEADY = upright at mid-dial; ROAR = hard right at the winged-block end; COLD = hard left at the snail end.",
+    "COLD IS A DARK VERSION OF THIS MACHINE, never an absence: engine dark and untouched, no glow, no hum lines, still whole.",
+    "PROPORTIONS PINNED: dial diameter is roughly HALF the body width; the machine is waist-high to an adult figure in every frame that shows both.",
+    "INK OUTLINES, FLAT CREAM FILLS, terracotta-compatible; NEVER photoreal, neo-comic, HUD, neon, 3D/CGI/Pixar, or glossy plastic.",
+    "NO LETTERING, NUMBERS OR SCALE MARKINGS on the dial: only the snail mark (left) and the winged-block mark (right)."
+  ]
+}
