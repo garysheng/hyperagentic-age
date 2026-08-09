@@ -131,4 +131,4 @@ laptop rides her right arm in two spreads (arm side is not a locked invariant). 
 batch is now G32-G35 plus the angel-clawd items. (4) Other sessions' work left untouched as
 always: `runs/`, `books/the-introducer/.stage-in/`, `universe/candidates/angel-clawd/`.
 
-<!-- checkpoint: 2026-08-09 (evening) · hyperagentic-age PLACEHOLDER + garysheng-books 8d0fada + agentic-brand-universe 689007d · two books shipped (goldilocks-pace, factory-manager), 4 entities locked, G34/G35 filed -->
+<!-- checkpoint: 2026-08-09 (evening) · hyperagentic-age e37c056 + garysheng-books 8d0fada + agentic-brand-universe 689007d · two books shipped (goldilocks-pace, factory-manager), 4 entities locked, G34/G35 filed -->
