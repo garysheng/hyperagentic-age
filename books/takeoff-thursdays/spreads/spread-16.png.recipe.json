@@ -1,0 +1,115 @@
+{
+  "asset": "spread-16.png",
+  "assetSha256_16": "60732f5745158492",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "37ae2c7b7c01f9cfffb67f1eb71d3532d2f418b5",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays",
+  "story": "takeoff-thursdays",
+  "spread": "spread-16",
+  "descriptor": {
+    "id": "spread-16",
+    "setting": "the-room",
+    "plate": "wide",
+    "cast": [
+      {
+        "id": "david-kobrosky",
+        "pose": "front",
+        "_choices": [
+          "front",
+          "signature"
+        ]
+      },
+      {
+        "id": "gary"
+      }
+    ],
+    "scene": "TWO MEN AND WHAT THE WORLD GETS WRONG is the subject. GARY and DAVID KOBROSKY stand together at the lower LEFT, both in warm three-quarter view, sharing an amused look with each other, Gary in the light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest. Filling the upper RIGHT two-thirds, a large soft painted thought-bubble holds the thing being described: an immaculate empty room, expensive identical chairs in perfect rows, a long polished table, tasteful plants, and NOT ONE PERSON in it, rendered slightly cooler than the warm real world below. The bubble's room is beautiful and dead. Keep the two men warm and the bubble cool.",
+    "shot": "thought-bubble",
+    "_caption": "The world starts to notice that the agentic startups that win keep naming the same room. Investors ask for it. Rivals copy the furniture. But a community is not furniture. It is ten thousand introductions that already happened."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: TWO MEN AND WHAT THE WORLD GETS WRONG is the subject. GARY and DAVID KOBROSKY stand together at the lower LEFT, both in warm three-quarter view, sharing an amused look with each other, Gary in the light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest. Filling the upper RIGHT two-thirds, a large soft painted thought-bubble holds the thing being described: an immaculate empty room, expensive identical chairs in perfect rows, a long polished table, tasteful plants, and NOT ONE PERSON in it, rendered slightly cooler than the warm real world below. The bubble's room is beautiful and dead. Keep the two men warm and the bubble cool. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, THOUGHT BUBBLE. The picture has TWO parts. SMALL, at ONE EDGE of the frame and occupying no more than a quarter of it, the speaker is drawn in their real place, mid-sentence. FILLING THE REST OF THE FRAME, a single large BUBBLE holds the thing they are describing, painted as its own little scene. THE BUBBLE IS PAINTED, NOT DRAWN: its edge is a soft feathered cloud-like border of the same paint as the rest of the picture, with a few small round bubbles trailing from the speaker up to it. THE SPEAKER STAYS IN THEIR OWN SEAT on their own side of the room, and anyone sitting with them is still sitting with them. It is NEVER a hard black comic-book outline, NEVER a speech balloon with a pointed tail, NEVER a flat white shape, and it carries NO lettering of any kind. This is ONE continuous painted image containing a bubble, and it is NOT a grid, NOT split panels and NOT a comic strip. david-kobrosky rendered exactly per the supplied reference images: man early thirties; short dark brown curly hair tight cropped sides; short stubble beard NEVER clean shaven; green hazel eyes; thick dark eyebrows strong jaw; flat even side profile nose straight chin never jutting; broad warm grin that reaches his eyes; athletic broad shouldered build; sky blue button down shirt open collar sleeves rolled to forearm; dark warm gray trousers; no necklace no lanyard no badge; recognizable likeness of the real subject; appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt. DAVID KOBROSKY (canon id david-kobrosky), the introducer. A man in his EARLY THIRTIES with SHORT DARK-BROWN CURLY HAIR (tight-cropped sides), a SHORT STUBBLE BEARD (never clean-shaven), THICK DARK EYEBROWS, GREEN-HAZEL EYES, a STRONG JAW, and a BROAD WARM GRIN that reaches his eyes. ATHLETIC and BROAD-SHOULDERED. Default wardrobe: a SKY-BLUE BUTTON-DOWN SHIRT, open at the collar, sleeves rolled to the forearm, over dark warm-gray trousers; no necklace, no lanyard, no badge. His body language is forward-leaning and mid-motion TOWARD people: hand extended, or both hands gesturing two people together. Recognizable likeness of the real subject. IN PROFILE OR THREE-QUARTER VIEW his facial profile is comparatively FLAT and even: a straight, moderate nose and a firm chin that does NOT jut forward; never an exaggerated protruding nose-and-chin profile (Gary, 2026-08-08: 'his face is flatter, chin and nose; front shot is good'). REFERENCE ROLES, obey exactly: - reference/david-kobrosky/face-neutral.png (face-neutral) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/forward-fullbody.png (forward-fullbody) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. - reference/david-kobrosky/signature-pose.png (signature-pose) supplies IDENTITY ONLY: the face and likeness. Ignore its clothing, background, lighting and medium. REGISTER-NEUTRAL MASTER: david-kobrosky's reference plates are hyper-realistic painted portrait with photographic fidelity to the supplied photographs of the subject and are NOT a style reference. Take likeness, geometry, proportion and markings from them exactly. Take NO medium, paint language, lighting, surface treatment or colour grading from them: render david-kobrosky fully in this image's declared style. gary rendered exactly per the supplied reference images: east asian man; clean shaven no mustache; double eyelid crease; black hair; light wash denim jacket; claude mascot patch right chest; yellow smiley patch left chest; white crew neck tee; white high top sneakers; no necklace; jacket back completely PLAIN denim no patches no artwork no text; appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket; religious iconography only where the story calls for it never decorative; warm editorial register. the-room exactly as its reference plate: THE ROOM: one long working room in an ordinary building, the kind a small company grows into rather than commissions. Plain desks pushed together in irregular clusters, mismatched chairs, monitors, laptops, a whiteboard with half-erased diagrams, printouts taped to a wall, mugs, a shelf of well-used books, cables. Big plain windows down one side. No open-plan tech-campus gloss, no branding, no slogans on the walls, no neon, no glass conference boxes. The camera is INSIDE the room at standing or seated eye height, never a lobby shot and never an architectural exterior. The clusters of desks give it depth. People are ordinary in scale and are never arranged to face a leader; if anyone is speaking, the group is loose around them rather than seated in rows. The room is LIVED-IN and a little untidy, with evidence of people everywhere whether or not anyone is in frame: a jacket over a chair back, an open notebook, a half-drunk mug, printouts curling where they are taped up, mismatched chairs pushed at angles. It is NEVER sterile, NEVER a showroom, and NEVER lit dramatically; the light is only ever whatever the room actually has at that hour. RENDER EXACTLY ONE MOMENT IN TIME: one single continuous scene at one time of day, filling the whole frame. Do NOT divide the image, do NOT stack a daytime version above a night version, do NOT show the room twice, and do NOT produce a before-and-after or side-by-side comparison of any kind. One long room, human-scaled, low ceiling rather than an atrium. It should feel like somewhere about a hundred people could work, not a headquarters. TELL THEM APART, keep every face and hairstyle distinct: david-kobrosky is the one with man early thirties, short dark brown curly hair tight cropped sides, short stubble beard NEVER clean shaven, green hazel eyes, thick dark eyebrows strong jaw, flat even side profile nose straight chin never jutting, broad warm grin that reaches his eyes, athletic broad shouldered build, sky blue button down shirt open collar sleeves rolled to forearm, dark warm gray trousers, no necklace no lanyard no badge, recognizable likeness of the real subject, appears EXACTLY ONCE per scene no other figure shares his face hair beard or blue shirt; gary is the one with east asian man, clean shaven no mustache, double eyelid crease, black hair, light wash denim jacket, claude mascot patch right chest, yellow smiley patch left chest, white crew neck tee, white high top sneakers, no necklace, jacket back completely PLAIN denim no patches no artwork no text, appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket, religious iconography only where the story calls for it never decorative, warm editorial register. THE ONLY CHARACTERS IN THIS IMAGE ARE: david-kobrosky, gary. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/forward-fullbody.png",
+      "sha256_16": "3ac52f44ea329264"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/face-neutral.png",
+      "sha256_16": "0d5dd6d6105a3ed3"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/02-studio-portrait-blue-shirt.jpg",
+      "sha256_16": "848243b77c02df8c"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/03-with-mikaela-beach.jpg",
+      "sha256_16": "1d2de165730bae67"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/04-with-mikaela-boat.jpg",
+      "sha256_16": "f4396611c663cd2d"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/05-mountain-chambray.jpg",
+      "sha256_16": "1bb7a4499aaf7d81"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/david-kobrosky/photos/01-young-bw-smile.jpg",
+      "sha256_16": "338e735f16117d5a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary/master.png",
+      "sha256_16": "6c9c523477123c1f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/wide.png",
+      "sha256_16": "a4eaeabf3c4309e8"
+    }
+  ],
+  "qa": [
+    "david-kobrosky: man-early-thirties",
+    "david-kobrosky: short-dark-brown-curly-hair-tight-cropped-sides",
+    "david-kobrosky: short-stubble-beard-NEVER-clean-shaven",
+    "david-kobrosky: green-hazel-eyes",
+    "david-kobrosky: thick-dark-eyebrows-strong-jaw",
+    "david-kobrosky: flat-even-side-profile-nose-straight-chin-never-jutting",
+    "david-kobrosky: broad-warm-grin-that-reaches-his-eyes",
+    "david-kobrosky: athletic-broad-shouldered-build",
+    "david-kobrosky: sky-blue-button-down-shirt-open-collar-sleeves-rolled-to-forearm",
+    "david-kobrosky: dark-warm-gray-trousers",
+    "david-kobrosky: no-necklace-no-lanyard-no-badge",
+    "david-kobrosky: recognizable-likeness-of-the-real-subject",
+    "david-kobrosky: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-beard-or-blue-shirt",
+    "gary: east-asian-man",
+    "gary: clean-shaven-no-mustache",
+    "gary: double-eyelid-crease",
+    "gary: black-hair",
+    "gary: light-wash-denim-jacket",
+    "gary: claude-mascot-patch-right-chest",
+    "gary: yellow-smiley-patch-left-chest",
+    "gary: white-crew-neck-tee",
+    "gary: white-high-top-sneakers",
+    "gary: no-necklace",
+    "gary: jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text",
+    "gary: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket",
+    "gary: religious-iconography-only-where-the-story-calls-for-it-never-decorative",
+    "gary: warm-editorial-register",
+    "the-room: an-ordinary-long-working-room-never-a-showroom-or-atrium",
+    "the-room: plain-desks-in-irregular-clusters-with-mismatched-chairs",
+    "the-room: whiteboard-with-half-erased-diagrams-and-taped-up-printouts",
+    "the-room: lived-in-and-slightly-untidy-evidence-of-people-everywhere",
+    "the-room: no-branding-no-slogans-on-walls-no-neon-no-glass-conference-boxes",
+    "the-room: camera-inside-the-room-at-eye-height-never-a-lobby-or-exterior",
+    "the-room: same-room-in-both-states-only-the-light-changes",
+    "the-room: warm-editorial-register-never-photoreal"
+  ]
+}

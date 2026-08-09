@@ -1,0 +1,239 @@
+{
+  "id": "takeoff-thursdays",
+  "title": "Takeoff Thursdays",
+  "logline": "Anthropic builds the most valuable community in the world for agentic startups, and it starts as one ordinary Thursday in one good ordinary room. Gary names what the founders are looking at. David introduces everyone in it. The startups leave flying.",
+  "spine": "vision-thesis",
+  "spineNote": "A VISION-THESIS, not a hero-journey: nobody arcs. The book argues one claim, that the most valuable community in the world for agentic startups forms at Anthropic, by showing the mechanisms that compound it: the weekly ritual, the introductions, the paved playbooks, the shared foundation. Gary and David never change; the community grows around their two unchanging crafts. The imagined beats are labeled as imagination in their provenance; the mechanism beats trace to real receipts.",
+  "refrain": "Come on Thursday. Leave flying.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [
+    "gary",
+    "david-kobrosky",
+    "the-room",
+    "the-plain-door",
+    "winged-startup",
+    "maya",
+    "chrissy",
+    "engineer",
+    "dario",
+    "supercharged-laptop",
+    "founder-paradise"
+  ],
+  "aimDiscipline": [
+    "THE REFRAIN CHANGES OBJECTS. 'Come on Thursday. Leave flying.' is spoken to a founder (1), to a batch (10), to other cities (14), and finally to the reader (20). Each refrain spread must show WHO is being invited and what flying looks like for them.",
+    "GARY AND DAVID ARE REAL PEOPLE: stylized editorial likeness, never photoreal, public professional persona only. Gary's locked invariants include the yellow smiley patch (left chest) and orange pixel-mascot patch (right chest) on the light-wash denim jacket; name both in every prompt that dresses him.",
+    "THE ROOM IS THE ARGUMENT AND MUST STAY ORDINARY: no soaring ceilings, no branded wall, no dramatic lighting. The thesis is that the most valuable community in the world meets in a good ordinary room.",
+    "TWO CRAFTS, KEPT DISTINCT: Gary names things (maps, plates, the window, the stack); David joins people (his hand already out, two strangers becoming colleagues). A spread should never blur which craft is on stage.",
+    "The winged-startup motif is used HERE because the story is literally about startups taking off; it is the buildonanthropic plate language, not a generic hopeful-rising image."
+  ],
+  "beats": [
+    {
+      "n": 1,
+      "text": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Thursdays the door is open. Come on Thursday. Leave flying.",
+      "characters": [
+        "gary",
+        "david-kobrosky"
+      ],
+      "location": "the-room",
+      "provenance": "Gary's commission (2026-08-09): Anthropic creating the most valuable community in the world for agentic startups. The Takeoff program and its Thursday ritual are real: the YC deck, script.md section 23, 'Jerry is in our San Francisco office every Thursday for Takeoff Thursdays.' The room's ordinariness is the-room's own locked law."
+    },
+    {
+      "n": 2,
+      "text": "Nobody famous guards the door. David holds it, with his hand already out, because a door is just an introduction between a hallway and a room.",
+      "characters": [
+        "david-kobrosky",
+        "the-plain-door"
+      ],
+      "location": null,
+      "provenance": "Crossover with the-introducer: David's one craft. The plain door motif carries nobody-labeled-the-door's law that the door is never branded."
+    },
+    {
+      "n": 3,
+      "text": "Inside, Gary's job is to name what the founders are looking at. The window that is open right now. The foundation they can rent instead of rebuild. The way up. He is the one who says out loud what a room full of builders is standing inside of.",
+      "characters": [
+        "gary"
+      ],
+      "location": "the-room",
+      "provenance": "Gary's actual role: applied AI evangelist for startups at Anthropic. The deck's whole argument: takeoff windows, rent the foundation, the way up. 'Names the room' is the evangelism-wiki framing of the role."
+    },
+    {
+      "n": 4,
+      "text": "David's job is older than software. He notices who is standing alone at the edge of the room, crosses it with his hand already out, and says the four words he was born to say. Let me introduce you.",
+      "characters": [
+        "david-kobrosky",
+        "engineer"
+      ],
+      "location": "the-room",
+      "provenance": "The-introducer's refrain, quoted verbatim as a crossover receipt. Receipts behind it: 107 consecutive brunches, @thebrunchguy, MeetSunday. INTEL: David is the community-builder Gary calls one of the best in the world."
+    },
+    {
+      "n": 5,
+      "text": "Every Thursday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
+      "characters": [
+        "maya",
+        "chrissy",
+        "engineer",
+        "gary"
+      ],
+      "location": "the-room",
+      "provenance": "Takeoff Thursdays as practiced: deck section 23, Jerry in the SF office weekly. The show-what-you-built culture is the deck's warp-speed iteration doctrine made communal."
+    },
+    {
+      "n": 6,
+      "text": "A founder opens her laptop and the room leans in. Her agent ran all week while she slept. The question is never whether it worked. The question is what she learned when it did not.",
+      "characters": [
+        "maya",
+        "supercharged-laptop"
+      ],
+      "location": "the-room",
+      "provenance": "Maya reused from the founder cast; the supercharged-laptop is the universe's emblem of Claude Code-level capability. The learning-from-failure norm is the deck's continual factory evolution process, slides 21 and 22."
+    },
+    {
+      "n": 7,
+      "text": "What one startup figures out, every startup gets. The practices are paved into playbooks, and the playbooks are handed to whoever walks in next. Nobody pays the figure-it-out cost twice.",
+      "characters": [
+        "gary",
+        "engineer"
+      ],
+      "location": "the-room",
+      "provenance": "Deck section 23 verbatim loop: 'Proven agentic startup practices: we pave them, they apply them, and we share them with founders like you. That is the loop Takeoff runs.' The figure-it-out cost is a buildonanthropic concept page."
+    },
+    {
+      "n": 8,
+      "text": "And the introductions compound. The storyteller meets the engineer she needed. The engineer meets the customer he could not find. David keeps the map of the room in his head, and he spends it on other people.",
+      "characters": [
+        "david-kobrosky",
+        "chrissy",
+        "engineer"
+      ],
+      "location": "the-room",
+      "provenance": "The-introducer beats 9 through 11: David taught software his instinct. The compounding-introductions claim is the ode's thesis applied at community scale. Imagined pairing, real mechanism."
+    },
+    {
+      "n": 9,
+      "text": "Underneath every one of them hums the same foundation. Because they all build on the same infrastructure, help transfers. A fix found by one team on Tuesday is running inside four other startups by Friday.",
+      "characters": [
+        "engineer",
+        "maya"
+      ],
+      "location": "the-room",
+      "provenance": "Deck slides 7 and 21: Claude Managed Agents infrastructure as the rented foundation; the moat stays yours, the plumbing is shared. Help-transfers is the community corollary of one shared stack."
+    },
+    {
+      "n": 10,
+      "text": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Thursday. Leave flying.",
+      "characters": [
+        "maya",
+        "winged-startup"
+      ],
+      "location": "the-room",
+      "provenance": "The winged-startup motif from the buildonanthropic plates: takeoff rendered literally. TastefulStories is the real referent, deck sections 13 through 22: voice note in, published book out, on track for explosive growth."
+    },
+    {
+      "n": 11,
+      "text": "By the wall there is a shelf of small winged towers, one for every startup that took off from this room. Nobody dusts a trophy case here. The founders touch them on the way in, the way you touch a doorframe in a house you grew up in.",
+      "characters": [
+        "chrissy",
+        "winged-startup"
+      ],
+      "location": "the-room",
+      "provenance": "Imagined full flower, labeled as imagination. The fleet-of-winged-startups image extends the winged-startup motif's own plate language. The 250+ documented case studies (deck section 6) are the real seed of the shelf."
+    },
+    {
+      "n": 12,
+      "text": "The ones who flew keep coming back. They stand where they once sat, and they hand down what the climb taught them. In most industries the winners hoard altitude. In this room, altitude is the thing you owe the next batch.",
+      "characters": [
+        "chrissy",
+        "maya",
+        "gary"
+      ],
+      "location": "the-room",
+      "provenance": "Imagined norm, seeded by the real one: Jerry returns every Thursday and his practices are shared with new founders (deck section 23). Alumni-teach-the-batch is the vision-thesis extrapolation."
+    },
+    {
+      "n": 13,
+      "text": "Some Thursdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
+      "characters": [
+        "dario"
+      ],
+      "location": "the-room",
+      "provenance": "Dario is canon (The Narrow Path, public figure, depictable by name and likeness per universe law). Imagined scene, real posture: Anthropic's stated practice of learning from customers, and the labs-team pattern of products emerging from observed use."
+    },
+    {
+      "n": 14,
+      "text": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Thursday. Leave flying.",
+      "characters": [
+        "david-kobrosky",
+        "the-plain-door"
+      ],
+      "location": null,
+      "provenance": "Imagined scale-out, labeled as imagination. The plain-door motif's own law makes this renderable: per-spread scenes may relocate the door into any wall, the leaf design never changes. Refrain object: other cities."
+    },
+    {
+      "n": 15,
+      "text": "Here is why it becomes the most valuable community in the world, and it is not the money. Every member's hardest-won lesson becomes every member's starting point. A thousand startups learning together compound faster than any company can learn alone.",
+      "characters": [
+        "gary",
+        "david-kobrosky",
+        "maya",
+        "chrissy",
+        "engineer"
+      ],
+      "location": "the-room",
+      "provenance": "The claim of the commission, argued. Real seed: INTEL section 1q, Reid McCrabb on Anthropic holding the most valuable intent data in the world; here recast as the community's shared learning, which is the deck's pave-and-share loop at full scale."
+    },
+    {
+      "n": 16,
+      "text": "The world starts to notice that the agentic startups that win keep naming the same room. Investors ask for it. Rivals copy the furniture. But a community is not furniture. It is ten thousand introductions that already happened.",
+      "characters": [
+        "david-kobrosky",
+        "gary"
+      ],
+      "location": "the-room",
+      "provenance": "Imagined recognition, labeled as imagination. 'Rented never made anyone special' inverted: the copyable part is not the valuable part. Echoes the deck's moat logic applied to community: the accumulated relationships are the uncopyable asset."
+    },
+    {
+      "n": 17,
+      "text": "Follow the community far enough and you can see where it is headed: a place where building the good future is a neighborhood activity. Warm, quiet, unsteered by any one hand, held up by everyone in it.",
+      "characters": [],
+      "location": "founder-paradise",
+      "provenance": "Founder-paradise is locked canon from finders-tell-their-friends: protopian, not utopian kitsch, floating free and unsteered. The full-flower vision beat, labeled as imagination."
+    },
+    {
+      "n": 18,
+      "text": "And at the center, still, two people at a door. One names the room so builders know what they are standing inside of. One crosses it with his hand already out. Neither craft ever changed. The objects just got bigger.",
+      "characters": [
+        "gary",
+        "david-kobrosky",
+        "the-plain-door"
+      ],
+      "location": null,
+      "provenance": "The co-leading claim of the commission. The ode discipline borrowed from the-introducer: crafts do not arc, objects grow. Gary and David side by side, each mid-craft."
+    },
+    {
+      "n": 19,
+      "text": "So bring the thing you are building. Bring the voice memo and the hunch. The door is plain on purpose, because the promise is not the door. The promise is the room behind it, and the room is expecting you.",
+      "characters": [
+        "the-plain-door"
+      ],
+      "location": null,
+      "provenance": "The invitation beat, addressed to the reader-founder. Door ajar state from the-plain-door's locked sheets. Echoes nobody-labeled-the-door's argument that the door stays unbranded."
+    },
+    {
+      "n": 20,
+      "text": "Come on Thursday. Leave flying.",
+      "characters": [
+        "winged-startup",
+        "the-plain-door"
+      ],
+      "location": null,
+      "provenance": "The refrain, handed to the reader. Closing spread: the winged startup climbing out of frame, the open door small below. Refrain object: you."
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays",
+  "story": "takeoff-thursdays",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {},
+  "spreads": [
+    {
+      "id": "spread-01",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "david-kobrosky",
+          "pose": "front",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        }
+      ],
+      "scene": "A ROOMFUL OF PEOPLE is the subject. In a good ordinary working room, six young founders stand and sit in loose knots, mid-conversation, laptops and mugs among them. GARY stands at frame LEFT in his light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest, listening to a founder, head tilted. DAVID KOBROSKY stands at frame RIGHT near the plain door, greeting an arriving founder. Warm evening lamp light, big plain windows showing dusk. The room stays ordinary: mismatched chairs, a whiteboard with half-erased diagrams, printouts taped to the wall. Keep the bottom-right quarter calm, plain floor and soft light. If the room is empty of people the image is wrong.",
+      "shot": "wide",
+      "_caption": "There is a room in San Francisco where agentic startups learn to fly. It is not a stage and it is not a showroom. It is a good ordinary room with a plain door, and on Thursdays the door is open. Come on Thursday. Leave flying.",
+      "anonymous": "six founders in their twenties and thirties, varied builds and skin tones, casual clothes, mid-conversation in loose knots",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-02",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "ONE MAN AT AN OPEN DOOR is the subject. DAVID KOBROSKY holds the plain door open from inside a hallway, his free hand extended in welcome toward someone just out of frame at the left edge, only that visitor's shoulder entering the frame, softly out of focus. David's torso and head both face the visitor. Render the door exactly one state: AJAR, the plain unbranded leaf swung inward, warm room light spilling through the gap into the cooler hallway. No sign, no plaque, no logo on or near the door. The hallway is ordinary: scuffed baseboard, one ceiling light. If the door carries any lettering the image is wrong.",
+      "shot": "two-shot",
+      "_caption": "Nobody famous guards the door. David holds it, with his hand already out, because a door is just an introduction between a hallway and a room.",
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-03",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "A SPEAKER AND WHAT HE DESCRIBES is the subject. GARY stands small at the lower LEFT edge beside the whiteboard in his light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest, one arm raised mid-gesture, marker in hand. Filling the upper RIGHT two-thirds of the frame, a large soft painted thought-bubble holds what he is naming: an open window of sky with a small runway ramp rising through it toward a break in warm clouds, drawn in the same warm editorial paint, dreamlike, clearly a described idea rather than the room's reality. The ordinary room recedes soft-focus behind him. Keep the bubble's contents simple: sky, window frame, rising ramp, nothing else.",
+      "shot": "thought-bubble",
+      "_caption": "Inside, Gary's job is to name what the founders are looking at. The window that is open right now. The foundation they can rent instead of rebuild. The way up. He is the one who says out loud what a room full of builders is standing inside of.",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-04",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "signature",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "TWO PEOPLE MEETING is the subject. At frame RIGHT the ENGINEER stands slightly apart from the room, holding a closed laptop against his chest, shoulders a little guarded. DAVID KOBROSKY has just crossed to him, arriving at frame CENTER in warm three-quarter view, his signature gesture live: one open palm turned warmly upward at waist height, the other arm sweeping gently back toward the room, eyes locked on the engineer's eyes, mid-smile. The engineer's face is beginning to open. In the soft-focus background LEFT, GARY in his light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest talks with someone at the whiteboard, small and out of focus but present. Ordinary room, warm lamp light. If David and the engineer do not read as meeting each other's eyes, the image is wrong.",
+      "shot": "two-shot",
+      "_caption": "David's job is older than software. He notices who is standing alone at the edge of the room, crosses it with his hand already out, and says the four words he was born to say. Let me introduce you.",
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-05",
+      "setting": "the-room",
+      "plate": "night",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        },
+        {
+          "id": "chrissy",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "A CIRCLE OF BUILDERS AROUND A TABLE is the subject, eight people filling the frame. Desks have been pushed into a rough ring under warm lamps, night behind the windows. MAYA in her sage-olive blazer sets a small device on the table. CHRISSY, blonde hair down, cream blazer, leans forward on her elbows grinning. The ENGINEER in his charcoal zip hoodie and rounded dark glasses turns a laptop to face the others. GARY sits among them, denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest, listening. Four more founders fill out the circle, seated and perched on desk edges. Mugs, cables, pizza boxes at the edge. Everything on the table is mid-demonstration, nothing staged. Keep the lower-right corner calm.",
+      "shot": "wide",
+      "_caption": "Every Thursday the room fills with founders. They do not come to watch a presentation. They bring what they built that week, and what broke, and what shocked them, and they put it on the table.",
+      "anonymous": "four more founders of varied builds and skin tones filling out the circle, seated and perched on desk edges",
+      "pos": "bottom-left"
+    },
+    {
+      "id": "spread-06",
+      "setting": "the-room",
+      "plate": "night",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        },
+        {
+          "id": "supercharged-laptop"
+        },
+        {
+          "id": "engineer"
+        },
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "ONE FOUNDER AND HER OPEN LAPTOP is the subject. MAYA sits at the table in her sage-olive blazer, the supercharged laptop OPEN in front of her, its warm glow up-lighting her face, her expression halfway between pride and rue. The camera is CLOSE, chest-up, across the table from her; IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATES. At the left and right edges of the frame, the ENGINEER (charcoal hoodie, rounded dark glasses) and GARY (light-wash denim jacket, yellow smiley patch on the left chest, orange pixel-mascot patch on the right chest) lean in from either side, each cropped by the frame to a shoulder and part of a face, softly out of focus, eyes on her screen. The screen itself faces away from camera. Warm night light. Her face is the sharp subject.",
+      "shot": "close",
+      "_caption": "A founder opens her laptop and the room leans in. Her agent ran all week while she slept. The question is never whether it worked. The question is what she learned when it did not.",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-07",
+      "setting": "the-room",
+      "plate": null,
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        }
+      ],
+      "scene": "HANDS AND A HANDED-OVER PLAYBOOK are the subject, an INSERT shot, no faces in frame. Over a plain desk, GARY'S hands (denim-jacket cuffs visible, light-wash) pass a slim cream booklet to the ENGINEER'S receiving hands (charcoal hoodie cuffs). The booklet's cover carries a simple hand-drawn diagram of a rising ramp and exactly the baked text 'PAVED' in small block letters, nothing else written anywhere. Around them on the desk: two mugs, a folded printout, a marker. Warm lamp light from the left. Both pairs of hands and the booklet fill the frame; nothing above the wrists is shown.",
+      "shot": "insert",
+      "_caption": "What one startup figures out, every startup gets. The practices are paved into playbooks, and the playbooks are handed to whoever walks in next. Nobody pays the figure-it-out cost twice.",
+      "allowPlatelessSetting": true,
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-08",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "signature",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "chrissy",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        }
+      ],
+      "scene": "AN INTRODUCTION IN PROGRESS is the subject, three people. Camera sits just BEHIND CHRISSY at frame LEFT: the back of her head and her cream-blazer shoulder are close to the lens, cropped by the frame edge, softly out of focus; her chest is not visible and the front of her blazer is not visible; head and body point the same way, across the gap. The sharp subjects are the two people she faces: DAVID KOBROSKY mid-gesture, signature open palm turned upward, glancing warmly between her and the ENGINEER beside him, who is extending his hand toward Chrissy with a broad open smile. Ordinary room behind them, warm lamps, whiteboard soft in the distance. If all three are not clearly joined in one introduction, the image is wrong.",
+      "shot": "over-shoulder",
+      "_caption": "And the introductions compound. The storyteller meets the engineer she needed. The engineer meets the customer he could not find. David keeps the map of the room in his head, and he spends it on other people.",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-09",
+      "setting": "the-room",
+      "plate": null,
+      "cast": [
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        }
+      ],
+      "scene": "AN IMAGINED CUTAWAY is the subject, nobody in frame. A warm painted diagram-image: four small desks drawn across the top of the frame, each with a tiny open laptop glowing, and beneath the floorboards ONE broad warm terracotta root-system of soft glowing conduits connecting all four desks down into a single deep foundation slab. The style stays warm editorial paint, hand-drawn, gentle; the conduits read as warm light, never neon, never circuit-board. No text anywhere. The foundation slab is calm, solid, and takes the lower third of the frame.",
+      "shot": "imagined",
+      "_caption": "Underneath every one of them hums the same foundation. Because they all build on the same infrastructure, help transfers. A fix found by one team on Tuesday is running inside four other startups by Friday.",
+      "negatives": "no neon, no circuit boards, no HUD, no text or labels anywhere",
+      "allowPlatelessSetting": true,
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-10",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        },
+        {
+          "id": "winged-startup",
+          "plate": "hero"
+        }
+      ],
+      "scene": "A FOUNDER WATCHING HER STARTUP LIFT is the subject. MAYA stands at frame LEFT in her sage-olive blazer, seen in warm three-quarter from behind-left, face turned up and away from camera in profile, laughing. Rising through the RIGHT half of the frame, the winged block-tower startup climbs into warm evening sky above the room's open window, wings spread, small and gaining height, trailing two or three soft paper-warm motion strokes. IGNORE THE SIZE AND PLACEMENT OF THE FIGURE IN THE SUPPLIED WINGED-STARTUP PLATE: here it is airborne, tilted into a climb, one-quarter the height of the frame. The room's window frame anchors the lower edge. Keep the top of the frame open sky.",
+      "shot": "two-shot",
+      "_caption": "Then the first one lifts. A startup that walked in with a voice memo and a hunch leaves the ground, wings out, climbing. The room does not applaud politely. The room roars, because everyone in it knows exactly what that climb cost. Come on Thursday. Leave flying.",
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-11",
+      "setting": "the-room",
+      "plate": null,
+      "cast": [
+        {
+          "id": "chrissy",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "winged-startup",
+          "plate": "detail"
+        }
+      ],
+      "scene": "A SHELF OF SMALL WINGED TOWERS is the subject. A plain wooden shelf runs across the frame at chest height carrying nine small winged block-towers in a loose row, each one slightly different in height and wing posture, matte terracotta and cream, clearly the same family as the winged-startup design. CHRISSY stands at frame RIGHT in her cream blazer, close to the lens and cropped at the waist by the frame edge, reaching out to touch the nearest tower with two fingers, her face in soft warm profile, fond. Ordinary wall behind, one taped printout. No trophy case, no glass, no plaques, no lettering anywhere on or under the shelf.",
+      "shot": "close",
+      "_caption": "By the wall there is a shelf of small winged towers, one for every startup that took off from this room. Nobody dusts a trophy case here. The founders touch them on the way in, the way you touch a doorframe in a house you grew up in.",
+      "allowPlatelessSetting": true,
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-12",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "chrissy",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        },
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "A RETURNED FOUNDER TEACHING is the subject. CHRISSY stands at the whiteboard at frame RIGHT in her cream blazer, mid-sentence, marker raised toward a hand-drawn rising curve on the board, her face open and animated. Facing her, five newer founders sit on mismatched chairs, backs and three-quarter profiles to camera. Among them MAYA (sage-olive blazer) takes notes, and GARY (light-wash denim jacket, yellow smiley patch on the left chest, orange pixel-mascot patch on the right chest) sits at the edge of the group, listening rather than leading. Warm afternoon light through the big windows. The whiteboard carries only simple hand-drawn curves and boxes, no readable words.",
+      "shot": "wide",
+      "_caption": "The ones who flew keep coming back. They stand where they once sat, and they hand down what the climb taught them. In most industries the winners hoard altitude. In this room, altitude is the thing you owe the next batch.",
+      "anonymous": "five newer founders seated on mismatched chairs facing the whiteboard, backs and profiles to camera",
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-13",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "dario",
+          "pose": "at-the-door",
+          "_choices": [
+            "front",
+            "at-the-door",
+            "holding-steady",
+            "giving-it-away",
+            "glad"
+          ]
+        }
+      ],
+      "scene": "A QUIET LISTENER AT THE BACK OF A WORKING ROOM is the subject. At the far end of the room a half-circle of founders is deep in discussion around a table, faces toward each other, gesturing at a laptop. In the near LEFT foreground, DARIO stands just inside the plain door, hands folded, leaning one shoulder against the wall, listening with visible delight, making no move toward the group. He is closer to the lens, cropped at the thigh by the frame's lower edge. Nobody in the discussion has turned toward him. Warm evening light. The distance between him and the group is the picture's subject: keep clear floor between them.",
+      "shot": "wide",
+      "_caption": "Some Thursdays the founders of the lab itself slip in at the back to listen. The people building the intelligence want to hear what the room is doing with it, because the room finds uses the lab never imagined.",
+      "anonymous": "a half-circle of founders mid-discussion at the far end of the room, faces toward each other",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-14",
+      "plate": null,
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": null,
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "master"
+        }
+      ],
+      "scene": "AN IMAGINED PANORAMA OF FOUR WALLS is the subject, painted as one continuous warm frieze, DAVID KOBROSKY standing small at the far left edge with his hand resting on the first door's frame, seen from behind at one-eighth frame height. Across the frame, four different walls stand side by side in one dreamlike row: a brick Austin storefront wall, a London stone terrace wall, a Bangalore concrete wall with a ceiling fan visible through a window, a Tokyo timber-and-plaster wall. Set into EACH wall is the IDENTICAL plain door leaf, exactly the same unbranded design, same handle height, all four shut. Render each door exactly one state: the master shut state. Warm evening light unifies the frieze. No lettering, no flags, no signs naming the cities.",
+      "shot": "imagined",
+      "_caption": "The room outgrows its walls, so the door multiplies. The same plain leaf appears in Austin, in London, in Bangalore, in Tokyo. Different walls, one design, one promise. Come on Thursday. Leave flying.",
+      "pos": "bottom-left"
+    },
+    {
+      "id": "spread-15",
+      "setting": "the-room",
+      "plate": "night",
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "david-kobrosky",
+          "pose": "front",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "maya",
+          "pose": null,
+          "_choices": [
+            "master"
+          ]
+        },
+        {
+          "id": "chrissy",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        },
+        {
+          "id": "engineer",
+          "pose": null,
+          "_choices": [
+            "forward-fullbody"
+          ]
+        }
+      ],
+      "scene": "A FULL ROOM JOINED BY LIGHT is the subject. The ordinary room at night, warm lamps on, a dozen founders in small knots across the whole floor, talking, demonstrating, laughing. Among them: MAYA (sage-olive blazer), CHRISSY (cream blazer), the ENGINEER (charcoal hoodie), GARY (light-wash denim jacket, yellow smiley patch left chest, orange pixel-mascot patch right chest) mid-conversation at center, and DAVID KOBROSKY at the right guiding one founder toward another. Between the knots of people, faint warm hand-painted threads of soft gold light arc gently from group to group at head height, sparse, five or six threads at most, reading as connection rather than technology. No neon, no holograms, no interface elements. The threads stay subtle; the people stay the subject.",
+      "shot": "wide",
+      "_caption": "Here is why it becomes the most valuable community in the world, and it is not the money. Every member's hardest-won lesson becomes every member's starting point. A thousand startups learning together compound faster than any company can learn alone.",
+      "anonymous": "a dozen founders filling the room in small knots, varied builds and skin tones",
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-16",
+      "setting": "the-room",
+      "plate": "wide",
+      "cast": [
+        {
+          "id": "david-kobrosky",
+          "pose": "front",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "gary"
+        }
+      ],
+      "scene": "TWO MEN AND WHAT THE WORLD GETS WRONG is the subject. GARY and DAVID KOBROSKY stand together at the lower LEFT, both in warm three-quarter view, sharing an amused look with each other, Gary in the light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest. Filling the upper RIGHT two-thirds, a large soft painted thought-bubble holds the thing being described: an immaculate empty room, expensive identical chairs in perfect rows, a long polished table, tasteful plants, and NOT ONE PERSON in it, rendered slightly cooler than the warm real world below. The bubble's room is beautiful and dead. Keep the two men warm and the bubble cool.",
+      "shot": "thought-bubble",
+      "_caption": "The world starts to notice that the agentic startups that win keep naming the same room. Investors ask for it. Rivals copy the furniture. But a community is not furniture. It is ten thousand introductions that already happened.",
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-17",
+      "setting": "founder-paradise",
+      "plate": "establishing",
+      "cast": [],
+      "scene": "THE FLOATING SETTLEMENT is the subject, exactly as the establishing plate composes it: the teardrop rock below, terraces and spires above, floating free and unsteered in warm open sky, no chains, no pillars, no engines. Render it at golden hour, small warm lights beginning to show on the terraces, two or three tiny winged block-towers circling far above it like distant birds. Below and around it, open sky and soft cloud. Keep the silhouette exactly the plate's silhouette. The lower right quarter stays calm open sky.",
+      "shot": "wide",
+      "_caption": "Follow the community far enough and you can see where it is headed: a place where building the good future is a neighborhood activity. Warm, quiet, unsteered by any one hand, held up by everyone in it.",
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-18",
+      "plate": null,
+      "cast": [
+        {
+          "id": "gary"
+        },
+        {
+          "id": "david-kobrosky",
+          "pose": "signature",
+          "_choices": [
+            "front",
+            "signature"
+          ]
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "TWO MEN AT AN OPEN DOOR is the subject, each mid-craft. The plain door stands AJAR at frame CENTER, warm light spilling out. On its LEFT, GARY in the light-wash denim jacket with the yellow smiley patch on the left chest and the orange pixel-mascot patch on the right chest gestures up toward a small hand-drawn map he holds at chest height, mid-sentence, explaining to someone unseen beyond the right frame edge. On the door's RIGHT, DAVID KOBROSKY holds his signature gesture, open palm turned warmly upward, welcoming the same unseen arrivals. Both men face slightly rightward, toward the arrivals, warm three-quarter views. Render the door exactly one state: ajar, unbranded. Nothing written anywhere.",
+      "shot": "two-shot",
+      "_caption": "And at the center, still, two people at a door. One names the room so builders know what they are standing inside of. One crosses it with his hand already out. Neither craft ever changed. The objects just got bigger.",
+      "pos": "bottom-left"
+    },
+    {
+      "id": "spread-19",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-plain-door",
+          "plate": "ajar"
+        }
+      ],
+      "scene": "AN OPEN DOOR SEEN FROM THE HALLWAY is the subject, nobody in frame. The plain unbranded door stands AJAR at frame center-right, rendered exactly one state, warm gold room-light spilling through the gap across a scuffed ordinary hallway floor toward the viewer. Through the gap, a sliver of the room is visible and soft: the edge of a desk, a mug, the corner of a whiteboard, one lamp. The hallway around the door stays cool and plain. The light on the floor is the picture's warmest thing, reaching the bottom edge of the frame like a carpet rolled out toward the reader. No lettering anywhere.",
+      "shot": "close",
+      "_caption": "So bring the thing you are building. Bring the voice memo and the hunch. The door is plain on purpose, because the promise is not the door. The promise is the room behind it, and the room is expecting you.",
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-20",
+      "plate": null,
+      "cast": [
+        {
+          "id": "winged-startup",
+          "plate": "hero"
+        },
+        {
+          "id": "the-plain-door",
+          "plate": "master"
+        }
+      ],
+      "scene": "A CLIMB INTO MORNING SKY is the subject. Vast warm dawn sky fills the frame. The winged block-tower startup climbs through its upper LEFT third, wings wide, tilted into ascent, trailing two soft paper-warm strokes; IGNORE THE SIZE AND PLACEMENT IN THE SUPPLIED PLATE, here it is airborne and one-fifth the frame's height. Far below at the bottom edge, tiny, the plain shut door stands alone in a low ordinary wall on a rooftop, rendered exactly one state, the master shut leaf, a small warm light glowing along its bottom crack. Ninety percent of the frame is sky. Keep the lower right calm for the caption card.",
+      "shot": "wide",
+      "_caption": "Come on Thursday. Leave flying.",
+      "pos": "top-right"
+    }
+  ]
+}

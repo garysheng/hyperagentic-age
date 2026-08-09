@@ -1,0 +1,35 @@
+{
+  "asset": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/closing-plate-raw.png",
+  "model": "none (deterministic image transform, no model call)",
+  "mode": "derive",
+  "tool": "abu:cover/scripts/conform_cover.py",
+  "args": {
+    "aspect": "3:4",
+    "mode": "pad",
+    "inset": 1.0,
+    "blur": 40,
+    "keyline": null
+  },
+  "prompt": null,
+  "sourceRender": {
+    "prompt": "PORTRAIT picture-book COVER in the warm editorial ink-and-wash style of the FIRST reference image. winged-startup exactly as its reference sheets: The startup is a HAND-STACKED tower of two or three flat cream blocks, slightly imperfect and uneven, never a single block and never a neat machine-precise stack.; Cream wings are attached to the tower and the whole reads as LIFT: rising, climbing, or airborne, never sitting still on a surface.; Plate register only: flat solid terracotta ground, a single-weight wobbly confident black ink outline, flat ivory-cream fills as the only fills.; Absolutely no text, letters, numbers, UI, or cursor marks, ever.; Face-on and flat: no perspective, no isometric, no parallelograms, no side faces or edge thickness, no shading, no gradients, no coloured linework.. A VAST WARM DAWN SKY is the entire subject; there is no ground, no wall, no door, no building and no horizon object anywhere in this image. Soft warm morning clouds drift low across the upper third and thin toward the middle. The winged block-tower startup flies SMALL AND HIGH in the upper third of the frame, wings wide, well clear of the top edge, trailing two soft paper-warm motion strokes; IGNORE THE SIZE, PLACEMENT AND FLAT TERRACOTTA GROUND OF THE SUPPLIED WINGED-STARTUP PLATE: here it is airborne, about one-eighth of the frame's height, painted in the same warm editorial ink-and-wash as the sky around it. The ENTIRE LOWER HALF of the frame is calm open dawn sky, quiet, low-detail and evenly lit, kept clear as a resting place for text that will be overlaid later. No lettering of any kind anywhere in the image. CRITICAL SAFE MARGINS: the top 10% and bottom 10% of the frame are pure background texture with NO lettering and NO important elements; ALL text and the figure sit inside the central 80% of the frame, because the outer edges will be trimmed. ART ONLY: absolutely NO text, NO lettering, NO title, NO byline, NO numbers and NO signature anywhere in the frame. The title is typeset separately afterwards, so keep the upper third of the frame calm, uncluttered background with nothing that must be read. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, extra words, gibberish lettering, text touching the frame edges, any ground, wall, door, building or horizon structure, a solid flat terracotta background filling the frame, any person, any human figure, anyone standing in the room.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high"
+  },
+  "transform": "1024x1536 -> 1152x1536",
+  "inputs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/closing-plate-raw.png",
+      "sha256_16": "9170022d21c49e22",
+      "role": "source render"
+    }
+  ],
+  "sha256_16": "9170022d21c49e22",
+  "derivedFrom": {
+    "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays/closing-plate-raw.png",
+    "recipe": null,
+    "sha256_16": "9170022d21c49e22"
+  },
+  "note": "DERIVATIVE, not a generation. The cover was conformed to the reader platform's page aspect by conform_cover.py. No image model was called and no pixels of the sharp art were repainted; see derivedFrom for the recipe of the render this came from."
+}

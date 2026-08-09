@@ -1,0 +1,113 @@
+{
+  "asset": "spread-06.png",
+  "assetSha256_16": "0f422590c2747d11",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "37ae2c7b7c01f9cfffb67f1eb71d3532d2f418b5",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/takeoff-thursdays",
+  "story": "takeoff-thursdays",
+  "spread": "spread-06",
+  "descriptor": {
+    "id": "spread-06",
+    "setting": "the-room",
+    "plate": "night",
+    "cast": [
+      {
+        "id": "maya",
+        "pose": null,
+        "_choices": [
+          "master"
+        ]
+      },
+      {
+        "id": "supercharged-laptop"
+      },
+      {
+        "id": "engineer"
+      },
+      {
+        "id": "gary"
+      }
+    ],
+    "scene": "ONE FOUNDER AND HER OPEN LAPTOP is the subject. MAYA sits at the table in her sage-olive blazer, the supercharged laptop OPEN in front of her, its warm glow up-lighting her face, her expression halfway between pride and rue. The camera is CLOSE, chest-up, across the table from her; IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATES. At the left and right edges of the frame, the ENGINEER (charcoal hoodie, rounded dark glasses) and GARY (light-wash denim jacket, yellow smiley patch on the left chest, orange pixel-mascot patch on the right chest) lean in from either side, each cropped by the frame to a shoulder and part of a face, softly out of focus, eyes on her screen. The screen itself faces away from camera. Warm night light. Her face is the sharp subject.",
+    "shot": "close",
+    "_caption": "A founder opens her laptop and the room leans in. Her agent ran all week while she slept. The question is never whether it worked. The question is what she learned when it did not."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: ONE FOUNDER AND HER OPEN LAPTOP is the subject. MAYA sits at the table in her sage-olive blazer, the supercharged laptop OPEN in front of her, its warm glow up-lighting her face, her expression halfway between pride and rue. The camera is CLOSE, chest-up, across the table from her; IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATES. At the left and right edges of the frame, the ENGINEER (charcoal hoodie, rounded dark glasses) and GARY (light-wash denim jacket, yellow smiley patch on the left chest, orange pixel-mascot patch on the right chest) lean in from either side, each cropped by the frame to a shoulder and part of a face, softly out of focus, eyes on her screen. The screen itself faces away from camera. Warm night light. Her face is the sharp subject. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Colour is meaning: orange means Claude Code / the Chief of Agents is running on it; sage-green means Grantwell is; deep indigo means Storywell is. Never mix two agent colours on one machine. The ordinary, un-supercharged laptop stays a plain grey object; the glow is what marks the turn. engineer rendered exactly per the supplied reference images: black man; short cropped hair and a neat short beard; rounded dark glasses; charcoal grey zip hoodie over a plain tee default; warm editorial register. THE ENGINEER: a Black man with short-cropped hair and a neat short beard, rounded dark glasses, in a charcoal grey zip hoodie over a plain tee. Calm, plain-spoken, kind. Warm-editorial ink-and-wash, never photoreal. gary rendered exactly per the supplied reference images: east asian man; clean shaven no mustache; double eyelid crease; black hair; light wash denim jacket; claude mascot patch right chest; yellow smiley patch left chest; white crew neck tee; white high top sneakers; no necklace; jacket back completely PLAIN denim no patches no artwork no text; appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket; religious iconography only where the story calls for it never decorative; warm editorial register. the-room exactly as its reference plate: THE ROOM: one long working room in an ordinary building, the kind a small company grows into rather than commissions. Plain desks pushed together in irregular clusters, mismatched chairs, monitors, laptops, a whiteboard with half-erased diagrams, printouts taped to a wall, mugs, a shelf of well-used books, cables. Big plain windows down one side. No open-plan tech-campus gloss, no branding, no slogans on the walls, no neon, no glass conference boxes. The camera is INSIDE the room at standing or seated eye height, never a lobby shot and never an architectural exterior. The clusters of desks give it depth. People are ordinary in scale and are never arranged to face a leader; if anyone is speaking, the group is loose around them rather than seated in rows. The room is LIVED-IN and a little untidy, with evidence of people everywhere whether or not anyone is in frame: a jacket over a chair back, an open notebook, a half-drunk mug, printouts curling where they are taped up, mismatched chairs pushed at angles. It is NEVER sterile, NEVER a showroom, and NEVER lit dramatically; the light is only ever whatever the room actually has at that hour. RENDER EXACTLY ONE MOMENT IN TIME: one single continuous scene at one time of day, filling the whole frame. Do NOT divide the image, do NOT stack a daytime version above a night version, do NOT show the room twice, and do NOT produce a before-and-after or side-by-side comparison of any kind. One long room, human-scaled, low ceiling rather than an atrium. It should feel like somewhere about a hundred people could work, not a headquarters. TELL THEM APART, keep every face and hairstyle distinct: maya is the one with half black half white founder, sage olive blazer single button notch lapel sleeves pushed to elbow, white crew neck tee, stone khaki chinos never blue jeans, laptop under arm; engineer is the one with black man, short cropped hair and a neat short beard, rounded dark glasses, charcoal grey zip hoodie over a plain tee default; gary is the one with east asian man, clean shaven no mustache, double eyelid crease, black hair, light wash denim jacket, claude mascot patch right chest, yellow smiley patch left chest, white crew neck tee, white high top sneakers, no necklace, jacket back completely PLAIN denim no patches no artwork no text, appears EXACTLY ONCE per scene no other figure shares his face hair or denim jacket, religious iconography only where the story calls for it never decorative. THE ONLY CHARACTERS IN THIS IMAGE ARE: engineer, gary, maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DEVICE GEOMETRY. A device a person is USING is genuinely IN FRONT OF ITS USER: the screen faces the USER'S eyes, the keyboard sits under THEIR hands, at a distance a person actually works at. NEVER rotate a screen away from its user so the camera can see it: a person typing on a keyboard that faces away from them, or reading a screen turned toward the viewer, is a physics defect. When the screen's content must be visible to the VIEWER as well as the user, the correct camera is OVER THE USER'S SHOULDER: the back of their head and one shoulder soft in the near frame, the screen face sharp beyond it. The over-the-shoulder shot is legal and encouraged; a rotated device is not.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/engineer/forward-fullbody.png",
+      "sha256_16": "33b41a5927f3e2c9"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/engineer/face-neutral.png",
+      "sha256_16": "f5d2aeef7d18722a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary/master.png",
+      "sha256_16": "6c9c523477123c1f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-room/night.png",
+      "sha256_16": "f74b1044d30e02fe"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register",
+    "supercharged-laptop: clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+    "supercharged-laptop: the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+    "supercharged-laptop: glow-colour-is-the-colour-of-the-agent-supercharging-it",
+    "supercharged-laptop: screen-FACE-is-visible-to-the-viewer",
+    "supercharged-laptop: never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+    "supercharged-laptop: casts-light-not-shadow",
+    "supercharged-laptop: warm-editorial-register",
+    "supercharged-laptop: it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+    "supercharged-laptop: the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+    "supercharged-laptop: it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+    "supercharged-laptop: the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide",
+    "engineer: black-man",
+    "engineer: short-cropped-hair-and-a-neat-short-beard",
+    "engineer: rounded-dark-glasses",
+    "engineer: charcoal-grey-zip-hoodie-over-a-plain-tee-default",
+    "engineer: warm-editorial-register",
+    "gary: east-asian-man",
+    "gary: clean-shaven-no-mustache",
+    "gary: double-eyelid-crease",
+    "gary: black-hair",
+    "gary: light-wash-denim-jacket",
+    "gary: claude-mascot-patch-right-chest",
+    "gary: yellow-smiley-patch-left-chest",
+    "gary: white-crew-neck-tee",
+    "gary: white-high-top-sneakers",
+    "gary: no-necklace",
+    "gary: jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text",
+    "gary: appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket",
+    "gary: religious-iconography-only-where-the-story-calls-for-it-never-decorative",
+    "gary: warm-editorial-register",
+    "the-room: an-ordinary-long-working-room-never-a-showroom-or-atrium",
+    "the-room: plain-desks-in-irregular-clusters-with-mismatched-chairs",
+    "the-room: whiteboard-with-half-erased-diagrams-and-taped-up-printouts",
+    "the-room: lived-in-and-slightly-untidy-evidence-of-people-everywhere",
+    "the-room: no-branding-no-slogans-on-walls-no-neon-no-glass-conference-boxes",
+    "the-room: camera-inside-the-room-at-eye-height-never-a-lobby-or-exterior",
+    "the-room: same-room-in-both-states-only-the-light-changes",
+    "the-room: warm-editorial-register-never-photoreal"
+  ]
+}
