@@ -1,0 +1,20 @@
+{
+  "goldenDigest": "a4d1b958967121a7",
+  "inputs": [
+    {
+      "digest": "c27b7a75859ea69b",
+      "path": "reference/clawd/source/clawd-true-ref-a-bar-eyes.png"
+    },
+    {
+      "digest": "be7601e54ee9148e",
+      "path": "reference/clawd/source/clawd-true-ref-b-square-eyes.png"
+    },
+    {
+      "digest": "c3f8791506aee1e6",
+      "path": "reference/clawd/source/clawd-true-ref-c-scrunched.png"
+    }
+  ],
+  "prompt": null,
+  "provider": null,
+  "specVersion": null
+}

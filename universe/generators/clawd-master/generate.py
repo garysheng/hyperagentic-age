@@ -124,6 +124,26 @@ def main():
         rendered.append((style, png_path))
         print(f"  + out/{svg_path.name}  + out/{png_path.name}")
 
+    # install: copy blessed outputs to their consumers. Idempotent, reports only
+    # what changed, so no consumer can drift from a hand-copied stale PNG.
+    installed, unchanged = [], 0
+    for src_rel, dests in CFG.get("install", {}).items():
+        src = HERE / src_rel
+        for dest_rel in dests:
+            dest = Path(dest_rel) if Path(dest_rel).is_absolute() else (HERE / dest_rel).resolve()
+            if dest.exists() and sha(dest) == sha(src):
+                unchanged += 1
+                continue
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(src.read_bytes())
+            recipe_src = HERE / f"{src_rel}.recipe.json"
+            if recipe_src.exists():
+                Path(f"{dest}.recipe.json").write_text(recipe_src.read_text())
+            installed.append(str(dest))
+    for d in installed:
+        print(f"  ~ installed -> {d}")
+    print(f"  = install: {len(installed)} updated, {unchanged} already current")
+
     proof = HERE / "proof"
     proof.mkdir(exist_ok=True)
     big, gap = 340, 40

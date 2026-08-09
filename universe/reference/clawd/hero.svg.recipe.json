@@ -1,8 +1,5 @@
 {
-  "id": "clawd-master",
-  "name": "Clawd master (SVG)",
-  "kind": "generator",
-  "entrypoint": "generate.py",
+  "generator": "clawd-master",
   "determinism": "pure",
   "params": {
     "unit": 32,
@@ -403,125 +400,12 @@
     "default": "pupil",
     "eyePixel": 0.25
   },
+  "style": "pupil",
   "inputs": [
     "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
     "reference/clawd/source/clawd-true-ref-b-square-eyes.png",
     "reference/clawd/source/clawd-true-ref-c-scrunched.png"
   ],
-  "outputs": [
-    {
-      "path": "out/clawd-pupil.svg",
-      "description": "Master, pupil eyes"
-    },
-    {
-      "path": "out/clawd-pupil.png",
-      "description": "Raster proof, pupil eyes"
-    },
-    {
-      "path": "out/clawd-square.svg",
-      "description": "Master, square eyes"
-    },
-    {
-      "path": "out/clawd-square.png",
-      "description": "Raster proof, square eyes"
-    },
-    {
-      "path": "out/clawd-bar.svg",
-      "description": "Master, bar eyes"
-    },
-    {
-      "path": "out/clawd-bar.png",
-      "description": "Raster proof, bar eyes"
-    },
-    {
-      "path": "out/clawd-scrunch.svg",
-      "description": "Master, scrunch eyes"
-    },
-    {
-      "path": "out/clawd-scrunch.png",
-      "description": "Raster proof, scrunch eyes"
-    },
-    {
-      "path": "out/clawd-happy.svg",
-      "description": "Master, happy eyes"
-    },
-    {
-      "path": "out/clawd-happy.png",
-      "description": "Raster proof, happy eyes"
-    },
-    {
-      "path": "out/clawd-sleepy.svg",
-      "description": "Master, sleepy eyes"
-    },
-    {
-      "path": "out/clawd-sleepy.png",
-      "description": "Raster proof, sleepy eyes"
-    },
-    {
-      "path": "out/clawd-surprised.svg",
-      "description": "Master, surprised eyes"
-    },
-    {
-      "path": "out/clawd-surprised.png",
-      "description": "Raster proof, surprised eyes"
-    },
-    {
-      "path": "out/clawd-determined.svg",
-      "description": "Master, determined eyes"
-    },
-    {
-      "path": "out/clawd-determined.png",
-      "description": "Raster proof, determined eyes"
-    },
-    {
-      "path": "out/clawd-dizzy.svg",
-      "description": "Master, dizzy eyes"
-    },
-    {
-      "path": "out/clawd-dizzy.png",
-      "description": "Raster proof, dizzy eyes"
-    },
-    {
-      "path": "out/clawd-wink.svg",
-      "description": "Master, wink eyes"
-    },
-    {
-      "path": "out/clawd-wink.png",
-      "description": "Raster proof, wink eyes"
-    },
-    {
-      "path": "out/clawd-glance.svg",
-      "description": "Master, glance eyes"
-    },
-    {
-      "path": "out/clawd-glance.png",
-      "description": "Raster proof, glance eyes"
-    }
-  ],
-  "proof": {
-    "sheet": "proof/contact-sheet.png",
-    "assertions": [
-      "grid matches the measured reference: 8x6 torso, 2x2 stubs at rows 2-3, four 1x2 legs at torso cols 0/2/5/7, eyes at torso cols 1/6 row 1",
-      "figure is left-right symmetric",
-      "reads correctly at favicon size (16px) and at sticker size",
-      "flat single body fill, no gradient, no outline stroke",
-      "every eye block is SQUARE: block size derives from the single eyePixel param, never from per-style width/height",
-      "install is idempotent: re-running reports no changes when destinations already match"
-    ]
-  },
-  "install": {
-    "out/clawd-pupil.png": [
-      "../../reference/clawd/hero.png",
-      "/Users/garysheng/Documents/github-repos/clawd-gallery/canon-export/refs/clawd-master.png"
-    ],
-    "out/clawd-happy.png": [
-      "/Users/garysheng/Documents/github-repos/clawd-gallery/canon-export/refs/clawd-happy.png"
-    ],
-    "out/clawd-scrunch.png": [
-      "/Users/garysheng/Documents/github-repos/clawd-gallery/canon-export/refs/clawd-scrunch.png"
-    ],
-    "out/clawd-pupil.svg": [
-      "../../reference/clawd/hero.svg"
-    ]
-  }
+  "note": "Deterministic SVG/PNG from a measured grid. Re-running reproduces byte-identical output.",
+  "sha256": "8601d1bedf0fff17ec4abba698cff4a80ed381c6786aa104035af8e7a2b715c5"
 }

@@ -3,14 +3,14 @@
   "kind": "motif",
   "originStory": null,
   "authority": {
-    "lockedBy": null,
+    "lockedBy": "Gary Sheng",
     "lockedOn": "2026-08-09",
-    "lockedAt": null,
-    "note": "Rewound 2026-08-09: prior hero and candidates deleted after Gary supplied the true reference."
+    "lockedAt": "2026-08-09",
+    "note": "Blessed the pupil master (top-left of the expression sheet) as the canonical hero. Drawn by the clawd-master SVG generator, not an image model."
   },
   "structured": {
     "sheets": {
-      "hero": null,
+      "hero": "reference/clawd/hero.png",
       "detail": null
     },
     "requiredForRender": [
@@ -40,6 +40,6 @@
   "prose": {
     "voice": "Silent. He stands, he glints, he ships.",
     "lore": "The plain Anthropic pixel critter, no angel elements: the base identity that angel-clawd is derived from. PRIMARY identity reference is Gary's clean screenshot of the canonical pixel Clawd (reference/angel-clawd/source/clawd-clean-screenshot.png), passed as the first input image on every shot. Rendered, like angel-clawd, as a charming designed-sticker reinterpretation via gpt-image-2, never a rigid grid port.",
-    "rules": "Clawd is always friendly. No angel elements ever on this entity (no wings, no halo, no floating heart): those belong to angel-clawd. No accessories in the base hero."
+    "rules": "Clawd is always friendly. No angel elements ever on this entity (no wings, no halo, no floating heart): those belong to angel-clawd. No accessories in the base hero. Clawd is DRAWN, never prompted: canonical art comes from generators/clawd-master (SVG from a measured grid). An image model may only condition on the generator's approved PNGs."
   }
 }
