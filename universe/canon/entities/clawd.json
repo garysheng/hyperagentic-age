@@ -3,24 +3,26 @@
   "kind": "motif",
   "originStory": null,
   "authority": {
-    "lockedBy": "Gary Sheng",
+    "lockedBy": null,
     "lockedOn": "2026-08-09",
-    "lockedAt": "2026-08-09",
-    "note": "v1-faithful blessed by Gary as plain-clawd hero, 2026-08-09"
+    "lockedAt": null,
+    "note": "Rewound 2026-08-09: prior hero and candidates deleted after Gary supplied the true reference."
   },
   "structured": {
     "sheets": {
-      "hero": "reference/clawd/hero.png",
+      "hero": null,
       "detail": null
     },
     "requiredForRender": [
       "hero"
     ],
     "invariants": [
-      "It is recognizably the Anthropic pixel critter: a small coral pixel-critter mascot with a stepped/blocky silhouette (soft designed-sticker pixel energy is welcome; mushy gradients and full 3D are not).",
-      "Front-facing stepped blocky coral body with a raised head block, one small stub arm on each side of the mid-body, and four little legs below.",
-      "Two big dark eyes. Base form per the clean screenshot: open square/rounded-square eyes, each with a single small white glint. The happy closed contented arcs (two dark upturned arcs, no glints) are a legal alternate expression.",
-      "Anthropic coral palette family for the body: #DD775B with shading toward #c05f45 and highlights toward #ea9077; mono renditions use a single burnt orange (#b0512e family) or all-cream/white (#fffdf7 family).",
+      "It is the Anthropic pixel critter per reference/clawd/source/clawd-true-reference.png: a WIDE, SQUAT rectangular terracotta body, noticeably wider than it is tall.",
+      "Eyes are two TALL THIN VERTICAL BLACK BARS set high and wide on the face. Not squares, not dots, no white glints.",
+      "One flat rectangular STUB tab on each side of the body at mid-height, short and blunt.",
+      "FOUR short stubby rectangular legs below the body.",
+      "NO MOUTH. The whole expression lives in the eyes.",
+      "Flat single terracotta fill (#CC7A5C family) with a subtle slightly-darker outline. No gradient, no highlight band, no shading rows.",
       "NO angel elements: no wings, no halo, no floating heart. Those are angel-clawd.",
       "Transparent ground on every deliverable: shot on solid chroma-green and keyed; no baked background, no drop shadow on the final PNG."
     ],

@@ -1,0 +1,82 @@
+{
+  "generator": "clawd-master",
+  "determinism": "pure",
+  "params": {
+    "unit": 32,
+    "canvasUnits": [
+      12,
+      8
+    ],
+    "torso": {
+      "x": 2,
+      "y": 0,
+      "w": 8,
+      "h": 6
+    },
+    "stub": {
+      "y": 2,
+      "h": 2,
+      "w": 2
+    },
+    "legs": {
+      "y": 6,
+      "h": 2,
+      "w": 1,
+      "torsoCols": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    "eyes": {
+      "row": 1,
+      "torsoCols": [
+        1,
+        6
+      ]
+    },
+    "eyeStyles": {
+      "square": {
+        "w": 1.0,
+        "h": 1.0
+      },
+      "bar": {
+        "w": 0.34,
+        "h": 1.16
+      },
+      "scrunch": {
+        "w": 1.05,
+        "h": 1.0,
+        "comment": "Pixel chevron. pattern is rows of a sub-grid inside the eye cell; 1 = filled block. The LEFT eye draws this as '>', the right eye draws it mirrored as '<'.",
+        "pattern": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    "colors": {
+      "body": "#CD7C5F",
+      "eye": "#141414"
+    },
+    "pad": 0
+  },
+  "style": "square",
+  "inputs": [
+    "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
+    "reference/clawd/source/clawd-true-ref-b-square-eyes.png",
+    "reference/clawd/source/clawd-true-ref-c-scrunched.png"
+  ],
+  "note": "Deterministic SVG/PNG from a measured grid. Re-running reproduces byte-identical output.",
+  "sha256": "57f1f80db8e23775cd6ce31fc16421552d439863dc956ca644bdb445af50a855"
+}

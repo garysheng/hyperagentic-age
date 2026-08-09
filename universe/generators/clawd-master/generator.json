@@ -1,0 +1,117 @@
+{
+  "id": "clawd-master",
+  "name": "Clawd master (SVG)",
+  "kind": "generator",
+  "entrypoint": "generate.py",
+  "determinism": "pure",
+  "params": {
+    "unit": 32,
+    "canvasUnits": [
+      12,
+      8
+    ],
+    "torso": {
+      "x": 2,
+      "y": 0,
+      "w": 8,
+      "h": 6
+    },
+    "stub": {
+      "y": 2,
+      "h": 2,
+      "w": 2
+    },
+    "legs": {
+      "y": 6,
+      "h": 2,
+      "w": 1,
+      "torsoCols": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    "eyes": {
+      "row": 1,
+      "torsoCols": [
+        1,
+        6
+      ]
+    },
+    "eyeStyles": {
+      "square": {
+        "w": 1.0,
+        "h": 1.0
+      },
+      "bar": {
+        "w": 0.34,
+        "h": 1.16
+      },
+      "scrunch": {
+        "w": 1.05,
+        "h": 1.0,
+        "comment": "Pixel chevron. pattern is rows of a sub-grid inside the eye cell; 1 = filled block. The LEFT eye draws this as '>', the right eye draws it mirrored as '<'.",
+        "pattern": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      }
+    },
+    "colors": {
+      "body": "#CD7C5F",
+      "eye": "#141414"
+    },
+    "pad": 0
+  },
+  "inputs": [
+    "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
+    "reference/clawd/source/clawd-true-ref-b-square-eyes.png",
+    "reference/clawd/source/clawd-true-ref-c-scrunched.png"
+  ],
+  "outputs": [
+    {
+      "path": "out/clawd-bar.svg",
+      "description": "Master, vertical-bar eyes (ref A)"
+    },
+    {
+      "path": "out/clawd-square.svg",
+      "description": "Master, square eyes (ref B)"
+    },
+    {
+      "path": "out/clawd-scrunch.svg",
+      "description": "Master, scrunched chevron eyes (ref C)"
+    },
+    {
+      "path": "out/clawd-bar.png",
+      "description": "Raster proof of the bar master"
+    },
+    {
+      "path": "out/clawd-square.png",
+      "description": "Raster proof of the square master"
+    },
+    {
+      "path": "out/clawd-scrunch.png",
+      "description": "Raster proof of the scrunch master"
+    }
+  ],
+  "proof": {
+    "sheet": "proof/contact-sheet.png",
+    "assertions": [
+      "grid matches the measured reference: 8x6 torso, 2x2 stubs at rows 2-3, four 1x2 legs at torso cols 0/2/5/7, eyes at torso cols 1/6 row 1",
+      "figure is left-right symmetric",
+      "reads correctly at favicon size (16px) and at sticker size",
+      "flat single body fill, no gradient, no outline stroke"
+    ]
+  }
+}

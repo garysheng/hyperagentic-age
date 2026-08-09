@@ -1,0 +1,21 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "The three reference images ARE the character, from three angles of the same design. Reproduce THIS EXACT CRITTER: Clawd, the Anthropic pixel mascot. STRUCTURE, copy it precisely: a WIDE SQUAT rectangular terracotta body noticeably wider than it is tall; a slightly narrower raised block across the top forming the head; one flat blunt rectangular STUB tab sticking straight out from each side at mid-height; FOUR short stubby rectangular legs hanging below the body with gaps between them. NO MOUTH, no nose, no ears, no antennae, no shell, no claws. COLOR: one flat solid terracotta fill (#CC7A5C) across the entire body with NO gradient, NO highlight band, NO shading rows; a subtle slightly-darker edge is fine. STYLE: crisp flat pixel-art blocks with clean right angles and a charming designed-sticker feel; not a rigid grid port, not painterly, not 3D, not glossy, no outline stroke around the whole figure. He sits centered on a single flat solid field of pure bright green #00FF00 and NOTHING else: no shadow, no reflection, no surface, no ground, no props, no scenery, no text. THE EYES for this master: two small BLACK SQUARES set high and wide apart on the head, exactly as in the SECOND reference image. Neutral resting pose, stubs straight out, standing square and symmetrical.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/clawd/source/clawd-true-ref-a-bar-eyes.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/clawd/source/clawd-true-ref-b-square-eyes.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/clawd/source/clawd-true-ref-c-scrunched.png"
+    }
+  ],
+  "timestamp": "2026-08-09T22:31:02.893134+00:00",
+  "sha256": "5f17a6e71d0b047629bf361ffd916b670adfa725cb22411cdbf4a89a6982237c",
+  "size": "1024x1024",
+  "quality": "high"
+}
