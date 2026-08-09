@@ -1,0 +1,173 @@
+{
+  "id": "the-factory-manager",
+  "title": "The Factory Manager",
+  "logline": "Inside every glowing machine of TastefulStories lives a manager: a small plum-glowing figure in a cream newsboy cap, each one assigned to a single person. This is one day and one night in the life of June's manager: the voice note, the rails he must ride, the inspector he posted by the paint machine, the judgment call no rail covers, the delivered book, and then the dreaming, where every manager in the fleet gathers to review the factory and mend it while the houses sleep. In the morning June asks for something braver, because yesterday came true.",
+  "spine": "primer",
+  "spineNote": "A day-and-night primer on WHAT A FACTORY MANAGER IS, argued through one worked run. Day: intelligence only where it earns its seat (listening, orchestration, the uncovered judgment call) and rails everywhere else. Night: dreaming as the fleet's performance review, where nobody is on trial except the factory. The seasonal coda (deletion day) ties to the-goldilocks-pace. The agent is the protagonist; the human appears at the ends of the work, which is itself the thesis about the shape of the work.",
+  "refrain": "Better every morning.",
+  "status": "full",
+  "register": {
+    "id": null,
+    "anchor": null,
+    "anchoredToRealArt": null,
+    "rejectedPoles": []
+  },
+  "features": [],
+  "castingSweep": {
+    "sweptOn": "2026-08-09",
+    "decisions": [
+      {
+        "role": "the factory manager (protagonist)",
+        "cast": null,
+        "why": "NEW character: tastefulstories-manager. Swept the mascot class first: chief-of-agents is Anthropic's own (clay-coral, admiral hat), grantwell-agent is Maya's (sage-green), storywell-agent is Marcus's (deep-indigo, his glasses). Colour is meaning and TastefulStories has no agent body yet, so reuse would misassign a company. Design: same mascot class, warm PLUM glow, a small cream NEWSBOY CAP (Jerry Wang's cap, the deck's running gag, worn by every manager in his fleet)."
+      },
+      {
+        "role": "June, the assigned storyteller",
+        "cast": null,
+        "why": "NEW character: june. A recurring named human across 3+ spreads needs a locked body; anonymity would break the relational heart (assigned to ONE person). Chrissy was considered and rejected: her realPerson approval note is scoped to finders-tell-their-friends only. June is fictional: a grandmother recording voice notes for her grandson Theo."
+      },
+      {
+        "role": "Theo, the grandson",
+        "cast": null,
+        "why": "OFF-PAGE by design (named in captions, on June's lap at most, face never the subject). No entity; covered per-spread as anonymous if he appears at all."
+      },
+      {
+        "role": "the fleet of managers (spread 12-13)",
+        "cast": null,
+        "why": "ANONYMOUS per-spread field: 'the other managers of the fleet, identical plum-glowing figures in cream caps'. The protagonist's own locked master carries the design; the fleet is the design repeated, which is the point of the scene."
+      },
+      {
+        "role": "the little inspector (spread 7, 14)",
+        "cast": null,
+        "why": "Render-phase decision: either a tiny variant pose of the manager class or an anonymous small worker; NOT a new locked entity unless render drift forces it. It appears twice, small, beside the paint machine."
+      }
+    ],
+    "note": "features intentionally empty until cast phase scaffolds tastefulstories-manager and june; restore [\"tastefulstories-manager\",\"june\"] when locked."
+  },
+  "beats": [
+    {
+      "n": 1,
+      "text": "Inside every glowing machine of TastefulStories there lives a manager: a small plum-glowing figure in a cream newsboy cap. Each manager belongs to one person and nobody else. This one is June's.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): 'a product that embeds an agent that is overseeing the factory... It's like the factory manager.' Segmented per user: 'He's assigned to a particular user of tastefulstories.com, and it's segmented.'"
+    },
+    {
+      "n": 2,
+      "text": "He wakes up already knowing his trade. The craft arrives with him the moment he does: how a story breathes, where a page should turn, what a five-year-old can carry. Nobody teaches him on the job. The job is in him when he opens his eyes.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Deck script slide 21: the craft ships as a plugin carrying an agent persona; 'every run wakes up already knowing the trade.'"
+    },
+    {
+      "n": 3,
+      "text": "His factory hums around him. Rails for the routine moves. Gates that refuse a bad step before it costs anything. A canon that remembers every taste June ever showed him. None of it was here on the first day. Every run that ever happened built some of it.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "takeoffwithclaude.com/deck slides 21-24 (the architecture, the factory manager, the model mix): canon/rails/gates, 'taste into the canon, routine moves into rails, failure modes into gates'; none existed on day one (427-upgrades arc)."
+    },
+    {
+      "n": 4,
+      "text": "A voice note arrives, the way work always arrives. June, on her porch: Theo starts school on Monday, and he is scared of the big doors. The manager listens twice. Listening is the part of the job only he can do.",
+      "characters": [
+        "tastefulstories-manager",
+        "june"
+      ],
+      "provenance": "TastefulStories' real front door: 'say what is on your heart, and it becomes a narrated picture book' (deck slide 17). Listening as the judgment seat."
+    },
+    {
+      "n": 5,
+      "text": "He cannot take a single step without that step's machine, and he would not want to. The reader was built once and polished for years. The character shop keeps every face the same, book after book. His job is never to remake what the factory already knows. His job is to choose the way through it.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): 'Claude can't move forward if it doesn't use that particular step's sub-factory'; 'you want to only build a book reader once and then fix bugs over time.'"
+    },
+    {
+      "n": 6,
+      "text": "The way through is never a straight line. A dozen machines run at once, each on its own piece, and he holds the order in his head: what can start now, what must wait, what to do when a piece comes back wrong.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): 'it's an oversimplification to say it's step one, two, three... there's parallelism'; orchestration is the seat's real work."
+    },
+    {
+      "n": 7,
+      "text": "By the paint machine stands his smallest worker: an inspector with one job. The paint machine keeps putting the window light on the wrong side of the room, so after the third time, the manager posted him there. Now every painted page passes his little lamp before it moves on.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): the checker subagent, Gary's worked example: 'a subagent whose whole job is just to check, does this image mess up where the display is' (transposed in-story to window light)."
+    },
+    {
+      "n": 8,
+      "text": "Then comes the moment no rail covers. The funny page would get a laugh. But Theo is scared, and scared wants the gentle page. No machine can make that call. This is why the manager's seat takes a manager.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): 'where it deserves to be non-deterministic is where the intelligence of Claude can come in'; the judgment call no rail covers."
+    },
+    {
+      "n": 9,
+      "text": "By afternoon the book slides out finished: painted, bound, and read aloud in a warm voice. June touched the beginning, when she said what was on her heart, and she will touch the end. The long middle belonged to the factory.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Deck field note (slide 19): customers in the loop only at the start and the end; the long middle belongs to the factory."
+    },
+    {
+      "n": 10,
+      "text": "June changes one word, because the last five percent is always hers. Then Theo is on her lap on the porch, and the big doors in the book open easy, and the manager watches from the glowing machine the way managers do: quietly, and all the way through.",
+      "characters": [
+        "june",
+        "tastefulstories-manager"
+      ],
+      "provenance": "Deck slide 25 + the-taste-holder concept: the last five percent is the customer's; one edit (Finders Tell Their Friends 'required only one edit')."
+    },
+    {
+      "n": 11,
+      "text": "Before dark he writes the day down. What jammed. What surprised him. What the inspector caught. A manager who cannot say what happened cannot make tomorrow better, so the log is part of the job, every day, no exceptions.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Dreaming precondition: traces. The day's log is what the night's review reads (deck slide 26 mechanics)."
+    },
+    {
+      "n": 12,
+      "text": "Then night comes, and the managers dream. Every manager from every machine of TastefulStories gathers in one warm hall, hundreds of plum glows and cream caps, and they compare notes. Who found a shorter way. Whose gate caught something new. It is a performance review, and nobody dreads it, because nobody is on trial. The factory is.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md), Gary verbatim: 'dreaming enables factory managers to talk to each other and figure out how they can improve the factory... Dreaming is basically like an overall performance review for your AI teams.' Fleet-internal: segmented managers, one hall."
+    },
+    {
+      "n": 13,
+      "text": "While the houses sleep, they mend the factory together. A move repeated often enough becomes a rail. A mistake repeated twice becomes a gate. A slow corner gets a shorter path. By morning the improvements are simply there, the way frost is.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "takeoffwithclaude.com/deck slides 21-24 (the architecture, the factory manager, the model mix) slide 26: 'a meaningful share of those 427 upgrades landed while the team slept'; move->rail, mistake->gate."
+    },
+    {
+      "n": 14,
+      "text": "Some seasons a brand-new engine arrives, and the managers hold a deletion day. Half the scaffolding stood there to steady the old engine, and down it comes. The little inspector retires with honors the day the new paint machine stops making his mistake. Good guardrails are supposed to become unnecessary.",
+      "characters": [
+        "tastefulstories-manager"
+      ],
+      "provenance": "Gary's debrief + Steven Tran call, 2026-08-09 (garyinparadise anthropic-campaign inspo/2026-08-09-steven-tran-yc-talk-prep-call.md; transcript 2026-08-09-11-33-steven-tran-takeoff-program-dress-rehearsal.md): 'every new model is a new car... when ChatGPT Images 3 comes out, I'm gonna figure out everything I can delete.' Crossover: the-goldilocks-pace spread 11 (deletion day). Boris Cherny YC receipt, 2026-07-28."
+    },
+    {
+      "n": 15,
+      "text": "In the morning there is a new voice note. June asks for something braver than yesterday, because yesterday came true. The manager tips his cap and opens the floor. His factory is ready. It is better every morning.",
+      "characters": [
+        "tastefulstories-manager",
+        "june"
+      ],
+      "provenance": "The compounding close: trust asks braver wishes; the factory is better every morning (refrain)."
+    }
+  ],
+  "writesBack": []
+}
