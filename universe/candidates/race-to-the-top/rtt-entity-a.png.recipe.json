@@ -1,0 +1,52 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Subject: RACE TO THE TOP. Angel Clawd, the little winged pixel mascot, hovers high at the centre of the frame and HOISTS a long flat horizontal BAR beneath it on two taut cords, one running from each end of the bar up to Clawd. The bar is the standard, and it is EMPTY: nothing rests on it and nothing touches it except the two cords. Beneath the bar, standing on one shared baseline along the bottom, is a row of exactly FIVE flat vertical COLUMNS of clearly different heights, all reaching upward toward the raised bar.\n\nPHYSICAL RELATIONSHIPS, exactly as described: Clawd is ABOVE the bar and the two cords run DOWNWARD and OUTWARD from Clawd to the bar's two ends, so the bar hangs from Clawd and Clawd carries its weight. The bar is HORIZONTAL and sits ABOVE every column, so a broad band of open ground separates the underside of the bar from the top of even the TALLEST column. The columns all begin on the SAME baseline and differ ONLY in height, never in width or shape.\n\nClawd is rendered in its OWN medium exactly as in its reference sheets: flat blocky pixel art, coral body, cream scalloped wings raised, golden halo above the head, small floating heart. Clawd is NOT redrawn as a wobbly ink line, NOT restyled into ink-and-wash, and keeps its own colours against the flat ground.\n\nEverything else in the frame is the flat ink-line style of the style references. Exactly ONE Clawd in frame, never duplicated.\n\none continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; loopy long-fingered hands interacting with flat shapes; one-line abstract faces in profile, usually observing the work rather than doing it; flat solid ground with subtle paper grain; flat ivory-cream shapes as the only fills; generous negative space\n\nDo NOT render it in any of these styles: neo-comic action-zine, neon, 3D/CGI/Pixar, glossy plastic, HUD or arc-reactor comic vocabulary, perspective, isometric, parallelograms, visible edge thickness or side faces, shading, gradients, painterly or realistic rendering, coloured linework, realistic anatomical hands, any text or lettering.\n\nThese are LOCKED canonical traits of the subject(s). They are not stylistic suggestions and must survive the render exactly: It is recognizably the Anthropic pixel critter: a small coral pixel-critter mascot in the spirit of Claude Code's pixel mascot, with a stepped/blocky silhouette (soft designed-sticker pixel energy is welcome; mushy gradients and full 3D are not).; Two big dark eyes. The BLESSED default (locked 2026-08-08) is happy closed contented eyes: two dark upturned arcs, no glints. Open square eyes each with a single small white glint are the earlier canon form and remain legal for non-merch renditions; the locked hero sheet is the tiebreaker whenever a shot does not say which.; Little dangling legs hanging below the body in flight.; Classic scalloped angel wings growing from BEHIND the body, cream/off-white feathers in scalloped rows; the wings are never held in hands/stubs and never attach in front of the body.; Anthropic coral palette family for the body: #DD775B with shading toward #c05f45 and highlights toward #ea9077; mono renditions use a single burnt orange (#b0512e family) or all-cream/white (#fffdf7 family) for shirt-color flexibility.; Optional accessories only from canon: a halo above the head, a small floating heart beside it, a checkered racing flag held at its side, or none.; Transparent ground on every deliverable: renders are shot on a solid chroma-green field and keyed; no baked background, no cream paper, no drop shadow on the final PNG.; wings-raised-into-an-uplifted-V-tips-above-the-head-line; wings-still-grow-from-BEHIND-the-body-never-in-front; floating-heart-level-with-the-halo-not-beside-the-shoulder; halo-and-body-in-the-same-position-as-the-default-look.\n\nDELIBERATE REGISTER EXCEPTION: this universe's register is warm-editorial ink-and-wash and this entity is flat pixel-sticker mascot art on purpose; see canon/craft/pixel-mascot-medium-exception.json and structured.registerNeutral. Never pass the register anchor or its rejected poles when producing this motif, and never restyle it into ink-and-wash. Production path since 2026-08-08: gpt-image-2 via the framework provider adapter, source screenshot passed first as the identity ref, greenscreen ground keyed with the framework chroma keyer. The deterministic generator angel-clawd-pixel is SUPERSEDED history, not the production path. If the mascot must appear INSIDE a model-rendered ink-and-wash scene, that is a new decision requiring Gary's blessing, not a default.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/angel-clawd/wings-raised/hero.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-city-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/face-arcs-nodes.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-node-graph.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-writing-paper.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-globe.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-shapes-flow.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/cursor-face-profile.png"
+    }
+  ],
+  "timestamp": "2026-08-09T01:02:55.684725+00:00",
+  "sha256": "9173203caf74aeef382641ffbae4e4648742c34db5900b60f52e6a8d0298e1f5",
+  "entities": [
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "angel-clawd",
+      "look": "wings-raised",
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "hero": "reference/angel-clawd/wings-raised/hero.png"
+      }
+    }
+  ],
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate",
+  "size": "1536x1024",
+  "quality": "high"
+}
