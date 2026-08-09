@@ -66,3 +66,69 @@ surname is dropped in the picture book but not there. `it-only-has-to-fly` still
 **Renders hang on long timeouts.** `--timeout 600` sat at 0% CPU past 20 min and produced nothing, twice; `--timeout 180 --max-retries 3` succeeded every time. One background job reported exit 0 while the render had actually timed out, because a trailing `tail` masked it. Check for the artifact, not the exit code.
 
 **Open threads.** (1) `angel-clawd.detail` still null: a crop-zoom of the hero's load-bearing details has not been shot. (2) READY FOR TAKEOFF lockups + the boarding pass are CANDIDATES; only the two mascot sheets are locked. `mascot-s3` (arm punched up) needs a blessing before it can lock as a `takeoff` alt-look. (3) `mascot-s1`, the one Gary picked for the tightened lockup, carries mild bevelled shading of the same kind s2 was rejected for; flagged to him, undecided. (4) Remaining evolve-abu batch from a6e5ef5 (shirt-lockup form extraction, candidates/ convention, typed medium exception, generator install runner, #00B140-vs-#00FF00 doc drift). (5) **Four commits are LOCAL, not pushed** — the repo is public and pushing was left to Gary. (6) Untouched other-session work still here: `runs/`, `books/the-introducer` dirty spreads, and a pre-existing deletion of `back-cream-dad.png`.
+
+## 2026-08-09 (evening) — two books from one conversation
+
+A morning call with a founder friend (Steven Tran, prepping the Monday YC talk) turned into
+four deck slides, three wiki pages, and **two published books in one day**, both in this
+universe, both public.
+
+**Shipped.**
+- **The Goldilocks Pace** (14 spreads) — https://books.garysheng.com/the-goldilocks-pace.
+  Thesis spine: identical engines, the dial is the difference. Maya continues the takeoff arc
+  on the far side of the portal from finders-tell-their-friends; the too-hot and too-cold
+  founders stay ANONYMOUS by design, because a cautionary archetype must not be a named
+  character. New locked entity: `the-pace-engine` (visual-metaphor, states steady/roar/cold,
+  blueprint-seeded so all three are one machine). Its dial glyphs (snail left, winged block
+  right) are deliberately the same glyphs as takeoffwithclaude.com/deck slide 30, so the book
+  and the talk rhyme.
+- **The Factory Manager** (15 spreads) — https://books.garysheng.com/the-factory-manager.
+  Primer spine, the AGENT as protagonist: one day and one night of June's manager. Dreaming is
+  staged as the fleet's performance review (spread 12, hundreds of identical managers in one
+  hall), and the deletion-day coda crosses over with the-goldilocks-pace spread 11. New locked
+  entities: `tastefulstories-manager` and `june`.
+
+**Casting decisions worth keeping.**
+- The manager is the existing mascot CLASS in a new colour: warm plum, never orange
+  (chief-of-agents), never sage (grantwell), never indigo (storywell). Colour is meaning here,
+  so reusing another company's body would have misattributed the company. His cream newsboy
+  cap is Jerry Wang's cap, worn by every manager in his fleet, which is what makes spread 12
+  read as one company's fleet rather than a generic crowd.
+- June is FICTIONAL on purpose. Chrissy was the obvious reuse and was rejected: her
+  `realPerson.approval.note` is scoped to finders-tell-their-friends only. An approval is
+  scoped to the book it was given for; check the note, never the state.
+- A recurring named human across 3+ spreads needs a locked body. Theo stays off-page (named in
+  captions, seen from behind at most) and therefore needs no entity.
+
+**Two render failures, both instructive.**
+- Spread 5 (character shop): the shop's windows painted the MANAGER'S OWN capped face into all
+  six, inventing six duplicate managers. Fixed by declaring the windows as flat painted
+  portraits of one human child via `anonymous`, plus an explicit "no glowing body, no dot eyes,
+  no cap in those windows" negative. When a scene contains images-within-the-image, say what
+  those images depict or the model fills them with whoever is cast.
+- Spread 9: an `insert` shot on a spread that must cast a character produced a giant
+  disembodied mitten, twice. The cause is structural rather than bad luck (filed as ABU G34);
+  re-framing to `close` gave the arm an owner and it landed.
+
+**Gaps filed this session** (agentic-brand-universe/docs/GAPS.md): G32, G33 (goldilocks
+endgame), **G34** (insert-shot vs cast entity, statically detectable, free pre-spend refusal
+would close it), **G35** (caption placement decided at delivery never returns to the
+render-spec; confirmed across BOTH books the same day, 14/14 and 13/15 priors overturned).
+Still open from earlier: the compose_spec re-sync bug that reverts `shot` and deletes
+`anonymous`/`pos`, which is why both books carry a `_resyncNote` telling the next agent not to
+re-run the scaffolder.
+
+**Universe health.** universe-doctor: **A (93/100)** after the goldilocks run. Punch list is
+old entities with half-filled matrices, none cast by either book. Two items worth a deliberate
+pass: `tastefulstories-manager` has a declared `scale.height` with no scale-plate to prove it,
+and the universe still pins SPEC v0.6 while the engine implements v0.39, so every recipe
+written today records a version this universe never conformed to.
+
+**Open threads.** (1) The SPEC pin bump (v0.6 -> v0.39) is universe-wide and deserves its own
+pass. (2) Two accepted compromises in the-goldilocks-pace, both one-command re-rolls if Gary
+ever wants them changed: spread 12's dark middle plot renders as a ploughed mound, and Maya's
+laptop rides her right arm in two spreads (arm side is not a locked invariant). (3) The evolve-abu
+batch is now G32-G35 plus the angel-clawd items. (4) Other sessions' work left untouched as
+always: `runs/`, `books/the-introducer/.stage-in/`, `universe/candidates/angel-clawd/`.
+
+<!-- checkpoint: 2026-08-09 (evening) · hyperagentic-age PLACEHOLDER + garysheng-books 8d0fada + agentic-brand-universe 689007d · two books shipped (goldilocks-pace, factory-manager), 4 entities locked, G34/G35 filed -->
