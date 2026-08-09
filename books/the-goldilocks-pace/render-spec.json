@@ -1,0 +1,304 @@
+{
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {
+    "style": "Warm editorial ink-and-wash picture-book art: soft ink outlines, flat warm watercolor fills, cream-paper light, a palette of living greens and warm creams with terracotta and dusk-gold accents. A book about the pace a builder chooses on a young green plain. Each spread contains ONLY the figures its own scene description names. Any anonymous figure is drawn small and with dignity, face indistinct, turned away or too far to read, never caricature and never mocked.",
+    "negatives": [
+      "lettering, words, numbers, logos or signage anywhere in the image",
+      "photorealistic rendering",
+      "anonymous figures with detailed portrait-readable faces"
+    ]
+  },
+  "_resyncNote": "DO NOT re-run compose_spec.py against this file until the compose-spec merge bug is fixed: as of abu 1.5.0 / SPEC v0.39 its re-sync REVERTS spread-level 'shot' to the rhythm suggestion and DELETES 'anonymous' and 'pos'. Flagged for evolve-abu on 2026-08-09 (the-goldilocks-pace render run).",
+  "spreads": [
+    {
+      "id": "spread-01",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "the-portal",
+          "plate": "master"
+        },
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "scene": "Maya is the subject, small on a wide open green plain in early morning light, just arrived, standing still and taking it in, her closed silver laptop tucked under her left arm as always, her blazer sleeves pushed up to the elbow so her forearms are bare. Behind her, at the plain's near edge, the portal she stepped through stands exactly as its locked master plate paints it: the tall pointed-oval doorway of pure warm golden light, soft ink-wash edge with its thin brighter rim, a few gold motes drifting, its lower tip floating a hand's width above the grass, warm light spilling gently at her back. A few steps ahead of her on the open grass waits her engine, exactly as its locked master plate paints it: the waist-high rounded cream machine on its low base, the one large dial upright on top with its needle at mid-dial, calm warm hum lines barely rising. The plain runs away to a soft green horizon with room to build and nothing built yet. Composition: portal left-of-center behind her, Maya mid-left mid-ground, the engine right-of-center; the lower right of the frame stays calm open grass and morning light.",
+      "shot": "wide",
+      "negatives": [
+        "a second portal or second oval of light anywhere",
+        "more than ONE engine in this image",
+        "towers, buildings or other founders anywhere on the plain",
+        "jungle or dense forest (this is the open plain side of the door)",
+        "her blazer sleeves reaching her wrists (they are pushed UP to the elbow, forearms bare)"
+      ],
+      "_caption": "On the other side of the portal is open ground. Every founder who makes it through arrives at the same place: a green plain with room to build, and a machine waiting with their name on it. The machine is an engine that can run at any speed. Any speed at all."
+    },
+    {
+      "id": "spread-02",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "anonymous": "the newly arrived founders, small and far, one standing beside each distant engine, faces too far to read",
+      "scene": "The nearest engine is the subject, standing on its own staked-out plot of green in the near foreground at the left of frame, exactly as its locked master plate paints it: waist-high rounded cream body on its low base, ONE large upright dial with its single needle at mid-dial, the small snail mark at the dial's left end and the small winged-block mark at its right end, both legible. Beyond it, IDENTICAL copies of the same engine repeat in loose rows across identical staked plots of green, each smaller with distance, all the way to a soft morning horizon. The newly arrived founders stand small and far, one beside each distant engine, considering their machines; every one of them is too far away for a face to read. Everything is morning-calm: no towers yet, nothing built. The lower right of the frame stays calm open grass.",
+      "shot": "wide",
+      "negatives": [
+        "any engine differing from the others in shape, color or size",
+        "towers or buildings anywhere",
+        "any founder close enough to have a readable face",
+        "panel borders or a grid layout"
+      ],
+      "_caption": "The engines are identical. The plots are identical. On day one, the only thing that separates one founder from another is the dial on top of the engine. Nobody tells you where to set it."
+    },
+    {
+      "id": "spread-03",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-pace-engine",
+          "plate": "roar"
+        }
+      ],
+      "anonymous": "the founder who runs too hot, one small figure beside his engine, seen from behind, face unreadable",
+      "scene": "The roaring engine is the subject, in the near mid-ground at the right of frame, exactly as its locked roar plate paints it: the same waist-high cream machine, its needle pushed hard RIGHT to the winged-block end of the dial, a hot glow around the body and motion blur streaming in its output. Beside it stands the founder who runs too hot, one small figure seen from behind, dwarfed by what is rising around him, face unreadable. Behind them, towers rise in a vertical blur of overnight construction: tall pale shapes going up too fast, their upper floors smeared with speed, cranes of timber swinging whole floors into place at once. From this distance it reads as triumph: warm light, height, momentum. The lower right of the frame stays comparatively calm ground at the engine's base.",
+      "shot": "wide",
+      "negatives": [
+        "the engine broken, damaged or exploding",
+        "the needle pointing left or straight up (it points hard RIGHT)",
+        "fire, smoke or destruction (heat reads as glow and blur, never disaster)",
+        "more than one engine"
+      ],
+      "_caption": "One founder pushes his dial as far as it goes. The engine roars. Towers rise overnight, whole floors at a time. From a distance it looks like winning."
+    },
+    {
+      "id": "spread-04",
+      "plate": null,
+      "cast": [],
+      "anonymous": "the hot founder, one tiny distant figure at the tower's base, face unreadable",
+      "scene": "The hollow architecture is the subject: a tall, hastily raised tower seen up close, filling most of the frame, and up close it is wrong. Doors on its upper floors open onto empty air with no balcony and no floor beyond the threshold. An exterior stair climbs the facade and simply ends halfway, hanging. Through the large unfinished window openings the floors read as thin shells: rooms with no backs, walls with nothing behind them, like stage scenery seen from the wrong side. The craftsmanship is fast, not evil: pale fresh materials, joints unfinished, edges never closed. At the tower's base, tiny against it, the hot founder stands looking up, face unreadable. Warm daylight, and the wrongness is quiet: nothing is collapsing, it is simply hollow. Composition: the tower rises through the left and center of the frame; the upper right sky stays calm and open.",
+      "shot": "imagined",
+      "pos": "top",
+      "negatives": [
+        "the engine in frame",
+        "collapse, rubble, fire or catastrophe",
+        "people on the stairs or in the doorways (the tiny founder at the base is the only figure)"
+      ],
+      "_caption": "Up close, the floors are hollow. Doors open onto air. Stairs end halfway. He ships whatever the engine produces, because his neighbors are loud and he is afraid of falling behind."
+    },
+    {
+      "id": "spread-05",
+      "plate": null,
+      "cast": [],
+      "anonymous": "a handful of departing tenants, small figures seen from behind, carrying cases, faces unreadable",
+      "scene": "The departing tenants are the subject: at dusk, a handful of small figures walk quietly away from the base of the hollow tower, which is a YOUNG, pale, rectangular, hastily built modern tower of fresh light materials with unfinished edges, the same tower as the previous spread, NEVER a castle or stone turret, seen from behind, each carrying a case or a bundle, spaced apart, nobody hurrying and nobody looking back. Behind them the tower's ground-floor doors stand shut, its windows mostly dark with only one or two lights left on high up. The mood is tender and quiet, a soft blue-and-gold dusk with long gentle shadows; no drama, no anger, no ruin, just leaving. The figures walk from the tower at the left of frame toward the open dusk plain at the right, small against the tall dark shape behind them. The lower right of the frame stays calm dusk grass.",
+      "shot": "wide",
+      "negatives": [
+        "a castle, stone turret, fortress, round tower, arched medieval doors or any ancient masonry (the tower is young, pale, rectangular, hastily built)",
+        "faces visible on any figure (all are seen from behind)",
+        "slammed doors, broken windows or damage to the tower",
+        "the engine in frame",
+        "rain, storm or melodrama"
+      ],
+      "_caption": "The people who moved in move out. They leave the way trust leaves: quietly, no slam, just a door that does not open again. A floor can be rebuilt in a night. A tenant cannot."
+    },
+    {
+      "id": "spread-06",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-pace-engine",
+          "plate": "cold"
+        }
+      ],
+      "anonymous": "the founder who runs too cold, one small figure circling her engine at a wary distance, face unreadable",
+      "scene": "The cold engine is the subject, alone on a dark unbuilt plot of green in the near mid-ground at the left of frame, exactly as its locked cold plate paints it: the same waist-high cream machine dimmed toward dusk, dark and untouched, its needle resting hard LEFT at the snail end of the dial, no glow, no hum lines, no output. The founder who runs too cold walks a slow circle around it at a wary distance, one small figure with her arms folded, studying it, not touching it, face unreadable. Behind and beyond her plot, the wide plain is filling with small warm lights: windows, lanterns and the soft glow of other founders' young buildings scattered to the horizon under a deepening evening sky. Her plot alone is dark grass. The lower right of the frame stays calm dark ground.",
+      "shot": "wide",
+      "negatives": [
+        "the engine broken, ruined, rusted or ominous (it is dark and untouched, never a ruin)",
+        "the needle pointing right or straight up (it rests hard LEFT)",
+        "any glow, hum lines or output from the engine",
+        "more than one engine"
+      ],
+      "_caption": "Another founder barely starts her engine. She circles it. She reads about it. She waits for it to be safer, cheaper, more proven. The plain around her fills with lights, and her plot stays dark, and the era does not wait with her."
+    },
+    {
+      "id": "spread-07",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "scene": "NOBODY IS IN THIS PICTURE: no hands, no figures, no faces. The dial face itself is the subject, LARGE, seen straight on and filling most of the frame: the one great circular dial on the engine's cream top, its single bold ink needle standing exactly UPRIGHT at mid-dial. At the dial's LEFT end, the small snail mark; at its RIGHT end, the small winged-block mark; nothing else on the face, no numbers, no tick marks, no lettering. The light is warm and even, the cream of the dial glowing softly, a calm sliver of the engine's rounded body visible around the dial's edge. Quiet, certain, balanced. The lower right of the frame stays a calm field of soft cream.",
+      "shot": "insert",
+      "negatives": [
+        "any hand, finger or figure in frame",
+        "numbers, tick marks, scale markings or lettering on the dial",
+        "the needle leaning left or right (it stands exactly upright)",
+        "a second dial or gauge"
+      ],
+      "_caption": "Too hot burns the trust down. Too cold never builds it. Somewhere between the roar and the silence there is a third setting. The old story had it right: you are looking for just right."
+    },
+    {
+      "id": "spread-08",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        }
+      ],
+      "scene": "Maya is the subject, and her closed silver laptop stays tucked under her left arm through the whole action. Maya is the subject, caught mid-dig in a deep, clean-walled foundation pit opened in the green of her own plot, driving a long-handled spade into the earth one-handed with her right hand and right boot while her left arm keeps the closed silver laptop pinned to her side, sleeves pushed to the elbow, face set with cheerful determination. Her full figure reads about a third of the frame height, her head about one-twelfth: close enough to feel the effort. The pit around her is the deepest thing on the plain, its walls cut straight and true, neat stakes and string marking its square edge, fresh earth piled tidily beside it. Behind and beyond her plot, neighbor towers are already rising fast against the sky, tall and pale and half-blurred with speed, while her ground holds nothing but the hole. Warm working daylight. Composition: Maya and her pit fill the left and center; the lower right of the frame stays calm grass and string-line.",
+      "shot": "wide",
+      "negatives": [
+        "Maya without the closed silver laptop under her left arm",
+        "her engine in frame",
+        "the pit ragged, collapsing or muddy (its walls are clean and true)",
+        "other people on her plot"
+      ],
+      "_caption": "Maya walks her plot before she builds anything. Then she digs. To carry a tall building, the ground has to be opened deep first. The tallest towers on the plain start as the deepest holes."
+    },
+    {
+      "id": "spread-09",
+      "plate": null,
+      "cast": [],
+      "scene": "NOBODY IS IN THIS PICTURE: no people, no figures anywhere, above ground or below. This is ONE continuous cutaway landscape in a single unbroken frame, never panels: one shared ground plane runs straight across the middle of the image, carrying two young skylines, and the earth below it is cut open to show what each city buried. Under the LEFT skyline, a clean subway line: one elegant tunnel drawn straight and true, evenly spaced arches, tidy track, and clearly ROOM left beside it for more lines to be added, with a gracefully capped stub where the next extension will join. Under the RIGHT skyline, a tangled one: tunnels crossing and doubling back, patched with mismatched braces, pipes rerouted around pipes, dead-end spurs, no room to add anything. The contrast reads left to right as order and margin against knot and patch. Above ground both cities are similar young pale towers in warm daylight; the difference is ALL underground. The sky along the top of the frame stays calm and open.",
+      "shot": "imagined",
+      "pos": "top",
+      "allowMultiPanel": false,
+      "negatives": [
+        "panel borders, split panels, a dividing line or a comic grid (one continuous cutaway image)",
+        "people, trains with visible passengers, or figures anywhere",
+        "lettering, route numbers or station signs",
+        "the engine in frame"
+      ],
+      "_caption": "There are two ways to lay a subway under a young city. Tokyo laid lines it could extend, and extends them still. New York laid lines it can barely repair. What you bury badly, you live over forever. Maya lays the kind you can extend."
+    },
+    {
+      "id": "spread-10",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "scene": "A close detail: Maya's hand resting steady on the great dial of her engine, having just set it. The camera sees only what is close: the dial face large in frame, its single bold needle standing exactly UPRIGHT at mid-dial, the small snail mark at the dial's LEFT end and the small winged-block mark at its RIGHT end, and her one brown hand and BARE brown forearm resting calm and sure at the dial's rim, the sage-olive blazer sleeve pushed up ABOVE her elbow and mostly out of frame. The rest of her is outside the frame. Calm, even warm hum lines rise gently off the engine's cream body around the dial. The light is warm and steady. The lower right of the frame stays a calm field of the engine's soft cream body.",
+      "shot": "insert",
+      "negatives": [
+        "any sleeve or cuff at her wrist or on her forearm (the forearm is bare; the sleeve sits pushed up above the elbow)",
+        "her face or full figure in frame",
+        "numbers, tick marks or lettering on the dial",
+        "the needle leaning hard left or hard right (it stands exactly upright)",
+        "a second hand or second person",
+        "her turning the dial violently (the hand rests, the setting is made)"
+      ],
+      "_caption": "Then she sets the dial. She picks the fastest speed her foundations can carry, and she leaves it there. The engine hums. It hums in week nine the way it hummed in week one. Steady is a speed too."
+    },
+    {
+      "id": "spread-11",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "scene": "Maya is the subject, mid-work on delivery day: with her right hand she lifts a light timber scaffold strut away from around her engine, her closed silver laptop still under her left arm, her expression glad and unsentimental. The engine is brand NEW, freshly arrived, exactly as its locked master plate paints it: the same waist-high cream machine, dial upright, calm warm hum lines, still sitting beside the pale-wood delivery crate it arrived in, a small round cream parachute of plain cloth draped half-folded over the crate's edge. Around the engine, the old scaffolding is coming down on purpose: a few struts still standing, and the removed struts stacked NEATLY in a tidy pile at the side, ends aligned. Her young tower, pale and RECTANGULAR with clean straight lines and warm lit windows, rises solid at the edge of frame behind her, NEVER a castle or round stone turret. Warm midday light, the mood of good housekeeping, not demolition. Her full figure reads a little under half the frame height. The lower right of the frame stays calm grass beside the neat strut pile.",
+      "shot": "wide",
+      "negatives": [
+        "a castle, stone turret, round tower, arched medieval windows or ancient masonry anywhere",
+        "two engines in frame (the old engine is already gone; only the new one)",
+        "a compass, or anything inside or spilling from the crate (the crate is the engine's own delivery crate, already empty)",
+        "the scaffolding collapsed, thrown down or scattered (removed struts are stacked neatly)",
+        "lettering or stencils on the crate or parachute"
+      ],
+      "_caption": "Every season, the keepers send down a better engine. Maya's first job on delivery day is deletion. Half her scaffolding existed to steady the old engine, and the new one does not need it. Guardrails are built for the machine you had. She takes them down on purpose, the day the new machine arrives."
+    },
+    {
+      "id": "spread-12",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        }
+      ],
+      "anonymous": "the two other founders, tiny and distant, one near the scaffolded tower and one at the edge of the dark plot, faces unreadable, drawn with dignity",
+      "scene": "A wide three-plot frame across the plain, a year on, late golden afternoon. On the LEFT, the sprinter's tower stands wrapped in repair scaffolding from ground to crown, cloth patches and braces on its hollow floors, one tiny distant figure near its base tending the repairs. In the MIDDLE, a dark empty plot: untouched grass, nothing built, one tiny distant figure standing at its edge. On the RIGHT, Maya's tower, the tallest of the three and visibly solid: clean straight lines, finished edges, warm lit windows, floor after completed floor, rising confidently with a neat crane still working at its top. Maya herself stands tiny at its base, her closed silver laptop under her left arm, looking up at her own work. Nobody is mocked: the light falls kindly on all three plots. The lower right of the frame, beside the base of Maya's tower, stays calm golden grass.",
+      "shot": "wide",
+      "negatives": [
+        "the engine in frame",
+        "the scaffolded tower collapsing or ruined (it is under repair, not destroyed)",
+        "any figure close enough to have a readable face (all figures including Maya are tiny at this distance)",
+        "gloating, caricature or comic exaggeration"
+      ],
+      "_caption": "A year passes. The tower of the founder who sprinted stands wrapped in repairs he can no longer afford. The plot of the founder who waited is still dark. And Maya's tower is rising faster than either of them ever moved, floor after solid floor."
+    },
+    {
+      "id": "spread-13",
+      "plate": null,
+      "cast": [
+        {
+          "id": "maya",
+          "pose": "master"
+        },
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "anonymous": "two anonymous visitors: the near one seen from behind, shoulder and back of head cropped by the frame edge, torso turned the way their head faces; the second standing beside them, face soft and indistinct",
+      "scene": "Maya is the sharp subject, seen past the near visitor's shoulder: the camera sits just behind and beside one visitor, whose near shoulder and the back of whose head are large, dark and soft at the left edge of the frame, cropped by the frame, torso turned the same way their head faces, chest away from camera. Beyond them, Maya stands beside her engine, warm and open, one hand presenting the dial with an easy hosting gesture, her closed silver laptop under her left arm. The engine is exactly as its locked master plate paints it: waist-high cream body, dial upright at mid-dial, calm warm hum lines. The second visitor stands beside the first at mid-distance, face soft and indistinct, listening. Behind them the base of Maya's solid tower and warm afternoon light. The lower right of the frame stays calm grass at the engine's base.",
+      "shot": "over-shoulder",
+      "negatives": [
+        "the near visitor's face visible (only shoulder and back of head)",
+        "either visitor with a detailed portrait-readable face",
+        "the needle anywhere but upright at mid-dial",
+        "more than one engine",
+        "a crowd (two visitors only)"
+      ],
+      "_caption": "Visitors ask Maya where she got her engine. She shows them: the same engine everyone has. What they are looking for is the dial she can defend, the deep hole under her ground floor, and the deletion day she keeps every season. Her secret is a pace she can hold."
+    },
+    {
+      "id": "spread-14",
+      "plate": null,
+      "cast": [
+        {
+          "id": "the-pace-engine",
+          "plate": "master"
+        }
+      ],
+      "scene": "NOBODY IS IN THIS PICTURE: no figures, no hands, no faces. The engine alone is the subject, quiet on the green in the deep gold of dusk, exactly as its locked master plate paints it: the waist-high rounded cream machine on its low base, its one great dial upright on top, the single bold needle standing exactly UPRIGHT at mid-dial between the small snail mark at the left end and the small winged-block mark at the right end. Calm, even warm hum lines rise gently off its body into the evening air. The dusk light turns its cream to warm gold; long soft shadows lie on the grass; far behind it, the small warm lights of the built plain glow under a rose-and-gold sky. Peaceful, certain, ongoing. The lower right of the frame stays calm dusk grass, open and quiet for the closing words.",
+      "shot": "imagined",
+      "negatives": [
+        "any figure, hand or face in frame",
+        "the needle leaning left or right (exactly upright)",
+        "numbers, tick marks or lettering on the dial",
+        "more than one engine",
+        "darkness or gloom (dusk is warm gold, never cold)"
+      ],
+      "_caption": "The engines can go a million miles an hour. The founders who last go just right. Too hot burns. Too cold starves. Just right compounds."
+    }
+  ]
+}

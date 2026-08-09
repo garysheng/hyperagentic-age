@@ -1,0 +1,53 @@
+{
+  "asset": "spread-12.png",
+  "assetSha256_16": "ca7ae5e7d8af14fb",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-12",
+  "descriptor": {
+    "id": "spread-12",
+    "plate": null,
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      }
+    ],
+    "anonymous": "the two other founders, tiny and distant, one near the scaffolded tower and one at the edge of the dark plot, faces unreadable, drawn with dignity",
+    "scene": "A wide three-plot frame across the plain, a year on, late golden afternoon. On the LEFT, the sprinter's tower stands wrapped in repair scaffolding from ground to crown, cloth patches and braces on its hollow floors, one tiny distant figure near its base tending the repairs. In the MIDDLE, a dark empty plot: untouched grass, nothing built, one tiny distant figure standing at its edge. On the RIGHT, Maya's tower, the tallest of the three and visibly solid: clean straight lines, finished edges, warm lit windows, floor after completed floor, rising confidently with a neat crane still working at its top. Maya herself stands tiny at its base, her closed silver laptop under her left arm, looking up at her own work. Nobody is mocked: the light falls kindly on all three plots. The lower right of the frame, beside the base of Maya's tower, stays calm golden grass.",
+    "shot": "wide",
+    "negatives": [
+      "the engine in frame",
+      "the scaffolded tower collapsing or ruined (it is under repair, not destroyed)",
+      "any figure close enough to have a readable face (all figures including Maya are tiny at this distance)",
+      "gloating, caricature or comic exaggeration"
+    ],
+    "_caption": "A year passes. The tower of the founder who sprinted stands wrapped in repairs he can no longer afford. The plot of the founder who waited is still dark. And Maya's tower is rising faster than either of them ever moved, floor after solid floor."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: A wide three-plot frame across the plain, a year on, late golden afternoon. On the LEFT, the sprinter's tower stands wrapped in repair scaffolding from ground to crown, cloth patches and braces on its hollow floors, one tiny distant figure near its base tending the repairs. In the MIDDLE, a dark empty plot: untouched grass, nothing built, one tiny distant figure standing at its edge. On the RIGHT, Maya's tower, the tallest of the three and visibly solid: clean straight lines, finished edges, warm lit windows, floor after completed floor, rising confidently with a neat crane still working at its top. Maya herself stands tiny at its base, her closed silver laptop under her left arm, looking up at her own work. Nobody is mocked: the light falls kindly on all three plots. The lower right of the frame, beside the base of Maya's tower, stays calm golden grass. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: maya. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: the two other founders, tiny and distant, one near the scaffolded tower and one at the edge of the dark plot, faces unreadable, drawn with dignity. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the engine in frame, the scaffolded tower collapsing or ruined (it is under repair, not destroyed), any figure close enough to have a readable face (all figures including Maya are tiny at this distance), gloating, caricature or comic exaggeration. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DEVICE GEOMETRY. A device a person is USING is genuinely IN FRONT OF ITS USER: the screen faces the USER'S eyes, the keyboard sits under THEIR hands, at a distance a person actually works at. NEVER rotate a screen away from its user so the camera can see it: a person typing on a keyboard that faces away from them, or reading a screen turned toward the viewer, is a physics defect. When the screen's content must be visible to the VIEWER as well as the user, the correct camera is OVER THE USER'S SHOULDER: the back of their head and one shoulder soft in the near frame, the screen face sharp beyond it. The over-the-shoulder shot is legal and encouraged; a rotated device is not.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register"
+  ]
+}

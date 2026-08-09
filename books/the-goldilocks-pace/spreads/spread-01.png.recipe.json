@@ -1,0 +1,102 @@
+{
+  "asset": "spread-01.png",
+  "assetSha256_16": "15a06f9352bc74a1",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-01",
+  "descriptor": {
+    "id": "spread-01",
+    "plate": null,
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      },
+      {
+        "id": "the-portal",
+        "plate": "master"
+      },
+      {
+        "id": "the-pace-engine",
+        "plate": "master"
+      }
+    ],
+    "scene": "Maya is the subject, small on a wide open green plain in early morning light, just arrived, standing still and taking it in, her closed silver laptop tucked under her left arm as always, her blazer sleeves pushed up to the elbow so her forearms are bare. Behind her, at the plain's near edge, the portal she stepped through stands exactly as its locked master plate paints it: the tall pointed-oval doorway of pure warm golden light, soft ink-wash edge with its thin brighter rim, a few gold motes drifting, its lower tip floating a hand's width above the grass, warm light spilling gently at her back. A few steps ahead of her on the open grass waits her engine, exactly as its locked master plate paints it: the waist-high rounded cream machine on its low base, the one large dial upright on top with its needle at mid-dial, calm warm hum lines barely rising. The plain runs away to a soft green horizon with room to build and nothing built yet. Composition: portal left-of-center behind her, Maya mid-left mid-ground, the engine right-of-center; the lower right of the frame stays calm open grass and morning light.",
+    "shot": "wide",
+    "negatives": [
+      "a second portal or second oval of light anywhere",
+      "more than ONE engine in this image",
+      "towers, buildings or other founders anywhere on the plain",
+      "jungle or dense forest (this is the open plain side of the door)",
+      "her blazer sleeves reaching her wrists (they are pushed UP to the elbow, forearms bare)"
+    ],
+    "_caption": "On the other side of the portal is open ground. Every founder who makes it through arrives at the same place: a green plain with room to build, and a machine waiting with their name on it. The machine is an engine that can run at any speed. Any speed at all."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Maya is the subject, small on a wide open green plain in early morning light, just arrived, standing still and taking it in, her closed silver laptop tucked under her left arm as always, her blazer sleeves pushed up to the elbow so her forearms are bare. Behind her, at the plain's near edge, the portal she stepped through stands exactly as its locked master plate paints it: the tall pointed-oval doorway of pure warm golden light, soft ink-wash edge with its thin brighter rim, a few gold motes drifting, its lower tip floating a hand's width above the grass, warm light spilling gently at her back. A few steps ahead of her on the open grass waits her engine, exactly as its locked master plate paints it: the waist-high rounded cream machine on its low base, the one large dial upright on top with its needle at mid-dial, calm warm hum lines barely rising. The plain runs away to a soft green horizon with room to build and nothing built yet. Composition: portal left-of-center behind her, Maya mid-left mid-ground, the engine right-of-center; the lower right of the frame stays calm open grass and morning light. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. the-portal exactly as its reference plate: A doorway of pure warm light hidden in the jungle: one upright pointed-oval of warm golden light, soft-edged like wet ink-wash with a thin brighter rim, its lower tip floating a hand's width above the forest floor. No frame, no ring, no arch, no standing stones, no machinery, no doorsill: the light alone is the door. Each era gets exactly one portal, and it shrinks: the more founders pass through and the longer it stands open, the smaller it gets, until it closes and leaves a flat ring of pale gold blossoms on the forest floor. Every portal in every era is this same design at some size. This era's portal at its opening is 3.8 m tall by 2.0 m wide: about twice a person's height, so a founder walks in without ducking and an adult's head reaches only halfway up the opening. Waning, the same shape shrinks to about 1.0 m, knee-to-waist high on an adult. Closed, a flat blossom ring about 2.0 m across lies on the forest floor. The lower tip always floats a hand's width (0.15 m) above the floor. The portal stands still; it never drifts, tilts or hovers higher. State-dependent only. Hidden: hanging vines, broad leaves and leaf-shadow curtain the light so only warm slivers show through; a passerby would walk within arm's length and never know. Master (found): the vines drawn aside, the oval open and generous, warm gold light with a few small drifting motes, soft warm glow on the nearest leaves. Waning: the same portal small and low, light gentler, the green closing in around it. Closed: no light at all, a quiet flat ring of pale gold blossoms in the green, moss and ferns grown back inside it. Nothing is ever scorched, broken or ominous. At its opening, about twice a person's height and wider than a garden gate; a closed ring reads about as wide as a person is tall lying down. In a wide shot the live portal is a tall warm almond of light against the green, unmistakably person-scaled, never building-scaled and never coin-scaled. the-pace-engine exactly as its reference plate: The identical machine every founder receives on the far side of the portal: a waist-high rounded machine body in flat cream, resting on a low base, with ONE large circular dial on its top and nothing else. The dial carries a single bold needle. At the dial's left end sits a small snail mark; at the dial's right end sits a small winged-block mark (the deck's dial glyphs, a cross-artifact echo of takeoffwithclaude.com's Goldilocks-pace slide). The engine can run at any speed; the dial is the only control it has. The machine itself never differs between founders and never changes between states: only the needle's position, the glow, and what the engine is putting out change. Proportions are pinned as numbers and shared by every state. The machine stands waist-high to an adult figure: body 0.95 m tall on a 0.10 m base (about 1.05 m overall against a 1.7 m adult). The body is 1.0 m wide; the dial's diameter is 0.5 m, roughly HALF the body width, standing upright and centered on the top of the body, its face toward the viewer so it reads like a gauge (locked in the blessed master, 2026-08-09). The needle pivots from the dial's center: upright at mid-dial in the steady state, hard right in roar, hard left in cold. The snail mark sits at the left end of the dial's arc, the winged-block mark at the right end; each glyph is small, about one-eighth of the dial's diameter. In frame the engine sits on the ground plane, whole and unobstructed enough that the dial and both glyphs stay legible. Ink outlines with flat cream fills (warm cream body, slightly deeper cream base), terracotta-compatible accents; the needle and the two dial glyphs are drawn in ink. State-dependent only: steady adds calm, even warm hum lines rising gently off the body; roar adds a hot glow around the engine and motion blur in its output; cold shows the engine dark and untouched, its cream dimmed toward dusk with NO glow and no hum lines. Never neon, never HUD chrome, never glossy plastic, never 3D render sheen. Waist-high to an adult: the top of the machine body reaches an adult's waist, and the dial on top sits about hip-to-navel height. In a wide shot it reads as a generous household-appliance-sized machine a founder stands beside, never a room-sized turbine and never a handheld gadget. THE ONLY CHARACTERS IN THIS IMAGE ARE: maya. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a second portal or second oval of light anywhere, more than ONE engine in this image, towers, buildings or other founders anywhere on the plain, jungle or dense forest (this is the open plain side of the door), her blazer sleeves reaching her wrists (they are pushed UP to the elbow, forearms bare). ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-portal/master.png",
+      "sha256_16": "9938dcce54983082"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/master.png",
+      "sha256_16": "5074824735fe6d6e"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register",
+    "the-portal: one-upright-pointed-oval-doorway-of-warm-golden-light",
+    "the-portal: soft-inkwash-edge-with-a-thin-brighter-rim-never-hard-neon",
+    "the-portal: lower-tip-floats-a-hands-width-above-the-forest-floor",
+    "the-portal: pure-light-no-frame-ring-stones-or-machinery-ever",
+    "the-portal: through-the-opening-warm-light-and-sky-never-darkness-never-a-void",
+    "the-portal: a-few-small-gold-motes-drift-near-the-light",
+    "the-portal: same-shape-at-every-size-only-size-veiling-and-light-change",
+    "the-portal: closed-state-is-a-flat-ring-of-pale-gold-blossoms-no-light-nothing-ominous",
+    "the-portal: no-lettering-sign-or-number-anywhere-in-any-state",
+    "the-portal: warm-editorial-register-never-photoreal",
+    "the-portal: one upright pointed-oval of warm golden light, at crop-zoom",
+    "the-portal: soft ink-wash edge with a thin brighter rim, never a hard vector edge, never neon, never a lens flare",
+    "the-portal: no frame, ring, arch, stones, machinery or doorsill anywhere near the light",
+    "the-portal: lower tip floats just above the forest floor, never touching",
+    "the-portal: closed state shows a flat blossom ring and NO light",
+    "the-portal: no lettering, sign or number anywhere",
+    "the-portal: warm-editorial, never photoreal",
+    "the-pace-engine: waist-high-rounded-flat-cream-machine-body-on-a-low-base",
+    "the-pace-engine: one-large-circular-dial-on-top-with-a-single-bold-needle",
+    "the-pace-engine: dial-diameter-roughly-half-the-body-width",
+    "the-pace-engine: small-snail-mark-at-the-dial-left-end",
+    "the-pace-engine: small-winged-block-mark-at-the-dial-right-end",
+    "the-pace-engine: same-machine-in-every-state-only-needle-glow-and-output-change",
+    "the-pace-engine: ink-outlines-flat-cream-fills-terracotta-compatible",
+    "the-pace-engine: no-lettering-numbers-or-scale-markings-on-the-dial-only-the-two-glyphs",
+    "the-pace-engine: warm-editorial-register-never-photoreal-never-neo-comic",
+    "the-pace-engine: one large circular dial on top with a single bold needle, at crop-zoom",
+    "the-pace-engine: snail mark at the dial's LEFT end and winged-block mark at the dial's RIGHT end, at crop-zoom",
+    "the-pace-engine: dial diameter roughly half the body width; machine waist-high to an adult figure",
+    "the-pace-engine: no lettering, numbers or scale markings on the dial, only the two glyphs",
+    "the-pace-engine: needle position matches the state: upright mid-dial (steady), hard right (roar), hard left (cold)",
+    "the-pace-engine: cold state shows a dark untouched engine with NO glow, and it is still visibly the SAME machine",
+    "the-pace-engine: ink outlines and flat cream fills, warm-editorial; never photoreal, never neo-comic, never HUD, never neon, never glossy plastic"
+  ]
+}

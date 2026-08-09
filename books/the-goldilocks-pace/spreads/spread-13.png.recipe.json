@@ -1,0 +1,78 @@
+{
+  "asset": "spread-13.png",
+  "assetSha256_16": "638fa26c64272265",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-13",
+  "descriptor": {
+    "id": "spread-13",
+    "plate": null,
+    "cast": [
+      {
+        "id": "maya",
+        "pose": "master"
+      },
+      {
+        "id": "the-pace-engine",
+        "plate": "master"
+      }
+    ],
+    "anonymous": "two anonymous visitors: the near one seen from behind, shoulder and back of head cropped by the frame edge, torso turned the way their head faces; the second standing beside them, face soft and indistinct",
+    "scene": "Maya is the sharp subject, seen past the near visitor's shoulder: the camera sits just behind and beside one visitor, whose near shoulder and the back of whose head are large, dark and soft at the left edge of the frame, cropped by the frame, torso turned the same way their head faces, chest away from camera. Beyond them, Maya stands beside her engine, warm and open, one hand presenting the dial with an easy hosting gesture, her closed silver laptop under her left arm. The engine is exactly as its locked master plate paints it: waist-high cream body, dial upright at mid-dial, calm warm hum lines. The second visitor stands beside the first at mid-distance, face soft and indistinct, listening. Behind them the base of Maya's solid tower and warm afternoon light. The lower right of the frame stays calm grass at the engine's base.",
+    "shot": "over-shoulder",
+    "negatives": [
+      "the near visitor's face visible (only shoulder and back of head)",
+      "either visitor with a detailed portrait-readable face",
+      "the needle anywhere but upright at mid-dial",
+      "more than one engine",
+      "a crowd (two visitors only)"
+    ],
+    "_caption": "Visitors ask Maya where she got her engine. She shows them: the same engine everyone has. What they are looking for is the dial she can defend, the deep hole under her ground floor, and the deletion day she keeps every season. Her secret is a pace she can hold."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: Maya is the sharp subject, seen past the near visitor's shoulder: the camera sits just behind and beside one visitor, whose near shoulder and the back of whose head are large, dark and soft at the left edge of the frame, cropped by the frame, torso turned the same way their head faces, chest away from camera. Beyond them, Maya stands beside her engine, warm and open, one hand presenting the dial with an easy hosting gesture, her closed silver laptop under her left arm. The engine is exactly as its locked master plate paints it: waist-high cream body, dial upright at mid-dial, calm warm hum lines. The second visitor stands beside the first at mid-distance, face soft and indistinct, listening. Behind them the base of Maya's solid tower and warm afternoon light. The lower right of the frame stays calm grass at the engine's base. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, OVER-THE-SHOULDER. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance. The camera sits just behind and beside ONE person, whose near shoulder and the back of whose head are large, dark and soft at one edge of the frame, looking past them at the OTHER person, who is sharp and is the subject. BOTH KEEP THEIR OWN SEATS: the near shoulder belongs to whoever the blocking seats on that side, and the far face to whoever it seats opposite. Everything between them, the table and what is laid on it, is still there and unchanged. maya rendered exactly per the supplied reference images: half black half white founder; sage olive blazer single button notch lapel sleeves pushed to elbow; white crew neck tee; stone khaki chinos never blue jeans; laptop under arm; warm editorial register. MAYA: a founder, half-Black and half-white, in her sage-olive single-button notch-lapel blazer with the sleeves pushed to the elbow, plain WHITE crew-neck tee, STONE KHAKI chinos (never blue jeans, never denim trousers), white sneakers, and a closed silver laptop carried under her left arm. Earnest, capable, warm. Warm-editorial ink-and-wash, never photoreal. Identity of record; wardrobe and features exactly as the locked sheets. the-pace-engine exactly as its reference plate: The identical machine every founder receives on the far side of the portal: a waist-high rounded machine body in flat cream, resting on a low base, with ONE large circular dial on its top and nothing else. The dial carries a single bold needle. At the dial's left end sits a small snail mark; at the dial's right end sits a small winged-block mark (the deck's dial glyphs, a cross-artifact echo of takeoffwithclaude.com's Goldilocks-pace slide). The engine can run at any speed; the dial is the only control it has. The machine itself never differs between founders and never changes between states: only the needle's position, the glow, and what the engine is putting out change. Proportions are pinned as numbers and shared by every state. The machine stands waist-high to an adult figure: body 0.95 m tall on a 0.10 m base (about 1.05 m overall against a 1.7 m adult). The body is 1.0 m wide; the dial's diameter is 0.5 m, roughly HALF the body width, standing upright and centered on the top of the body, its face toward the viewer so it reads like a gauge (locked in the blessed master, 2026-08-09). The needle pivots from the dial's center: upright at mid-dial in the steady state, hard right in roar, hard left in cold. The snail mark sits at the left end of the dial's arc, the winged-block mark at the right end; each glyph is small, about one-eighth of the dial's diameter. In frame the engine sits on the ground plane, whole and unobstructed enough that the dial and both glyphs stay legible. Ink outlines with flat cream fills (warm cream body, slightly deeper cream base), terracotta-compatible accents; the needle and the two dial glyphs are drawn in ink. State-dependent only: steady adds calm, even warm hum lines rising gently off the body; roar adds a hot glow around the engine and motion blur in its output; cold shows the engine dark and untouched, its cream dimmed toward dusk with NO glow and no hum lines. Never neon, never HUD chrome, never glossy plastic, never 3D render sheen. Waist-high to an adult: the top of the machine body reaches an adult's waist, and the dial on top sits about hip-to-navel height. In a wide shot it reads as a generous household-appliance-sized machine a founder stands beside, never a room-sized turbine and never a handheld gadget. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: maya. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: two anonymous visitors: the near one seen from behind, shoulder and back of head cropped by the frame edge, torso turned the way their head faces; the second standing beside them, face soft and indistinct. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the near visitor's face visible (only shoulder and back of head), either visitor with a detailed portrait-readable face, the needle anywhere but upright at mid-dial, more than one engine, a crowd (two visitors only). ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. EYE CONTACT. People in conversation LOOK AT EACH OTHER: every speaker's and listener's eyes are on the person (or being) they are talking with, faces angled toward one another, gazes actually MEETING. NOBODY in a conversation looks at the camera, and nobody stares into the middle distance, unless the scene text explicitly directs a gaze elsewhere (a named view they are shown admiring, an object they are studying, or the camera itself standing in for the person being addressed). Someone showing or pointing at a thing LOOKS AT THE THING or at the person they are showing it to, never at the lens. A table of people talking while each stares somewhere else reads as strangers; the warmth of the scene lives in the eyeline. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/maya/master.png",
+      "sha256_16": "979502c30ccf149f"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/master.png",
+      "sha256_16": "5074824735fe6d6e"
+    }
+  ],
+  "qa": [
+    "maya: half-black-half-white-founder",
+    "maya: sage-olive-blazer-single-button-notch-lapel-sleeves-pushed-to-elbow",
+    "maya: white-crew-neck-tee",
+    "maya: stone-khaki-chinos-never-blue-jeans",
+    "maya: laptop-under-arm",
+    "maya: warm-editorial-register",
+    "the-pace-engine: waist-high-rounded-flat-cream-machine-body-on-a-low-base",
+    "the-pace-engine: one-large-circular-dial-on-top-with-a-single-bold-needle",
+    "the-pace-engine: dial-diameter-roughly-half-the-body-width",
+    "the-pace-engine: small-snail-mark-at-the-dial-left-end",
+    "the-pace-engine: small-winged-block-mark-at-the-dial-right-end",
+    "the-pace-engine: same-machine-in-every-state-only-needle-glow-and-output-change",
+    "the-pace-engine: ink-outlines-flat-cream-fills-terracotta-compatible",
+    "the-pace-engine: no-lettering-numbers-or-scale-markings-on-the-dial-only-the-two-glyphs",
+    "the-pace-engine: warm-editorial-register-never-photoreal-never-neo-comic",
+    "the-pace-engine: one large circular dial on top with a single bold needle, at crop-zoom",
+    "the-pace-engine: snail mark at the dial's LEFT end and winged-block mark at the dial's RIGHT end, at crop-zoom",
+    "the-pace-engine: dial diameter roughly half the body width; machine waist-high to an adult figure",
+    "the-pace-engine: no lettering, numbers or scale markings on the dial, only the two glyphs",
+    "the-pace-engine: needle position matches the state: upright mid-dial (steady), hard right (roar), hard left (cold)",
+    "the-pace-engine: cold state shows a dark untouched engine with NO glow, and it is still visibly the SAME machine",
+    "the-pace-engine: ink outlines and flat cream fills, warm-editorial; never photoreal, never neo-comic, never HUD, never neon, never glossy plastic"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "asset": "spread-06.png",
+  "assetSha256_16": "b5a2136225ad022d",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-06",
+  "descriptor": {
+    "id": "spread-06",
+    "plate": null,
+    "cast": [
+      {
+        "id": "the-pace-engine",
+        "plate": "cold"
+      }
+    ],
+    "anonymous": "the founder who runs too cold, one small figure circling her engine at a wary distance, face unreadable",
+    "scene": "The cold engine is the subject, alone on a dark unbuilt plot of green in the near mid-ground at the left of frame, exactly as its locked cold plate paints it: the same waist-high cream machine dimmed toward dusk, dark and untouched, its needle resting hard LEFT at the snail end of the dial, no glow, no hum lines, no output. The founder who runs too cold walks a slow circle around it at a wary distance, one small figure with her arms folded, studying it, not touching it, face unreadable. Behind and beyond her plot, the wide plain is filling with small warm lights: windows, lanterns and the soft glow of other founders' young buildings scattered to the horizon under a deepening evening sky. Her plot alone is dark grass. The lower right of the frame stays calm dark ground.",
+    "shot": "wide",
+    "negatives": [
+      "the engine broken, ruined, rusted or ominous (it is dark and untouched, never a ruin)",
+      "the needle pointing right or straight up (it rests hard LEFT)",
+      "any glow, hum lines or output from the engine",
+      "more than one engine"
+    ],
+    "_caption": "Another founder barely starts her engine. She circles it. She reads about it. She waits for it to be safer, cheaper, more proven. The plain around her fills with lights, and her plot stays dark, and the era does not wait with her."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: The cold engine is the subject, alone on a dark unbuilt plot of green in the near mid-ground at the left of frame, exactly as its locked cold plate paints it: the same waist-high cream machine dimmed toward dusk, dark and untouched, its needle resting hard LEFT at the snail end of the dial, no glow, no hum lines, no output. The founder who runs too cold walks a slow circle around it at a wary distance, one small figure with her arms folded, studying it, not touching it, face unreadable. Behind and beyond her plot, the wide plain is filling with small warm lights: windows, lanterns and the soft glow of other founders' young buildings scattered to the horizon under a deepening evening sky. Her plot alone is dark grass. The lower right of the frame stays calm dark ground. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. the-pace-engine exactly as its reference plate: The identical machine every founder receives on the far side of the portal: a waist-high rounded machine body in flat cream, resting on a low base, with ONE large circular dial on its top and nothing else. The dial carries a single bold needle. At the dial's left end sits a small snail mark; at the dial's right end sits a small winged-block mark (the deck's dial glyphs, a cross-artifact echo of takeoffwithclaude.com's Goldilocks-pace slide). The engine can run at any speed; the dial is the only control it has. The machine itself never differs between founders and never changes between states: only the needle's position, the glow, and what the engine is putting out change. Proportions are pinned as numbers and shared by every state. The machine stands waist-high to an adult figure: body 0.95 m tall on a 0.10 m base (about 1.05 m overall against a 1.7 m adult). The body is 1.0 m wide; the dial's diameter is 0.5 m, roughly HALF the body width, standing upright and centered on the top of the body, its face toward the viewer so it reads like a gauge (locked in the blessed master, 2026-08-09). The needle pivots from the dial's center: upright at mid-dial in the steady state, hard right in roar, hard left in cold. The snail mark sits at the left end of the dial's arc, the winged-block mark at the right end; each glyph is small, about one-eighth of the dial's diameter. In frame the engine sits on the ground plane, whole and unobstructed enough that the dial and both glyphs stay legible. Ink outlines with flat cream fills (warm cream body, slightly deeper cream base), terracotta-compatible accents; the needle and the two dial glyphs are drawn in ink. State-dependent only: steady adds calm, even warm hum lines rising gently off the body; roar adds a hot glow around the engine and motion blur in its output; cold shows the engine dark and untouched, its cream dimmed toward dusk with NO glow and no hum lines. Never neon, never HUD chrome, never glossy plastic, never 3D render sheen. Waist-high to an adult: the top of the machine body reaches an adult's waist, and the dial on top sits about hip-to-navel height. In a wide shot it reads as a generous household-appliance-sized machine a founder stands beside, never a room-sized turbine and never a handheld gadget. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: the founder who runs too cold, one small figure circling her engine at a wary distance, face unreadable. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the engine broken, ruined, rusted or ominous (it is dark and untouched, never a ruin), the needle pointing right or straight up (it rests hard LEFT), any glow, hum lines or output from the engine, more than one engine. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-pace-engine/cold.png",
+      "sha256_16": "eebba7712dc63723"
+    }
+  ],
+  "qa": [
+    "the-pace-engine: waist-high-rounded-flat-cream-machine-body-on-a-low-base",
+    "the-pace-engine: one-large-circular-dial-on-top-with-a-single-bold-needle",
+    "the-pace-engine: dial-diameter-roughly-half-the-body-width",
+    "the-pace-engine: small-snail-mark-at-the-dial-left-end",
+    "the-pace-engine: small-winged-block-mark-at-the-dial-right-end",
+    "the-pace-engine: same-machine-in-every-state-only-needle-glow-and-output-change",
+    "the-pace-engine: ink-outlines-flat-cream-fills-terracotta-compatible",
+    "the-pace-engine: no-lettering-numbers-or-scale-markings-on-the-dial-only-the-two-glyphs",
+    "the-pace-engine: warm-editorial-register-never-photoreal-never-neo-comic",
+    "the-pace-engine: one large circular dial on top with a single bold needle, at crop-zoom",
+    "the-pace-engine: snail mark at the dial's LEFT end and winged-block mark at the dial's RIGHT end, at crop-zoom",
+    "the-pace-engine: dial diameter roughly half the body width; machine waist-high to an adult figure",
+    "the-pace-engine: no lettering, numbers or scale markings on the dial, only the two glyphs",
+    "the-pace-engine: needle position matches the state: upright mid-dial (steady), hard right (roar), hard left (cold)",
+    "the-pace-engine: cold state shows a dark untouched engine with NO glow, and it is still visibly the SAME machine",
+    "the-pace-engine: ink outlines and flat cream fills, warm-editorial; never photoreal, never neo-comic, never HUD, never neon, never glossy plastic"
+  ]
+}

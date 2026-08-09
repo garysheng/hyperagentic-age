@@ -1,0 +1,37 @@
+{
+  "asset": "spread-04.png",
+  "assetSha256_16": "f17d696a4b36b848",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-04",
+  "descriptor": {
+    "id": "spread-04",
+    "plate": null,
+    "cast": [],
+    "anonymous": "the hot founder, one tiny distant figure at the tower's base, face unreadable",
+    "scene": "The hollow architecture is the subject: a tall, hastily raised tower seen up close, filling most of the frame, and up close it is wrong. Doors on its upper floors open onto empty air with no balcony and no floor beyond the threshold. An exterior stair climbs the facade and simply ends halfway, hanging. Through the large unfinished window openings the floors read as thin shells: rooms with no backs, walls with nothing behind them, like stage scenery seen from the wrong side. The craftsmanship is fast, not evil: pale fresh materials, joints unfinished, edges never closed. At the tower's base, tiny against it, the hot founder stands looking up, face unreadable. Warm daylight, and the wrongness is quiet: nothing is collapsing, it is simply hollow. Composition: the tower rises through the left and center of the frame; the upper right sky stays calm and open.",
+    "shot": "imagined",
+    "pos": "top",
+    "negatives": [
+      "the engine in frame",
+      "collapse, rubble, fire or catastrophe",
+      "people on the stairs or in the doorways (the tiny founder at the base is the only figure)"
+    ],
+    "_caption": "Up close, the floors are hollow. Doors open onto air. Stairs end halfway. He ships whatever the engine produces, because his neighbors are loud and he is afraid of falling behind."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: The hollow architecture is the subject: a tall, hastily raised tower seen up close, filling most of the frame, and up close it is wrong. Doors on its upper floors open onto empty air with no balcony and no floor beyond the threshold. An exterior stair climbs the facade and simply ends halfway, hanging. Through the large unfinished window openings the floors read as thin shells: rooms with no backs, walls with nothing behind them, like stage scenery seen from the wrong side. The craftsmanship is fast, not evil: pale fresh materials, joints unfinished, edges never closed. At the tower's base, tiny against it, the hot founder stands looking up, face unreadable. Warm daylight, and the wrongness is quiet: nothing is collapsing, it is simply hollow. Composition: the tower rises through the left and center of the frame; the upper right sky stays calm and open. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, IMAGINED: this picture shows the THING BEING DESCRIBED, full bleed, and the people describing it are NOT in the frame at all. Nobody listens, nobody speaks, and no part of the room the conversation happens in appears. Paint the idea itself as a real place or a real object, in the same register as the rest of the book, with no bubble, no border, no vignette and no lettering. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: the hot founder, one tiny distant figure at the tower's base, face unreadable. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the engine in frame, collapse, rubble, fire or catastrophe, people on the stairs or in the doorways (the tiny founder at the base is the only figure). ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel. DOOR MECHANICS, American standard, and every clause must hold AT ONCE. A door leaf is about 3 ft wide and 80 in tall: roughly HALF an adult's standing height in width, and taller than every person near it. The knob or lever sits at WAIST HEIGHT, 36 to 40 inches off the floor, INSET about a hand's width from the leaf's edge, on the side OPPOSITE the hinges; the hinge edge is the other side, at the jamb. A person opening a door grips the handle at their own waist with a bent elbow, never stooping and never reaching below their hip. The leaf sits INSIDE its frame with the frame visible around it; a handle mounted on the frame, at thigh height, or in the middle of the leaf is a defect. Exterior and commercial doors swing on visible hinges; the swing implied by hinge side and handle side must be physically possible.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}

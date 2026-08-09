@@ -1,0 +1,38 @@
+{
+  "asset": "spread-09.png",
+  "assetSha256_16": "69e5027fb559919f",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-09",
+  "descriptor": {
+    "id": "spread-09",
+    "plate": null,
+    "cast": [],
+    "scene": "NOBODY IS IN THIS PICTURE: no people, no figures anywhere, above ground or below. This is ONE continuous cutaway landscape in a single unbroken frame, never panels: one shared ground plane runs straight across the middle of the image, carrying two young skylines, and the earth below it is cut open to show what each city buried. Under the LEFT skyline, a clean subway line: one elegant tunnel drawn straight and true, evenly spaced arches, tidy track, and clearly ROOM left beside it for more lines to be added, with a gracefully capped stub where the next extension will join. Under the RIGHT skyline, a tangled one: tunnels crossing and doubling back, patched with mismatched braces, pipes rerouted around pipes, dead-end spurs, no room to add anything. The contrast reads left to right as order and margin against knot and patch. Above ground both cities are similar young pale towers in warm daylight; the difference is ALL underground. The sky along the top of the frame stays calm and open.",
+    "shot": "imagined",
+    "pos": "top",
+    "allowMultiPanel": false,
+    "negatives": [
+      "panel borders, split panels, a dividing line or a comic grid (one continuous cutaway image)",
+      "people, trains with visible passengers, or figures anywhere",
+      "lettering, route numbers or station signs",
+      "the engine in frame"
+    ],
+    "_caption": "There are two ways to lay a subway under a young city. Tokyo laid lines it could extend, and extends them still. New York laid lines it can barely repair. What you bury badly, you live over forever. Maya lays the kind you can extend."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: NOBODY IS IN THIS PICTURE: no people, no figures anywhere, above ground or below. This is ONE continuous cutaway landscape in a single unbroken frame, never panels: one shared ground plane runs straight across the middle of the image, carrying two young skylines, and the earth below it is cut open to show what each city buried. Under the LEFT skyline, a clean subway line: one elegant tunnel drawn straight and true, evenly spaced arches, tidy track, and clearly ROOM left beside it for more lines to be added, with a gracefully capped stub where the next extension will join. Under the RIGHT skyline, a tangled one: tunnels crossing and doubling back, patched with mismatched braces, pipes rerouted around pipes, dead-end spurs, no room to add anything. The contrast reads left to right as order and margin against knot and patch. Above ground both cities are similar young pale towers in warm daylight; the difference is ALL underground. The sky along the top of the frame stays calm and open. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, IMAGINED: this picture shows the THING BEING DESCRIBED, full bleed, and the people describing it are NOT in the frame at all. Nobody listens, nobody speaks, and no part of the room the conversation happens in appears. Paint the idea itself as a real place or a real object, in the same register as the rest of the book, with no bubble, no border, no vignette and no lettering. THERE ARE NO PEOPLE AND NO CHARACTERS OF ANY KIND IN THIS IMAGE. No person, no figure, no head, no shoulder, no arm, no hand, no silhouette, no reflection of a person, and nobody seated in any chair. Any place a figure might be expected is empty. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, panel borders, split panels, a dividing line or a comic grid (one continuous cutaway image), people, trains with visible passengers, or figures anywhere, lettering, route numbers or station signs, the engine in frame. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}

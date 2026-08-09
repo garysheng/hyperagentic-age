@@ -1,0 +1,37 @@
+{
+  "asset": "spread-05.png",
+  "assetSha256_16": "a09c44ffd1c58c80",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "b869525a369813d7f06a66fd7415deae694c0c8b",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-goldilocks-pace",
+  "story": "the-goldilocks-pace",
+  "spread": "spread-05",
+  "descriptor": {
+    "id": "spread-05",
+    "plate": null,
+    "cast": [],
+    "anonymous": "a handful of departing tenants, small figures seen from behind, carrying cases, faces unreadable",
+    "scene": "The departing tenants are the subject: at dusk, a handful of small figures walk quietly away from the base of the hollow tower, seen from behind, each carrying a case or a bundle, spaced apart, nobody hurrying and nobody looking back. Behind them the tower's ground-floor doors stand shut, its windows mostly dark with only one or two lights left on high up. The mood is tender and quiet, a soft blue-and-gold dusk with long gentle shadows; no drama, no anger, no ruin, just leaving. The figures walk from the tower at the left of frame toward the open dusk plain at the right, small against the tall dark shape behind them. The lower right of the frame stays calm dusk grass.",
+    "shot": "wide",
+    "negatives": [
+      "faces visible on any figure (all are seen from behind)",
+      "slammed doors, broken windows or damage to the tower",
+      "the engine in frame",
+      "rain, storm or melodrama"
+    ],
+    "_caption": "The people who moved in move out. They leave the way trust leaves: quietly, no slam, just a door that does not open again. A floor can be rebuilt in a night. A tenant cannot."
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: The departing tenants are the subject: at dusk, a handful of small figures walk quietly away from the base of the hollow tower, seen from behind, each carrying a case or a bundle, spaced apart, nobody hurrying and nobody looking back. Behind them the tower's ground-floor doors stand shut, its windows mostly dark with only one or two lights left on high up. The mood is tender and quiet, a soft blue-and-gold dusk with long gentle shadows; no drama, no anger, no ruin, just leaving. The figures walk from the tower at the left of frame toward the open dusk plain at the right, small against the tall dark shape behind them. The lower right of the frame stays calm dusk grass. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. THE ONLY PEOPLE IN THIS IMAGE ARE ANONYMOUS FIGURES THIS SCENE DESCRIBES: a handful of departing tenants, small figures seen from behind, carrying cases, faces unreadable. They are ordinary unnamed people with no identity beyond what the scene says, and they are not any named character. NOBODY ELSE APPEARS. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, faces visible on any figure (all are seen from behind), slammed doors, broken windows or damage to the tower, the engine in frame, rain, storm or melodrama. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. NECK ROTATION. A human head turns at most about SIXTY DEGREES past the line of the shoulders, comfortably far less. A person looking somewhere their body does not point turns SHOULDERS AND CHEST with the head: to look behind themselves they rotate the whole upper body, or stop and turn around. NEVER render a head rotated further around than a relaxed neck allows while the torso, hips and feet keep walking the other way; that reads as an injury. If the scene wants a figure in motion who also looks back, either pause the figure mid-step with the upper body genuinely rotated, or settle for a modest sideways glance within the neck's real range. The chin stays near the shoulder it turns toward; the face never points opposite the chest.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    }
+  ],
+  "qa": []
+}
