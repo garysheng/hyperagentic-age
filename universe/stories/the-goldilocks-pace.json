@@ -14,7 +14,8 @@
   },
   "features": [
     "maya",
-    "the-portal"
+    "the-portal",
+    "the-pace-engine"
   ],
   "castingSweep": {
     "sweptOn": "2026-08-09",
