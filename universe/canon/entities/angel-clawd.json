@@ -48,6 +48,12 @@
           "the halo or body shifted to follow the wings"
         ]
       }
+    },
+    "scale": {
+      "height": "a small mascot critter",
+      "relativeTo": {
+        "clawd": "identical size to (same critter, with wings)"
+      }
     }
   },
   "prose": {

@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "8b20def20518e7f3",
+  "inputs": [
+    {
+      "digest": "4ddfdb7f448dce13",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/angel-clawd/source/clawd-clean-screenshot.png"
+    }
+  ],
+  "prompt": "Using the first reference image as the exact character identity: it shows a small coral pixel critter (the Anthropic \"Clawd\" pixel mascot) - a front-facing stepped blocky coral body with a raised head block, two black square eyes, one small stub arm on each side of the mid-body, and four little legs below. Redraw THIS SAME CRITTER, plain and unadorned (NO wings, NO halo, NO heart, NO accessories), in a cute designed-sticker pixel-art style: crisp flat blocky pixel shapes with a soft, plush, charming energy - not a rigid grid port, not mushy painterly rendering, not 3D, not glossy. THE CRITTER: stepped blocky coral body (coral #DD775B, slightly darker #c05f45 shading low on the body, a lighter #ea9077 highlight band near the top), and little pixel legs below. THE GROUND: the critter floats centered on a single flat solid field of pure bright green #00FF00 and nothing else - no shadow, no reflection, no surface, no other elements, no text. Eyes exactly as the reference: two big dark square eyes, each with a single small white glint. Standing square and symmetrical, stubs relaxed at the sides.",
+  "provider": "gpt-image-2",
+  "specVersion": "0.6"
+}

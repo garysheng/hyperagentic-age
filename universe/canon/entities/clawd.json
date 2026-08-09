@@ -1,0 +1,43 @@
+{
+  "id": "clawd",
+  "kind": "motif",
+  "originStory": null,
+  "authority": {
+    "lockedBy": "Gary Sheng",
+    "lockedOn": "2026-08-09",
+    "lockedAt": "2026-08-09",
+    "note": "v1-faithful blessed by Gary as plain-clawd hero, 2026-08-09"
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/clawd/hero.png",
+      "detail": null
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "It is recognizably the Anthropic pixel critter: a small coral pixel-critter mascot with a stepped/blocky silhouette (soft designed-sticker pixel energy is welcome; mushy gradients and full 3D are not).",
+      "Front-facing stepped blocky coral body with a raised head block, one small stub arm on each side of the mid-body, and four little legs below.",
+      "Two big dark eyes. Base form per the clean screenshot: open square/rounded-square eyes, each with a single small white glint. The happy closed contented arcs (two dark upturned arcs, no glints) are a legal alternate expression.",
+      "Anthropic coral palette family for the body: #DD775B with shading toward #c05f45 and highlights toward #ea9077; mono renditions use a single burnt orange (#b0512e family) or all-cream/white (#fffdf7 family).",
+      "NO angel elements: no wings, no halo, no floating heart. Those are angel-clawd.",
+      "Transparent ground on every deliverable: shot on solid chroma-green and keyed; no baked background, no drop shadow on the final PNG."
+    ],
+    "registerNeutral": {
+      "medium": "flat pixel-sticker illustration: a cute designed-sticker take on a pixel mascot, crisp blocky shapes on a solid chroma ground (keyed to transparent for deliverables)",
+      "why": "Same recorded medium exception as angel-clawd (canon/craft/pixel-mascot-medium-exception.json): merch-facing mascot art. No register anchor and no register poles on its shots; identity comes from the canonical Clawd screenshot."
+    },
+    "scale": {
+      "height": "a small mascot critter",
+      "relativeTo": {
+        "angel-clawd": "identical size to (same critter, no wings)"
+      }
+    }
+  },
+  "prose": {
+    "voice": "Silent. He stands, he glints, he ships.",
+    "lore": "The plain Anthropic pixel critter, no angel elements: the base identity that angel-clawd is derived from. PRIMARY identity reference is Gary's clean screenshot of the canonical pixel Clawd (reference/angel-clawd/source/clawd-clean-screenshot.png), passed as the first input image on every shot. Rendered, like angel-clawd, as a charming designed-sticker reinterpretation via gpt-image-2, never a rigid grid port.",
+    "rules": "Clawd is always friendly. No angel elements ever on this entity (no wings, no halo, no floating heart): those belong to angel-clawd. No accessories in the base hero."
+  }
+}
