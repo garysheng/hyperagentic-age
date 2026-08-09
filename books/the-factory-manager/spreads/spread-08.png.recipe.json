@@ -1,0 +1,71 @@
+{
+  "asset": "spread-08.png",
+  "assetSha256_16": "e62773336686c77d",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-08",
+  "descriptor": {
+    "id": "spread-08",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "master",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being in this frame and no second capped mascot figure. THE CAMERA HAS WALKED IN CLOSE to one figure and nothing else has changed: the manager fills the frame from the chest up and his head alone is at least a third of the frame height. He stands square and front-on, calm and attentive, mitten arms relaxed at his sides, his cream newsboy cap level on his head, his dot eyes lowered a little toward what stands in front of him. Held up before him at chest height on a small honey-wood easel, ANGLED AWAY from the camera and TOWARD HIM so we read them by their colour and their light rather than square-on, TWO candidate painted pages side by side. The one at the LEFT is the funny page: bright and bouncy, warm yellows, a tumbling round shape mid-fall. The one at the RIGHT is the gentle page: quiet soft creams and muted greens, slow and tender, a small doorway of warm light standing open in it. His attention has settled on the gentle page at the right, and his plum glow falls warmer on that side of the easel. No lettering and no readable text on either page. Behind him the factory is close, warm and softly out of focus. This is the quietest and most weighted picture in the book: stillness, one figure, one decision.",
+    "shot": "close",
+    "_caption": "Then comes the moment no rail covers. The funny page would get a laugh. But Theo is scared, and scared wants the gentle page. No machine can make that call. This is why the manager's seat takes a manager.",
+    "negatives": [
+      "the two pages squared up flat to the camera",
+      "readable text or lettering on either page",
+      "any second capped mascot figure",
+      "a human being of any kind",
+      "a wide view; the head must fill a third of the frame height"
+    ],
+    "pos": "top-right"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being in this frame and no second capped mascot figure. THE CAMERA HAS WALKED IN CLOSE to one figure and nothing else has changed: the manager fills the frame from the chest up and his head alone is at least a third of the frame height. He stands square and front-on, calm and attentive, mitten arms relaxed at his sides, his cream newsboy cap level on his head, his dot eyes lowered a little toward what stands in front of him. Held up before him at chest height on a small honey-wood easel, ANGLED AWAY from the camera and TOWARD HIM so we read them by their colour and their light rather than square-on, TWO candidate painted pages side by side. The one at the LEFT is the funny page: bright and bouncy, warm yellows, a tumbling round shape mid-fall. The one at the RIGHT is the gentle page: quiet soft creams and muted greens, slow and tender, a small doorway of warm light standing open in it. His attention has settled on the gentle page at the right, and his plum glow falls warmer on that side of the easel. No lettering and no readable text on either page. Behind him the factory is close, warm and softly out of focus. This is the quietest and most weighted picture in the book: stillness, one figure, one decision. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, CLOSE-UP. IGNORE THE CAMERA DISTANCE IN THE SUPPLIED REFERENCE PLATE, and only the distance: in that plate the camera is far back, and HERE IT HAS WALKED IN CLOSE TO ONE PERSON WITHOUT ANYTHING ELSE CHANGING. ONE face fills the frame from the chest up and the head alone is at least a third of the frame height. If that person is seated at a table, THE NEAR EDGE OF THAT TABLE AND WHAT IS LAID ON IT RUNS ACROSS THE BOTTOM OF THE FRAME in front of them, because that is where they are sitting. What is behind them is what was actually behind them, closer now and thrown soft. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate. THE ONLY CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the two pages squared up flat to the camera, readable text or lettering on either page, any second capped mascot figure, a human being of any kind, a wide view; the head must fill a third of the frame height. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. DIRECTION OF TRAVEL. If a person in this scene is moving toward something, that destination MUST BE AHEAD OF THEM IN THE FRAME and they must be seen FROM BEHIND or from three-quarters behind, so the viewer is following them into it. A figure whose face is toward the camera is walking AWAY from everything behind them: if the thing they are moving toward is drawn behind them, the picture says the opposite of the scene. Their feet, hips, shoulders and gaze all point the same way, along the direction of travel.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

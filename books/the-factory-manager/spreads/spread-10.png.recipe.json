@@ -1,0 +1,100 @@
+{
+  "asset": "spread-10.png",
+  "assetSha256_16": "50ffc09aaaacb8b5",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-10",
+  "descriptor": {
+    "id": "spread-10",
+    "plate": null,
+    "cast": [
+      {
+        "id": "june",
+        "pose": "reading",
+        "_choices": [
+          "master",
+          "recording",
+          "reading"
+        ]
+      },
+      {
+        "id": "tastefulstories-manager",
+        "pose": "master",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "The manager stays INSIDE his glowing machine and never sets foot on the porch. The camera is well back and the PORCH is the subject, in warm late-afternoon daylight. June sits in a wooden porch rocking chair at the centre-left of the frame, at full length and no taller than half the frame height, an open picture book held before her, reading aloud, her face soft and unhurried. Leaning at her knee, a small boy of about five SEEN FROM BEHIND ONLY: the back of his head and shoulders to us, his face never visible and never the subject. The open book is oriented for the two of them, tilted away from the camera, and there is no lettering and no readable text on its pages. Around them worn porch boards, a simple rail, a few green leaves, warm sun. At the FAR RIGHT EDGE of the frame, small, stands the glowing machine itself: a warm cream cabinet with one lit rectangular screen turned to face them, and INSIDE that lit screen, contained by it, the manager stands square and front-on at a hand-span tall, calm and attentive, mitten arms relaxed at his sides, watching quietly all the way through. He is inside the lit screen and bounded by its edges: never on the porch, never hovering in front of the glass, never a sticker or decal on the cabinet. His small plum glow is one warm dot at the frame's edge against the daylight. Composition: June and the boy centre-left, the machine small at the far right; the upper left stays calm warm sky and porch roof.",
+    "shot": "wide",
+    "_caption": "June changes one word, because the last five percent is always hers. Then Theo is on her lap on the porch, and the big doors in the book open easy, and the manager watches from the glowing machine the way managers do: quietly, and all the way through.",
+    "negatives": [
+      "the boy's face visible, or the boy as the subject of the frame",
+      "the manager outside the screen, standing on the porch, hovering in front of the glass, or drawn as a sticker on the cabinet",
+      "eyeglasses on June, on her face, pushed up on her head or on a cord",
+      "June's hair worn down or cut short; it is a low silver bun at the nape",
+      "readable text or lettering on the book",
+      "a tablet, a flat slab or a frameless panel; the cabinet has a real lit rectangular screen"
+    ],
+    "pos": "top-left",
+    "anonymous": "one small boy of about five, seen from behind only, his face never visible and never the subject"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: The manager stays INSIDE his glowing machine and never sets foot on the porch. The camera is well back and the PORCH is the subject, in warm late-afternoon daylight. June sits in a wooden porch rocking chair at the centre-left of the frame, at full length and no taller than half the frame height, an open picture book held before her, reading aloud, her face soft and unhurried. Leaning at her knee, a small boy of about five SEEN FROM BEHIND ONLY: the back of his head and shoulders to us, his face never visible and never the subject. The open book is oriented for the two of them, tilted away from the camera, and there is no lettering and no readable text on its pages. Around them worn porch boards, a simple rail, a few green leaves, warm sun. At the FAR RIGHT EDGE of the frame, small, stands the glowing machine itself: a warm cream cabinet with one lit rectangular screen turned to face them, and INSIDE that lit screen, contained by it, the manager stands square and front-on at a hand-span tall, calm and attentive, mitten arms relaxed at his sides, watching quietly all the way through. He is inside the lit screen and bounded by its edges: never on the porch, never hovering in front of the glass, never a sticker or decal on the cabinet. His small plum glow is one warm dot at the frame's edge against the daylight. Composition: June and the boy centre-left, the machine small at the far right; the upper left stays calm warm sky and porch roof. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. june rendered exactly per the supplied reference images: a grandmother in her late sixties warm and unhurried; silver hair gathered in a LOW BUN at the nape of her neck NEVER worn down NEVER a short cut; NO eyeglasses EVER not on her face not pushed up on her head not on a cord around her neck; butter yellow knitted cardigan worn open over a simple cream blouse ALWAYS; soft mid length skirt in a muted warm grey; comfortable flat brown walking shoes never heels; warm smile lines around her eyes and mouth; warm editorial ink and wash never photoreal. JUNE, a fictional grandmother in her late sixties, warm and specific: SILVER HAIR gathered in a LOW BUN at the nape of her neck (never worn down, never a short cut), NO EYEGLASSES anywhere (not on her face, not on her head, not on a cord), a BUTTER-YELLOW knitted cardigan worn open over a simple cream blouse, a soft mid-length muted warm-grey skirt, comfortable flat brown walking shoes, and warm smile lines around her eyes and mouth. She is unhurried and entirely present. Warm editorial ink-and-wash, never photoreal, never a caricature of age: she is capable, not frail. SEATED IN A WOODEN PORCH ROCKING CHAIR, reading from an open picture book held before her. If a small boy appears he is a SMALL BOY SEEN FROM BEHIND ONLY, leaning at her knee, his face never visible and never the subject; the subject is June and the book. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate. TELL THEM APART, keep every face and hairstyle distinct: june is the one with a grandmother in her late sixties warm and unhurried, silver hair gathered in a LOW BUN at the nape of her neck NEVER worn down NEVER a short cut, NO eyeglasses EVER not on her face not pushed up on her head not on a cord around her neck, butter yellow knitted cardigan worn open over a simple cream blouse ALWAYS, soft mid length skirt in a muted warm grey, comfortable flat brown walking shoes never heels, warm smile lines around her eyes and mouth, warm editorial ink and wash never photoreal; tastefulstories-manager is the one with small blocky mascot same class as the chief of agents grantwell and storywell, WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo, STRONGLY translucent holographic projection you can see through it luminous not solid clay, casts light not shadow, small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig, warm rounded dot eyes with tiny catchlights, two stubby legs, short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars, lives INSIDE the glowing machine leans out only to deliver never steps out, oversees and directs never does the rote task work itself, warm editorial register never comic. RELATIVE SCALE, hold it exactly: june is towers over; he is a hand-span glowing figure inside the machine while she is a full-grown adult in the room tastefulstories-manager; tastefulstories-manager is far smaller than; a hand-span glowing figure inside the machine while she is a full-grown adult in the room june. june is an average-height older woman, soft-shouldered, slightly stooped in the easy way of grandmothers; tastefulstories-manager is a small blocky mascot, teapot-sized against the machines it lives in; it never exceeds the height of a laptop screen. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: june, tastefulstories-manager. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: one small boy of about five, seen from behind only, his face never visible and never the subject. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, the boy's face visible, or the boy as the subject of the frame, the manager outside the screen, standing on the porch, hovering in front of the glass, or drawn as a sticker on the cabinet, eyeglasses on June, on her face, pushed up on her head or on a cord, June's hair worn down or cut short; it is a low silver bun at the nape, readable text or lettering on the book, a tablet, a flat slab or a frameless panel; the cabinet has a real lit rectangular screen. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/june/master.png",
+      "sha256_16": "41ed91d518591e4a"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "june: silver hair in a LOW BUN at the nape: never down, never short",
+    "june: NO eyeglasses anywhere: face, head, or cord",
+    "june: butter-yellow cardigan over cream blouse, grey skirt, flat brown shoes",
+    "june: warm smile lines; capable, not frail",
+    "june: any child in frame is a small boy seen from behind only, never the subject",
+    "june: warm editorial ink-and-wash, never photoreal",
+    "june: a-grandmother-in-her-late-sixties-warm-and-unhurried",
+    "june: silver-hair-gathered-in-a-LOW-BUN-at-the-nape-of-her-neck-NEVER-worn-down-NEVER-a-short-cut",
+    "june: NO-eyeglasses-EVER-not-on-her-face-not-pushed-up-on-her-head-not-on-a-cord-around-her-neck",
+    "june: butter-yellow-knitted-cardigan-worn-open-over-a-simple-cream-blouse-ALWAYS",
+    "june: soft-mid-length-skirt-in-a-muted-warm-grey",
+    "june: comfortable-flat-brown-walking-shoes-never-heels",
+    "june: warm-smile-lines-around-her-eyes-and-mouth",
+    "june: warm-editorial-ink-and-wash-never-photoreal",
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

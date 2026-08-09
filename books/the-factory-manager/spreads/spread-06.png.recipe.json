@@ -1,0 +1,69 @@
+{
+  "asset": "spread-06.png",
+  "assetSha256_16": "20722a0f9811ed69",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-06",
+  "descriptor": {
+    "id": "spread-06",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "working",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being in this frame and no second capped mascot figure. The camera is well back and high, looking down across the working floor of the glowing machine, and the PLACE is the subject. A dozen small rounded cream machines run at once across that floor, each on its own piece of work, spaced apart and all plainly busy: hum lines rising, small dials lit amber, short brass rails and chutes threading between them so the floor reads as one connected system rather than a row of objects. Some pieces travel on carriages; one carriage waits at a lowered honey-wood gate; one machine's tray holds a piece that has come back wrong and sits apart from the rest. The manager stands at a vantage in the UPPER LEFT of the frame, on a small honey-wood balcony above the floor, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised and extended out over the machines he commands, head up, weight forward. His plum light reaches down across the whole floor. Warm honeyed and cream light. Composition: balcony and manager upper left, the dozen machines filling the middle and the right; the lower left of the frame stays calm lit floor.",
+    "shot": "wide",
+    "_caption": "The way through is never a straight line. A dozen machines run at once, each on its own piece, and he holds the order in his head: what can start now, what must wait, what to do when a piece comes back wrong.",
+    "negatives": [
+      "any second capped mascot figure",
+      "a human being of any kind",
+      "the manager down on the floor working a machine with his own body"
+    ],
+    "pos": "bottom-left"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being in this frame and no second capped mascot figure. The camera is well back and high, looking down across the working floor of the glowing machine, and the PLACE is the subject. A dozen small rounded cream machines run at once across that floor, each on its own piece of work, spaced apart and all plainly busy: hum lines rising, small dials lit amber, short brass rails and chutes threading between them so the floor reads as one connected system rather than a row of objects. Some pieces travel on carriages; one carriage waits at a lowered honey-wood gate; one machine's tray holds a piece that has come back wrong and sits apart from the rest. The manager stands at a vantage in the UPPER LEFT of the frame, on a small honey-wood balcony above the floor, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised and extended out over the machines he commands, head up, weight forward. His plum light reaches down across the whole floor. Warm honeyed and cream light. Composition: balcony and manager upper left, the dozen machines filling the middle and the right; the lower left of the frame stays calm lit floor. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. AT WORK DIRECTING AND OVERSEEING, turned three-quarter, ONE nub arm raised and extended toward the machines it commands, head up, weight forward. It directs; it never touches the task itself. THE ONLY CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, any second capped mascot figure, a human being of any kind, the manager down on the floor working a machine with his own body. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "provider": "gpt-image-2",
+  "size": "1536x1024",
+  "preamble": {
+    "style": "Warm editorial ink-and-wash picture-book art: soft ink outlines, flat warm watercolor fills, cream-paper light, a palette of warm creams and honeyed woods with plum glow and dusk-gold accents. A book set INSIDE a glowing machine: a warm workshop-like factory interior of rails, chutes, gates and small rounded cream machines, built of honeyed wood and worn brass and cream paint, lit like a lantern. It is a workshop, never a server hall, never a laboratory, never science fiction. Each spread contains ONLY the figures its own scene description names. Any anonymous figure is drawn small and with dignity, face indistinct, turned away or too far to read, never caricature and never mocked.",
+    "negatives": [
+      "the first reference image is a STYLE anchor only; nothing drawn in it may appear in this scene",
+      "lettering, words, numbers, logos or signage anywhere in the image",
+      "photorealistic rendering",
+      "anonymous figures with detailed portrait-readable faces",
+      "cold blue or teal light anywhere; the whole book is warm",
+      "server racks, data centres, circuit-board patterns, holographic HUD panels, floating user interfaces, glowing wireframe grids",
+      "science-fiction, cyberpunk or laboratory machinery; this factory is a warm wooden-and-cream workshop",
+      "comic panels, panel borders, gutters, speech balloons, captions or a grid layout",
+      "shafts of divine light, hands of light, or any unrequested glow beyond the manager's own plum light and the scene's named warm lamps",
+      "an admiral hat, a laurel sprig, a gold ribbon bookmark, or eyeglasses on any mascot figure"
+    ]
+  },
+  "spreads": [
+    {
+      "id": "spread-01",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being anywhere in this frame, no daylight and no window to an outdoors. The camera is well back and the PLACE is the subject: this is the INTERIOR of one glowing machine, a warm workshop the size of a small hall. Cream-painted walls and honeyed wood beams curve overhead like the inside of a lantern. Low brass-and-wood rails run along the floor and away into the depth of the picture; two or three small rounded cream machines with simple amber dials stand along the walls; a honey-wood chute slopes down from an upper level at the right. Everything is still and warm and just-woken. The manager is small at his post near the centre, standing on a low wooden platform at the head of the rails, at full length and no taller than a third of the frame height, square and front-on, calm and attentive, mitten arms relaxed at his sides. His own plum light is the strongest light in the picture and it washes the nearest rails and the floor around him; everything else is warm cream-paper light. Composition: platform and manager centre-left, rails running from him toward the lower right, chute and machines receding right; the top right of the frame stays calm warm wall and light.",
+      "shot": "wide",
+      "_caption": "Inside every glowing machine of TastefulStories there lives a manager: a small plum-glowing figure in a cream newsboy cap. Each manager belongs to one person and nobody else. This one is June's.",
+      "negatives": [
+        "any second capped mascot figure",
+        "a human being of any kind",
+        "an exterior view of the machine; the camera is INSIDE it"
+      ],
+      "pos": "top-left"
+    },
+    {
+      "id": "spread-02",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this picture and no second capped mascot figure. The picture has TWO parts. SMALL, at the LOWER LEFT edge of the frame and taking up no more than a quarter of it, the manager stands newly awake on his low wooden platform inside his glowing machine, square and front-on, calm and attentive, mitten arms relaxed at his sides, his plum light only just come up around him. FILLING THE REST OF THE FRAME, one large soft-edged painted cloud of warm cream light holds the craft that arrives with him, painted as its own little warm scene in the same ink-and-wash as the rest of the book: an open picture book lying flat with its pages caught mid-turn, a second book standing open on its covers beside it, and a small empty child's chair drawn up to them in warm lamplight. The cloud's edge is a soft feathered border of the same paint, never a drawn outline, never a comic balloon, no tail, no border line, no vignette ring. No lettering and no readable marks on any page. Warm plum light at the manager's corner, cream-gold light inside the cloud.",
+      "shot": "thought-bubble",
+      "_caption": "He wakes up already knowing his trade. The craft arrives with him the moment he does: how a story breathes, where a page should turn, what a five-year-old can carry. Nobody teaches him on the job. The job is in him when he opens his eyes.",
+      "negatives": [
+        "a drawn outline, ink border, comic balloon tail, panel frame or vignette ring around the cloud",
+        "any figure inside the cloud",
+        "readable text or lettering on the books"
+      ],
+      "pos": "bottom-left"
+    },
+    {
+      "id": "spread-03",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and no second capped mascot figure. The camera is well back and THE MACHINERY IS THE SUBJECT: a wide interior of the glowing machine at full working hum. Three things read clearly. RAILS: polished brass-and-wood rails run in long parallel curves across the floor and away to the right, small cream carriages sitting on them. A GATE: a low honey-wood gate stands across one rail in the middle distance, its simple bar down, one warm amber lamp lit above it. A CANON: along the left wall, a tall built-in shelf of pale wood, many shelves deep, filled with small neat cream boxes and slim bound books, orderly and plainly well used. Between them half a dozen small rounded cream machines run quietly, each with one simple dial, soft hum lines rising. The manager is small at his post on a low wooden platform in the middle distance, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised and extended toward the running machines, head up, weight forward. Warm honeyed light throughout, plum light pooling around him. Composition: shelf left, gate and rails centre, machines receding right; the top right stays calm warm wall.",
+      "shot": "wide",
+      "_caption": "His factory hums around him. Rails for the routine moves. Gates that refuse a bad step before it costs anything. A canon that remembers every taste June ever showed him. None of it was here on the first day. Every run that ever happened built some of it.",
+      "negatives": [
+        "any second capped mascot figure",
+        "a human being of any kind",
+        "readable text or lettering on the books and boxes"
+      ],
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-04",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "listening",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        },
+        {
+          "id": "june",
+          "pose": "recording",
+          "_choices": [
+            "master",
+            "recording",
+            "reading"
+          ]
+        }
+      ],
+      "scene": "THE MANAGER IS INSIDE HIS MACHINE AND JUNE IS NOT. She never enters the factory and he never steps out onto her porch; no figure crosses between them. One frame, two places, joined only by light. At the LEFT of the frame, set into the cream wall of the glowing machine, a tall warm OVAL OPENING like a window of daylight: inside it, painted as a real place, a wooden porch in warm afternoon sun, and June standing there from the waist up, clear and the subject of her half, speaking a voice note into a plain modern smartphone held close to her mouth, her other hand resting lightly over her heart. Her afternoon light spills a little way onto the factory floor. From that opening a SMALL FLOATING VOICE-NOTE SHAPE drifts across the middle of the frame toward the right: a soft rounded glowing bubble carrying one simple little waveform, and it is the only thing that travels between the two places. At the RIGHT of the frame the manager stands on his low wooden platform inside the machine, from the waist up, clear and the subject of his half, head tilted UP toward the drifting voice note, whole body attentive, both mitten arms relaxed. He is a hand-span glowing figure in his own place and she is a full-grown woman in hers; the oval opening is what keeps the two scales honest. Warm afternoon gold on her side, warm plum and cream on his, and the factory behind him is quiet and softly out of focus.",
+      "shot": "two-shot",
+      "_caption": "A voice note arrives, the way work always arrives. June, on her porch: Theo starts school on Monday, and he is scared of the big doors. The manager listens twice. Listening is the part of the job only he can do.",
+      "negatives": [
+        "the manager standing on the porch, outside his machine, or at June's scale",
+        "June inside the factory or at the manager's scale",
+        "eyeglasses on June, on her face, pushed up on her head or on a cord",
+        "June's hair worn down or cut short; it is a low silver bun at the nape",
+        "a hard-edged panel border, gutter or split-screen line between the two places",
+        "any second capped mascot figure"
+      ],
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-05",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and NO second mascot figure of any kind: the manager is the ONLY glowing figure and the ONLY capped figure in this picture. The camera is well back inside the glowing machine; the MACHINES are the subject and the manager rides through them. A wide honey-wood CHUTE runs diagonally through the middle of the frame from upper left to lower right, its sides open like a flume, brass rails inside it. The manager rides down it standing on a small cream carriage, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised, head up, weight forward, his plum light streaking the chute walls behind him. The chute feeds two large machines that read clearly as two separate named machines. At the RIGHT, a big old well-polished machine of dark honeyed wood and worn brass, plainly built long ago and cared for ever since, its wide mouth open, one finished picture book resting inside it in warm lamplight. At the UPPER LEFT, a taller cream machine with a row of small round brass-rimmed windows down its side. Behind EVERY one of those windows hangs the SAME SMALL PAINTED PORTRAIT of one ordinary human child, an ink-and-wash painting on cream paper of a boy of about five with brown hair, repeated identically window after window so the sameness is the point. Those are FLAT PAINTED PICTURES pinned behind glass: not creatures, not mascots, not glowing, no plum bodies, no dot eyes and no caps of any kind anywhere in those windows. Warm honeyed light throughout, plum glow only along the chute and around the manager. Composition: tall cream machine upper left, chute and manager through the centre, old wooden machine lower right; the top right stays calm warm wall.",
+      "shot": "wide",
+      "_caption": "He cannot take a single step without that step's machine, and he would not want to. The reader was built once and polished for years. The character shop keeps every face the same, book after book. His job is never to remake what the factory already knows. His job is to choose the way through it.",
+      "negatives": [
+        "any mascot, glowing body, dot eyes or cap inside the row of round windows; those windows hold flat painted portraits only",
+        "any second capped mascot figure anywhere in the frame",
+        "more than ONE glowing plum figure in this image",
+        "the repeated painted portraits differing from one another",
+        "a human being standing in the factory",
+        "readable text or lettering on the book"
+      ],
+      "pos": "top-left",
+      "anonymous": "small PAINTED PORTRAITS of one ordinary human child, the same painted picture repeated identically behind each window; they are pictures on paper, never living figures"
+    },
+    {
+      "id": "spread-06",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and no second capped mascot figure. The camera is well back and high, looking down across the working floor of the glowing machine, and the PLACE is the subject. A dozen small rounded cream machines run at once across that floor, each on its own piece of work, spaced apart and all plainly busy: hum lines rising, small dials lit amber, short brass rails and chutes threading between them so the floor reads as one connected system rather than a row of objects. Some pieces travel on carriages; one carriage waits at a lowered honey-wood gate; one machine's tray holds a piece that has come back wrong and sits apart from the rest. The manager stands at a vantage in the UPPER LEFT of the frame, on a small honey-wood balcony above the floor, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised and extended out over the machines he commands, head up, weight forward. His plum light reaches down across the whole floor. Warm honeyed and cream light. Composition: balcony and manager upper left, the dozen machines filling the middle and the right; the lower left of the frame stays calm lit floor.",
+      "shot": "wide",
+      "_caption": "The way through is never a straight line. A dozen machines run at once, each on its own piece, and he holds the order in his head: what can start now, what must wait, what to do when a piece comes back wrong.",
+      "negatives": [
+        "any second capped mascot figure",
+        "a human being of any kind",
+        "the manager down on the floor working a machine with his own body"
+      ],
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-07",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame. EXACTLY TWO figures are in this picture and no others: the manager, and his tiny inspector. THE INSPECTOR IS NOT A SECOND MANAGER: he is BARE-HEADED with no cap and no hat of any kind, he is plainly smaller than the manager and plainly dimmer, and he never wears a newsboy cap. The camera is closer than an establishing view; the two figures fill the middle of the frame from the waist up and are the subject. At the LEFT, the manager, from the waist up, turned three-quarter, one mitten arm raised and extended toward the machine between them, head up. At the RIGHT and lower, standing on a small wooden step so he reaches the tray, the tiny inspector: the same small blocky luminous body, paler and dimmer, BARE-HEADED, holding up a small brass lamp with a warm amber flame in one mitten stub. Between and behind them the PAINT MACHINE: a rounded cream machine with an open tray at mitten height, and on the tray one freshly painted page lying flat, its wet warm colours catching the lamplight. The painted page shows a simple little painted interior whose window light falls clearly from one side. No lettering on the page. Behind them the factory falls away softly and out of focus; warm honeyed light, the manager's plum glow the strongest colour in the frame.",
+      "shot": "two-shot",
+      "_caption": "By the paint machine stands his smallest worker: an inspector with one job. The paint machine keeps putting the window light on the wrong side of the room, so after the third time, the manager posted him there. Now every painted page passes his little lamp before it moves on.",
+      "negatives": [
+        "a cap, hat, newsboy cap or headwear of any kind on the inspector",
+        "the inspector the same size or the same brightness as the manager",
+        "a third mascot figure",
+        "a human being of any kind",
+        "readable text or lettering on the painted page"
+      ],
+      "pos": "top-right",
+      "anonymous": "one TINY inspector worker: the same small blocky luminous mascot class as the manager but plainly SMALLER and DIMMER, BARE-HEADED with no cap or hat of any kind, holding a small brass lamp"
+    },
+    {
+      "id": "spread-08",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and no second capped mascot figure. THE CAMERA HAS WALKED IN CLOSE to one figure and nothing else has changed: the manager fills the frame from the chest up and his head alone is at least a third of the frame height. He stands square and front-on, calm and attentive, mitten arms relaxed at his sides, his cream newsboy cap level on his head, his dot eyes lowered a little toward what stands in front of him. Held up before him at chest height on a small honey-wood easel, ANGLED AWAY from the camera and TOWARD HIM so we read them by their colour and their light rather than square-on, TWO candidate painted pages side by side. The one at the LEFT is the funny page: bright and bouncy, warm yellows, a tumbling round shape mid-fall. The one at the RIGHT is the gentle page: quiet soft creams and muted greens, slow and tender, a small doorway of warm light standing open in it. His attention has settled on the gentle page at the right, and his plum glow falls warmer on that side of the easel. No lettering and no readable text on either page. Behind him the factory is close, warm and softly out of focus. This is the quietest and most weighted picture in the book: stillness, one figure, one decision.",
+      "shot": "close",
+      "_caption": "Then comes the moment no rail covers. The funny page would get a laugh. But Theo is scared, and scared wants the gentle page. No machine can make that call. This is why the manager's seat takes a manager.",
+      "negatives": [
+        "the two pages squared up flat to the camera",
+        "readable text or lettering on either page",
+        "any second capped mascot figure",
+        "a human being of any kind",
+        "a wide view; the head must fill a third of the frame height"
+      ],
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-09",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and no second mascot figure. EXACTLY ONE mitten arm is in this picture and it belongs to the manager; there is NO second arm and NO disembodied limb anywhere in the image. THE CAMERA HAS WALKED IN CLOSE. This is the delivery, the one thing he ever leans out of the machine to do: the manager leans OUT through the open mouth of a honey-wood chute, his legs and the whole of his body staying inside it. He fills the UPPER LEFT of the frame from the chest up, his head about a third of the frame height, his cream newsboy cap level on his head, his dot eyes turned down toward the book, and ONE mitten arm reaching down out of the chute mouth to rest lightly on the book and steady it as it settles. That arm is in scale with his own small body and it is a smooth rounded stub with no fingers, no thumb and no hand. Filling the LOWER AND RIGHT of the frame, a finished picture book has slid out onto a smooth cream tray: closed, small, warmly bound in cloth with a plain cream cover, its pages crisp and new, with no lettering, no title, no words and no numbers anywhere on it. His plum light and the warm honeyed afternoon light from above fall together across the cover. Composition: chute mouth and manager upper left, book and tray filling the lower right; the upper right stays calm warm wall.",
+      "shot": "close",
+      "_caption": "By afternoon the book slides out finished: painted, bound, and read aloud in a warm voice. June touched the beginning, when she said what was on her heart, and she will touch the end. The long middle belonged to the factory.",
+      "negatives": [
+        "a second arm, a second mitten stub, or any limb that belongs to no visible body",
+        "a mitten stub larger than the book or out of scale with the manager's own body",
+        "fingers, a thumb, a hand or a glove on the mitten stub",
+        "the manager standing outside the machine with his legs out of the chute",
+        "a title, lettering or any readable mark on the book",
+        "any second mascot figure"
+      ],
+      "pos": "top-right"
+    },
+    {
+      "id": "spread-10",
+      "plate": null,
+      "cast": [
+        {
+          "id": "june",
+          "pose": "reading",
+          "_choices": [
+            "master",
+            "recording",
+            "reading"
+          ]
+        },
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "The manager stays INSIDE his glowing machine and never sets foot on the porch. The camera is well back and the PORCH is the subject, in warm late-afternoon daylight. June sits in a wooden porch rocking chair at the centre-left of the frame, at full length and no taller than half the frame height, an open picture book held before her, reading aloud, her face soft and unhurried. Leaning at her knee, a small boy of about five SEEN FROM BEHIND ONLY: the back of his head and shoulders to us, his face never visible and never the subject. The open book is oriented for the two of them, tilted away from the camera, and there is no lettering and no readable text on its pages. Around them worn porch boards, a simple rail, a few green leaves, warm sun. At the FAR RIGHT EDGE of the frame, small, stands the glowing machine itself: a warm cream cabinet with one lit rectangular screen turned to face them, and INSIDE that lit screen, contained by it, the manager stands square and front-on at a hand-span tall, calm and attentive, mitten arms relaxed at his sides, watching quietly all the way through. He is inside the lit screen and bounded by its edges: never on the porch, never hovering in front of the glass, never a sticker or decal on the cabinet. His small plum glow is one warm dot at the frame's edge against the daylight. Composition: June and the boy centre-left, the machine small at the far right; the upper left stays calm warm sky and porch roof.",
+      "shot": "wide",
+      "_caption": "June changes one word, because the last five percent is always hers. Then Theo is on her lap on the porch, and the big doors in the book open easy, and the manager watches from the glowing machine the way managers do: quietly, and all the way through.",
+      "negatives": [
+        "the boy's face visible, or the boy as the subject of the frame",
+        "the manager outside the screen, standing on the porch, hovering in front of the glass, or drawn as a sticker on the cabinet",
+        "eyeglasses on June, on her face, pushed up on her head or on a cord",
+        "June's hair worn down or cut short; it is a low silver bun at the nape",
+        "readable text or lettering on the book",
+        "a tablet, a flat slab or a frameless panel; the cabinet has a real lit rectangular screen"
+      ],
+      "pos": "top-left",
+      "anonymous": "one small boy of about five, seen from behind only, his face never visible and never the subject"
+    },
+    {
+      "id": "spread-11",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "writing",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being in this frame and no second capped mascot figure. THE CAMERA HAS WALKED IN CLOSE to one figure and nothing else has changed: the manager fills the frame from the chest up and his head alone is at least a third of the frame height. He is bent over a small plain open log book lying on a honey-wood desk whose near edge runs across the lower part of the frame, head down to the page, one mitten stub resting on the open page as if writing the day down. The log book is small, plain and unadorned, and its pages are ORIENTED FOR HIM: the top edge away from him, so from the camera the page is foreshortened and tilted and its marks are unreadable. There is no lettering, no readable text and no numbers on the page. Behind him the factory has gone quiet and dim for the evening, warm and softly out of focus, one amber lamp lit somewhere off to the left. His plum glow is the strongest light in the picture and it falls across the open page. Composition: the manager centre-right, desk edge and log book across the lower left; the upper left stays calm dim warm wall.",
+      "shot": "close",
+      "_caption": "Before dark he writes the day down. What jammed. What surprised him. What the inspector caught. A manager who cannot say what happened cannot make tomorrow better, so the log is part of the job, every day, no exceptions.",
+      "negatives": [
+        "the log book squared up flat to the camera so its page reads",
+        "readable text, lettering or numbers on the page",
+        "any second capped mascot figure",
+        "a human being of any kind"
+      ],
+      "pos": "bottom-right"
+    },
+    {
+      "id": "spread-12",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being anywhere in this frame. EVERY SINGLE FIGURE in this picture is a factory manager of the same one design: a small blocky luminous plum-glowing mascot in a cream newsboy cap, identical to the last, repeated hundreds of times. No other kind of figure, no other colour of glow, no other hat. The camera is well back and a little high and THE HALL is the subject: one enormous warm hall at night, honey-wood floor, cream walls, a high vaulted ceiling of pale timber, warm amber lamps hung in long rows. Hundreds of managers stand and sit across the floor in easy clusters of three and four, at full length and small, turned toward one another, comparing notes: some with a mitten arm raised mid-explanation, some listening, a few standing up on low wooden platforms so their own cluster can see them. Small plain open log books lie about among them. Their hundreds of plum glows together light the hall from below like a field of lanterns while the amber lamps warm it from above. The mood is awe and ease: the clusters are spaced with clear warm floor between them and the hall is far bigger than the gathering, never a crowd crushed together, never a rally, no stage and nobody addressing the rest. Composition: the hall opens away from the camera toward a far wall; the NEAREST cluster in the lower centre is drawn a little larger than the rest so the one repeated design reads clearly, cap and plum body and mitten stubs all legible; the upper right stays calm lit ceiling and lamplight.",
+      "shot": "wide",
+      "_caption": "Then night comes, and the managers dream. Every manager from every machine of TastefulStories gathers in one warm hall, hundreds of plum glows and cream caps, and they compare notes. Who found a shorter way. Whose gate caught something new. It is a performance review, and nobody dreads it, because nobody is on trial. The factory is.",
+      "negatives": [
+        "any figure that is not a plum-glowing mascot in a cream newsboy cap",
+        "differing hats, colours or body designs among the managers",
+        "an admiral hat, a laurel sprig, a gold ribbon bookmark or eyeglasses on any figure",
+        "a crowd crushed shoulder to shoulder",
+        "a rally, a stage, a podium or one figure addressing the rest",
+        "a human being of any kind"
+      ],
+      "pos": "bottom-left",
+      "anonymous": "hundreds of the other factory managers of the fleet, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap"
+    },
+    {
+      "id": "spread-13",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being anywhere in this frame. EVERY figure in this picture is a factory manager of the same one design: a small blocky luminous plum-glowing mascot in a cream newsboy cap, identical to the last. THEY DIRECT AND THE MACHINES DO THE LIFTING; no manager hauls or heaves with its own body. The camera is well back inside the factory at night and THE WORK is the subject, lit warm against the dark. At the CENTRE, a new brass-and-wood rail section is being laid into the floor: a low cream machine holds the rail steady in its cradle while four or five managers stand around it at full length and small, mitten arms raised, directing it down into place. At the LEFT, two more managers stand before a half-fitted honey-wood gate across another rail, one with an arm raised toward it, judging the fit. Nearest the camera at the CENTRE-RIGHT the protagonist manager stands at full length and no taller than a third of the frame height, turned three-quarter, one mitten arm raised and extended toward the new rail, head up, weight forward. Night warmth only: the high space is dim but there is no cold blue anywhere, lit entirely by warm amber work-lamps hung low and by the managers' own plum glows pooling on the floor. Composition: new rail and its cluster centre, gate and its pair at the left, the protagonist centre-right nearest the camera; the upper left stays calm dim ceiling.",
+      "shot": "wide",
+      "_caption": "While the houses sleep, they mend the factory together. A move repeated often enough becomes a rail. A mistake repeated twice becomes a gate. A slow corner gets a shorter path. By morning the improvements are simply there, the way frost is.",
+      "negatives": [
+        "cold blue or moonlit night; the night here is warm amber and plum",
+        "any figure that is not a plum-glowing mascot in a cream newsboy cap",
+        "a manager lifting, hauling or carrying the rail with its own body",
+        "a human being of any kind"
+      ],
+      "pos": "bottom-left",
+      "anonymous": "hundreds of the other factory managers of the fleet, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap"
+    },
+    {
+      "id": "spread-14",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "master",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        }
+      ],
+      "scene": "There is no human being anywhere in this frame. THREE OR MORE figures fill the middle of the frame from the waist up and are the subject: a small gathering of factory managers, every one of them the same one design, a small blocky luminous plum-glowing mascot in a cream newsboy cap, and among them ONE tiny inspector who is plainly SMALLER and DIMMER and BARE-HEADED with no cap or hat of any kind, still holding his small brass lamp. The camera is nearer than an establishing view and every figure reads clearly. The managers are gathered in a warm half-circle around the tiny inspector, who stands on a low wooden crate at the centre so he is level with them; mitten arms are raised toward him in an easy salute. The mood is warm and glad, a send-off and not a funeral, nobody sad and nobody solemn. Behind and above them, present but never competing: a brand-new machine has arrived on the factory floor, a big clean cream-and-brass engine still half-wrapped in pale cloth, a wooden crate lid leaning against it and a pale canvas parachute settling in soft folds behind it; and at the LEFT, a run of old pale scaffolding is coming down, its poles already half-stacked in a neat pile on the floor. Warm honeyed daylight and plum glow. Composition: the half-circle and the inspector fill the middle, the new machine behind at the right, the stacked scaffolding at the left; the upper left stays calm warm wall.",
+      "shot": "group",
+      "_caption": "Some seasons a brand-new engine arrives, and the managers hold a deletion day. Half the scaffolding stood there to steady the old engine, and down it comes. The little inspector retires with honors the day the new paint machine stops making his mistake. Good guardrails are supposed to become unnecessary.",
+      "negatives": [
+        "a cap, hat or headwear of any kind on the tiny inspector",
+        "the inspector the same size or the same brightness as the managers",
+        "any figure that is not a plum-glowing mascot in a cream newsboy cap, apart from the bare-headed inspector",
+        "a sad, mournful or funeral mood",
+        "a human being of any kind"
+      ],
+      "pos": "bottom-right",
+      "anonymous": "a small gathering of other factory managers, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap, plus one TINY inspector worker: the same small blocky luminous mascot class as the manager but plainly SMALLER and DIMMER, BARE-HEADED with no cap or hat of any kind, holding a small brass lamp"
+    },
+    {
+      "id": "spread-15",
+      "plate": null,
+      "cast": [
+        {
+          "id": "tastefulstories-manager",
+          "pose": "working",
+          "_choices": [
+            "master",
+            "working",
+            "listening",
+            "writing"
+          ]
+        },
+        {
+          "id": "june",
+          "pose": "recording",
+          "_choices": [
+            "master",
+            "recording",
+            "reading"
+          ]
+        }
+      ],
+      "scene": "THE MANAGER STAYS INSIDE HIS GLOWING MACHINE and June never enters it; they are in two places in one frame and no figure crosses between them. The camera is well back inside the machine in bright warm MORNING light and the PLACE is the subject: the whole factory interior lit gold, rails clean, machines waiting, everything ready. At the CENTRE the FLOOR IS OPENING: two broad honey-wood floor panels swing down and apart on brass hinges at the head of the rails, opening a wide warm way down into the working factory below, amber light rising through the opening. The manager stands at the lip of it at full length and no taller than a third of the frame height, turned three-quarter, one mitten arm raised and extended toward the opening floor, head up, weight forward, his cream newsboy cap on his head, his plum glow bright inside the morning gold. At the LEFT of the frame, set into the cream wall, a tall warm OVAL OPENING like a window of daylight: inside it, painted as a real place, June on her wooden porch in early morning sun, from the waist up, speaking a new voice note into a plain modern smartphone held close to her mouth, her other hand over her heart. From that opening a SMALL FLOATING VOICE-NOTE SHAPE, a soft rounded glowing bubble carrying one simple little waveform, drifts in toward the manager. Morning gold everywhere, warm and awake and beginning. Composition: the oval opening and June at the left, the opening floor and the manager centre-right; the upper right stays calm sunlit wall.",
+      "shot": "wide",
+      "_caption": "In the morning there is a new voice note. June asks for something braver than yesterday, because yesterday came true. The manager tips his cap and opens the floor. His factory is ready. It is better every morning.",
+      "negatives": [
+        "the manager standing on the porch, outside his machine, or at June's scale",
+        "June inside the factory or at the manager's scale",
+        "eyeglasses on June, on her face, pushed up on her head or on a cord",
+        "June's hair worn down or cut short; it is a low silver bun at the nape",
+        "a hard-edged panel border, gutter or split-screen line between the two places",
+        "evening, dusk or night light; this is bright warm morning"
+      ],
+      "pos": "top-left"
+    }
+  ],
+  "layout": "full-spread",
+  "_resyncNote": "DO NOT re-run compose_spec.py against this file until the compose-spec merge bug is fixed: as of abu 1.5.0 / SPEC v0.39 its re-sync REVERTS spread-level 'shot' to the rhythm suggestion and DELETES 'anonymous' and 'pos' (spread-level CHOSEN fields other than 'plate' are never read off the prior spec). Same finding as the-goldilocks-pace; re-flagged for evolve-abu on 2026-08-09 (the-factory-manager render run)."
+}

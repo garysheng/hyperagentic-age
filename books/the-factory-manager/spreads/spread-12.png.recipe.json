@@ -1,0 +1,73 @@
+{
+  "asset": "spread-12.png",
+  "assetSha256_16": "876a5ac9f53a8e2a",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-12",
+  "descriptor": {
+    "id": "spread-12",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "master",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being anywhere in this frame. EVERY SINGLE FIGURE in this picture is a factory manager of the same one design: a small blocky luminous plum-glowing mascot in a cream newsboy cap, identical to the last, repeated hundreds of times. No other kind of figure, no other colour of glow, no other hat. The camera is well back and a little high and THE HALL is the subject: one enormous warm hall at night, honey-wood floor, cream walls, a high vaulted ceiling of pale timber, warm amber lamps hung in long rows. Hundreds of managers stand and sit across the floor in easy clusters of three and four, at full length and small, turned toward one another, comparing notes: some with a mitten arm raised mid-explanation, some listening, a few standing up on low wooden platforms so their own cluster can see them. Small plain open log books lie about among them. Their hundreds of plum glows together light the hall from below like a field of lanterns while the amber lamps warm it from above. The mood is awe and ease: the clusters are spaced with clear warm floor between them and the hall is far bigger than the gathering, never a crowd crushed together, never a rally, no stage and nobody addressing the rest. Composition: the hall opens away from the camera toward a far wall; the NEAREST cluster in the lower centre is drawn a little larger than the rest so the one repeated design reads clearly, cap and plum body and mitten stubs all legible; the upper right stays calm lit ceiling and lamplight.",
+    "shot": "wide",
+    "_caption": "Then night comes, and the managers dream. Every manager from every machine of TastefulStories gathers in one warm hall, hundreds of plum glows and cream caps, and they compare notes. Who found a shorter way. Whose gate caught something new. It is a performance review, and nobody dreads it, because nobody is on trial. The factory is.",
+    "negatives": [
+      "any figure that is not a plum-glowing mascot in a cream newsboy cap",
+      "differing hats, colours or body designs among the managers",
+      "an admiral hat, a laurel sprig, a gold ribbon bookmark or eyeglasses on any figure",
+      "a crowd crushed shoulder to shoulder",
+      "a rally, a stage, a podium or one figure addressing the rest",
+      "a human being of any kind"
+    ],
+    "pos": "top-right",
+    "anonymous": "hundreds of the other factory managers of the fleet, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being anywhere in this frame. EVERY SINGLE FIGURE in this picture is a factory manager of the same one design: a small blocky luminous plum-glowing mascot in a cream newsboy cap, identical to the last, repeated hundreds of times. No other kind of figure, no other colour of glow, no other hat. The camera is well back and a little high and THE HALL is the subject: one enormous warm hall at night, honey-wood floor, cream walls, a high vaulted ceiling of pale timber, warm amber lamps hung in long rows. Hundreds of managers stand and sit across the floor in easy clusters of three and four, at full length and small, turned toward one another, comparing notes: some with a mitten arm raised mid-explanation, some listening, a few standing up on low wooden platforms so their own cluster can see them. Small plain open log books lie about among them. Their hundreds of plum glows together light the hall from below like a field of lanterns while the amber lamps warm it from above. The mood is awe and ease: the clusters are spaced with clear warm floor between them and the hall is far bigger than the gathering, never a crowd crushed together, never a rally, no stage and nobody addressing the rest. Composition: the hall opens away from the camera toward a far wall; the NEAREST cluster in the lower centre is drawn a little larger than the rest so the one repeated design reads clearly, cap and plum body and mitten stubs all legible; the upper right stays calm lit ceiling and lamplight. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: hundreds of the other factory managers of the fleet, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, any figure that is not a plum-glowing mascot in a cream newsboy cap, differing hats, colours or body designs among the managers, an admiral hat, a laurel sprig, a gold ribbon bookmark or eyeglasses on any figure, a crowd crushed shoulder to shoulder, a rally, a stage, a podium or one figure addressing the rest, a human being of any kind. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. SPEAKER AND AUDIENCE GEOMETRY. Someone addressing a group FACES that group, and the group FACES THEM BACK. The two are on OPPOSITE sides of one another, never on the same side. So there are exactly TWO legal cameras and you must pick one of them. EITHER the camera is BEHIND OR AMONG THE AUDIENCE, in which case the audience fills the near foreground SEEN FROM BEHIND (backs of heads and shoulders) and the speaker stands beyond them FACING THE CAMERA. OR the camera is AT THE SPEAKER, in which case we see the speaker from behind or in three-quarter rear view and the audience beyond them is TURNED TOWARD THE CAMERA with their FACES VISIBLE. THE AUDIENCE IS NEVER ARRAYED BEHIND THE SPEAKER, never scattered around them, and never seated facing the same direction the speaker faces. A speaker with listeners behind their shoulders has their back turned on the people they are talking to, which is not what the scene means. A NAMED CHARACTER SITTING IN A CROWD IS STILL PART OF THAT CROWD. When someone the story cares about is among an audience, congregation, class or crowd, they FACE THE SAME WAY EVERYONE ELSE FACES and hold the same posture as the people around them. They are NOT turned out toward the camera while the rest of the room faces the speaker, NOT swivelled in their seat, NOT leaning into the aisle, NOT lit differently, NOT haloed, and NOT given more space around them than their neighbours. A figure facing a different direction from everyone around them reads as detached from the room, or as though they are looking at something nobody else can see. IF THE SCENE NEEDS THEIR FACE, MOVE THE CAMERA, NOT THE PERSON: shoot the crowd from in front or from the side so their face is naturally visible while they still face what everyone else faces. Make them findable by PLACEMENT and by what they wear, never by breaking the room's shared orientation.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

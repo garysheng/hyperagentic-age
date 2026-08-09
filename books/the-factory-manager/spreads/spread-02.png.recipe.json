@@ -1,0 +1,69 @@
+{
+  "asset": "spread-02.png",
+  "assetSha256_16": "f9156779b7f1bf71",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-02",
+  "descriptor": {
+    "id": "spread-02",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "master",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being in this picture and no second capped mascot figure. The picture has TWO parts. SMALL, at the LOWER LEFT edge of the frame and taking up no more than a quarter of it, the manager stands newly awake on his low wooden platform inside his glowing machine, square and front-on, calm and attentive, mitten arms relaxed at his sides, his plum light only just come up around him. FILLING THE REST OF THE FRAME, one large soft-edged painted cloud of warm cream light holds the craft that arrives with him, painted as its own little warm scene in the same ink-and-wash as the rest of the book: an open picture book lying flat with its pages caught mid-turn, a second book standing open on its covers beside it, and a small empty child's chair drawn up to them in warm lamplight. The cloud's edge is a soft feathered border of the same paint, never a drawn outline, never a comic balloon, no tail, no border line, no vignette ring. No lettering and no readable marks on any page. Warm plum light at the manager's corner, cream-gold light inside the cloud.",
+    "shot": "thought-bubble",
+    "_caption": "He wakes up already knowing his trade. The craft arrives with him the moment he does: how a story breathes, where a page should turn, what a five-year-old can carry. Nobody teaches him on the job. The job is in him when he opens his eyes.",
+    "negatives": [
+      "a drawn outline, ink border, comic balloon tail, panel frame or vignette ring around the cloud",
+      "any figure inside the cloud",
+      "readable text or lettering on the books"
+    ],
+    "pos": "top-right"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being in this picture and no second capped mascot figure. The picture has TWO parts. SMALL, at the LOWER LEFT edge of the frame and taking up no more than a quarter of it, the manager stands newly awake on his low wooden platform inside his glowing machine, square and front-on, calm and attentive, mitten arms relaxed at his sides, his plum light only just come up around him. FILLING THE REST OF THE FRAME, one large soft-edged painted cloud of warm cream light holds the craft that arrives with him, painted as its own little warm scene in the same ink-and-wash as the rest of the book: an open picture book lying flat with its pages caught mid-turn, a second book standing open on its covers beside it, and a small empty child's chair drawn up to them in warm lamplight. The cloud's edge is a soft feathered border of the same paint, never a drawn outline, never a comic balloon, no tail, no border line, no vignette ring. No lettering and no readable marks on any page. Warm plum light at the manager's corner, cream-gold light inside the cloud. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, THOUGHT BUBBLE. The picture has TWO parts. SMALL, at ONE EDGE of the frame and occupying no more than a quarter of it, the speaker is drawn in their real place, mid-sentence. FILLING THE REST OF THE FRAME, a single large BUBBLE holds the thing they are describing, painted as its own little scene. THE BUBBLE IS PAINTED, NOT DRAWN: its edge is a soft feathered cloud-like border of the same paint as the rest of the picture, with a few small round bubbles trailing from the speaker up to it. THE SPEAKER STAYS IN THEIR OWN SEAT on their own side of the room, and anyone sitting with them is still sitting with them. It is NEVER a hard black comic-book outline, NEVER a speech balloon with a pointed tail, NEVER a flat white shape, and it carries NO lettering of any kind. This is ONE continuous painted image containing a bubble, and it is NOT a grid, NOT split panels and NOT a comic strip. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate. THE ONLY CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a drawn outline, ink border, comic balloon tail, panel frame or vignette ring around the cloud, any figure inside the cloud, readable text or lettering on the books. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

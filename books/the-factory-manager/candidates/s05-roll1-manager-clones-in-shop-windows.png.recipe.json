@@ -1,0 +1,70 @@
+{
+  "asset": "spread-05.png",
+  "assetSha256_16": "51afb027b614b848",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-05",
+  "descriptor": {
+    "id": "spread-05",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "working",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being in this frame and no second capped mascot figure. The camera is well back inside the glowing machine; the MACHINES are the subject and the manager rides through them. A wide honey-wood CHUTE runs diagonally through the middle of the frame from upper left to lower right, its sides open like a flume, brass rails inside it. The manager rides down it standing on a small cream carriage, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised, head up, weight forward, his plum light streaking the chute walls behind him. The chute feeds two large machines that read clearly as two separate named machines. At the RIGHT, a big old well-polished machine of dark honeyed wood and worn brass, plainly built long ago and cared for ever since, its wide mouth open, one finished picture book resting inside it in warm lamplight. At the UPPER LEFT, a taller cream machine with a row of small round brass-rimmed windows down its side, and in every one of those windows the same painted face repeats identically, unmistakably the same face over and over. Warm honeyed light throughout, plum glow along the chute. Composition: tall cream machine upper left, chute and manager through the centre, old wooden machine lower right; the top right stays calm warm wall.",
+    "shot": "wide",
+    "_caption": "He cannot take a single step without that step's machine, and he would not want to. The reader was built once and polished for years. The character shop keeps every face the same, book after book. His job is never to remake what the factory already knows. His job is to choose the way through it.",
+    "negatives": [
+      "any second capped mascot figure",
+      "a human being of any kind",
+      "the repeated faces in the windows differing from one another",
+      "readable text or lettering on the book"
+    ],
+    "pos": "top-right"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being in this frame and no second capped mascot figure. The camera is well back inside the glowing machine; the MACHINES are the subject and the manager rides through them. A wide honey-wood CHUTE runs diagonally through the middle of the frame from upper left to lower right, its sides open like a flume, brass rails inside it. The manager rides down it standing on a small cream carriage, at full length and no taller than a third of the frame height, turned three-quarter with one mitten arm raised, head up, weight forward, his plum light streaking the chute walls behind him. The chute feeds two large machines that read clearly as two separate named machines. At the RIGHT, a big old well-polished machine of dark honeyed wood and worn brass, plainly built long ago and cared for ever since, its wide mouth open, one finished picture book resting inside it in warm lamplight. At the UPPER LEFT, a taller cream machine with a row of small round brass-rimmed windows down its side, and in every one of those windows the same painted face repeats identically, unmistakably the same face over and over. Warm honeyed light throughout, plum glow along the chute. Composition: tall cream machine upper left, chute and manager through the centre, old wooden machine lower right; the top right stays calm warm wall. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, WIDE: the camera is well back and the PLACE is the subject. Any figures sit inside the space at full length and no taller than half the frame, so the room, its geometry and its light all read at once. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. AT WORK DIRECTING AND OVERSEEING, turned three-quarter, ONE nub arm raised and extended toward the machines it commands, head up, weight forward. It directs; it never touches the task itself. THE ONLY CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, any second capped mascot figure, a human being of any kind, the repeated faces in the windows differing from one another, readable text or lettering on the book. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}

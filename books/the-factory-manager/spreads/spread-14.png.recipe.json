@@ -1,0 +1,72 @@
+{
+  "asset": "spread-14.png",
+  "assetSha256_16": "1609bd9d61975ef8",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "size": "1536x1024",
+  "generatedBy": "abu:compose-spread render_spread.py",
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "universeCommit": "228f326cf6db277b4bf95964408d70f7a0f13eb9",
+  "book": "/Users/garysheng/Documents/github-repos/hyperagentic-age/books/the-factory-manager",
+  "story": "the-factory-manager",
+  "spread": "spread-14",
+  "descriptor": {
+    "id": "spread-14",
+    "plate": null,
+    "cast": [
+      {
+        "id": "tastefulstories-manager",
+        "pose": "master",
+        "_choices": [
+          "master",
+          "working",
+          "listening",
+          "writing"
+        ]
+      }
+    ],
+    "scene": "There is no human being anywhere in this frame. THREE OR MORE figures fill the middle of the frame from the waist up and are the subject: a small gathering of factory managers, every one of them the same one design, a small blocky luminous plum-glowing mascot in a cream newsboy cap, and among them ONE tiny inspector who is plainly SMALLER and DIMMER and BARE-HEADED with no cap or hat of any kind, still holding his small brass lamp. The camera is nearer than an establishing view and every figure reads clearly. The managers are gathered in a warm half-circle around the tiny inspector, who stands on a low wooden crate at the centre so he is level with them; mitten arms are raised toward him in an easy salute. The mood is warm and glad, a send-off and not a funeral, nobody sad and nobody solemn. Behind and above them, present but never competing: a brand-new machine has arrived on the factory floor, a big clean cream-and-brass engine still half-wrapped in pale cloth, a wooden crate lid leaning against it and a pale canvas parachute settling in soft folds behind it; and at the LEFT, a run of old pale scaffolding is coming down, its poles already half-stacked in a neat pile on the floor. Warm honeyed daylight and plum glow. Composition: the half-circle and the inspector fill the middle, the new machine behind at the right, the stacked scaffolding at the left; the upper left stays calm warm wall.",
+    "shot": "group",
+    "_caption": "Some seasons a brand-new engine arrives, and the managers hold a deletion day. Half the scaffolding stood there to steady the old engine, and down it comes. The little inspector retires with honors the day the new paint machine stops making his mistake. Good guardrails are supposed to become unnecessary.",
+    "negatives": [
+      "a cap, hat or headwear of any kind on the tiny inspector",
+      "the inspector the same size or the same brightness as the managers",
+      "any figure that is not a plum-glowing mascot in a cream newsboy cap, apart from the bare-headed inspector",
+      "a sad, mournful or funeral mood",
+      "a human being of any kind"
+    ],
+    "pos": "top-left",
+    "anonymous": "a small gathering of other factory managers, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap, plus one TINY inspector worker: the same small blocky luminous mascot class as the manager but plainly SMALLER and DIMMER, BARE-HEADED with no cap or hat of any kind, holding a small brass lamp"
+  },
+  "prompt": "Picture-book spread painted in the warm editorial ink-and-wash register of the FIRST reference image. THE FIRST REFERENCE IMAGE IS A STYLE ANCHOR ONLY. Match it for MEDIUM, BRUSHWORK, PALETTE and LIGHT QUALITY ONLY, and take NO subject from it whatsoever: none of its objects, figures, costume, props, furniture, architecture, period or location may appear in the output unless the scene description below asks for them by name. SCENE: There is no human being anywhere in this frame. THREE OR MORE figures fill the middle of the frame from the waist up and are the subject: a small gathering of factory managers, every one of them the same one design, a small blocky luminous plum-glowing mascot in a cream newsboy cap, and among them ONE tiny inspector who is plainly SMALLER and DIMMER and BARE-HEADED with no cap or hat of any kind, still holding his small brass lamp. The camera is nearer than an establishing view and every figure reads clearly. The managers are gathered in a warm half-circle around the tiny inspector, who stands on a low wooden crate at the centre so he is level with them; mitten arms are raised toward him in an easy salute. The mood is warm and glad, a send-off and not a funeral, nobody sad and nobody solemn. Behind and above them, present but never competing: a brand-new machine has arrived on the factory floor, a big clean cream-and-brass engine still half-wrapped in pale cloth, a wooden crate lid leaning against it and a pale canvas parachute settling in soft folds behind it; and at the LEFT, a run of old pale scaffolding is coming down, its poles already half-stacked in a neat pile on the floor. Warm honeyed daylight and plum glow. Composition: the half-circle and the inspector fill the middle, the new machine behind at the right, the stacked scaffolding at the left; the upper left stays calm warm wall. THE CAMERA MOVES; NOTHING ELSE DOES. Every person keeps the exact seat, side and place the setting's blocking gives them, and if a BLOCKING PLATE is supplied it is the authority on who sits where: obey it at every distance. Whatever the subject is sitting at, leaning on or standing beside is STILL IN THIS PICTURE, in the near foreground if the camera is close. Everyone else present in this place is STILL PRESENT in the picture, behind or beside the subject, soft and out of focus if they are not the subject, and NOBODY leaves and NO seat empties because the camera came closer. FRAMING, GROUP: THREE OR MORE figures fill the middle of the frame from the waist up and are the subject of the picture, close enough that every face reads. The camera is nearer than an establishing view and the place is present behind them without competing. tastefulstories-manager rendered exactly per the supplied reference images: small blocky mascot same class as the chief of agents grantwell and storywell; WARM PLUM glowing clay body NEVER anthropic orange NEVER sage green NEVER deep indigo; STRONGLY translucent holographic projection you can see through it luminous not solid clay; casts light not shadow; small CREAM NEWSBOY CAP soft flat cap with a short stitched brim ALWAYS NEVER an admiral hat NEVER a gold ribbon bookmark NEVER a laurel sprig; warm rounded dot eyes with tiny catchlights; two stubby legs; short nub arms ending in rounded MITTEN stubs NEVER fingers hands tubes or bars; lives INSIDE the glowing machine leans out only to deliver never steps out; oversees and directs never does the rote task work itself; warm editorial register never comic. THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic. STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate. THE ONLY NAMED CHARACTERS IN THIS IMAGE ARE: tastefulstories-manager. In addition this scene contains ANONYMOUS FIGURES exactly as it describes: a small gathering of other factory managers, every one an identical small blocky plum-glowing luminous mascot in a cream newsboy cap, plus one TINY inspector worker: the same small blocky luminous mascot class as the manager but plainly SMALLER and DIMMER, BARE-HEADED with no cap or hat of any kind, holding a small brass lamp. They are ordinary unnamed people and they are not any named character. NOBODY ELSE APPEARS. Do not add any other person, figure, creature, robot, animal or bystander, whatever the style description above may suggest. NEGATIVES: neon, 3D/CGI/Pixar, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, a cap, hat or headwear of any kind on the tiny inspector, the inspector the same size or the same brightness as the managers, any figure that is not a plum-glowing mascot in a cream newsboy cap, apart from the bare-headed inspector, a sad, mournful or funeral mood, a human being of any kind. ONE SINGLE CONTINUOUS FULL-BLEED PAINTING that fills the entire canvas edge to edge. This is NEVER a grid, NEVER a multi-panel layout, NEVER a comic page, NEVER a contact sheet, NEVER a study or turnaround sheet, NEVER a collage, and NEVER several framed views side by side. Some reference images supplied to you are multi-panel study sheets; use them ONLY for the identity and design of what they depict, and NEVER copy their panelled layout into the output. The output has exactly ONE camera, ONE moment, and NO internal borders, frames, gutters, or dividing lines of any kind. HANDS. Every hand in this image has EXACTLY FOUR FINGERS AND ONE THUMB, five digits and no more and no fewer, and every person has exactly TWO hands and TWO arms. No sixth finger, no extra thumb, no duplicated or spare limb, and no hand emerging from a place no arm reaches. Two hands that come near each other stay SEPARATE and readable as two hands: they never merge into one mass, never share fingers and never fuse at the knuckles. Each hand is joined to a wrist of believable thickness, the wrist to a forearm, and the forearm to the shoulder of the person it belongs to. Hands are sized to their owner: never oversized, never doll-small. A hand resting ON something makes real contact with THAT thing, with the fingers following its actual surface and not floating above it or sinking into it.",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png",
+      "sha256_16": "988cef324da88dc6"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/tastefulstories-manager/master.png",
+      "sha256_16": "8ac3a75f0f644b42"
+    }
+  ],
+  "qa": [
+    "tastefulstories-manager: small blocky mascot, strongly translucent and luminous, casts light not shadow",
+    "tastefulstories-manager: WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+    "tastefulstories-manager: small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+    "tastefulstories-manager: dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+    "tastefulstories-manager: inside the machine; leans out only to deliver, never steps out",
+    "tastefulstories-manager: warm-editorial, never comic or neon",
+    "tastefulstories-manager: small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+    "tastefulstories-manager: WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+    "tastefulstories-manager: STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+    "tastefulstories-manager: casts-light-not-shadow",
+    "tastefulstories-manager: small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+    "tastefulstories-manager: warm-rounded-dot-eyes-with-tiny-catchlights",
+    "tastefulstories-manager: two-stubby-legs",
+    "tastefulstories-manager: short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+    "tastefulstories-manager: lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+    "tastefulstories-manager: oversees-and-directs-never-does-the-rote-task-work-itself",
+    "tastefulstories-manager: warm-editorial-register-never-comic"
+  ]
+}
