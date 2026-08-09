@@ -46,20 +46,38 @@
         "h": 1.16
       },
       "scrunch": {
-        "w": 1.05,
-        "h": 1.0,
-        "comment": "Pixel chevron. pattern is rows of a sub-grid inside the eye cell; 1 = filled block. The LEFT eye draws this as '>', the right eye draws it mirrored as '<'.",
+        "w": 1.25,
+        "h": 1.15,
+        "comment": "Pixel chevron on a 4x5 sub-grid. Each step is TWO cells wide so consecutive rows overlap by one cell and the stroke reads as a solid connected chevron instead of corner-touching dots. 1 = filled block. LEFT eye draws this as '>', right eye mirrors it to '<'.",
         "pattern": [
           [
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
             1,
             0
           ],
           [
             0,
+            0,
+            1,
             1
           ],
           [
+            0,
             1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
             0
           ]
         ]

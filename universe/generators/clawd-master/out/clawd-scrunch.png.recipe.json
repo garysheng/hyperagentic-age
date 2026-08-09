@@ -46,20 +46,38 @@
         "h": 1.16
       },
       "scrunch": {
-        "w": 1.05,
-        "h": 1.0,
-        "comment": "Pixel chevron. pattern is rows of a sub-grid inside the eye cell; 1 = filled block. The LEFT eye draws this as '>', the right eye draws it mirrored as '<'.",
+        "w": 1.25,
+        "h": 1.15,
+        "comment": "Pixel chevron on a 4x5 sub-grid. Each step is TWO cells wide so consecutive rows overlap by one cell and the stroke reads as a solid connected chevron instead of corner-touching dots. 1 = filled block. LEFT eye draws this as '>', right eye mirrors it to '<'.",
         "pattern": [
           [
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
             1,
             0
           ],
           [
             0,
+            0,
+            1,
             1
           ],
           [
+            0,
             1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
             0
           ]
         ]
@@ -78,5 +96,5 @@
     "reference/clawd/source/clawd-true-ref-c-scrunched.png"
   ],
   "note": "Deterministic SVG/PNG from a measured grid. Re-running reproduces byte-identical output.",
-  "sha256": "9f11dde332e8e7e60f46606162317831f4c2382f0ee7369aedaa84eb4f78f62b"
+  "sha256": "47d565be5b533fa7ee2236d1ead7045029859dbead9e9350b4d83801033eeb33"
 }
