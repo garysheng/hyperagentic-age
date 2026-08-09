@@ -1,0 +1,88 @@
+{
+  "id": "tastefulstories-manager",
+  "kind": "character",
+  "originStory": "the-factory-manager",
+  "authority": {
+    "lockedBy": "gary-sheng via jarvis, 2026-08-09",
+    "lockedOn": "2026-08-09",
+    "note": "Named in the-factory-manager casting sweep, 2026-08-09. Fourth member of the agent-mascot class (chief-of-agents, grantwell-agent, storywell-agent): a Chief-of-Agents-class agent that IS TastefulStories' embedded factory manager, one per user, segmented. COLOUR IS MEANING in this universe: its body glows WARM PLUM because TastefulStories had no agent body yet, deliberately distinct from the Chief's clay-coral orange, Grantwell's sage-green, and Storywell's deep-indigo. Its rank mark is a small CREAM NEWSBOY CAP (Jerry Wang's cap, worn by every manager in his fleet), never the Chief's admiral hat, never Grantwell's laurel, never Storywell's gold ribbon bookmark."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/tastefulstories-manager/master.png",
+      "working": "reference/tastefulstories-manager/working.png",
+      "listening": "reference/tastefulstories-manager/listening.png",
+      "writing": "reference/tastefulstories-manager/writing.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "requiredForRenderIntended": [
+      "master"
+    ],
+    "invariants": [
+      "small-blocky-mascot-same-class-as-the-chief-of-agents-grantwell-and-storywell",
+      "WARM-PLUM-glowing-clay-body-NEVER-anthropic-orange-NEVER-sage-green-NEVER-deep-indigo",
+      "STRONGLY-translucent-holographic-projection-you-can-see-through-it-luminous-not-solid-clay",
+      "casts-light-not-shadow",
+      "small-CREAM-NEWSBOY-CAP-soft-flat-cap-with-a-short-stitched-brim-ALWAYS-NEVER-an-admiral-hat-NEVER-a-gold-ribbon-bookmark-NEVER-a-laurel-sprig",
+      "warm-rounded-dot-eyes-with-tiny-catchlights",
+      "two-stubby-legs",
+      "short-nub-arms-ending-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+      "lives-INSIDE-the-glowing-machine-leans-out-only-to-deliver-never-steps-out",
+      "oversees-and-directs-never-does-the-rote-task-work-itself",
+      "warm-editorial-register-never-comic"
+    ],
+    "scale": {
+      "height": "a small blocky mascot, teapot-sized against the machines it lives in; it never exceeds the height of a laptop screen",
+      "relativeTo": {
+        "june": "far smaller than; a hand-span glowing figure inside the machine while she is a full-grown adult in the room"
+      }
+    },
+    "render": {
+      "always": "THE TASTEFULSTORIES MANAGER, a small blocky mascot of the same class as the Chief of Agents, drawn as a STRONGLY TRANSLUCENT HOLOGRAPHIC PROJECTION you can see through, luminous with soft scanlines, casting light rather than shadow. Its body glows WARM PLUM, the deep purple of ripe fruit at dusk. NEVER Anthropic clay-coral orange, which is the Chief of Agents; NEVER sage-green, which is Grantwell; NEVER deep-indigo, which is Storywell. It wears a SMALL CREAM NEWSBOY CAP, a soft flat cap with a short stitched brim, ALWAYS: NEVER an admiral hat, NEVER a gold ribbon bookmark, NEVER a laurel sprig. Warm rounded DOT EYES with tiny catchlights. TWO STUBBY LEGS and SHORT NUB ARMS ending in rounded MITTEN STUBS, never fingers, hands, tubes, or bars. It LIVES INSIDE the glowing machine and leans out through the screen plane only to deliver; it never steps out. It oversees and directs; it never does the rote task work itself. Warm-editorial register, never comic, never neon, never 3D or Pixar, never glossy plastic.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING SQUARE AND FRONT-ON, calm and attentive, mitten arms relaxed at its sides, cream newsboy cap sitting level on its head. The identity plate."
+        },
+        "working": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "AT WORK DIRECTING AND OVERSEEING, turned three-quarter, ONE nub arm raised and extended toward the machines it commands, head up, weight forward. It directs; it never touches the task itself."
+        },
+        "listening": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "LISTENING, whole body attentive, head tilted UP toward a SMALL FLOATING VOICE-NOTE SHAPE glowing just above and to one side of it: a soft rounded speech-bubble carrying a simple little waveform. Both mitten arms relaxed. The voice note is the only other element in frame."
+        },
+        "writing": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "BENT OVER A SMALL PLAIN OPEN LOG BOOK, head down to the page, one mitten stub resting on the open page as if writing the day down. The log book is small, plain, and unadorned; no legible text on its pages."
+        }
+      },
+      "qa": [
+        "small blocky mascot, strongly translucent and luminous, casts light not shadow",
+        "WARM PLUM body: never Anthropic orange (the Chief), never sage-green (Grantwell), never deep-indigo (Storywell)",
+        "small CREAM NEWSBOY CAP always: never an admiral hat, never a gold ribbon bookmark, never a laurel sprig",
+        "dot eyes with catchlights, two stubby legs, mitten stubs never fingers",
+        "inside the machine; leans out only to deliver, never steps out",
+        "warm-editorial, never comic or neon"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "The factory manager TastefulStories embeds for one person and nobody else. Calm, diligent, proud of the factory without being proud of himself. He listens twice, holds the order of a dozen machines in his head, makes the judgment call no rail covers, and writes the day down before dark.",
+    "role": "The TastefulStories Manager is a Chief-of-Agents-class agent, one per user of TastefulStories, segmented: this one is June's. He wakes already knowing his trade. He rides the rails for the routine moves, commands the machines and his little inspector for the hands-on work, and keeps intelligence only where it earns its seat: listening, orchestration, and the judgment call no rail covers. At night he dreams with the rest of the fleet, reviewing and mending the factory while the houses sleep. Rank and belonging are carried by the CAP and the COLOUR only, never by scale or extra anthropomorphism.",
+    "rules": "Identity of record is reference/tastefulstories-manager/master.png. Derive EVERY new pose from it: pass the master as the FIRST input image, plus ALL previously-locked goldens of this character, and generate ONE pose per render; NEVER a multi-pose sheet in a single generation (that drifts the body). COLOUR IS MEANING in this universe: a machine running the TastefulStories Manager glows WARM PLUM, which is how a reader knows whose craft is on it. Never mix two agent colours on one machine. The fleet scenes (dreaming hall) repeat this one locked design as identical plum-glowing figures in cream caps; they are the design repeated, never new entities. CROSSING LAW (inherited from chief-of-agents): it never LIVES in the real world; it stays FULLY INSIDE the glowing machine while working, listening, or commanding, and the one permitted crossing is DELIVERY, leaning out through the screen plane with legs staying inside. Do NOT over-anthropomorphize.",
+    "renderRules": "CAMERA + CONTAINMENT LAW: whenever this agent is shown at work on a computer, place the camera OVER THE SHOULDER, in a high three-quarter view, or from the SIDE, so the FACE of the screen is genuinely visible. Never shoot the laptop front-on from the back of its lid. This agent must read as being INSIDE the lit screen rectangle and contained by it; it must never hover above, float in front of, or sit on a closed lid, and never read as a sticker or decal on the lid. DEVICE LAW: any computer is an unmistakable clamshell LAPTOP with a hinged glowing screen and a visible physical keyboard, never a tablet, never an iPad, never a flat slab."
+  },
+  "fictional": true,
+  "status": "locked"
+}

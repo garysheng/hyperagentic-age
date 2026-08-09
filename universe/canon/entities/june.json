@@ -1,0 +1,77 @@
+{
+  "id": "june",
+  "kind": "character",
+  "originStory": "the-factory-manager",
+  "authority": {
+    "lockedBy": "gary-sheng via jarvis, 2026-08-09",
+    "lockedOn": "2026-08-09",
+    "note": "Named in the-factory-manager casting sweep, 2026-08-09. FICTIONAL: a grandmother recording voice notes for her grandson Theo; not a real person, no photo stack, no approval gate. Chrissy was considered and rejected because her realPerson approval is scoped to finders-tell-their-friends only."
+  },
+  "structured": {
+    "sheets": {
+      "master": "reference/june/master.png",
+      "recording": "reference/june/recording.png",
+      "reading": "reference/june/reading.png"
+    },
+    "requiredForRender": [
+      "master"
+    ],
+    "requiredForRenderIntended": [
+      "master"
+    ],
+    "invariants": [
+      "a-grandmother-in-her-late-sixties-warm-and-unhurried",
+      "silver-hair-gathered-in-a-LOW-BUN-at-the-nape-of-her-neck-NEVER-worn-down-NEVER-a-short-cut",
+      "NO-eyeglasses-EVER-not-on-her-face-not-pushed-up-on-her-head-not-on-a-cord-around-her-neck",
+      "butter-yellow-knitted-cardigan-worn-open-over-a-simple-cream-blouse-ALWAYS",
+      "soft-mid-length-skirt-in-a-muted-warm-grey",
+      "comfortable-flat-brown-walking-shoes-never-heels",
+      "warm-smile-lines-around-her-eyes-and-mouth",
+      "warm-editorial-ink-and-wash-never-photoreal"
+    ],
+    "scale": {
+      "height": "an average-height older woman, soft-shouldered, slightly stooped in the easy way of grandmothers",
+      "relativeTo": {
+        "tastefulstories-manager": "towers over; he is a hand-span glowing figure inside the machine while she is a full-grown adult in the room"
+      }
+    },
+    "render": {
+      "always": "JUNE, a fictional grandmother in her late sixties, warm and specific: SILVER HAIR gathered in a LOW BUN at the nape of her neck (never worn down, never a short cut), NO EYEGLASSES anywhere (not on her face, not on her head, not on a cord), a BUTTER-YELLOW knitted cardigan worn open over a simple cream blouse, a soft mid-length muted warm-grey skirt, comfortable flat brown walking shoes, and warm smile lines around her eyes and mouth. She is unhurried and entirely present. Warm editorial ink-and-wash, never photoreal, never a caricature of age: she is capable, not frail.",
+      "poses": {
+        "master": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "STANDING, full body, warm and easy, hands loosely folded in front of her, smiling the way a grandmother smiles at a voice she loves. The identity plate."
+        },
+        "recording": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SPEAKING A VOICE NOTE into a plain modern smartphone held CLOSE to her mouth in one hand, eyes soft and half-lowered, her other hand resting lightly over her heart. Mid-sentence, saying what is on her heart."
+        },
+        "reading": {
+          "sheets": [
+            "master"
+          ],
+          "bake": "SEATED IN A WOODEN PORCH ROCKING CHAIR, reading from an open picture book held before her. If a small boy appears he is a SMALL BOY SEEN FROM BEHIND ONLY, leaning at her knee, his face never visible and never the subject; the subject is June and the book."
+        }
+      },
+      "qa": [
+        "silver hair in a LOW BUN at the nape: never down, never short",
+        "NO eyeglasses anywhere: face, head, or cord",
+        "butter-yellow cardigan over cream blouse, grey skirt, flat brown shoes",
+        "warm smile lines; capable, not frail",
+        "any child in frame is a small boy seen from behind only, never the subject",
+        "warm editorial ink-and-wash, never photoreal"
+      ]
+    }
+  },
+  "prose": {
+    "voice": "Warm, plainspoken, brave in small increments. She says what is on her heart to her manager in the morning, changes one word in the afternoon because the last five percent is always hers, and asks for something braver the next day because yesterday came true.",
+    "role": "June is the assigned storyteller of the-factory-manager: the one person this manager belongs to. She touches the work at its two human ends, the voice note at the beginning and the last five percent at the end; the long middle belongs to the factory. Her grandson Theo stays off-page by design: named in captions, at most a small boy seen from behind, never the subject.",
+    "rules": "Identity of record is reference/june/master.png. Derive EVERY new pose from it: pass the master as the FIRST input image plus all previously-locked goldens, ONE pose per render, never a multi-pose sheet. WARDROBE IS FIXED, not a vibe: the butter-yellow cardigan over a cream blouse is her one outfit, pinned by the master plate on every render. DISTINCT FROM EVERY OTHER HUMAN IN CANON: not Ruth (Ruth is an older Latina with dark silver-streaked hair in a SHORT practical cut, reading glasses on a beaded cord, and a RUST cardigan; June's hair is fully silver in a LOW BUN, she wears NO glasses ever, and her cardigan is BUTTER-YELLOW); not Chrissy (younger, long blonde hair worn down); not Maya (a young founder in a sage blazer); not Mikaela (late twenties); not Mira, Ana, or Bea (children); not Naomi-in-the-book (headscarf and robe, exists only inside pages and screens). GLASSES ARE A CLAIMED MOTIF: wire-rimmed glasses belong to Marcus/storywell-agent, and reading-glasses-on-a-cord belong to Ruth, so June wears none, ever. Theo, if he appears, is anonymous: a small boy from behind only, face never shown, never the subject of the frame."
+  },
+  "fictional": true,
+  "status": "locked"
+}

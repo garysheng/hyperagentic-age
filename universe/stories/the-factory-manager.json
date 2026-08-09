@@ -12,7 +12,10 @@
     "anchoredToRealArt": null,
     "rejectedPoles": []
   },
-  "features": [],
+  "features": [
+    "tastefulstories-manager",
+    "june"
+  ],
   "castingSweep": {
     "sweptOn": "2026-08-09",
     "decisions": [
@@ -41,8 +44,7 @@
         "cast": null,
         "why": "Render-phase decision: either a tiny variant pose of the manager class or an anonymous small worker; NOT a new locked entity unless render drift forces it. It appears twice, small, beside the paint machine."
       }
-    ],
-    "note": "features intentionally empty until cast phase scaffolds tastefulstories-manager and june; restore [\"tastefulstories-manager\",\"june\"] when locked."
+    ]
   },
   "beats": [
     {
