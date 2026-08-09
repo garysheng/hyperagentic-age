@@ -1,0 +1,37 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\n\nSTRICT STYLE: one continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; flat solid ground with subtle paper grain; flat ivory-cream (#F5F1E9) shapes as the only fills; generous negative space. The ground is ONE flat terracotta (#CC785C) field. Line colour is near-black (#1A1A17) and nothing else.\n\nSubject: a standard being raised, and a field rising to meet it. TWO elements only. (1) A long flat ivory-cream horizontal BAR spanning most of the width, sitting HIGH in the upper third of the frame, drawn with the wobbly black ink outline. From each END of the bar a single wobbly ink line rises INWARD and UPWARD, the two lines CONVERGING toward a single empty point high above the CENTRE of the bar, like two taut lifting-cords meeting at a hoist. The two cords stop just short of that point and touch nothing. (2) Beneath the bar, a row of exactly FIVE flat ivory-cream vertical COLUMNS of clearly different heights, standing on one shared wobbly ink baseline along the bottom, all reaching upward toward the bar.\n\nPHYSICAL RELATIONSHIPS, exactly as described: the bar is HORIZONTAL and sits ABOVE every column, so a broad band of open terracotta separates the underside of the bar from the top of even the TALLEST column. Nothing touches the bar. The two lifting-cords rise from the bar's ends and END in empty terracotta; they hold nothing and no hand, creature or figure is attached to them. The columns all begin on the SAME baseline and differ ONLY in height, never in width, shape or fill.\n\nLEAVE A LARGE EMPTY TERRACOTTA GAP AT THE CONVERGENCE POINT, ABOVE THE BAR AND BETWEEN THE TWO CORDS, ROUGHLY ONE FIFTH OF THE FRAME WIDTH ACROSS. No object, no line, no mark of any kind belongs in that space.\n\nEverything is face-on and perfectly flat: no perspective, no isometric, no parallelograms, no side faces, no edge thickness, no shading, no gradients, no drop shadows.\n\nNegatives: no neo-comic action-zine, no neon, no 3D/CGI/Pixar, no glossy plastic, no HUD or arc-reactor comic vocabulary, no perspective, no isometric, no parallelograms, no visible edge thickness or side faces, no shading, no gradients, no painterly or realistic rendering, no coloured linework, no realistic anatomical hands, no hands at all, no creatures, no figures, no text or lettering.\n\nABSOLUTELY NO text, no letters, no numbers.\n\none continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; loopy long-fingered hands interacting with flat shapes; one-line abstract faces in profile, usually observing the work rather than doing it; flat solid ground with subtle paper grain; flat ivory-cream shapes as the only fills; generous negative space\n\nDo NOT render it in any of these styles: neo-comic action-zine, neon, 3D/CGI/Pixar, glossy plastic, HUD or arc-reactor comic vocabulary, perspective, isometric, parallelograms, visible edge thickness or side faces, shading, gradients, painterly or realistic rendering, coloured linework, realistic anatomical hands, any text or lettering.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-city-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/face-arcs-nodes.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-node-graph.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-writing-paper.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-globe.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-shapes-flow.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/cursor-face-profile.png"
+    }
+  ],
+  "timestamp": "2026-08-09T00:59:25.215955+00:00",
+  "sha256": "d62a1c25531a4579e9d9f4480c19381ec8b1c81b0d7ec54296386445b3a33c22",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate",
+  "size": "1536x1024",
+  "quality": "high"
+}

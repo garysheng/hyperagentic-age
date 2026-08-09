@@ -1,0 +1,37 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\n\nSTRICT STYLE: one continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; loopy long-fingered hands interacting with flat shapes; flat solid ground with subtle paper grain; flat ivory-cream (#F5F1E9) shapes as the only fills; generous negative space. The ground is ONE flat terracotta (#CC785C) field. Line colour is near-black (#1A1A17) and nothing else.\n\nSubject: raising the bar so everyone rises to it. THREE elements only. (1) A single loopy long-fingered hand enters from the upper left and grips one end of (2) a long flat ivory-cream horizontal BAR, lifting it upward. (3) Beneath the bar stands a row of exactly THREE flat ivory-cream vertical COLUMNS of clearly different heights, all growing upward toward the bar.\n\nPHYSICAL RELATIONSHIPS, state them exactly as described: the bar is HORIZONTAL and sits ABOVE every column, so there is clear open terracotta space between the underside of the bar and the top of even the TALLEST column; nothing touches the bar except the hand. All three columns stand on the SAME shared baseline along the bottom, so they begin at one common floor and differ only in how far up they reach. The hand is above and outside the columns, never among them. The columns are a set of the same kind: all are plain flat rectangles of the same width, varying ONLY in height, never in shape or fill.\n\nEverything is face-on and perfectly flat: no perspective, no isometric, no parallelograms, no side faces, no edge thickness, no shading, no gradients, no drop shadows.\n\nNegatives: no neo-comic action-zine, no neon, no 3D/CGI/Pixar, no glossy plastic, no HUD or arc-reactor comic vocabulary, no perspective, no isometric, no parallelograms, no visible edge thickness or side faces, no shading, no gradients, no painterly or realistic rendering, no coloured linework, no realistic anatomical hands, no text or lettering.\n\nABSOLUTELY NO text, no letters, no numbers.\n\none continuous single-weight wobbly confident BLACK ink brush line, hand-drawn and imperfect like a marker doodle that never lifts; loopy long-fingered hands interacting with flat shapes; one-line abstract faces in profile, usually observing the work rather than doing it; flat solid ground with subtle paper grain; flat ivory-cream shapes as the only fills; generous negative space\n\nDo NOT render it in any of these styles: neo-comic action-zine, neon, 3D/CGI/Pixar, glossy plastic, HUD or arc-reactor comic vocabulary, perspective, isometric, parallelograms, visible edge thickness or side faces, shading, gradients, painterly or realistic rendering, coloured linework, realistic anatomical hands, any text or lettering.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-city-blocks.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/face-arcs-nodes.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-node-graph.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-writing-paper.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hands-globe.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/hand-shapes-flow.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate/refs/cursor-face-profile.png"
+    }
+  ],
+  "timestamp": "2026-08-09T00:56:13.985548+00:00",
+  "sha256": "26d941ae552b0538efe09a5a01b4b3ffd52a0b913b0a599272706533340086c6",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/anthropic-plate",
+  "size": "1536x1024",
+  "quality": "high"
+}
