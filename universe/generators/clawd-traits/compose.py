@@ -38,13 +38,22 @@ def roll(seed):
 
 
 def pattern_shapes(spec, u):
-    """A trait's pixel pattern, placed by its anchor. Returns [(x,y,w,h,color)]."""
+    """A trait's pixel pattern, placed by its anchor.
+
+    Items draw on the FINER item grid (grid.itemPixel), so a hat can carry a
+    brim and a pom while the body keeps its chunky blocks. Anchors stay in body
+    units; only the cell size differs.
+    """
     pat, pal = spec["pattern"], spec["palette"]
+    widths = {len(r) for r in pat}
+    if len(widths) > 1:  # a ragged pattern shears the shape and is always a typo
+        raise ValueError(f"pattern rows must all be the same width, got {sorted(widths)}")
+    px = G["itemPixel"] * u
     rows, cols = len(pat), max(len(r) for r in pat)
     a = ANCH[spec["anchor"]]
-    x0 = (a["centerX"] - cols / 2) * u if "centerX" in a else a["leftX"] * u
-    y0 = (a["bottomY"] - rows - spec.get("offsetY", 0)) * u
-    return [(x0 + c * u, y0 + r * u, u, u, pal[ch])
+    x0 = a["centerX"] * u - cols * px / 2 if "centerX" in a else a["leftX"] * u
+    y0 = (a["bottomY"] - spec.get("offsetY", 0)) * u - rows * px
+    return [(x0 + c * px, y0 + r * px, px, px, pal[ch])
             for r, row in enumerate(pat) for c, ch in enumerate(row) if ch != "."]
 
 

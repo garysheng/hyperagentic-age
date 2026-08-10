@@ -35,7 +35,9 @@
         6
       ]
     },
-    "eyePixel": 0.25
+    "eyePixel": 0.25,
+    "itemPixel": 0.5,
+    "$itemPixelComment": "Items (headwear, held) draw on a HALF-unit grid: twice the resolution of the body blocks, so a hat can have a brim and a pom without the body losing its chunky pixel identity."
   },
   "anchors": {
     "$comment": "Where a trait pattern's bottom-left corner lands, in canvas units. head = centered on the torso top edge; hand = just past the right stub; canvas = whole frame.",
@@ -57,33 +59,33 @@
       "rarity": "common",
       "body": "#CD7C5F"
     },
-    "cream": {
+    "clay": {
       "rarity": "common",
-      "body": "#E8D5B7"
+      "body": "#C96F4A"
+    },
+    "tangerine": {
+      "rarity": "uncommon",
+      "body": "#E8833A"
+    },
+    "rust": {
+      "rarity": "uncommon",
+      "body": "#A85332"
+    },
+    "amber": {
+      "rarity": "uncommon",
+      "body": "#F0A868"
     },
     "ember": {
-      "rarity": "uncommon",
+      "rarity": "rare",
       "body": "#B0512E"
     },
-    "moss": {
-      "rarity": "uncommon",
-      "body": "#7A8B6F"
-    },
-    "slate": {
-      "rarity": "uncommon",
-      "body": "#6B7280"
-    },
-    "ink": {
+    "peach": {
       "rarity": "rare",
-      "body": "#2B2B2B"
+      "body": "#F2B79A"
     },
-    "bone": {
-      "rarity": "rare",
-      "body": "#F7F4ED"
-    },
-    "gold": {
+    "inferno": {
       "rarity": "legendary",
-      "body": "#D4A017"
+      "body": "#7E2F14"
     }
   },
   "headwear": {
@@ -94,30 +96,41 @@
       "rarity": "common",
       "anchor": "head",
       "palette": {
-        "a": "#E94F73",
+        "p": "#E94F73",
+        "a": "#4FA9E9",
         "b": "#F2B441",
-        "c": "#4FA9E9",
-        "d": "#8B5CF6"
+        "c": "#8B5CF6",
+        "d": "#E94F73",
+        "e": "#F7F4ED"
       },
       "pattern": [
-        "..d..",
-        "..d..",
-        ".ccc.",
-        ".bbb.",
-        "aaaaa"
+        "....pp....",
+        "....aa....",
+        "...aaaa...",
+        "...bbbb...",
+        "..bbbbbb..",
+        "..cccccc..",
+        ".cccccccc.",
+        ".dddddddd.",
+        "eeeeeeeeee"
       ]
     },
     "beanie": {
       "rarity": "common",
       "anchor": "head",
       "palette": {
-        "a": "#3F6C51",
-        "b": "#2C4B39"
+        "p": "#E8D5B7",
+        "c": "#3F6C51",
+        "d": "#2C4B39"
       },
       "pattern": [
-        ".aaa.",
-        "aaaaa",
-        "bbbbb"
+        "...pp...",
+        "..cccc..",
+        ".cccccc.",
+        "cccccccc",
+        "cccccccc",
+        "dddddddd",
+        "dddddddd"
       ]
     },
     "crown": {
@@ -125,25 +138,32 @@
       "anchor": "head",
       "palette": {
         "a": "#D4A017",
-        "b": "#B8860B"
+        "b": "#E94F73",
+        "c": "#B8860B"
       },
       "pattern": [
-        "a.a.a",
-        "aaaaa",
-        "bbbbb"
+        "a..aa..a",
+        "a..aa..a",
+        "aa.aa.aa",
+        "aaaaaaaa",
+        "abaabaaa",
+        "aaaaaaaa",
+        "cccccccc"
       ]
     },
     "halo": {
       "rarity": "legendary",
       "anchor": "head",
-      "offsetY": 1,
+      "offsetY": 2,
       "palette": {
-        "a": "#F5E6A8"
+        "a": "#F5E6A8",
+        "b": "#FFF7D6"
       },
       "pattern": [
-        ".aaa.",
-        "a...a",
-        ".aaa."
+        "..bbbb..",
+        ".a....a.",
+        ".a....a.",
+        "..bbbb.."
       ]
     },
     "headphones": {
@@ -154,9 +174,13 @@
         "b": "#4B5563"
       },
       "pattern": [
-        ".aaa.",
-        "a...a",
-        "b...b"
+        "..aaaa..",
+        ".a....a.",
+        "a......a",
+        "a......a",
+        "bb....bb",
+        "bb....bb",
+        "bb....bb"
       ]
     },
     "tophat": {
@@ -167,10 +191,13 @@
         "b": "#8B2E3C"
       },
       "pattern": [
-        ".aaa.",
-        ".aaa.",
-        ".bbb.",
-        "aaaaa"
+        "..aaaa..",
+        "..aaaa..",
+        "..aaaa..",
+        "..bbbb..",
+        "..aaaa..",
+        "aaaaaaaa",
+        "aaaaaaaa"
       ]
     },
     "propeller": {
@@ -179,12 +206,17 @@
       "palette": {
         "a": "#4FA9E9",
         "b": "#E94F73",
-        "c": "#F2B441"
+        "c": "#F2B441",
+        "d": "#8B5CF6"
       },
       "pattern": [
-        "a...a",
-        "..b..",
-        ".ccc."
+        "aa....aa",
+        ".a....a.",
+        "...bb...",
+        "...bb...",
+        "..cccc..",
+        ".dddddd.",
+        ".cccccc."
       ]
     }
   },
@@ -195,84 +227,100 @@
     "flag": {
       "rarity": "uncommon",
       "anchor": "hand",
-      "$comment": "The canonical checkered racing flag from the reference screenshot.",
       "palette": {
-        "a": "#141414",
-        "b": "#F7F4ED"
+        "b": "#141414",
+        "w": "#F7F4ED",
+        "p": "#5A5A5A"
       },
       "pattern": [
-        "baba.",
-        "abab.",
-        "baba.",
-        "a....",
-        "a....",
-        "a....",
-        "a...."
+        "pbwbwbw",
+        "pwbwbwb",
+        "pbwbwbw",
+        "pwbwbwb",
+        "p......",
+        "p......",
+        "p......",
+        "p......",
+        "p......",
+        "p......"
       ]
     },
     "coffee": {
       "rarity": "common",
       "anchor": "hand",
-      "offsetY": 0,
       "palette": {
-        "a": "#F7F4ED",
-        "b": "#6F4E37",
-        "c": "#C9C2B4"
+        "d": "#6F4E37",
+        "w": "#F7F4ED",
+        "h": "#C9C2B4"
       },
       "pattern": [
-        "bbb.",
-        "aaac",
-        "aaa.",
-        "aaa."
+        ".dddddd.",
+        "wwwwwwww",
+        "wwwwww.h",
+        "wwwwww.h",
+        ".wwwwwh.",
+        "..wwww.."
       ]
     },
     "balloon": {
       "rarity": "common",
       "anchor": "hand",
-      "offsetY": 2,
+      "offsetY": 1,
       "palette": {
         "a": "#E94F73",
-        "b": "#8A8A8A"
+        "h": "#F58BA4",
+        "s": "#8A8A8A"
       },
       "pattern": [
-        ".aa.",
-        "aaaa",
-        "aaaa",
-        ".aa.",
-        "..b.",
-        "..b.",
-        "..b.",
-        "..b."
+        "..aaaa..",
+        ".aahaaa.",
+        "aaahaaaa",
+        "aaaaaaaa",
+        "aaaaaaaa",
+        ".aaaaaa.",
+        "..aaaa..",
+        "...aa...",
+        "...s....",
+        "...s....",
+        "..s.....",
+        "..s....."
       ]
     },
     "wrench": {
       "rarity": "uncommon",
       "anchor": "hand",
       "palette": {
-        "a": "#9CA3AF"
+        "a": "#9CA3AF",
+        "b": "#6B7280"
       },
       "pattern": [
-        "a.a.",
-        "aaa.",
-        ".a..",
-        ".a..",
-        ".a.."
+        "aa..aa",
+        "aa..aa",
+        "aaaaaa",
+        ".aaaa.",
+        "..bb..",
+        "..bb..",
+        "..bb..",
+        "..bb.."
       ]
     },
     "sparkler": {
       "rarity": "rare",
       "anchor": "hand",
       "palette": {
-        "a": "#F2B441",
-        "b": "#8A8A8A"
+        "y": "#F2B441",
+        "Y": "#FFF3C4",
+        "s": "#8A8A8A"
       },
       "pattern": [
-        "a.a.",
-        ".a..",
-        "a.a.",
-        "..b.",
-        "..b.",
-        "..b."
+        "y..y..y",
+        "..y.y..",
+        "y.YYY.y",
+        "..y.y..",
+        "...s...",
+        "...s...",
+        "...s...",
+        "...s..."
       ]
     }
   },
@@ -337,20 +385,13 @@
     }
   },
   "contrast": {
-    "$comment": "Bodies and backgrounds that must never pair; the composer swaps the background to the fallback.",
+    "$comment": "All bodies are orange, so only the lightest ones risk vanishing into the light grounds.",
     "avoid": {
-      "bone": [
-        "paper",
-        "none"
-      ],
-      "cream": [
+      "peach": [
         "paper"
       ],
-      "ink": [
-        "ink"
-      ],
-      "slate": [
-        "ink"
+      "amber": [
+        "paper"
       ]
     },
     "fallback": "chroma"
