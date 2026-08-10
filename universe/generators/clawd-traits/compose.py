@@ -132,11 +132,56 @@ def to_png(traits, seed=0, scale=2):
     return im
 
 
+CANON_NOTE = ("Canonical Clawd trait library. Installed into consumers by the "
+              "clawd-traits generator; never hand-edit a copy.")
+
+
+def build_canon():
+    """Bundle traits.json with clawd-master's eye styles into the single file
+    consumers install.
+
+    generator.json has always DECLARED out/clawd-canon.json as an output, but
+    until now nothing produced it: the file on disk was assembled by hand in a
+    session, which meant the one artifact every consumer installs could not be
+    reproduced from its inputs. Anything that cannot be regenerated cannot be
+    reviewed, and cannot be changed by anyone who was not in that session.
+
+    The eye styles and the eye rule live in ../clawd-master/generator.json
+    because eyes belong to the character, not to the trait library. Merging
+    them here is what lets a consumer hold one file instead of two.
+    """
+    master = json.loads((HERE / ".." / "clawd-master" / "generator.json").read_text())
+    params = master["params"]
+    canon = dict(T)
+    canon["eyeStyles"] = params["eyeStyles"]
+    canon["$eyeRule"] = params["$eyeRule"]
+    canon["$generated"] = CANON_NOTE
+    out = HERE / "out" / "clawd-canon.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    text = json.dumps(canon, indent=2) + "\n"
+    changed = (not out.exists()) or out.read_text() != text
+    out.write_text(text)
+    layers = {k: len(v) for k, v in canon.items()
+              if isinstance(v, dict) and k in ("bodyColors", "eyeStyles", "headwear", "held", "backgrounds", "effects")}
+    total = 1
+    for n in layers.values():
+        total *= n
+    print(f"{'wrote' if changed else 'unchanged'} out/clawd-canon.json  "
+          + "  ".join(f"{k}={v}" for k, v in layers.items())
+          + f"  -> {total:,} outcomes")
+    return changed
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--traits"); ap.add_argument("--seed", type=int); ap.add_argument("--sheet", type=int)
+    ap.add_argument("--build-canon", action="store_true",
+                    help="rebuild out/clawd-canon.json from traits.json + clawd-master")
     ap.add_argument("--out", default="out/clawd.png")
     a = ap.parse_args()
+    if a.build_canon:
+        build_canon()
+        return
     if a.sheet:
         from PIL import Image
         n, cols = a.sheet, 6
