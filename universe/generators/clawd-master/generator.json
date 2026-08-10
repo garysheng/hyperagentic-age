@@ -271,46 +271,6 @@
           ]
         ]
       },
-      "dizzy": {
-        "comment": "X eyes.",
-        "pattern": [
-          [
-            1,
-            0,
-            0,
-            0,
-            1
-          ],
-          [
-            0,
-            1,
-            0,
-            1,
-            0
-          ],
-          [
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            0,
-            1,
-            0
-          ],
-          [
-            1,
-            0,
-            0,
-            0,
-            1
-          ]
-        ]
-      },
       "wink": {
         "comment": "Asymmetric: left eye open with a pupil, right eye a closed ^ arc.",
         "pattern": [
@@ -472,14 +432,6 @@
     {
       "path": "out/clawd-determined.png",
       "description": "Raster proof, determined eyes"
-    },
-    {
-      "path": "out/clawd-dizzy.svg",
-      "description": "Master, dizzy eyes"
-    },
-    {
-      "path": "out/clawd-dizzy.png",
-      "description": "Raster proof, dizzy eyes"
     },
     {
       "path": "out/clawd-wink.svg",

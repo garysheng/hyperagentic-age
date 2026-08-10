@@ -169,23 +169,22 @@
     "headphones": {
       "rarity": "uncommon",
       "anchor": "head",
-      "offsetY": -2.5,
+      "offsetY": -2.0,
       "$comment": "Wraps the head: band arches above, cups clamp both sides at eye level.",
       "palette": {
         "a": "#2B2B2B",
-        "b": "#4B5563",
-        "c": "#8B2E3C"
+        "b": "#4B5563"
       },
       "pattern": [
-        "......aaaaaa......",
-        "....aa......aa....",
-        "...aa........aa...",
-        "..aa..........aa..",
-        ".aa............aa.",
-        "bbb............bbb",
-        "bcb............bcb",
-        "bcb............bcb",
-        "bbb............bbb"
+        ".......aaaaaaaa.......",
+        ".....aa........aa.....",
+        "....aa..........aa....",
+        "...aa............aa...",
+        "..aa..............aa..",
+        "bbbb..............bbbb",
+        "bbbb..............bbbb",
+        "bbbb..............bbbb",
+        "bbbb..............bbbb"
       ]
     },
     "tophat": {

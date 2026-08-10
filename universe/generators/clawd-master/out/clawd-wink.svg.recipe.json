@@ -268,46 +268,6 @@
           ]
         ]
       },
-      "dizzy": {
-        "comment": "X eyes.",
-        "pattern": [
-          [
-            1,
-            0,
-            0,
-            0,
-            1
-          ],
-          [
-            0,
-            1,
-            0,
-            1,
-            0
-          ],
-          [
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            0,
-            1,
-            0
-          ],
-          [
-            1,
-            0,
-            0,
-            0,
-            1
-          ]
-        ]
-      },
       "wink": {
         "comment": "Asymmetric: left eye open with a pupil, right eye a closed ^ arc.",
         "pattern": [
