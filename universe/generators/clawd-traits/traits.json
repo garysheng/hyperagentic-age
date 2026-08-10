@@ -164,6 +164,9 @@
         ".a....a.",
         ".a....a.",
         "..bbbb.."
+      ],
+      "avoidBackgrounds": [
+        "paper"
       ]
     },
     "headphones": {
@@ -202,6 +205,9 @@
         "..aaaa..",
         "aaaaaaaa",
         "aaaaaaaa"
+      ],
+      "avoidBackgrounds": [
+        "ink"
       ]
     },
     "propeller": {
@@ -398,6 +404,7 @@
         "paper"
       ]
     },
-    "fallback": "chroma"
+    "fallback": "chroma",
+    "$avoidBackgroundsNote": "A trait may name backgrounds it disappears into. Kept as data rather than computed: a colour-distance rule on the same traits produced two false positives out of four (party-hat on paper and headphones on dusk both read fine), so this list is only ever extended by looking at a render. Paved traits declare their own via the paver."
   }
 }
