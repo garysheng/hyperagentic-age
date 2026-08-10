@@ -115,90 +115,6 @@
           ]
         ]
       },
-      "scrunch": {
-        "comment": "Delighted >< chevron (reference C). Two-cell steps so rows overlap into a solid stroke.",
-        "pattern": [
-          [
-            1,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            1,
-            0
-          ],
-          [
-            0,
-            0,
-            1,
-            1
-          ],
-          [
-            0,
-            1,
-            1,
-            0
-          ],
-          [
-            1,
-            1,
-            0,
-            0
-          ]
-        ]
-      },
-      "happy": {
-        "comment": "Contented closed ^ arc.",
-        "pattern": [
-          [
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            1,
-            1,
-            0
-          ],
-          [
-            1,
-            1,
-            0,
-            1,
-            1
-          ]
-        ]
-      },
-      "sleepy": {
-        "comment": "Half-lidded: a flat bar sitting high, empty below.",
-        "pattern": [
-          [
-            1,
-            1,
-            1,
-            1
-          ],
-          [
-            0,
-            0,
-            0,
-            0
-          ],
-          [
-            0,
-            0,
-            0,
-            0
-          ]
-        ]
-      },
       "surprised": {
         "comment": "Wide awake: an oversized square eye with a pupil.",
         "pattern": [
@@ -239,87 +155,6 @@
           ]
         ]
       },
-      "determined": {
-        "comment": "Brow slanting down toward the middle of the face. Left is a backslash, right mirrors.",
-        "pattern": [
-          [
-            1,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            1,
-            0
-          ],
-          [
-            0,
-            0,
-            1,
-            1
-          ],
-          [
-            0,
-            0,
-            0,
-            0
-          ]
-        ]
-      },
-      "wink": {
-        "comment": "Asymmetric: left eye open with a pupil, right eye a closed ^ arc.",
-        "pattern": [
-          [
-            1,
-            1,
-            1,
-            1
-          ],
-          [
-            1,
-            2,
-            1,
-            1
-          ],
-          [
-            1,
-            1,
-            1,
-            1
-          ],
-          [
-            1,
-            1,
-            1,
-            1
-          ]
-        ],
-        "patternRight": [
-          [
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          [
-            0,
-            1,
-            1,
-            1,
-            0
-          ],
-          [
-            1,
-            1,
-            0,
-            1,
-            1
-          ]
-        ]
-      },
       "glance": {
         "comment": "Both eyes looking the SAME way (mirror off), so he glances sideways instead of cross-eyed.",
         "mirror": false,
@@ -349,6 +184,89 @@
             0
           ]
         ]
+      },
+      "dot": {
+        "comment": "Tiny square eyes. Minimal and cute.",
+        "pattern": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "star": {
+        "comment": "Excited: square eye with a plus-shaped white sparkle for a pupil.",
+        "pattern": [
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            2,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            2,
+            2,
+            1
+          ],
+          [
+            1,
+            1,
+            2,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        ]
+      },
+      "wide": {
+        "comment": "Tall attentive eye with a pupil high in it.",
+        "pattern": [
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            2,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1
+          ]
+        ]
       }
     },
     "colors": {
@@ -358,14 +276,15 @@
     },
     "pad": 0,
     "default": "pupil",
-    "eyePixel": 0.25
+    "eyePixel": 0.25,
+    "$eyeRule": "Clawd's eyes are always upright geometric shapes: squares, bars, dots, sparkles. NEVER angled chevrons (><), curved arcs (^^), slanted brows, flat dashes, or X shapes. The angled and arced forms read as an Asian caricature and the others read as dead, angry, or blank. This rule is not up for rediscovery: do not re-add them."
   },
-  "style": "sleepy",
+  "style": "star",
   "inputs": [
     "reference/clawd/source/clawd-true-ref-a-bar-eyes.png",
     "reference/clawd/source/clawd-true-ref-b-square-eyes.png",
     "reference/clawd/source/clawd-true-ref-c-scrunched.png"
   ],
   "note": "Deterministic SVG/PNG from a measured grid. Re-running reproduces byte-identical output.",
-  "sha256": "68d43c72dcdd08e4dd3b2550e3ed32078d18a66bb0a8ad772c45db3c3ceec01a"
+  "sha256": "3b2ba4ee77fb2c3da096428059a4521faba8cf3d8f03aa7c161b8adec774987b"
 }
