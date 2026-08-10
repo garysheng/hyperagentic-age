@@ -1,0 +1,358 @@
+{
+  "$comment": "Clawd trait library. Every trait is a pixel pattern on the same unit grid as the body. Rows are strings; each character is a key into that trait's palette, '.' is empty. Anchors position the pattern against the body grid, so a hat always sits on his head no matter what else is on.",
+  "grid": {
+    "unit": 32,
+    "canvas": [
+      18,
+      14
+    ],
+    "torso": {
+      "x": 5,
+      "y": 4,
+      "w": 8,
+      "h": 6
+    },
+    "stub": {
+      "y": 6,
+      "h": 2,
+      "w": 2
+    },
+    "legs": {
+      "y": 10,
+      "h": 2,
+      "w": 1,
+      "torsoCols": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    "eyes": {
+      "row": 5,
+      "torsoCols": [
+        1,
+        6
+      ]
+    },
+    "eyePixel": 0.25
+  },
+  "anchors": {
+    "$comment": "Where a trait pattern's bottom-left corner lands, in canvas units. head = centered on the torso top edge; hand = just past the right stub; canvas = whole frame.",
+    "head": {
+      "centerX": 9,
+      "bottomY": 4
+    },
+    "hand": {
+      "leftX": 14,
+      "bottomY": 8
+    },
+    "canvas": {
+      "leftX": 0,
+      "bottomY": 14
+    }
+  },
+  "bodyColors": {
+    "coral": {
+      "rarity": "common",
+      "body": "#CD7C5F"
+    },
+    "cream": {
+      "rarity": "common",
+      "body": "#E8D5B7"
+    },
+    "ember": {
+      "rarity": "uncommon",
+      "body": "#B0512E"
+    },
+    "moss": {
+      "rarity": "uncommon",
+      "body": "#7A8B6F"
+    },
+    "slate": {
+      "rarity": "uncommon",
+      "body": "#6B7280"
+    },
+    "ink": {
+      "rarity": "rare",
+      "body": "#2B2B2B"
+    },
+    "bone": {
+      "rarity": "rare",
+      "body": "#F7F4ED"
+    },
+    "gold": {
+      "rarity": "legendary",
+      "body": "#D4A017"
+    }
+  },
+  "headwear": {
+    "none": {
+      "rarity": "common"
+    },
+    "party-hat": {
+      "rarity": "common",
+      "anchor": "head",
+      "palette": {
+        "a": "#E94F73",
+        "b": "#F2B441",
+        "c": "#4FA9E9",
+        "d": "#8B5CF6"
+      },
+      "pattern": [
+        "..d..",
+        "..d..",
+        ".ccc.",
+        ".bbb.",
+        "aaaaa"
+      ]
+    },
+    "beanie": {
+      "rarity": "common",
+      "anchor": "head",
+      "palette": {
+        "a": "#3F6C51",
+        "b": "#2C4B39"
+      },
+      "pattern": [
+        ".aaa.",
+        "aaaaa",
+        "bbbbb"
+      ]
+    },
+    "crown": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#D4A017",
+        "b": "#B8860B"
+      },
+      "pattern": [
+        "a.a.a",
+        "aaaaa",
+        "bbbbb"
+      ]
+    },
+    "halo": {
+      "rarity": "legendary",
+      "anchor": "head",
+      "offsetY": 1,
+      "palette": {
+        "a": "#F5E6A8"
+      },
+      "pattern": [
+        ".aaa.",
+        "a...a",
+        ".aaa."
+      ]
+    },
+    "headphones": {
+      "rarity": "uncommon",
+      "anchor": "head",
+      "palette": {
+        "a": "#2B2B2B",
+        "b": "#4B5563"
+      },
+      "pattern": [
+        ".aaa.",
+        "a...a",
+        "b...b"
+      ]
+    },
+    "tophat": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#2B2B2B",
+        "b": "#8B2E3C"
+      },
+      "pattern": [
+        ".aaa.",
+        ".aaa.",
+        ".bbb.",
+        "aaaaa"
+      ]
+    },
+    "propeller": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#4FA9E9",
+        "b": "#E94F73",
+        "c": "#F2B441"
+      },
+      "pattern": [
+        "a...a",
+        "..b..",
+        ".ccc."
+      ]
+    }
+  },
+  "held": {
+    "none": {
+      "rarity": "common"
+    },
+    "flag": {
+      "rarity": "uncommon",
+      "anchor": "hand",
+      "$comment": "The canonical checkered racing flag from the reference screenshot.",
+      "palette": {
+        "a": "#141414",
+        "b": "#F7F4ED"
+      },
+      "pattern": [
+        "baba.",
+        "abab.",
+        "baba.",
+        "a....",
+        "a....",
+        "a....",
+        "a...."
+      ]
+    },
+    "coffee": {
+      "rarity": "common",
+      "anchor": "hand",
+      "offsetY": 0,
+      "palette": {
+        "a": "#F7F4ED",
+        "b": "#6F4E37",
+        "c": "#C9C2B4"
+      },
+      "pattern": [
+        "bbb.",
+        "aaac",
+        "aaa.",
+        "aaa."
+      ]
+    },
+    "balloon": {
+      "rarity": "common",
+      "anchor": "hand",
+      "offsetY": 2,
+      "palette": {
+        "a": "#E94F73",
+        "b": "#8A8A8A"
+      },
+      "pattern": [
+        ".aa.",
+        "aaaa",
+        "aaaa",
+        ".aa.",
+        "..b.",
+        "..b.",
+        "..b.",
+        "..b."
+      ]
+    },
+    "wrench": {
+      "rarity": "uncommon",
+      "anchor": "hand",
+      "palette": {
+        "a": "#9CA3AF"
+      },
+      "pattern": [
+        "a.a.",
+        "aaa.",
+        ".a..",
+        ".a..",
+        ".a.."
+      ]
+    },
+    "sparkler": {
+      "rarity": "rare",
+      "anchor": "hand",
+      "palette": {
+        "a": "#F2B441",
+        "b": "#8A8A8A"
+      },
+      "pattern": [
+        "a.a.",
+        ".a..",
+        "a.a.",
+        "..b.",
+        "..b.",
+        "..b."
+      ]
+    }
+  },
+  "backgrounds": {
+    "chroma": {
+      "rarity": "common",
+      "fill": "#00B140"
+    },
+    "paper": {
+      "rarity": "common",
+      "fill": "#F7F4ED"
+    },
+    "ink": {
+      "rarity": "uncommon",
+      "fill": "#191919"
+    },
+    "sky": {
+      "rarity": "common",
+      "fill": "#BFD9E8"
+    },
+    "dusk": {
+      "rarity": "uncommon",
+      "fill": "#4C3A63"
+    },
+    "none": {
+      "rarity": "rare",
+      "fill": null
+    }
+  },
+  "effects": {
+    "none": {
+      "rarity": "common"
+    },
+    "confetti": {
+      "rarity": "uncommon",
+      "kind": "scatter",
+      "count": 22,
+      "colors": [
+        "#E94F73",
+        "#F2B441",
+        "#4FA9E9",
+        "#8B5CF6",
+        "#3F6C51"
+      ]
+    },
+    "sparkles": {
+      "rarity": "rare",
+      "kind": "scatter",
+      "count": 12,
+      "colors": [
+        "#F5E6A8",
+        "#FFFFFF"
+      ]
+    },
+    "rain": {
+      "rarity": "rare",
+      "kind": "rain",
+      "count": 26,
+      "colors": [
+        "#7FA8C9"
+      ]
+    }
+  },
+  "contrast": {
+    "$comment": "Bodies and backgrounds that must never pair; the composer swaps the background to the fallback.",
+    "avoid": {
+      "bone": [
+        "paper",
+        "none"
+      ],
+      "cream": [
+        "paper"
+      ],
+      "ink": [
+        "ink"
+      ],
+      "slate": [
+        "ink"
+      ]
+    },
+    "fallback": "chroma"
+  }
+}
