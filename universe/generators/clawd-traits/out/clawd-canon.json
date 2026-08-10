@@ -1,0 +1,638 @@
+{
+  "$comment": "Clawd trait library. Every trait is a pixel pattern on the same unit grid as the body. Rows are strings; each character is a key into that trait's palette, '.' is empty. Anchors position the pattern against the body grid, so a hat always sits on his head no matter what else is on.",
+  "grid": {
+    "unit": 32,
+    "canvas": [
+      18,
+      14
+    ],
+    "torso": {
+      "x": 5,
+      "y": 4,
+      "w": 8,
+      "h": 6
+    },
+    "stub": {
+      "y": 6,
+      "h": 2,
+      "w": 2
+    },
+    "legs": {
+      "y": 10,
+      "h": 2,
+      "w": 1,
+      "torsoCols": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    "eyes": {
+      "row": 5,
+      "torsoCols": [
+        1,
+        6
+      ]
+    },
+    "eyePixel": 0.25,
+    "itemPixel": 0.5,
+    "$itemPixelComment": "Items (headwear, held) draw on a HALF-unit grid: twice the resolution of the body blocks, so a hat can have a brim and a pom without the body losing its chunky pixel identity."
+  },
+  "anchors": {
+    "$comment": "Where a trait pattern's bottom-left corner lands, in canvas units. head = centered on the torso top edge; hand = just past the right stub; canvas = whole frame.",
+    "head": {
+      "centerX": 9,
+      "bottomY": 4
+    },
+    "hand": {
+      "leftX": 14,
+      "bottomY": 8
+    },
+    "canvas": {
+      "leftX": 0,
+      "bottomY": 14
+    }
+  },
+  "bodyColors": {
+    "coral": {
+      "rarity": "common",
+      "body": "#CD7C5F"
+    },
+    "clay": {
+      "rarity": "common",
+      "body": "#C96F4A"
+    },
+    "tangerine": {
+      "rarity": "uncommon",
+      "body": "#E8833A"
+    },
+    "rust": {
+      "rarity": "uncommon",
+      "body": "#A85332"
+    },
+    "amber": {
+      "rarity": "uncommon",
+      "body": "#F0A868"
+    },
+    "ember": {
+      "rarity": "rare",
+      "body": "#B0512E"
+    },
+    "peach": {
+      "rarity": "rare",
+      "body": "#F2B79A"
+    },
+    "inferno": {
+      "rarity": "legendary",
+      "body": "#7E2F14"
+    }
+  },
+  "headwear": {
+    "none": {
+      "rarity": "common"
+    },
+    "party-hat": {
+      "rarity": "common",
+      "anchor": "head",
+      "palette": {
+        "p": "#E94F73",
+        "a": "#4FA9E9",
+        "b": "#F2B441",
+        "c": "#8B5CF6",
+        "d": "#E94F73",
+        "e": "#F7F4ED"
+      },
+      "pattern": [
+        "....pp....",
+        "....aa....",
+        "...aaaa...",
+        "...bbbb...",
+        "..bbbbbb..",
+        "..cccccc..",
+        ".cccccccc.",
+        ".dddddddd.",
+        "eeeeeeeeee"
+      ]
+    },
+    "beanie": {
+      "rarity": "common",
+      "anchor": "head",
+      "palette": {
+        "p": "#E8D5B7",
+        "c": "#3F6C51",
+        "d": "#2C4B39"
+      },
+      "pattern": [
+        "...pp...",
+        "..cccc..",
+        ".cccccc.",
+        "cccccccc",
+        "cccccccc",
+        "dddddddd",
+        "dddddddd"
+      ]
+    },
+    "crown": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#D4A017",
+        "b": "#E94F73",
+        "c": "#B8860B"
+      },
+      "pattern": [
+        "a..aa..a",
+        "a..aa..a",
+        "aa.aa.aa",
+        "aaaaaaaa",
+        "abaabaaa",
+        "aaaaaaaa",
+        "cccccccc"
+      ]
+    },
+    "halo": {
+      "rarity": "legendary",
+      "anchor": "head",
+      "offsetY": 2,
+      "palette": {
+        "a": "#F5E6A8",
+        "b": "#FFF7D6"
+      },
+      "pattern": [
+        "..bbbb..",
+        ".a....a.",
+        ".a....a.",
+        "..bbbb.."
+      ]
+    },
+    "headphones": {
+      "rarity": "uncommon",
+      "anchor": "head",
+      "offsetY": -2.0,
+      "$comment": "Wraps the head: band arches above, cups clamp both sides at eye level.",
+      "palette": {
+        "a": "#2B2B2B",
+        "b": "#4B5563"
+      },
+      "pattern": [
+        ".......aaaaaaaa.......",
+        ".....aa........aa.....",
+        "....aa..........aa....",
+        "...aa............aa...",
+        "..aa..............aa..",
+        ".bb................bb.",
+        ".bb................bb.",
+        ".bb................bb.",
+        ".bb................bb."
+      ]
+    },
+    "tophat": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#2B2B2B",
+        "b": "#8B2E3C"
+      },
+      "pattern": [
+        "..aaaa..",
+        "..aaaa..",
+        "..aaaa..",
+        "..bbbb..",
+        "..aaaa..",
+        "aaaaaaaa",
+        "aaaaaaaa"
+      ]
+    },
+    "propeller": {
+      "rarity": "rare",
+      "anchor": "head",
+      "palette": {
+        "a": "#4FA9E9",
+        "b": "#E94F73",
+        "c": "#F2B441",
+        "d": "#8B5CF6"
+      },
+      "pattern": [
+        "aa....aa",
+        ".a....a.",
+        "...bb...",
+        "...bb...",
+        "..cccc..",
+        ".dddddd.",
+        ".cccccc."
+      ]
+    }
+  },
+  "held": {
+    "none": {
+      "rarity": "common"
+    },
+    "flag": {
+      "rarity": "uncommon",
+      "anchor": "hand",
+      "palette": {
+        "b": "#141414",
+        "w": "#F7F4ED",
+        "p": "#5A5A5A"
+      },
+      "pattern": [
+        "pbwbwbw",
+        "pwbwbwb",
+        "pbwbwbw",
+        "pwbwbwb",
+        "p......",
+        "p......",
+        "p......",
+        "p......",
+        "p......",
+        "p......"
+      ]
+    },
+    "coffee": {
+      "rarity": "common",
+      "anchor": "hand",
+      "palette": {
+        "d": "#6F4E37",
+        "w": "#F7F4ED",
+        "h": "#C9C2B4"
+      },
+      "pattern": [
+        ".dddddd.",
+        "wwwwwwww",
+        "wwwwww.h",
+        "wwwwww.h",
+        ".wwwwwh.",
+        "..wwww.."
+      ]
+    },
+    "balloon": {
+      "rarity": "common",
+      "anchor": "hand",
+      "offsetY": 1,
+      "palette": {
+        "a": "#E94F73",
+        "h": "#F58BA4",
+        "s": "#8A8A8A"
+      },
+      "pattern": [
+        "..aaaa..",
+        ".aahaaa.",
+        "aaahaaaa",
+        "aaaaaaaa",
+        "aaaaaaaa",
+        ".aaaaaa.",
+        "..aaaa..",
+        "...aa...",
+        "...s....",
+        "...s....",
+        "..s.....",
+        "..s....."
+      ]
+    },
+    "wrench": {
+      "rarity": "uncommon",
+      "anchor": "hand",
+      "palette": {
+        "a": "#9CA3AF",
+        "b": "#6B7280"
+      },
+      "pattern": [
+        "aa..aa",
+        "aa..aa",
+        "aaaaaa",
+        ".aaaa.",
+        "..bb..",
+        "..bb..",
+        "..bb..",
+        "..bb.."
+      ]
+    },
+    "sparkler": {
+      "rarity": "rare",
+      "anchor": "hand",
+      "palette": {
+        "y": "#F2B441",
+        "Y": "#FFF3C4",
+        "s": "#8A8A8A"
+      },
+      "pattern": [
+        "y..y..y",
+        "..y.y..",
+        "y.YYY.y",
+        "..y.y..",
+        "...s...",
+        "...s...",
+        "...s...",
+        "...s..."
+      ]
+    }
+  },
+  "backgrounds": {
+    "chroma": {
+      "rarity": "common",
+      "fill": "#00B140"
+    },
+    "paper": {
+      "rarity": "common",
+      "fill": "#F7F4ED"
+    },
+    "ink": {
+      "rarity": "uncommon",
+      "fill": "#191919"
+    },
+    "sky": {
+      "rarity": "common",
+      "fill": "#BFD9E8"
+    },
+    "dusk": {
+      "rarity": "uncommon",
+      "fill": "#4C3A63"
+    },
+    "none": {
+      "rarity": "rare",
+      "fill": null
+    }
+  },
+  "effects": {
+    "none": {
+      "rarity": "common"
+    },
+    "confetti": {
+      "rarity": "uncommon",
+      "kind": "scatter",
+      "count": 22,
+      "colors": [
+        "#E94F73",
+        "#F2B441",
+        "#4FA9E9",
+        "#8B5CF6",
+        "#3F6C51"
+      ]
+    },
+    "sparkles": {
+      "rarity": "rare",
+      "kind": "scatter",
+      "count": 12,
+      "colors": [
+        "#F5E6A8",
+        "#FFFFFF"
+      ]
+    },
+    "rain": {
+      "rarity": "rare",
+      "kind": "rain",
+      "count": 26,
+      "colors": [
+        "#7FA8C9"
+      ]
+    }
+  },
+  "contrast": {
+    "$comment": "All bodies are orange, so only the lightest ones risk vanishing into the light grounds.",
+    "avoid": {
+      "peach": [
+        "paper"
+      ],
+      "amber": [
+        "paper"
+      ]
+    },
+    "fallback": "chroma"
+  },
+  "eyeStyles": {
+    "pupil": {
+      "comment": "THE DEFAULT. Square eye with a single square white pupil block, high and inner. Cells: 0 empty, 1 eye, 2 pupil. Right eye mirrors so the glints face each other.",
+      "pattern": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "square": {
+      "comment": "Solid square eye (reference B).",
+      "pattern": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "bar": {
+      "comment": "Tall thin vertical bar (reference A).",
+      "pattern": [
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ]
+      ]
+    },
+    "surprised": {
+      "comment": "Wide awake: an oversized square eye with a pupil.",
+      "pattern": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "glance": {
+      "comment": "Both eyes looking the SAME way (mirror off), so he glances sideways instead of cross-eyed.",
+      "mirror": false,
+      "pattern": [
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "dot": {
+      "comment": "Tiny square eyes. Minimal and cute.",
+      "pattern": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    "star": {
+      "comment": "Excited: square eye with a plus-shaped white sparkle for a pupil.",
+      "pattern": [
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "wide": {
+      "comment": "Tall attentive eye with a pupil high in it.",
+      "pattern": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ]
+      ]
+    }
+  },
+  "$eyeRule": "Clawd's eyes are always upright geometric shapes: squares, bars, dots, sparkles. NEVER angled chevrons (><), curved arcs (^^), slanted brows, flat dashes, or X shapes. The angled and arced forms read as an Asian caricature and the others read as dead, angry, or blank. This rule is not up for rediscovery: do not re-add them.",
+  "$generated": "Canonical Clawd trait library. Installed into consumers by the clawd-traits generator; never hand-edit a copy."
+}

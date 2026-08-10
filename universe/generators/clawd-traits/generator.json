@@ -1,0 +1,25 @@
+{
+  "id": "clawd-traits",
+  "name": "Clawd trait library",
+  "kind": "generator",
+  "entrypoint": "compose.py",
+  "determinism": "pure",
+  "params": { "$note": "All knobs live in traits.json, which is the reviewable trait data; this file declares the generator contract." },
+  "inputs": ["traits.json", "../clawd-master/generator.json"],
+  "outputs": [
+    { "path": "out/clawd-canon.json", "description": "Trait library + eye styles bundled for consumers" },
+    { "path": "proof/roll-sheet.png", "description": "24 rolled Clawds at real size" }
+  ],
+  "install": {
+    "out/clawd-canon.json": ["/Users/garysheng/Documents/github-repos/clawd-gallery/src/lib/clawd/canon.json"]
+  },
+  "proof": {
+    "sheet": "proof/roll-sheet.png",
+    "assertions": [
+      "every Clawd is the same critter: only traits differ",
+      "hats land on the head and held items hang off the stub regardless of combination",
+      "no eye shape is an angled chevron, curved arc, slanted brow, dash, or X",
+      "bodies are shades of orange only"
+    ]
+  }
+}
