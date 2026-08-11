@@ -1,0 +1,42 @@
+{
+  "id": "the-floating-orb",
+  "kind": "prop",
+  "originStory": null,
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-11",
+    "note": "Added 2026-08-11 alongside the spatial lenses while standing up the pcs.wiki device canon, from Gary's own description: the companion form of the guardian angel, a floating orb that stays with a person, records what they consent to, and settles into a dock to charge on its own. Deliberately kept in the universe's existing amber family so it reads as kin to the supercharged laptop rather than as a new piece of hardware."
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/the-floating-orb/hero.png",
+      "detail": "reference/the-floating-orb/detail.png",
+      "floating": "reference/the-floating-orb/floating.png",
+      "docked": "reference/the-floating-orb/docked.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "palm-sized-translucent-warm-amber-glass-sphere",
+      "one-slim-brass-band-around-its-equator",
+      "soft-inner-glow-never-a-screen-never-an-led",
+      "no-rotors-no-propellers-no-wings-no-visible-camera-lens",
+      "no-logo-or-lettering-anywhere",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE FLOATING ORB: a palm-sized sphere of translucent warm amber glass with one slim brass band around its equator, floating unsupported at about shoulder height with a soft shadow on the surface below it. It glows gently from within, in the same warm amber family as the supercharged laptop. It has NO rotors, NO propellers, NO wings, NO visible camera lens, NO buttons, NO antennas and NO lights. No logo, no lettering anywhere. Warm-editorial ink-and-wash, never photoreal, never neon, never glossy plastic."
+    },
+    "scale": {
+      "size": "about 90 mm across, palm-sized; floats near the person's shoulder and reads as a small warm amber moon in the room"
+    },
+    "note": "FLOATING IS A BEHAVIOR, NOT AN INVARIANT, and that distinction is deliberate. It was written as an invariant first, which made the object hero fail its own read-back for showing the sphere at rest on a surface: a plain object study is the wrong plate to prove a pose on. This universe's other prop models it the same way (the orange compass keeps its appearance in `invariants` and its needle behavior in `prose.rules`). The pose is carried by `render.always`, by `prose.rules`, and by the dedicated `floating` plate, so a scene render still cannot get it wrong."
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The companion form of the guardian angel, for the person who does not want to wear anything. It keeps station near its owner, holds the record of the day the owner agreed to keep, and when it is low it drifts down and settles into a plain pale-wood dock to charge without being asked. Its whole design argument is that a thing which is with you constantly has to be pleasant to have in the room.",
+    "rules": "The orb is UNBRANDED and quiet. It is never menacing and never rendered as surveillance hardware: no lens, no aperture, no iris, no blinking indicator, nothing that reads as an eye pointed at anyone. That restraint is the point, because the object only works if a person is glad it is there. 'Recording' is shown ONLY by a slightly warmer inner glow, never by a light, a lens, or a projected image. It floats; it is never held aloft by a stand, a wire, a drone frame or visible thrust. It is small: palm-sized, never larger than a grapefruit, and never dominates a frame."
+  },
+  "name": "The Floating Orb"
+}

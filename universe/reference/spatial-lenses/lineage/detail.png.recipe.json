@@ -1,0 +1,17 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "A close-up DETAIL PHOTOGRAPH of the temple and brow of the Christofuturist spatial lenses matching the attached reference: a clear/translucent lightly-tinted acetate frame with a slim OLD-GOLD inlay along the brow, elegant modern wayfarer-ish shape, eyes visible through them (not black, not opaque). showing the old-gold inlay and clear acetate, macro, warm light. No text, no logos.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "reference/christofuturist-community/replace2/ar-designer-1.png"
+    },
+    {
+      "path": "reference/style/christofuturist-community/refs/gabr-04-fire-lantern.png"
+    }
+  ],
+  "timestamp": "2026-07-25T23:19:21.960254+00:00",
+  "sha256": "a5adc0f01673a87748f02161dec485ba88258a1c3706210fd87caa9a15cfca75",
+  "stylePack": "christofuturist-community"
+}

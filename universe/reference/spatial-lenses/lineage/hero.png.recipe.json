@@ -1,0 +1,17 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "A premium PRODUCT PHOTOGRAPH of ONE pair of the Christofuturist SPATIAL LENSES: a clear champagne acetate frame with a slim old-gold inlay, BUT SUPERNATURAL and alive \u2014 the lenses shimmer with a soft GLOWING gold-and-royal-blue luminescence, faint radiant light emanating from the gold inlay and drifting off the lenses like a holy aura, tiny motes of golden light, a spatial-computing glow that feels sacred and otherworldly. Elegant, not gaudy; the glow is soft and reverent, eyes still visible. Resting on a warm dark stone surface in dim light so the supernatural glow reads clearly, soft rim light, warm-neutral background. No text, no logos.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "reference/christofuturist-spatial-lenses/hero.png"
+    },
+    {
+      "path": "reference/style/christofuturist-community/refs/gabr-04-fire-lantern.png"
+    }
+  ],
+  "timestamp": "2026-07-25T23:30:10.478618+00:00",
+  "sha256": "ee7eae35943511cffd758b9501a6112c5aae62a8f70f8b278b64a40d1c515d4f",
+  "stylePack": "christofuturist-community"
+}

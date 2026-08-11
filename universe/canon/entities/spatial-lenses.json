@@ -1,0 +1,41 @@
+{
+  "id": "spatial-lenses",
+  "kind": "prop",
+  "originStory": null,
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-11",
+    "note": "DESIGN SNIPED from the christofuturism universe's `christofuturist-spatial-lenses` at Gary's direction 2026-08-11 (\"directly snipe the holographic glasses from here\"), while standing up the pcs.wiki device canon. The design is carried over exactly: clear champagne acetate, old-gold inlay, smoke-gold tint, eyes always visible. The PLATES are not: the source hero is photoreal, and `photoreal` is an explicit rejected pole of this universe, so a copied master would have fought the register on every render that passed it. New masters were shot in warm-editorial ink-and-wash and the source plates are kept under `lineage/` as the design record, never as render references. See the derived-from relation."
+  },
+  "structured": {
+    "sheets": {
+      "hero": "reference/spatial-lenses/hero.png",
+      "detail": "reference/spatial-lenses/detail.png",
+      "worn": "reference/spatial-lenses/worn.png"
+    },
+    "requiredForRender": [
+      "hero"
+    ],
+    "invariants": [
+      "clear-translucent-champagne-acetate-frame",
+      "slim-old-gold-inlay-along-the-temples-and-brow",
+      "faint-smoke-gold-lens-tint-with-the-eyes-always-visible",
+      "elegant-modern-wayfarer-shape-never-black-frames-never-opaque-sunglasses",
+      "never-goggles-never-a-visor-never-a-headset",
+      "no-logo-or-lettering-anywhere",
+      "warm-editorial-register-never-photoreal"
+    ],
+    "render": {
+      "always": "THE SPATIAL LENSES: ordinary-looking eyeglasses in a clear translucent champagne acetate frame with a slim old-gold inlay running along the temples and brow, in an elegant modern wayfarer shape. The lenses carry only a faint smoke-gold tint, so the wearer's eyes are ALWAYS visible through them. They are eyeglasses, never goggles, never a visor, never a headset, never opaque sunglasses, and never black frames. No logo, no brand mark, no lettering anywhere. Warm-editorial ink-and-wash, never photoreal, never neon."
+    },
+    "scale": {
+      "size": "ordinary adult eyeglasses, about 140 mm across the front; read as normal glasses at conversational distance and as a warm champagne glint at room distance"
+    }
+  },
+  "prose": {
+    "voice": "",
+    "lore": "The wearable form of the guardian angel: the way a person sees what their machine is doing without stopping to look at a screen. The design intent is that it reads as eyewear a person would already have chosen, so wearing one is not an announcement. When the system is working the frame carries a faint warm glow along the gold inlay, never a projected panel and never a screen the viewer can read.",
+    "rules": "The lenses are UNBRANDED and unremarkable at a glance: their whole argument is that a person is glad to be seen in them. Never render them as goggles, a visor, a headset, or opaque sunglasses; the eyes are always visible, because a device that hides the wearer's eyes defeats the point. Any 'smart' behavior is shown ONLY as a faint warm glow along the old-gold inlay, never as a floating HUD, never as readable text or panels in the air, never as a lit screen. No buttons, no antennas, no cameras, no LEDs are ever added. COMPOSITION RULE inherited from the source design: when a figure holds or receives the glowing lenses in their hands, position the hands LOW at waist level or off to one side, never cupped and glowing at the chest."
+  },
+  "name": "The Spatial Lenses"
+}

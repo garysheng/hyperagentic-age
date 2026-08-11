@@ -1,0 +1,28 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Warm editorial ink-and-wash illustration in the style of the reference image. One\npalm-sized sphere of translucent warm amber glass floating unsupported in a plain\nwarm cream room, filling most of the frame, with a single slim brass band around\nits equator and a soft shadow on the surface below it. It glows gently from within.\nIt has NO rotors, NO propellers, NO wings, NO stand, NO wire, NO visible camera\nlens, NO aperture, NO buttons, NO antennas and NO indicator lights: the surface is\nsmooth amber glass and the brass band, and nothing else. No logo, no lettering\nanywhere. Soft warm daylight, gentle paper texture.\nCRITICAL MATERIAL: the sphere is TRANSLUCENT GLASS, not a painted ball and not plastic. Light passes THROUGH it: you can see into its depth, and the glow clearly comes from inside the sphere rather than sitting on its surface. It is matte and softly luminous like warm amber glass or honey held to a window. ABSOLUTELY NO hard white specular highlight, no glossy plastic sheen, no mirror-like reflection, no shiny lacquered finish, no billiard-ball look.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-object.png"
+    }
+  ],
+  "timestamp": "2026-08-11T23:50:37.879572+00:00",
+  "sha256": "c505a4488a183ab3c9cfed2b7c08eceacad7c80b35f58ca653abbfa07760143f",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral",
+  "size": "1024x1024",
+  "quality": "high"
+}
