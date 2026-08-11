@@ -66,5 +66,35 @@
     "rel": "contradicts",
     "to": "the-plain-door",
     "note": "spread-19's scene positively demanded a soft warm room sliver through the ajar gap while the door's invariant then read 'open states show only warm light, never what is behind'. The operator saw and accepted the shipped render (2026-08). Adjudicated 2026-08-09 by narrowing the invariant: warm-light-only stays the default, a scene-named soft warm sliver is legal, darkness/ominous stays banned. Framework gap filed as ABU docs/GAPS.md G31 (nothing gates prose-vs-invariant contradictions at assemble time)."
+  },
+  {
+    "from": "spatial-lenses",
+    "rel": "derived-from",
+    "to": "christofuturism-universe:christofuturist-spatial-lenses",
+    "note": "DESIGN sniped from the christofuturism universe at Gary's direction 2026-08-11 while standing up the pcs.wiki device canon. What crossed over is the design, carried in the invariants: clear champagne acetate, slim old-gold inlay, faint smoke-gold tint with the eyes visible, modern wayfarer shape. What did NOT cross over is the art: the source plates are photoreal and photoreal is a rejected pole here, so passing one as a render reference would have pulled every image off-register. New masters were shot in warm-editorial ink-and-wash; the source plates are kept under reference/spatial-lenses/lineage/ as the design record and are never passed to a generator."
+  },
+  {
+    "from": "spatial-lenses",
+    "rel": "appears-in",
+    "to": "pcs-wiki",
+    "note": "the wearable form of the guardian angel: how a person sees what their machine is doing without stopping to look at a screen"
+  },
+  {
+    "from": "the-floating-orb",
+    "rel": "appears-in",
+    "to": "pcs-wiki",
+    "note": "the companion form of the guardian angel, for the person who does not want to wear anything"
+  },
+  {
+    "from": "the-floating-orb",
+    "rel": "crossover-with",
+    "to": "spatial-lenses",
+    "note": "two forms of one system, per the wiki's aesthetics argument: the system is the constant and the form is chosen by what the person does. They are alternatives, so a scene casts one or the other and never both on the same person."
+  },
+  {
+    "from": "the-floating-orb",
+    "rel": "crossover-with",
+    "to": "supercharged-laptop",
+    "note": "deliberately kept in the same warm amber family as the laptop so the orb reads as kin to it rather than as unrelated hardware; same agents, different body"
   }
 ]
