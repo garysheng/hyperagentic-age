@@ -5,7 +5,7 @@
   "authority": {
     "lockedBy": "gary",
     "lockedOn": "2026-08-11",
-    "note": "Added 2026-08-11 alongside the spatial lenses while standing up the pcs.wiki device canon, from Gary's own description: the companion form of the guardian angel, a floating orb that stays with a person, records what they consent to, and settles into a dock to charge on its own. Deliberately kept in the universe's existing amber family so it reads as kin to the supercharged laptop rather than as a new piece of hardware."
+    "note": "Added 2026-08-11 alongside the spatial lenses while standing up the pcs.wiki device canon, from Gary's own description: the companion form of the guardian angel, a floating orb that stays with a person, records what they consent to, and settles into a dock to charge on its own. Deliberately kept in the universe's existing amber family so it reads as kin to the supercharged laptop rather than as a new piece of hardware. SUPERSEDED 2026-08-12 by pcs:the-videographer. The orb's no-rotors-no-propellers-no-wings invariant was an aesthetic choice that contradicted wanting an object that visibly works, and six physically honest alternatives all failed for solving physics while ignoring character. Do not render from this entity."
   },
   "structured": {
     "sheets": {
@@ -38,5 +38,6 @@
     "lore": "The companion form of the guardian angel, for the person who does not want to wear anything. It keeps station near its owner, holds the record of the day the owner agreed to keep, and when it is low it drifts down and settles into a plain pale-wood dock to charge without being asked. Its whole design argument is that a thing which is with you constantly has to be pleasant to have in the room.",
     "rules": "The orb is UNBRANDED and quiet. It is never menacing and never rendered as surveillance hardware: no lens, no aperture, no iris, no blinking indicator, nothing that reads as an eye pointed at anyone. That restraint is the point, because the object only works if a person is glad it is there. 'Recording' is shown ONLY by a slightly warmer inner glow, never by a light, a lens, or a projected image. It floats; it is never held aloft by a stand, a wire, a drone frame or visible thrust. It is small: palm-sized, never larger than a grapefruit, and never dominates a frame."
   },
-  "name": "The Floating Orb"
+  "name": "The Floating Orb",
+  "status": "superseded"
 }
