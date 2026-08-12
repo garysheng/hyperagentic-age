@@ -5,7 +5,7 @@
   "authority": {
     "lockedBy": "gary",
     "lockedOn": "2026-08-11",
-    "note": "DESIGN SNIPED from the christofuturism universe's `christofuturist-spatial-lenses` at Gary's direction 2026-08-11 (\"directly snipe the holographic glasses from here\"), while standing up the pcs.wiki device canon. The design is carried over exactly: clear champagne acetate, old-gold inlay, smoke-gold tint, eyes always visible. The PLATES are not: the source hero is photoreal, and `photoreal` is an explicit rejected pole of this universe, so a copied master would have fought the register on every render that passed it. New masters were shot in warm-editorial ink-and-wash and the source plates are kept under `lineage/` as the design record, never as render references. See the derived-from relation."
+    "note": "DESIGN SNIPED from the christofuturism universe's `christofuturist-spatial-lenses` at Gary's direction 2026-08-11 (\"directly snipe the holographic glasses from here\"), while standing up the pcs.wiki device canon. The design is carried over exactly: clear champagne acetate, old-gold inlay, smoke-gold tint, eyes always visible. The PLATES are not: the source hero is photoreal, and `photoreal` is an explicit rejected pole of this universe, so a copied master would have fought the register on every render that passed it. New masters were shot in warm-editorial ink-and-wash and the source plates are kept under `lineage/` as the design record, never as render references. See the derived-from relation. SUPERSEDED 2026-08-12: this device moved to its own universe at ~/Documents/github-repos/pcs-universe with a photoreal register and a pearl body material. Do not render from this entity for pcs work; it is kept because already-shipped history keeps rendering. See the derived-from relation in the pcs universe."
   },
   "structured": {
     "sheets": {
@@ -37,5 +37,6 @@
     "lore": "The wearable form of the guardian angel: the way a person sees what their machine is doing without stopping to look at a screen. The design intent is that it reads as eyewear a person would already have chosen, so wearing one is not an announcement. When the system is working the frame carries a faint warm glow along the gold inlay, never a projected panel and never a screen the viewer can read.",
     "rules": "The lenses are UNBRANDED and unremarkable at a glance: their whole argument is that a person is glad to be seen in them. Never render them as goggles, a visor, a headset, or opaque sunglasses; the eyes are always visible, because a device that hides the wearer's eyes defeats the point. Any 'smart' behavior is shown ONLY as a faint warm glow along the old-gold inlay, never as a floating HUD, never as readable text or panels in the air, never as a lit screen. No buttons, no antennas, no cameras, no LEDs are ever added. COMPOSITION RULE inherited from the source design: when a figure holds or receives the glowing lenses in their hands, position the hands LOW at waist level or off to one side, never cupped and glowing at the chest."
   },
-  "name": "The Spatial Lenses"
+  "name": "The Spatial Lenses",
+  "status": "superseded"
 }
