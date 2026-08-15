@@ -61,5 +61,11 @@
     "lore": "Adapted from the TastefulStories.com cooking-screen Clawd (tastefulstories/src/app/story/Clawd.tsx), itself a tiny rectangle-built critter in the spirit of Claude Code's pixel mascot. The PRIMARY identity reference is Gary's clean screenshot of the canonical pixel Clawd (reference/angel-clawd/source/clawd-clean-screenshot.png, supplied mid-run 2026-08-08, replacing the flag screenshot as primary), passed as the first input image on every shot; the flag screenshot (source/clawd-flag-screenshot.png) is a secondary ref for flag-accessory variants only, showing how the flag mounts. This angel form is Anthropic-fan-art for Gary's personal evangelism merch: the 'Anthropic Mom' / 'Proud Mom - An Anthropic Evangelist' print-on-demand shirts (burnt orange + white). Accessories in canon: the floating pixel heart, a halo, a checkered flag, or none; wings spread or raised.",
     "rules": "DELIBERATE REGISTER EXCEPTION: this universe's register is warm-editorial ink-and-wash and this entity is flat pixel-sticker mascot art on purpose; see canon/craft/pixel-mascot-medium-exception.json and structured.registerNeutral. Never pass the register anchor or its rejected poles when producing this motif, and never restyle it into ink-and-wash. Production path since 2026-08-08: gpt-image-2 via the framework provider adapter, source screenshot passed first as the identity ref, greenscreen ground keyed with the framework chroma keyer. The deterministic generator angel-clawd-pixel is SUPERSEDED history, not the production path. If the mascot must appear INSIDE a model-rendered ink-and-wash scene, that is a new decision requiring Gary's blessing, not a default."
   },
-  "fictional": true
+  "fictional": true,
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-08-15",
+    "reason": "Anthropic campaign concluded (Gary, 2026-08-15): the angel variant of the Anthropic pixel mascot, made for Gary's Anthropic-evangelism shirts, is Claude-branded by identity. Its recorded register exception (canon/craft/pixel-mascot-medium-exception) is retired with it. Do not cast in new work.",
+    "supersededBy": null
+  }
 }

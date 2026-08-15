@@ -36,5 +36,11 @@
     "lore": "The keepers' answer to the smudged pages: the island's keepers want as many founders through as they can get before the portal closes, so they parachute small crates into the green, and inside each is a smart orange compass whose needle always swings toward the live portal. Rumor says the ones holding a sky-compass find the portal long before anyone else. A compass in hand plus a friend who tells you first is how a seeker makes it in time. First appears in Finders Tell Their Friends (spreads 6, 11, 15, 16). (Mechanics revised by Gary 2026-08-08: the needle's target is the portal; delivery is by parachuted crate.)",
     "rules": "An unbranded object inside the fable: never a company name, never a logo, never lettering on the face, the crate or the parachute. The shell's orange is the universe's existing clay/orange family (the same family as Maya's rust scarf), matte and warm, never neon and never safety-vest orange. Small in frame almost everywhere: a palm-sized object held, hung from a pack strap, or resting on a map. 'Smart' is shown only by the needle: it always swings toward the live portal, decisively, and may glow very faintly warm in dim scenes, never like a screen. No buttons, dials, antennas or lights are ever added."
   },
-  "name": "The Orange Compass"
+  "name": "The Orange Compass",
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-08-15",
+    "reason": "Anthropic campaign concluded (Gary, 2026-08-15): the Claude-orange guide object dropped by Founder Paradise's keepers is the campaign's evangelism metaphor inside finders-tell-their-friends, and is campaign canon by identity despite its unbranded surface. History keeps rendering; do not cast in new work.",
+    "supersededBy": null
+  }
 }

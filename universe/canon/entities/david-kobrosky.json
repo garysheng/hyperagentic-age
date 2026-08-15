@@ -140,5 +140,11 @@
     "voice": "Warm, unhurried, zero condescension. The friend who makes a nervous person feel like the room was waiting for them. Speaks plainly about big things ('Agents. I couldn't have done this before.') and deflects praise by pointing at other people.",
     "lore": "Gary's real friend, rendered as this universe's flagship worked example of a hyperagent. Founded Intros.AI (software that learned his own instinct for who should meet whom), sold it to Bevy, then joined Anthropic's Applied AI Startups team, where agents let him look after roughly ninety startups at once. Believes one of the finest human qualities is the ability to consciously choose our own evolution. Married to Mikaela.",
     "rules": "Identity of record is the photoStack; photo 02 (studio portrait) is the FACE ANCHOR OF RECORD (Gary, 2026-08-08). Reference matrix is REGISTER-NEUTRAL HYPER-REAL (SPEC v0.38 real-person default): the plates carry likeness only, and spreads render him in the universe's warm-editorial register via the REGISTER-NEUTRAL MASTER consumption line. He is never smug, never salesman-slick, never mocked: this is an ode. SINGLE-INSTANCE RULE: crowd scenes must describe other people as visibly distinct (different builds, hair, skin tones, nobody else in a sky-blue button-down); a second David-like figure is a re-roll defect."
+  },
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-08-15",
+    "reason": "Anthropic campaign concluded (Gary, 2026-08-15): David's in-universe role is the Anthropic Applied AI introducer (the-introducer ode, takeoff-tuesdays), which is campaign canon. He remains Gary's real friend and a hyperagent exemplar; unarchive deliberately if he is ever recast in a campaign-neutral role.",
+    "supersededBy": null
   }
 }

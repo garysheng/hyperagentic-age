@@ -21,5 +21,11 @@
   },
   "prose": {
     "rules": "Render in this universe's warm editorial register. The room's job is HOPE and possibility: warm light, an open sky and wing on the stage screen, a full but calm audience. NO readable text or lettering anywhere, including on the stage screen or banners; the winged / open-sky motif carries the 'Fly with Claude' meaning instead of a wordmark, which also keeps the pack's no-lettering rule intact. Keep it human-scaled and warm, never a corporate keynote megachurch. Maya is an attendee among many here, never on the stage."
+  },
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-08-15",
+    "reason": "Anthropic campaign concluded (Gary, 2026-08-15): the 'Fly with Claude' conference stage is a Claude-branded event setting and campaign canon. Locked plates stay valid for shipped history; do not cast in new work.",
+    "supersededBy": null
   }
 }

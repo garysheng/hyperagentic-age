@@ -41,5 +41,11 @@
     "voice": "Silent. He stands, he glints, he ships.",
     "lore": "The plain Anthropic pixel critter, no angel elements: the base identity that angel-clawd is derived from. PRIMARY identity reference is Gary's clean screenshot of the canonical pixel Clawd (reference/angel-clawd/source/clawd-clean-screenshot.png), passed as the first input image on every shot. Rendered, like angel-clawd, as a charming designed-sticker reinterpretation via gpt-image-2, never a rigid grid port.",
     "rules": "Clawd is always friendly. No angel elements ever on this entity (no wings, no halo, no floating heart): those belong to angel-clawd. No accessories in the base hero. Clawd is DRAWN, never prompted: canonical art comes from generators/clawd-master (SVG from a measured grid). An image model may only condition on the generator's approved PNGs."
+  },
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-08-15",
+    "reason": "Anthropic campaign concluded (Gary, 2026-08-15): the plain Anthropic pixel mascot is Claude-branded by identity (base of angel-clawd, campaign merch art). History and locked art stay valid; do not cast in new work.",
+    "supersededBy": null
   }
 }
