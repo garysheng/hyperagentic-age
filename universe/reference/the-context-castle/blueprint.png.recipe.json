@@ -1,0 +1,12 @@
+{
+  "goldenDigest": "7fdad638545ab011",
+  "inputs": [
+    {
+      "digest": null,
+      "path": "universe/canon/blueprints/the-context-castle.massing.json"
+    }
+  ],
+  "prompt": null,
+  "provider": null,
+  "specVersion": "0.39"
+}

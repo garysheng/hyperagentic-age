@@ -7,11 +7,16 @@
     "lockedOn": "2026-08-15",
     "note": "Scaffolded 2026-08-15, the day Gary launched hypercontextprotocol.com and decided HCP lives inside this universe. Design authored from the HCP thesis (the social contract for connecting a person's sovereign context to services they don't own); the ARGUMENT is imported, the PALETTE is not: this entity renders in the universe's warm editorial ink-and-wash, never the HCP website's blue/white diagram language. Art not yet shot; status stays unlocked until shoot-references fills the plates and Gary blesses them."
   },
-  "status": "unlocked",
+  "status": "locked",
   "contract": {
-    "turnaround": null,
-    "emptyPlates": [],
-    "blueprint": null,
+    "turnaround": "reference/the-context-castle/master.png",
+    "emptyPlates": [
+      "reference/the-context-castle/at-rest.png",
+      "reference/the-context-castle/gate-sliver.png",
+      "reference/the-context-castle/beam-to-service.png",
+      "reference/the-context-castle/keep-sealed.png"
+    ],
+    "blueprint": "reference/the-context-castle/blueprint.png",
     "scalePlate": null,
     "blockingPlate": null,
     "map": "A walled castle that holds one person's WHOLE personal context: everything about their life a machine could know, kept in rooms the owner deliberately designed. The outer curtain wall is unbroken except for EXACTLY ONE gate, human-doored and modest, never a grand ceremonial arch. Inside the wall, distinct designed rooms and low towers read as a small, cared-for city of one life: each room a different shape because each holds a different kind of knowing (memories, health, relationships, work, taste). At the exact center, visibly INNERMOST and taller-walled than everything around it, stands the keep: windowless at its base, its one door sealed shut. The keep is the inner life that never leaves the castle under any incentive. Slivers of context leave ONLY through the gate: each sliver is a small, single labeled piece (a card, a tile, a folded page, clearly a fragment, never a bundle), and it travels on a THIN beam of warm light toward a distant service outside the walls. The beam is a thread, never a flood, never a pipe, never a river.",
@@ -30,14 +35,16 @@
   },
   "structured": {
     "sheets": {
-      "blueprint": null,
-      "master": null,
-      "at-rest": null,
-      "gate-sliver": null,
-      "beam-to-service": null,
-      "keep-sealed": null
+      "blueprint": "reference/the-context-castle/blueprint.png",
+      "master": "reference/the-context-castle/master.png",
+      "at-rest": "reference/the-context-castle/at-rest.png",
+      "gate-sliver": "reference/the-context-castle/gate-sliver.png",
+      "beam-to-service": "reference/the-context-castle/beam-to-service.png",
+      "keep-sealed": "reference/the-context-castle/keep-sealed.png"
     },
-    "requiredForRender": [],
+    "requiredForRender": [
+      "master"
+    ],
     "invariants": [
       "exactly-ONE-gate-in-the-curtain-wall-never-a-second-opening",
       "the-keep-visibly-INNERMOST-tallest-and-SEALED-windowless-base-one-shut-door-no-outside-handle",

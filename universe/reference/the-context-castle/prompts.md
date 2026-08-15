@@ -19,6 +19,12 @@ the curtain wall (honest timber, simple iron fittings, modest and human-doored);
 deliberately-designed rooms and low towers inside the wall, lamplit and inhabited; at the
 exact center the KEEP, visibly innermost and tallest, smooth pale stone, windowless at the
 base, one sealed door with no outside handle. Same castle, same geometry, in every plate.
+The massing blueprint fixes LAYOUT ONLY — never copy its bare flat-grey block surfaces:
+every room is a FINISHED, deliberately designed little building with its own silhouette
+and its own pitched or shaped roof in rust and clay tones, timber doors, warm lamplit
+windows; the castle reads as hand-built warm sand-and-grey stone, a cared-for city of one
+life, never brutalist bare-concrete massing blocks. (Added 2026-08-15 after the first
+master roll came back as painted massing: identical concrete cubes, no roofs, no accents.)
 After the master is shot, pass the master as an additional reference on every state plate.
 
 ---
@@ -31,12 +37,16 @@ Late-afternoon warm light, lamplit windows, cream sky. Nothing entering or leavi
 figures; no beam. The castle reads whole, sovereign, and loved. No lettering anywhere in
 this plate.
 
+SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references — but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle.
+
 ## at-rest  →  `reference/the-context-castle/at-rest.png`
 
 ARGUED STATE: the castle at rest, whole and sovereign. Same geometry as the master, calm
 dusk light, every window warm, the gate CLOSED, the grounds outside empty and peaceful.
 The argument of this plate is completeness: nothing is missing, nothing is leaking, nobody
 is waiting at the wall. No figures, no beam, no slivers.
+
+SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references — but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle.
 
 ## gate-sliver  →  `reference/the-context-castle/gate-sliver.png`
 
@@ -50,6 +60,8 @@ no figure, so the casting (chief-of-agents as gatekeeper) binds at spread time f
 locked sheets rather than being baked into this plate. The sliver is small; nothing else
 leaves.
 
+SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references — but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle.
+
 ## beam-to-service  →  `reference/the-context-castle/beam-to-service.png`
 
 ARGUED STATE: a thin beam carrying the sliver to a distant service. Wide landscape frame:
@@ -59,6 +71,8 @@ single THIN taut thread of warm gold light crosses the distance, the labeled sli
 bright fleck traveling along it. The beam is thinner than any wall it passes — a thread,
 never a flood, never a pipe. The castle visibly outweighs the service in size and detail.
 
+SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references — but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle.
+
 ## keep-sealed  →  `reference/the-context-castle/keep-sealed.png`
 
 ARGUED STATE: the keep at the center sealed shut — the inner life that never leaves, under
@@ -67,6 +81,16 @@ stone, windowless base, and its one shut door with NO handle on the outside. The
 surrounding designed rooms soften at the frame edges; no gate, no beam, no sliver anywhere
 in frame, because in this state nothing is leaving. Quiet, warm, resolved — sealed reads as
 peace and sovereignty, never as menace or imprisonment. No lettering in this plate.
+
+CAMERA, BINDING (added 2026-08-15 after roll 1 came back as another whole-castle wide
+shot with the gate in frame): this is a CLOSE-UP, not a vista. The camera is INSIDE the
+ring of rooms, hovering just above the tiled rooftops, looking at the keep; the keep and
+its sealed door FILL most of the frame. The curtain wall, the gate, the surrounding
+landscape, and the castle's outer silhouette are all OUT OF FRAME. Only the keep, its
+sealed handle-less door, and the nearest softened rooftops are visible. NOT a wide shot,
+NOT an aerial view of the whole castle, NO gate anywhere in frame.
+
+SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references — but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle.
 
 ## blueprint  →  `reference/the-context-castle/blueprint.png`
 
