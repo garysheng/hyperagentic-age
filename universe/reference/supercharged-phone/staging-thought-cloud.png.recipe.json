@@ -1,0 +1,16 @@
+{
+  "asset": "/private/tmp/hyperagentic-age-phone-lock/universe/reference/supercharged-phone/staging-thought-cloud.png",
+  "provenance": "source",
+  "unrecorded": false,
+  "imported": true,
+  "specVersion": "0.39",
+  "sha256": "5cb6f90b1bb5503170d18b5a89d9e996bdc33831b0f2e28fbf766f6a53793185",
+  "generator": "abu import-asset",
+  "importedFrom": "/private/tmp/claude-501/-Users-garysheng-Documents-github-repos/c014053d-c138-4688-94d3-7a461c0dadb1/scratchpad/motif7-sidewalk-b.png",
+  "note": "The blessed staging exemplar for the supercharged-phone thought-cloud law: teacher in profile on the sidewalk, glowing phone, orange thought cloud holding the chief of agents + four sub-agents with tethers.",
+  "derivedFrom": {
+    "generator": "gpt-image-2 via on-brand-image provider adapter (recipe beside source: motif7-sidewalk-b.png.recipe.json)"
+  },
+  "sourcePrompt": "Subject: SIDE VIEW: a middle-aged school teacher walks in PROFILE from left to right ON THE SIDEWALK of a warm evening street, her whole body and stride PARALLEL to the street. GROUND GEOMETRY, stated exactly: the brick storefronts are immediately BEHIND her; she walks ON the wide paved SIDEWALK in front of them, and the sidewalk pavement fills the entire bottom of the frame as the only visible ground. NO road, NO curb, NO asphalt appears anywhere in frame; the camera stands on the same sidewalk a little way off. Both her feet land on sidewalk paving stones. She is mid-stride, going about her day, tote bag on her far shoulder, holding a glowing phone in front of her at chest height and looking DOWN at it with a happy, easy smile. The phone's screen faces HER, so the viewer sees the phone edge-on with a warm coral-orange glow lighting her face and hands. Rising ahead of her from the phone is a large soft ORANGE THOUGHT CLOUD, a puffy cumulus thought-bubble with two small trailing puffs linking it back down to the phone. INSIDE the cloud the agents are at work in a warm glowing space: the chief of agents floats at the front coordinating with one raised mitten stub, and four sub-agents work around him, one carrying a tall paper stack, one carrying a messy fan of pages, one carrying a rolled blueprint, one typing at a tiny desk, with thin dotted glowing tethers arcing from each sub-agent to the chief. Every agent stays INSIDE the thought cloud; the cloud glows warm orange and casts soft light on the sidewalk. Brick storefronts, a lamppost, dusk sky.\nNo readable text anywhere in the scene; papers carry only abstract line work. No interface panels, no buttons, no icons: the cloud holds only the agents and their warm workspace.",
+  "blessedBy": "gary, 2026-08-14 ('B is great'), Hyperagent Society motif session"
+}
