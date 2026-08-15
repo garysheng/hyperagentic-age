@@ -1,5 +1,5 @@
 {
-  "goldenDigest": "29f3d08f1a048b6e",
+  "goldenDigest": "ac1dd5b6f2a8bb74",
   "inputs": [
     {
       "digest": "988cef324da88dc6",
@@ -10,11 +10,19 @@
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-context-castle/blueprint.png"
     },
     {
-      "digest": "134f6ea6df114047",
+      "digest": "4f2389443b516eb2",
       "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/the-context-castle/master.png"
+    },
+    {
+      "digest": "221d960f552eb52c",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    },
+    {
+      "digest": "149ca6227f583e8e",
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/scale.png"
     }
   ],
-  "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. ARGUED STATE: a thin beam carrying the sliver to a distant service. Wide landscape frame: the castle large and detailed on one side, and far away at the horizon a small generic unbranded building (no logo, no recognizable architecture). From the castle's one gate a single THIN taut thread of warm gold light crosses the distance, the labeled sliver a bright fleck traveling along it. The beam is thinner than any wall it passes \u2014 a thread, never a flood, never a pipe. The castle visibly outweighs the service in size and detail.  SAME CASTLE, SAME GEOMETRY as the massing blueprint among the references \u2014 but that blueprint is a crude LAYOUT-ONLY massing sheet, stamped never-painted: take from it ONLY the layout and proportions (the circular curtain wall, its single gate opening, the ring of room footprints, the keep at the exact center). Do NOT copy its bare flat-grey block surfaces. Render the castle FINISHED: hand-built warm sand-and-grey stone; every room a deliberately designed little building with its own distinct silhouette and its own pitched or shaped roof in rust and clay tones; timber doors; warm lamplit windows; a cared-for city of one life, never brutalist bare-concrete blocks. EXACTLY ONE gate in the curtain wall (honest timber, simple iron fittings, modest and human-doored); the KEEP visibly innermost and tallest, smooth pale stone, windowless at the base, one sealed door with no outside handle. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, neon; 3D/CGI/Pixar;, glossy plastic; HUD/arc-reactor comic vocabulary; neo-comic; photoreal; blue/white flat, diagram palette (the HCP website's language \u2014 explicitly banned here, the cartridge owns, the palette); siege imagery, armies, storm-threat.",
+  "prompt": "STYLE, AND IT OVERRIDES ANY OTHER READING OF THE REFERENCE IMAGES: render this in warm-editorial-neutral. It is NEVER comic-book, never cartoon mascot, never flat vector, never neon, never 3D/CGI/Pixar, never photoreal, never anime, never any identifiable recurring individual's face or signature clothing. ARGUED STATE: a thin beam carrying the sliver to a distant service, leaving ONLY through the one gate. Wide landscape frame: on one side, the open supercharged laptop on its physical desk with the large, detailed holographic castle glowing above it; far away on the other side, small and at or beyond the room's horizon (a far windowsill, the dim end of a long desk), a tiny generic unbranded service \u2014 a small plain hologram-tile or modest generic building silhouette, no logo, no recognizable architecture. From the castle's ONE GATE \u2014 and from nowhere else on the wall, never from a tower, never from the keep \u2014 a single THIN taut thread of warm gold light crosses the distance, the labeled sliver a bright fleck traveling along it. The beam is thinner than any wall it passes \u2014 a thread, never a flood, never a pipe. The castle visibly outweighs the service in size and detail, because the person outweighs the vendor. CRITICAL: every reference image after the first shows THE SAME SINGLE SUBJECT, already locked. Reproduce it EXACTLY as those images show it: the same shapes, proportions, materials, colors, markings, and the same relative placement of every element. Do NOT redesign, restyle, recolor, resize, add, or remove anything. Change ONLY the camera position and framing. NEGATIVES: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing, glossy plastic, HUD/arc-reactor comic vocabulary, neo-comic, blue/white flat diagram palette, cyan or blue hologram of any kind, solid opaque stone castle, siege imagery, armies, storm-threat.",
   "provider": "gpt-image-2",
   "specVersion": null
 }

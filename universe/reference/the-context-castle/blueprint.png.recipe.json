@@ -1,12 +1,14 @@
 {
-  "goldenDigest": "7fdad638545ab011",
-  "inputs": [
-    {
-      "digest": null,
-      "path": "universe/canon/blueprints/the-context-castle.massing.json"
-    }
-  ],
+  "asset": "blueprint.png",
+  "generator": "agenticstory.massing (code-built 3D massing render)",
+  "deterministic": true,
+  "model": null,
   "prompt": null,
-  "provider": null,
-  "specVersion": "0.39"
+  "inputs": [
+    "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/canon/blueprints/the-context-castle.massing.json"
+  ],
+  "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+  "entity": "the-context-castle",
+  "specVersion": "0.39",
+  "note": "Blueprint rendered in code from a declarative massing spec, from the entity's own locked cameras. Layout reference only; never painted into artwork."
 }
