@@ -1,0 +1,26 @@
+{
+ "id": "hypercontext-protocol",
+ "title": "The Hypercontext Protocol",
+ "status": "stub",
+ "spine": "thesis",
+ "logline": "A person keeps their whole context, everything about their life a machine could know, inside one walled castle they own: rooms they designed, one gate they control, and a sealed keep at the center that never opens. Services that want to serve them do not get the castle; the gatekeeper passes out a single labeled sliver, carried on a thin beam, exactly enough for excellence of service and nothing more. The thesis is the social contract itself: share for relevance, never beyond excellence of service.",
+ "refrain": "Share for relevance, never beyond excellence of service.",
+ "register": {
+  "id": null,
+  "anchor": null,
+  "anchoredToRealArt": null,
+  "rejectedPoles": []
+ },
+ "features": [
+  "the-context-castle",
+  "chief-of-agents",
+  "maya"
+ ],
+ "beats": [],
+ "writesBack": [],
+ "gates": {
+  "wordsBlessed": null,
+  "subjectApproval": null
+ },
+ "note": "Property stub registered 2026-08-15, the day Gary launched hypercontextprotocol.com. HCP lives INSIDE this universe (Gary's decision, 2026-08-15) rather than getting its own; this universe's warm editorial ink-and-wash register owns the palette, and the HCP website's blue/white diagram language is deliberately NOT imported. Casting per the 2026-08-15 sweep: the-context-castle is the spine-object (NEW), chief-of-agents is the gatekeeper/curator at the castle's one gate (REUSE, crossover), maya is the default human owner (REUSE, the universe's generic human at the human end of a crossing), with gary as narrator for Gary-specific tellings. Beats to be authored in a later sitting; stub status keeps the roster honest without inventing an unblessed beat sheet."
+}

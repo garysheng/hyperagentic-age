@@ -96,5 +96,26 @@
     "rel": "crossover-with",
     "to": "supercharged-laptop",
     "note": "deliberately kept in the same warm amber family as the laptop so the orb reads as kin to it rather than as unrelated hardware; same agents, different body"
+  },
+  {
+    "from": "the-context-castle",
+    "rel": "appears-in",
+    "to": "hypercontext-protocol",
+    "story": "hypercontext-protocol",
+    "note": "The spine-object of the Hypercontext Protocol property (registered 2026-08-15, launch day of hypercontextprotocol.com): the whole thesis is argued through this one object's states (at-rest, gate-sliver, beam-to-service, keep-sealed)."
+  },
+  {
+    "from": "chief-of-agents",
+    "rel": "appears-in",
+    "to": "hypercontext-protocol",
+    "story": "hypercontext-protocol",
+    "note": "Cast 2026-08-15 (casting sweep, REUSE) as the gatekeeper/curator at the context castle's one gate: the Chief's existing crossing law (never lives outside, only leans across a threshold to hand an artifact over) is the gate hand-off. A crossover receipt: the campaign-era anchor character recast in a campaign-neutral role."
+  },
+  {
+    "from": "maya",
+    "rel": "appears-in",
+    "to": "hypercontext-protocol",
+    "story": "hypercontext-protocol",
+    "note": "Cast 2026-08-15 (casting sweep, REUSE) as the default human owner of the castle, per the universe's convention that maya is the generic human at the human end of a crossing; gary narrates Gary-specific tellings."
   }
 ]

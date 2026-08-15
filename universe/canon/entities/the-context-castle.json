@@ -1,0 +1,57 @@
+{
+  "id": "the-context-castle",
+  "kind": "visual-metaphor",
+  "originStory": "hypercontext-protocol",
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-15",
+    "note": "Scaffolded 2026-08-15, the day Gary launched hypercontextprotocol.com and decided HCP lives inside this universe. Design authored from the HCP thesis (the social contract for connecting a person's sovereign context to services they don't own); the ARGUMENT is imported, the PALETTE is not: this entity renders in the universe's warm editorial ink-and-wash, never the HCP website's blue/white diagram language. Art not yet shot; status stays unlocked until shoot-references fills the plates and Gary blesses them."
+  },
+  "status": "unlocked",
+  "contract": {
+    "turnaround": null,
+    "emptyPlates": [],
+    "blueprint": null,
+    "scalePlate": null,
+    "blockingPlate": null,
+    "map": "A walled castle that holds one person's WHOLE personal context: everything about their life a machine could know, kept in rooms the owner deliberately designed. The outer curtain wall is unbroken except for EXACTLY ONE gate, human-doored and modest, never a grand ceremonial arch. Inside the wall, distinct designed rooms and low towers read as a small, cared-for city of one life: each room a different shape because each holds a different kind of knowing (memories, health, relationships, work, taste). At the exact center, visibly INNERMOST and taller-walled than everything around it, stands the keep: windowless at its base, its one door sealed shut. The keep is the inner life that never leaves the castle under any incentive. Slivers of context leave ONLY through the gate: each sliver is a small, single labeled piece (a card, a tile, a folded page, clearly a fragment, never a bundle), and it travels on a THIN beam of warm light toward a distant service outside the walls. The beam is a thread, never a flood, never a pipe, never a river.",
+    "blocking": "The castle reads whole-and-sovereign at rest: seen from a slight three-quarter elevation so the one gate, the ring of designed rooms, and the innermost keep are all legible in a single frame. The keep is ALWAYS the visual center and the highest point; no room ever occludes it fully. The gate faces the viewer or the frame's open side, so anything leaving is witnessed. In gate scenes the gatekeeper stands AT the gate, inside the threshold, passing a single sliver out; the wall never opens anywhere else. In beam scenes the castle holds one side of the frame and the distant service (small, generic, far away, at or beyond the horizon) holds the other, connected by one thin bright line; the castle always reads larger and more detailed than the service, because the person outweighs the vendor. In keep scenes the camera comes in close over the rooftops to the sealed door and windowless base; the surrounding rooms soften out of focus and no beam or gate is in frame, because nothing in this state is leaving.",
+    "dressing": "Warm editorial ink-and-wash, the house register: soft ink linework, warm washes, cream paper light. Stone in warm greys and sand tones with rust and clay accents on roofs and doors; lamplight glows warm in the room windows, so the castle reads inhabited and loved, never fortress-grim, never medieval-war. The one gate is honest timber with simple iron fittings. Slivers are small pale-gold labeled pieces; their labels are a short legible word or a clean abstract tag mark, per the universe's in-art-text-welcome rule. The beam is the same warm gold as the slivers, thin and taut. The keep is the quietest material in the frame: smooth pale stone, no windows at the base, one sealed door with no handle on the outside. NEVER the HCP website's blue/white flat diagram palette; the cartridge owns the palette.",
+    "scale": "",
+    "states": [
+      "blueprint",
+      "master",
+      "at-rest",
+      "gate-sliver",
+      "beam-to-service",
+      "keep-sealed"
+    ],
+    "emptyPlatesExpected": 4
+  },
+  "structured": {
+    "sheets": {
+      "blueprint": null,
+      "master": null,
+      "at-rest": null,
+      "gate-sliver": null,
+      "beam-to-service": null,
+      "keep-sealed": null
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "exactly-ONE-gate-in-the-curtain-wall-never-a-second-opening",
+      "the-keep-visibly-INNERMOST-tallest-and-SEALED-windowless-base-one-shut-door-no-outside-handle",
+      "slivers-are-SMALL-single-labeled-fragments-never-bundles-boxes-or-streams",
+      "the-beam-is-THIN-a-taut-thread-of-warm-light-never-a-flood-pipe-or-river",
+      "rooms-read-as-distinct-DESIGNED-shapes-a-cared-for-city-of-one-life",
+      "castle-larger-and-more-detailed-than-any-distant-service-in-frame",
+      "inhabited-and-warm-lamplit-windows-never-fortress-grim-never-under-siege",
+      "no-blue-white-flat-diagram-palette-ever",
+      "warm-editorial-register-never-photoreal"
+    ]
+  },
+  "prose": {
+    "lore": "The core meme of the Hypercontext Protocol (hypercontextprotocol.com, launched 2026-08-15): a person's sovereign context pictured as a castle they own outright. Every room was designed by the owner; nothing inside is inventory for anyone else. Services that want to serve the owner never enter: the gatekeeper meets them at the one gate and passes out a single labeled sliver, exactly the relevance the service needs to serve excellently and nothing more, carried on a thin beam. At the center the keep stays sealed under any incentive: the inner life that no offer, no discount, and no protocol handshake ever opens. The castle is the social contract drawn as architecture: share for relevance, never beyond excellence of service.",
+    "rules": "Pass the correct state sheet as reference on every render (master for the canonical view, at-rest for whole-and-sovereign, gate-sliver for the gatekeeper passing one labeled piece out, beam-to-service for the thin thread to a distant service, keep-sealed for the closed inner sanctum). The castle is SOVEREIGN, never besieged: no armies, no siege engines, no storm clouds of threat; the drama is in what leaves and what never does. The gate is the ONLY opening; a render showing a second door, breach, or window-exit in the curtain wall is a defect. Slivers must read as deliberate small fragments with a visible label; a render where whole crates, streams, or clouds of material leave the castle is a defect. The beam must read thinner than any wall it passes; a wide glowing conduit is a defect. When the gatekeeper appears at the gate it is chief-of-agents (cast 2026-08-15, see relations); its own entity rules apply, including its crossing law, and the gate threshold is the screen-plane analog it leans across. Distant services are always generic and unbranded: no logos, no recognizable company architecture. Do not import the HCP site's blue/white diagram language; this universe's register owns the palette."
+  }
+}
