@@ -1,0 +1,43 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Identity master re-shoot CANDIDATE for the man in the FIRST reference image (his editorial-front full-body portrait). Reproduce that reference EXACTLY \u2014 the same east-asian man, the same face and clean-shaven likeness with the clear inked double-eyelid crease, the same short black hair, the same warm smiling expression, the same standing pose with his hand tucked in his jeans pocket, the same head-to-toe framing on the same plain warm cream ground, the same light-wash denim jacket over a plain white crew-neck tee, the same blue jeans and white high-top sneakers, the same warm editorial ink-and-wash medium \u2014 with EXACTLY ONE change: the chest side that bears the small orange pixel-creature patch in the reference is now PLAIN light-wash denim. That orange patch is removed entirely and NOTHING replaces it: no patch, no pin, no embroidery, no mark, just clean denim and the pocket flap. The round YELLOW SMILEY-FACE patch on the other chest side stays EXACTLY as in the reference \u2014 same size, same position, clearly legible. He wears NO necklace and no jewelry. No lettering anywhere in the image.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.\n\nThese are LOCKED canonical traits of the subject(s). They are not stylistic suggestions and must survive the render exactly: east-asian-man; clean-shaven-no-mustache; double-eyelid-crease; black-hair; light-wash-denim-jacket; yellow-smiley-patch-left-chest; right-chest-plain-denim-no-patch; white-crew-neck-tee; white-high-top-sneakers; no-necklace; jacket-back-completely-PLAIN-denim-no-patches-no-artwork-no-text; appears-EXACTLY-ONCE-per-scene-no-other-figure-shares-his-face-hair-or-denim-jacket; religious-iconography-only-where-the-story-calls-for-it-never-decorative; warm-editorial-register.\n\nIdentity of record is reference/gary/master.png (the book's editorial-front likeness with the necklace removed per Gary, 2026-07-16). Pass it as the identity anchor on every render. Signatures: light-wash denim jacket; the yellow smiley patch on the LEFT chest; the RIGHT chest plain denim, no patch (the orange Claude mascot patch was retired 2026-08-15); plain white crew-neck tee; blue jeans; white high-top sneakers. Clean-shaven (NO mustache), clear inked double-eyelid crease at every scale, NO lenses. NO necklace or pendant (removed for this universe). The book's Nation-of-Fire religious signatures (North Star Cross pendant / upper-back cross) are NOT carried here; more broadly, NO religious iconography appears on Gary anywhere in this universe (Gary 2026-07-16: this universe does not promote his faith). BACK TREATMENT, decided by Gary 2026-07-16: the back of the denim jacket is completely PLAIN light-wash denim with NOTHING on it, no patches, no artwork, no text; when a render puts his patches on the back to keep them visible, that is a defect to re-roll, and every from-behind scene prompt should say the back is plain. A real person, but rendered via his established illustrated avatar, not a photo stack; a photo-based realPerson dossier can be added later if photo-accurate renders are ever wanted. SINGLE-INSTANCE RULE (Gary 2026-07-16, from the on-ramps clone defect): Gary appears EXACTLY ONCE per scene. Because his master is passed as a reference, the model tends to bleed his likeness into bystanders; every crowd scene prompt must make the other people visibly distinct (different ethnicities, hair, clothing, explicitly no denim jacket) and a render with a second Gary-like figure is a defect to re-roll.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/gary/master.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-object.png"
+    }
+  ],
+  "timestamp": "2026-08-15T22:49:55.259487+00:00",
+  "sha256": "077b9b3ad0f4bbb37f0f0f87ea6f1a8cd94163e711ff0773c0b8f830db656674",
+  "entities": [
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "gary",
+      "look": null,
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "master": "reference/gary/master.png"
+      }
+    }
+  ],
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral",
+  "size": "1024x1536",
+  "quality": "high"
+}
