@@ -1,0 +1,36 @@
+{
+  "id": "supercharged-phone",
+  "kind": "prop",
+  "originStory": null,
+  "authority": {
+    "lockedBy": "gary",
+    "lockedOn": "2026-08-14",
+    "note": "Blessed from the Hyperagent Society motif exploration, 2026-08-14: Gary picked the thought-cloud staging (roll B, imported at reference/supercharged-phone/staging-thought-cloud.png) after rejecting humanized helper figures, a tablet-sized floating slab, and a storefront-sized screen. The phone stays a phone; the CLOUD is where the agents are seen working."
+  },
+  "structured": {
+    "sheets": {
+      "hero": null,
+      "detail": null,
+      "staging": "reference/supercharged-phone/staging-thought-cloud.png"
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "pocket-smartphone-slab-held-in-the-hand-NEVER-a-tablet-NEVER-a-laptop-NEVER-floating",
+      "it-is-about-15cm-tall-one-hand-wraps-most-of-its-width",
+      "the-WHOLE-phone-glows-as-a-translucent-holographic-object-not-just-the-screen",
+      "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+      "screen-faces-ITS-USER-the-viewer-sees-the-edge-or-back-plus-the-light-it-throws-on-the-user",
+      "casts-light-not-shadow",
+      "warm-editorial-register",
+      "when-agents-are-shown-AT-WORK-an-ORANGE-THOUGHT-CLOUD-blooms-near-the-phone-a-puffy-cumulus-thought-bubble-with-two-or-three-small-trailing-puffs-linking-it-back-down-to-the-phone",
+      "every-agent-stays-INSIDE-the-thought-cloud-never-loose-in-the-real-world",
+      "the-cloud-glows-warm-orange-and-casts-soft-light-on-the-scene-below-never-shadow"
+    ]
+  },
+  "prose": {
+    "voice": "A phone that is no longer just a phone. The person is going about their day, and above their palm the day's work is visibly getting done.",
+    "lore": "The visual shorthand for remote control: an agent team that travels with its person. The supercharged laptop shows an agent running on the machine in front of you; the supercharged phone shows the same power carried down the street. When the phone's agents are at work, an orange thought cloud blooms from it, and inside the cloud the Chief of Agents coordinates while sub-agents carry the work, so a reader can see, at a glance, one ordinary person walking around with a whole staffed office thinking alongside them.",
+    "rules": "Colour is meaning, inherited from the supercharged laptop: orange means Claude Code / the Chief of Agents. An ordinary, un-supercharged phone stays a plain object; the whole-body glow is what marks the turn. The thought cloud is the ONLY place agents appear around a phone: the Chief and sub-agents obey their own laws inside it (sub-agents never cross into the real world; the Chief coordinates and never does task work; finished work flows to the Chief). The person is never anxious at the phone: they look at it, or past it, with ease.",
+    "renderRules": "SUPERCHARGED-PHONE LAW: when an agent is working through a phone, the ENTIRE phone is drawn as a translucent, luminous holographic object glowing in that agent's colour, and it CASTS LIGHT NOT SHADOW on the hand and face of its user. GEOMETRY LAW: it is an unmistakable pocket-sized slab held in the hand; the SCREEN FACES ITS USER, so the camera sees the phone's edge or back plus the light it throws; never render interface chrome, buttons, or icons. THOUGHT-CLOUD LAW: agents at work appear ONLY inside an orange cumulus thought cloud that blooms near the phone, linked to it by two or three small trailing puffs; the Chief of Agents coordinates at the front with sub-agents working around him, thin dotted tethers arcing from each sub-agent to the Chief; the cloud glows warm orange and lights the scene below it. DEFAULT FRAMING: the user mid-stride in profile, parallel to the street, on the SIDEWALK, looking happily down at the phone while going about their day, the cloud floating ahead of or above them; blessed exemplar at reference/supercharged-phone/staging-thought-cloud.png."
+  }
+}
