@@ -1,0 +1,10 @@
+{
+  "id": "2026-08-07-0910-chat-5a5b",
+  "status": "awaiting-blessing",
+  "order": {
+    "capability": "make",
+    "brief": "Refine the existing book \"the-smoke-test\" in this universe, using the universe's own update flow (abu:update-book conventions): re-render ONLY what the edit touches, honor the words-before-art gate on any text change, re-run read-backs on anything regenerated, and do not publish or narrate unless the edit changes narrated text, in which case regenerate only the affected clips with scripts/narrate-book.mjs --force semantics for those files. The owner's edit, in their own words:\n\nOn the spread, Ruth should be holding the small page up to the light of the window, examining it closely, instead of standing at the table. Keep everything else about the room exactly as it is.",
+    "candidateCount": 1
+  },
+  "createdAt": "2026-08-07T14:10:17.456Z"
+}

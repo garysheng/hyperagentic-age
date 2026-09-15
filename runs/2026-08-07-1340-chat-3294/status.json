@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-07-1340-chat-3294",
+  "status": "awaiting-blessing",
+  "order": {
+    "capability": "make",
+    "brief": "The story on my heart is the one I keep telling founders: the window keeps moving, and the founders who win are the ones who see it while it is still open. YC has been running since 2005, and every era of it had one door standing open that had not existed the year before. The web-app window, when two kids could ship a site from a dorm and reach everyone. The iPhone window, when a phone became a camera, a wallet, and a map, and the founders who moved early built the apps a billion people touch. The cloud window, when renting servers by the hour meant a weekend project could survive its own success. The social window, the marketplace window, the remote-work window. Each one opened because a new foundational technology made a shape of business newly possible, each one closed as the obvious versions got built, and in hindsight every single one looks like it was labeled in neon. None of them were. And now the agent window is open: intelligence that works unattended for hours, owned outcomes, infrastructure someone else runs. I want a picture book for founders that walks through these windows one by one, warm and concrete, ending on the one standing open right now and the plain question it asks: this era's door is open, will you walk through it? My working title is The Windows, but call it what it deserves. Full length, the universe's own chain with every gate, and make it worthy of being shown on a stage.",
+    "candidateCount": 1
+  },
+  "createdAt": "2026-08-07T18:40:19.004Z",
+  "result": {
+    "book": "nobody-labeled-the-door",
+    "title": "Nobody Labeled the Door",
+    "spreads": 22,
+    "commit": "bd96eed",
+    "bookDoctor": "healthy",
+    "note": "Full chain complete: story+manuscript (voice-gate PASS), the-plain-door motif locked, 22 spreads rendered+readback (8 re-rolls), cover+closing plate, 24 narration clips. Staged for blessing; platform delivery awaits per cartridge law."
+  }
+}

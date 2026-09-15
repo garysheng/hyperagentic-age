@@ -1,0 +1,5 @@
+{
+  "capability": "make",
+  "brief": "A dress rehearsal before the real show: make me a tiny test book called The Dress Rehearsal. One spread only, plus cover and closing plate. Reuse locked characters, at most 3 image generations, use the universe's own book chain with all its gates, and stop after the local render passes. No publishing.",
+  "candidateCount": 1
+}

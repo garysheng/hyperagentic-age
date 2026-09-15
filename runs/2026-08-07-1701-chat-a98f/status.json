@@ -1,0 +1,16 @@
+{
+  "id": "2026-08-07-1701-chat-a98f",
+  "status": "awaiting-blessing",
+  "order": {
+    "capability": "make",
+    "brief": "Refine the existing book \"nobody-labeled-the-door\" in this universe, using the universe's own update flow (abu:update-book conventions): re-render ONLY what the edit touches, honor the words-before-art gate on any text change, re-run read-backs on anything regenerated, and do not publish or narrate unless the edit changes narrated text, in which case regenerate only the affected clips with scripts/narrate-book.mjs --force semantics for those files. The owner's edit, in their own words:\n\nthe back cover image has text that interferes with the overlaid html text. reroll the back cover image to not have text.",
+    "candidateCount": 1
+  },
+  "createdAt": "2026-08-07T22:01:02.546Z",
+  "result": {
+    "book": "nobody-labeled-the-door",
+    "edit": "back cover (closing plate) rerolled text-free",
+    "bookDoctor": "healthy",
+    "note": "Owner reported baked text interfering with the reader's overlaid HTML on the back cover. Verified the shipped closing plate first (crop-zoom + OCR: zero glyphs), then honored the reroll order via render_cover.py --no-cast --no-text (abu 1.1.1 closing-plate mode, same scene/refs/negatives as the original). New plate passed full read-back: four-panel two-row leaf, knob left as viewed, warm light only, register clean, OCR zero glyphs; calm lower half + right side for the HTML overlay. Old plate parked in candidates/closing-plate-v1-preroll*. No text changed -> no voice-gate, no narration regen, no publish, per the order. Finding for the owner: the previous plate also contained no baked text; if text interference was seen in a reader preview, the likely culprit is the reader's missing-closing-plate fallback, which shows the TITLED front cover in the back-cover slot until the book is actually published (picture-book-reader BookReader.tsx onError -> coverSrc)."
+  }
+}

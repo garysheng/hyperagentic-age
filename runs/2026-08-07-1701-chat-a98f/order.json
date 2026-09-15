@@ -1,0 +1,5 @@
+{
+  "capability": "make",
+  "brief": "Refine the existing book \"nobody-labeled-the-door\" in this universe, using the universe's own update flow (abu:update-book conventions): re-render ONLY what the edit touches, honor the words-before-art gate on any text change, re-run read-backs on anything regenerated, and do not publish or narrate unless the edit changes narrated text, in which case regenerate only the affected clips with scripts/narrate-book.mjs --force semantics for those files. The owner's edit, in their own words:\n\nthe back cover image has text that interferes with the overlaid html text. reroll the back cover image to not have text.",
+  "candidateCount": 1
+}

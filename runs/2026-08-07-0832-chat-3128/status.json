@@ -1,0 +1,10 @@
+{
+  "id": "2026-08-07-0832-chat-3128",
+  "status": "awaiting-blessing",
+  "order": {
+    "capability": "make",
+    "brief": "Smoke-test this universe's book pipeline end to end with a MINIMAL test book: a front cover, exactly ONE interior spread, and a closing plate. Rules: (1) reuse existing LOCKED entities and settings only, no new entities, no reference shoots; (2) at most 3 image generation calls total; (3) use the universe's own book chain and conventions, including the pre-render gate and read-backs; (4) title the book \"The Smoke Test\"; (5) do NOT publish anywhere, do NOT narrate audio, stop after the local render passes its checks; (6) finish with a plain report of every artifact path you created. Keep it cheap and honest: this run exists to prove the flow, not to make a keeper.",
+    "candidateCount": 1
+  },
+  "createdAt": "2026-08-07T13:32:55.295Z"
+}

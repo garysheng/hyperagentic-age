@@ -1,0 +1,10 @@
+{
+  "id": "2026-08-07-0931-chat-2bb7",
+  "status": "awaiting-blessing",
+  "order": {
+    "capability": "make",
+    "brief": "A dress rehearsal before the real show: make me a tiny test book called The Dress Rehearsal. One spread only, plus cover and closing plate. Reuse locked characters, at most 3 image generations, use the universe's own book chain with all its gates, and stop after the local render passes. No publishing.",
+    "candidateCount": 1
+  },
+  "createdAt": "2026-08-07T14:31:16.103Z"
+}
