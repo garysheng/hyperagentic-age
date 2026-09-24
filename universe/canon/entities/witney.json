@@ -55,5 +55,11 @@
     "rules": "FICTIONAL, not a real person: no photo stack, no subject-approval gate. Always outside the laptop, never on its screen. Never the Gary likeness and never Maya's signature wardrobe (see invariants). Same person in every panel of a hero and across heroes once her look is locked. Until then her look is open: do not invent a final answer in a hero render."
   },
   "fictional": true,
-  "status": "unlocked"
+  "status": "unlocked",
+  "lifecycle": "archived",
+  "archived": {
+    "on": "2026-09-24",
+    "reason": "Superseded 2026-09-24 by the Continental Works import of Witney (continental-works:witney), on Gary Sheng's instruction to import the Christofuturist Witney into the Continental Works universe. This placeholder was scaffolded the same morning (commit 574aa68) with her look undecided; keeping it active would let a second, different Witney render. Its six-look comparison set stays on disk at candidates/witney/looks-2026-09-24/ as the record of what was explored.",
+    "supersededBy": "continental-works:witney"
+  }
 }
