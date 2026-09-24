@@ -1,0 +1,6 @@
+A-late20s-afro-rust-sweater: late twenties, a Black woman with natural curly hair in a full rounded afro, warm brown skin, small gold hoop earrings, wearing a chunky rust-orange knit crewneck sweater.
+B-mid30s-bob-glasses-navy-shirt: mid thirties, an East Asian woman with a sleek jaw-length black bob, thin round tortoiseshell glasses, wearing a crisp navy button-up shirt with the sleeves rolled to the forearm.
+C-mid40s-silver-streak-bun-charcoal-turtleneck: mid forties, a white woman with dark brown hair in a low loose bun and a single silver streak at one temple, faint laugh lines, wearing a charcoal fine-knit turtleneck.
+D-early30s-long-braid-oatmeal-cardigan: early thirties, a South Asian woman with long dark hair in one thick braid over her shoulder, wearing an oatmeal cable-knit cardigan over a slate-blue top.
+E-mid50s-grey-pixie-terracotta-chore-coat: mid fifties, a Latina woman with a short cropped grey pixie cut and freckles, wearing a terracotta canvas chore jacket over a navy-and-cream striped Breton shirt.
+F-late20s-copper-shag-green-corduroy: late twenties, a white woman with freckles and copper-red shoulder-length shaggy hair with a fringe, wearing a forest-green corduroy overshirt over a plain oatmeal tee.

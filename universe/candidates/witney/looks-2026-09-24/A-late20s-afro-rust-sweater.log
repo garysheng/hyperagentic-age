@@ -1,0 +1,8 @@
+[generate] model not specified; using the adapter's default: gpt-image-2.5-sunburst
+[timeout 300s/attempt, 1 retry]
+Editing with 8 reference image(s): ['/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/green.png', '/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png', '/var/folders/xm/nbbb1m6x3zl9cg8zd7d7h4y00000gn/T/agenticstory-refs-mqbzlf3v/0-scale.jpg', '/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png', '/var/folders/xm/nbbb1m6x3zl9cg8zd7d7h4y00000gn/T/agenticstory-refs-mqbzlf3v/1-ref-land.jpg', '/var/folders/xm/nbbb1m6x3zl9cg8zd7d7h4y00000gn/T/agenticstory-refs-mqbzlf3v/2-ref-feast.jpg', '/var/folders/xm/nbbb1m6x3zl9cg8zd7d7h4y00000gn/T/agenticstory-refs-mqbzlf3v/3-ref-make.jpg', '/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-object.png']
+Saved: /Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/witney/looks-2026-09-24/A-late20s-afro-rust-sweater.png
+Recipe: /Users/garysheng/Documents/github-repos/hyperagentic-age/universe/candidates/witney/looks-2026-09-24/A-late20s-afro-rust-sweater.png.recipe.json
+[generate] A-late20s-afro-rust-sweater.png + A-late20s-afro-rust-sweater.png.recipe.json  (provenance written)
+[generate] guardGate: 5 assertion(s) from device-anatomy, readable-surface, vehicle-seat-facing, seated-at-table, no-ui-chrome are part of this render's readback, alongside the pack gate.
+[generate] entityGate: 14 invariant(s) from supercharged-laptop are part of this render's readback, alongside the pack gate.

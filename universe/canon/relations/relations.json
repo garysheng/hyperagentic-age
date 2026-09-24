@@ -117,5 +117,19 @@
     "to": "hypercontext-protocol",
     "story": "hypercontext-protocol",
     "note": "Cast 2026-08-15 (casting sweep, REUSE) as the default human owner of the castle, per the universe's convention that maya is the generic human at the human end of a crossing; gary narrates Gary-specific tellings."
+  },
+  {
+    "from": "witney",
+    "rel": "appears-in",
+    "to": "supersuit-wiki-heroes",
+    "story": "supersuit-wiki-heroes",
+    "note": "the DEFAULT recurring human in every article hero on supersuit.wiki (Gary, 2026-09-24): the operator outside the laptop. Her look is pending her comparison set; until it is locked this relation names the role, not a face."
+  },
+  {
+    "from": "witney",
+    "rel": "appears-in",
+    "to": "getfreedom-wiki-heroes",
+    "story": "getfreedom-wiki-heroes",
+    "note": "the DEFAULT recurring human in every article hero on getfreedom.wiki (Gary, 2026-09-24): the operator outside the laptop. Her look is pending her comparison set; until it is locked this relation names the role, not a face."
   }
 ]

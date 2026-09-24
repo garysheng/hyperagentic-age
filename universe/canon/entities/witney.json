@@ -1,0 +1,59 @@
+{
+  "id": "witney",
+  "kind": "character",
+  "originStory": "supersuit-wiki-heroes",
+  "authority": {
+    "lockedBy": "TODO-you",
+    "lockedOn": null,
+    "note": "ROLE decided by Gary 2026-09-24: Witney is the recurring drawn HUMAN in article heroes on supersuit.wiki and getfreedom.wiki. LOOK NOT DECIDED: face, hair, age range and wardrobe are open, explored as a comparison set at candidates/witney/looks-2026-09-24/ (six looks, same pose and setting). Nothing here is blessed. Once Gary picks, the chosen roll is copied in as the identity seed, its look is written into invariants + render.always, and shoot-references fills the matrix."
+  },
+  "structured": {
+    "sheets": {
+      "face-neutral": null,
+      "face-3q": null,
+      "expressions": null,
+      "forward-fullbody": null,
+      "profile-left": null,
+      "profile-right": null,
+      "back": null,
+      "signature-pose": null
+    },
+    "requiredForRender": [],
+    "invariants": [
+      "one-adult-woman-the-human-operator",
+      "always-in-the-warm-real-world-OUTSIDE-the-laptop-never-on-the-screen",
+      "she-is-flesh-the-agent-is-software-freeda-and-the-chief-of-agents-live-inside-the-laptop",
+      "the-laptop-screen-faces-her-never-the-viewer",
+      "never-gary-likeness-no-denim-jacket-no-chest-patch-no-smiley-badge-no-white-tee-under-open-jacket",
+      "never-maya-signature-no-sage-olive-blazer-no-stone-khaki-chinos",
+      "warm-editorial-ink-and-wash-never-photoreal-never-3d"
+    ],
+    "lookStatus": {
+      "state": "undecided",
+      "open": [
+        "face",
+        "hair",
+        "age-range",
+        "wardrobe"
+      ],
+      "exploration": "candidates/witney/looks-2026-09-24/",
+      "decidedBy": null
+    },
+    "render": {
+      "always": "WITNEY, the human operator: one adult woman in the warm real world OUTSIDE the glowing supercharged laptop, whose screen faces her. Her taste, her decision and her veto are what she brings; the agents work inside the screen. Never the Gary likeness (no denim jacket, no chest patch, no smiley badge, no white tee under an open jacket) and never Maya's signature (no sage-olive blazer, no stone khaki chinos). LOOK UNDECIDED (structured.lookStatus): her face, hair, age and wardrobe are not canon yet, so no render may treat any face as hers until Gary picks one. Warm-editorial ink-and-wash, never photoreal.",
+      "poses": {
+        "at-the-laptop": {
+          "sheets": [],
+          "bake": "Seated at a desk in the warm real world, hands on the keyboard of the glowing supercharged laptop, the screen facing her and the back of the lid toward the camera; calm and attentive, about to make the call. Restates the composition law only; it carries no face or wardrobe, because none is decided."
+        }
+      }
+    }
+  },
+  "prose": {
+    "voice": "Dry and warm, shared with the garysheng.com/bio narrator of the same name: \"I can ship the work. I can't want it.\" She rarely speaks in a hero; when a strip needs a line from the human, it is short, plain and a little wry.",
+    "lore": "The person wielding the laptop. In every hero she is the one who knows what good looks like, decides, and says no; the Chief of Agents (Freeda, on getfreedom.wiki) and the sub-agents do the work inside the glowing screen. Name note: on garysheng.com/bio, Witney is the AI narrator's voice. In the wikis Gary chose to draw her as the HUMAN operator (2026-09-24). The two are the same name in two roles; this universe's law that the agent is software and never flesh is kept by drawing Witney as the human, never as the agent.",
+    "rules": "FICTIONAL, not a real person: no photo stack, no subject-approval gate. Always outside the laptop, never on its screen. Never the Gary likeness and never Maya's signature wardrobe (see invariants). Same person in every panel of a hero and across heroes once her look is locked. Until then her look is open: do not invent a final answer in a hero render."
+  },
+  "fictional": true,
+  "status": "unlocked"
+}

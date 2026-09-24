@@ -1,0 +1,104 @@
+{
+  "provider": "gpt-image-2.5-sunburst",
+  "model": "gpt-image-2.5-sunburst",
+  "modelSource": "adapter-default",
+  "prompt": "WITNEY, the recurring human operator of these wiki heroes: ONE adult woman, seated at a plain wooden desk beside a tall window in a warm, lived-in real-world study, a bookshelf softly behind her and a ceramic mug on the desk. She sits facing the camera at a gentle three-quarter angle, both hands resting on the keyboard of an open, glowing, translucent AMBER supercharged laptop. The laptop's SCREEN FACES HER: the viewer sees only the BACK of the lid, its edges glowing soft amber, and the warm amber light from the screen falls on her face and hands. Expression: calm, attentive, a dry half-smile, the look of someone who is about to make the call. Medium shot from the waist up, camera at her eye level and slightly to her right; her whole face is clearly visible and she is the subject of the frame. She is an ordinary, real, grounded person, never glamorous, never a model, never a tiny CEO. Only ONE person in frame; no agents, mascots or characters in the room. No text, lettering, logos or numbers anywhere. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, a white tee under an open jacket, a sage-olive blazer, stone khaki chinos. Warm editorial ink-and-wash on a cream ground: soft painterly line and gentle shading, muted natural palette; not photoreal, not 3D, not comic, not anime, not flat vector.\nHER LOOK (the only thing that changes across this set): early thirties, a South Asian woman with long dark hair in one thick braid over her shoulder, wearing an oatmeal cable-knit cardigan over a slate-blue top.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.\n\nThese are LOCKED canonical traits of the subject(s). They are not stylistic suggestions and must survive the render exactly: clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet; the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen; glow-colour-is-the-colour-of-the-agent-supercharging-it; screen-FACE-is-visible-to-the-viewer; never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time; casts-light-not-shadow; warm-editorial-register; it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open; the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it; it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more; the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide; a-counterfeit-or-extractive-system-glows-MUTED-VERMILION-RED; the-real-thing-shown-AGAINST-a-counterfeit-glows-MUTED-SLATE-COBALT-BLUE-never-deep-indigo; a-hero-making-no-good-versus-counterfeit-claim-stays-the-AGENT-colour-usually-orange.\n\nColour is meaning: orange means Claude Code / the Chief of Agents is running on it; sage-green means Grantwell is; deep indigo means Storywell is. Never mix two agent colours on one machine. The ordinary, un-supercharged laptop stays a plain grey object; the glow is what marks the turn.  SECOND COLOUR AXIS, added 2026-09-14 (Gary: 'blue screen is good, red screen is bad'). The agent-colour law above answers WHICH agent is running. A separate question some works ask is WHETHER the system is the real thing or a counterfeit, and that has its own two colours. A system that is a gimmick, a scam, or extractive of the person using it glows MUTED VERMILION RED. The genuine thing, when a work is specifically showing it AGAINST such a counterfeit, glows MUTED SLATE-COBALT BLUE, the #8FB0CE family already in the warm-editorial pack. AMBER STAYS THE DEFAULT AND THE NEUTRAL: a work that makes no good-versus-counterfeit claim, which is most of them, keeps the agent colour and must NOT be recoloured, because blue and red only mean anything while they stay rare. THE COLLISION TO AVOID: Storywell is DEEP INDIGO and this blue is not that. Keep the good-blue light and slate, clearly separable from indigo at a glance, or a reader will read an argument about honesty as an argument about which product is running. Both new glows stay muted and painterly inside the cream palette; neon is still a rejected pole and cyan is still the retired arc-reactor vocabulary.\n\nDEVICE ANATOMY, NON-NEGOTIABLE: any phone, laptop, tablet or monitor is anatomically correct. The GLOWING DISPLAY is on the SCREEN side, and that side FACES ITS USER. A person looking at a device sees its screen; the viewer therefore sees the device's BACK or EDGE plus the light it throws onto the user's face and hands. NEVER put the screen image on the back of a phone, on a laptop's outer lid, or on a monitor's rear. NEVER show a screen facing the camera while the person using it looks at the opposite side. WHEN THE BEAT IS ABOUT WHAT IS ON THE SCREEN, THE DEFAULT CAMERA IS OVER THE USER'S SHOULDER. Not a tiebreaker and not a last resort: if what the screen shows, or fails to show, is any part of what the panel is arguing, the camera stands BEHIND the person at their shoulder height and looks down the same line they are looking, so the viewer reads the display over them and sees what they see. A camera placed in FRONT of someone using a device can only ever show its back or its edge, so a screen-subject beat shot from the front has been staged from the one position that cannot see its own subject, however well the face is framed. THE FACE IS NOT A REASON TO MOVE THE CAMERA ROUND. A beat that names an expression is naming how the moment FEELS, never where the lens goes. Solve it from behind: a three-quarter angle from just past the shoulder carries the screen, the hands, the set of the jaw and a cheek at once, and posture reads a mood at any angle. Shoulders, neck, grip and the tilt of the head do the work when the face is turned away.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nANYONE RIDING IN A MOVING VEHICLE FACES THE DIRECTION OF TRAVEL. A seat in a car, truck, cart, carriage, boat, sled, or a motorcycle SIDECAR is FIXED and points forward, so every occupant's torso is square to the way the vehicle is going. A passenger may TURN THEIR HEAD to speak to whoever is beside them; the body does not swivel, and nobody rides facing backward. IF THE SCENE NEEDS A RIDER'S FACE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THEM ROUND: put the camera AHEAD of the vehicle looking BACK at it, so the rider faces the lens AND faces forward at the same time. The ground they are travelling toward is then behind the camera, and what is visible receding behind THEM is the country they have already passed. A rider whose face is square to the camera while the road recedes into the distance behind them is physically impossible: that composition puts the camera in front of them and the road ahead of them at the same time. Drivers keep both hands on the wheel or the bars and their eyes on the road.\n\nSEATED ANATOMY AT A TABLE, NON-NEGOTIABLE: a seated person is a WHOLE BODY resting ON a seat, and the table passes IN FRONT OF them, never THROUGH them. Their SHOULDERS AND CHEST are ABOVE the tabletop, their WAIST, LAP AND THIGHS are BELOW it and IN FRONT of the seat, and the trunk continues DOWN BEHIND the near edge of the table to that seat. There is a VISIBLE GAP between the front edge of the table and the person's chest and stomach. NEVER paint a torso emerging directly out of a tabletop with no waist, no lap and no seat beneath it. NEVER let the table's edge, apron or slab cut across a body as though the body were part of the furniture, and never let a thigh, hip or knee merge into the table. If the camera cannot see the seat itself, the body must still read as supported by one. Every seated figure has somewhere to sit and that seat is under them.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/green.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/scale.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral/refs/ref-object.png"
+    }
+  ],
+  "timestamp": "2026-09-24T22:41:43.528344+00:00",
+  "sha256": "f7cae092aaad294a27b8da51014fb59f16e20ccb1cccc9045aaeb5f6a324f2b4",
+  "entities": [
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "supercharged-laptop",
+      "look": null,
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "green": "reference/supercharged-laptop/green.png",
+        "orange": "reference/supercharged-laptop/orange.png",
+        "scale": "reference/supercharged-laptop/scale.png"
+      },
+      "invariants": [
+        "clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+        "the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+        "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+        "screen-FACE-is-visible-to-the-viewer",
+        "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+        "casts-light-not-shadow",
+        "warm-editorial-register",
+        "it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+        "the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+        "it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+        "the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide",
+        "a-counterfeit-or-extractive-system-glows-MUTED-VERMILION-RED",
+        "the-real-thing-shown-AGAINST-a-counterfeit-glows-MUTED-SLATE-COBALT-BLUE-never-deep-indigo",
+        "a-hero-making-no-good-versus-counterfeit-claim-stays-the-AGENT-colour-usually-orange"
+      ]
+    }
+  ],
+  "entityGate": [
+    {
+      "id": "supercharged-laptop",
+      "look": null,
+      "invariants": [
+        "clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+        "the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+        "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+        "screen-FACE-is-visible-to-the-viewer",
+        "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+        "casts-light-not-shadow",
+        "warm-editorial-register",
+        "it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+        "the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+        "it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+        "the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide",
+        "a-counterfeit-or-extractive-system-glows-MUTED-VERMILION-RED",
+        "the-real-thing-shown-AGAINST-a-counterfeit-glows-MUTED-SLATE-COBALT-BLUE-never-deep-indigo",
+        "a-hero-making-no-good-versus-counterfeit-claim-stays-the-AGENT-colour-usually-orange"
+      ]
+    }
+  ],
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-neutral",
+  "size": "1024x1024",
+  "quality": "high",
+  "guards": [
+    "device-anatomy",
+    "readable-surface",
+    "vehicle-seat-facing",
+    "seated-at-table",
+    "no-ui-chrome"
+  ],
+  "guardGate": [
+    "DEVICE FACING: for EVERY phone, laptop, tablet or monitor in frame, crop-zoom the device together with the person using it. The glowing display is on the side that faces its user. If the viewer can see the screen's content AND the user is on the far side of the device (the device sits between the camera and the user's face), the screen is on the wrong side of the device: DEFECT. A visible screen passes only when the shot is over the user's shoulder, or when nobody in frame is using the device. AND THE SECOND DEFECT, which an anatomically correct render still commits: if what the screen shows (or fails to show) is part of what this beat argues, and the camera is in FRONT of the user so the viewer sees the back of the device and not the display, the beat has been shot from a position that cannot show its own subject: DEFECT. Judge it by the beat, not by the anatomy; a clean view of the back of the device is a correct picture of the wrong thing.",
+    "READABLE SURFACE: every page, card, sign, letter or other writing surface is oriented for the person reading it in the scene, not rotated flat to the lens. A surface whose reader is looking at it from the wrong side, or whose writing faces the camera while its reader faces away: DEFECT.",
+    "VEHICLE SEAT FACING: every rider or passenger in a moving vehicle faces the direction of travel unless the scene says otherwise. A rider facing backward in a forward-moving vehicle: DEFECT.",
+    "SEATED ANATOMY: every seated figure has a waist, a lap and a seat under them, with the table in front of the body. A torso emerging from the tabletop with nothing beneath it: DEFECT.",
+    "NO UI CHROME: no screen or surface carries invented interface furniture, menus, buttons, status bars or lettering the caller did not declare. Any such chrome: DEFECT."
+  ]
+}
