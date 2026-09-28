@@ -1,6 +1,6 @@
 ---
 name: make-a-hyperagent-book
-description: One-command front door for making an illustrated, narrated picture book in the HYPERAGENTIC AGE universe (hyperagentic-age). A thin cartridge over abu:make-a-book, which owns the chain, the auto-advance policy and every universal render gotcha. This file supplies only what is true of THIS universe. Use when Gary says "make a hyperagent book", "new book in the hyperagent universe", "start a HYPERAGENTIC AGE book about X", or "/make-a-hyperagent-book <idea>". NOT for a brand-new universe (abu:start-new-story-universe) and NOT for editing an existing book (abu:update-book).
+description: Make an illustrated, narrated picture book in the HYPERAGENTIC AGE universe (hyperagentic-age): warm editorial ink-and-wash, the glowing supercharged laptop, a human wielding a fleet of agents. Use when Gary says "make a hyperagent book", "new book in the hyperagent universe", "start a HYPERAGENTIC AGE book about X", or "/make-a-hyperagent-book {idea}". NOT for a brand-new universe (abu:start-new-story-universe) or an edit to an existing book (abu:update-book).
 ---
 
 # Make a HYPERAGENT Book
