@@ -40,6 +40,25 @@
       "anchoredToRealArt": null,
       "note": "The house register, inherited by any property that does not declare its own. A property MAY override it: see stories/*.json register blocks.",
       "stylePack": "reference/style/warm-editorial-neutral"
+    },
+    "surfaces": {
+      "_comment": "Which canon tokens Freedom renders each surface in (freedom#163). Gary, 2026-10-02: 'Personal wikis default to hyper agentic age.' The web palette is the one this universe already carries, on the explanatory-plate entity: cream ground, ink text, clay accent, with its own dark set. Freedom reads these roles, never token names; checked by `freedom-brand.mjs check --universe <this folder>` and by ABU `validate`.",
+      "default": {
+        "tokens": "canon/entities/explanatory-plate.json#structured.palette",
+        "roles": {
+          "ground": "cream",
+          "text": "ink",
+          "accent": "clay"
+        }
+      },
+      "wiki-dark": {
+        "tokens": "canon/entities/explanatory-plate.json#structured.palette",
+        "roles": {
+          "ground": "darkGround",
+          "text": "darkInk",
+          "accent": "clayLight"
+        }
+      }
     }
   },
   "note": "Typed canon for the hyperagentic-age universe (agenticstory schema v0.5). Structured/load-bearing records live here; prose narrative canon may live in CANON.md. Self-contained (SPEC \u00a73a): every referenced asset resolves under assetRoot inside this repo. The identity block (SPEC \u00a711/\u00a712) holds this universe's constants so generic framework skills read data instead of hardcoding the universe. Validated by the agenticstory engine; the canonical spec is defined at https://agenticstory.wiki.",
