@@ -35,10 +35,12 @@
   "gate": [
     "warm editorial painterly illustration, soft brushwork; NOT comic, NOT flat vector, NOT photoreal, NOT 3D",
     "muted natural palette on a warm cream ground",
-    "no identifiable recurring person's face or signature clothing is baked into the style; humans (if any) are ordinary and varied",
+    "no figure carries the likeness the style references leak: nobody wears a denim or jean jacket, a chest patch, a smiley-face badge, an enamel pin or a white tee under an open jacket, and nobody is a recognizable real public figure; any of these is a DEFECT. People are ordinary and drawn from the scene's own description",
+    "ONE consistent cast: the person using the glowing laptop is the same person in every panel they appear in, with the same face, hair, age and clothing. That recurrence is the strip's law and is never a DEFECT; a different person in that role from one panel to the next is a DEFECT",
+    "whoever is using the glowing laptop is shot from behind them, over their shoulder: they are nearer to the camera than the laptop is, its screen faces them, and we look past them into it. A laptop standing between the camera and the person using it, whichever way its lid faces, is a DEFECT",
     "every declared string is present and spelled character-exact; a near-miss is a DEFECT",
     "no text beyond the declared strings; invented lettering is a DEFECT",
-    "title bar and footer bar sit in the cream margin, never over the artwork"
+    "the title bar sits across the top margin and each label in its own band at the top of its panel, never lettered over the artwork; there is no footer bar and none is expected"
   ],
   "maxElements": 6,
   "textPolicy": "furniture"
