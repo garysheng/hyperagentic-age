@@ -38,38 +38,121 @@ about a topic, or types `/make-a-hyperagent-book {idea}`. Not for a new universe
 | **Agent executor** | Follows `abu:make-a-book` with this universe's facts: register, format, mark, law, and entities. |
 
 # Procedure
-The order of steps belongs to `abu:make-a-book`: story, cast, lock, render, cover, narrate, deliver, publish. The steps below are what this universe adds.
-1. Read `abu:make-a-book` and follow it. Point it at the universe folder above.
-2. Keep to the register: warm editorial, soft and illustrative. Reject neo-comic, HUD and arc-reactor looks, neon, 3D or Pixar looks, and glossy plastic.
-3. Use the content-neutral swatch at `reference/style/warm-editorial-neutral/` as the style anchor. Never use a character portrait as the anchor. If the book has no recurring person, pass only that anchor and the entity masters it needs.
-4. Default the format to landscape full-spread, `1536x1024`, with `layout: "full-spread"`. Choose portrait art-and-text only on purpose, for a close single-character primer.
-5. For full-spread pages, keep the bottom right calm, because the caption card sits there. Set the caption position per spread (`top` when the bottom is busy). Keep the key element off the dead center, where the gutter splits the image.
-6. Reuse existing entities first: `gary`, `chief-of-agents`, `sub-agent`, `maya`, `chrissy`, `engineer`, the `winged-startup` motif, and the plates and laws. Name every small locked detail in the prompt, such as the two chest patches on `gary`.
-7. Pick the rising motif from what the story is made of. Do not use the winged-startup block-stack as a generic hopeful motif.
-8. Apply the universe law. Real people are a stylized editorial likeness in the spreads, never photoreal. Their reference sheets are shot hyper-real and register-neutral by default. Public figures may be published. Check the entity's own approval note before inventing a hold. Use public professional persona only, and nothing private.
-9. Text inside the art is welcome. Quote the exact string in the prompt. Spell-check it at crop zoom on read-back. Regenerate from scratch on any error. The book `the-constitution` is the exception and shows abstract marks, never readable text.
-10. The renderer stamps the back matter mark: `A HYPERAGENTIC AGE story`.
-11. Deliver to books.garysheng.com through the platform-delivery skill only when the book is blessed and Gary asks. Books about real people are private by default.
-12. For a later art-only change to one slot, run the reroll command from the recipe file beside the asset. It needs no canon reads.
 
-# Process Flowchart
-```mermaid
-flowchart TD
-    A[Gary gives an idea] --> B[Read abu:make-a-book]
-    B --> C[Set register, anchor and format for this universe]
-    C --> D[Story, cast and lock with reuse-first entities]
-    D --> E[Render spreads and cover]
-    E --> F[Read back each render: look, text, details]
-    F --> G[Narrate]
-    G --> H{Gary blesses the book?}
-    H -->|No| E
-    H -->|Yes| I{Gary asks for delivery?}
-    I -->|No| Y[Stay in the repo]
-    I -->|Yes| J[Deliver and publish]
-    classDef human fill:#fde68a,stroke:#b45309,color:#111827;
-    classDef agent fill:#bfdbfe,stroke:#1e40af,color:#111827;
-    class A,H,I human;
-    class B,C,D,E,F,G,J,Y agent;
+The order of steps belongs to `abu:make-a-book`: story, cast, lock, render, cover, narrate, deliver, publish. The steps below are what this universe adds.
+
+Steps say what happens and who does it. The map is drawn from the block below.
+
+```json steps
+{
+  "ends": [
+    {
+      "id": "done",
+      "what": "The book is rendered, read back, and delivered only when Gary blessed it and asked."
+    }
+  ],
+  "steps": [
+    {
+      "id": "read-abu-make-book",
+      "what": "Read `abu:make-a-book` and follow it. Point it at the universe folder above.",
+      "actor": "agent"
+    },
+    {
+      "id": "keep-register-warm-editorial",
+      "what": "Keep to the register: warm editorial, soft and illustrative. Reject neo-comic, HUD and arc-reactor looks, neon, 3D or Pixar looks, and glossy plastic.",
+      "actor": "agent",
+      "after": [
+        "read-abu-make-book"
+      ]
+    },
+    {
+      "id": "use-content-neutral-swatch",
+      "what": "Use the content-neutral swatch at `reference/style/warm-editorial-neutral/` as the style anchor. Never use a character portrait as the anchor. If the book has no recurring person, pass only that anchor and the entity masters it needs.",
+      "actor": "agent",
+      "after": [
+        "keep-register-warm-editorial"
+      ]
+    },
+    {
+      "id": "default-format-landscape-full",
+      "what": "Default the format to landscape full-spread, `1536x1024`, with `layout: \"full-spread\"`. Choose portrait art-and-text only on purpose, for a close single-character primer.",
+      "actor": "agent",
+      "after": [
+        "use-content-neutral-swatch"
+      ]
+    },
+    {
+      "id": "full-spread-pages-keep",
+      "what": "For full-spread pages, keep the bottom right calm, because the caption card sits there. Set the caption position per spread (`top` when the bottom is busy). Keep the key element off the dead center, where the gutter splits the image.",
+      "actor": "agent",
+      "after": [
+        "default-format-landscape-full"
+      ]
+    },
+    {
+      "id": "reuse-existing-entities-first",
+      "what": "Reuse existing entities first: `gary`, `chief-of-agents`, `sub-agent`, `maya`, `chrissy`, `engineer`, the `winged-startup` motif, and the plates and laws. Name every small locked detail in the prompt, such as the two chest patches on `gary`.",
+      "actor": "agent",
+      "after": [
+        "full-spread-pages-keep"
+      ]
+    },
+    {
+      "id": "pick-rising-motif-from",
+      "what": "Pick the rising motif from what the story is made of. Do not use the winged-startup block-stack as a generic hopeful motif.",
+      "actor": "agent",
+      "after": [
+        "reuse-existing-entities-first"
+      ]
+    },
+    {
+      "id": "apply-universe-law-real",
+      "what": "Apply the universe law. Real people are a stylized editorial likeness in the spreads, never photoreal. Their reference sheets are shot hyper-real and register-neutral by default. Public figures may be published. Check the entity's own approval note before inventing a hold. Use public professional persona only, and nothing private.",
+      "actor": "agent",
+      "after": [
+        "pick-rising-motif-from"
+      ]
+    },
+    {
+      "id": "text-inside-art-is",
+      "what": "Text inside the art is welcome. Quote the exact string in the prompt. Spell-check it at crop zoom on read-back. Regenerate from scratch on any error. The book `the-constitution` is the exception and shows abstract marks, never readable text.",
+      "actor": "agent",
+      "after": [
+        "apply-universe-law-real"
+      ]
+    },
+    {
+      "id": "renderer-stamps-back-matter",
+      "what": "The renderer stamps the back matter mark: `A HYPERAGENTIC AGE story`.",
+      "actor": "agent",
+      "after": [
+        "text-inside-art-is"
+      ]
+    },
+    {
+      "id": "deliver-books-garysheng-com",
+      "what": "Deliver to books.garysheng.com through the platform-delivery skill only when the book is blessed and Gary asks. Books about real people are private by default.",
+      "actor": "agent",
+      "after": [
+        "renderer-stamps-back-matter"
+      ]
+    },
+    {
+      "id": "later-art-only-change",
+      "what": "For a later art-only change to one slot, run the reroll command from the recipe file beside the asset. It needs no canon reads.",
+      "actor": "agent",
+      "after": [
+        "deliver-books-garysheng-com"
+      ],
+      "outcomes": [
+        {
+          "when": "finished",
+          "then": "done"
+        }
+      ]
+    }
+  ]
+}
 ```
 
 # Done / Verification
@@ -97,6 +180,6 @@ flowchart TD
 - `abu:reroll-slot`: art-only replay from a recipe.
 
 # Revision History
-| Version | Date | Change |
+| Version | Date | Changes |
 |---|---|---|
-| 0.1 | 2026-11-06 | Drafted from SKILL.md. |
+| 0.1 | 2026-11-06T22:00:00Z | First map, drafted from SKILL.md. |
